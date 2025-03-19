@@ -16531,6 +16531,334 @@
   },
   {
     "ability_ids": [
+      4990808,
+      4990809,
+      4990810,
+      4990811,
+      4990812
+    ],
+    "attack_attributes": [
+      1
+    ],
+    "description": "\u4ED5\u4E8B\u306E\u5408\u9593\u306E\u4F11\u61A9\u6642\u9593\u3002\u8170\u3092\u4E0B\u308D\u3057\u3001\u75B2\u308C\u3092\u7652\u3059\u30E4\u30F3\u30CD\u3002\u6700\u5F37\u306E\u6226\u58EB\u3068\u547C\u3070\u308C\u308B\u5F7C\u5973\u3082\u3001\u3072\u3068\u305F\u3073\u6226\u3044\u306E\u5834\u3092\u96E2\u308C\u308C\u3070\u3001\u512A\u3057\u3044\u6BCD\u306E\u9854\u306B\u306A\u308B\u3002\n\u300C\u2026\u2026\u3042\u3089\uFF1F\u3000\u3075\u3075\u3001\u4F1A\u3044\u306B\u6765\u3066\u304F\u308C\u305F\u306E\uFF1F\u300D\n\u99C6\u3051\u3066\u304F\u308B\u59FF\u3092\u898B\u3066\u3001\u305D\u306E\u9854\u304C\u4E00\u5C64\u7DBB\u3093\u3060\u3002\n\uFF08\u5143\u6C17\u3082\u3089\u3063\u3061\u3083\u3063\u305F\u266A\u3000\u3053\u306E\u5F8C\u3082\u9811\u5F35\u308C\u305D\u3046\uFF09",
+    "first_cut": 1,
+    "gacha_perform_bg_position": 5188,
+    "gacha_perform_cut_in_position": [
+      {
+        "position_x": 31,
+        "position_y": 688,
+        "width": 944
+      },
+      {
+        "position_x": 180,
+        "position_y": 1163,
+        "width": 673
+      }
+    ],
+    "id": 30124,
+    "illustrator_id": 12,
+    "item_limit_break_enabled": true,
+    "large_still_path_hash": 6861698749761870058,
+    "memoria_small_still_cut_position": 1,
+    "name": "\u8056\u6226\u58EB\u306E\u4F11\u606F",
+    "narrow_still_path_hash": 7556754436775003969,
+    "rarity": 3,
+    "roles": [
+      3
+    ],
+    "second_cut": 3,
+    "small_still_path_hash": 147838253842066190,
+    "start_at": "2025-03-12T03:00:00.0000000Z",
+    "status_buffs": [
+      {
+        "growth_id": 31148,
+        "initial_values": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "type": 1
+      },
+      {
+        "growth_id": 31020,
+        "initial_values": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "type": 2
+      },
+      {
+        "growth_id": 31048,
+        "initial_values": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "type": 3
+      },
+      {
+        "growth_id": 31048,
+        "initial_values": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "type": 4
+      },
+      {
+        "growth_id": 31098,
+        "initial_values": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "type": 5
+      },
+      {
+        "growth_id": 31098,
+        "initial_values": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "type": 6
+      }
+    ],
+    "still_path_hash": 2271009030343676322
+  },
+  {
+    "ability_ids": [
+      4990813,
+      4990814,
+      4990815,
+      4990816,
+      4990817
+    ],
+    "attack_attributes": [
+      1
+    ],
+    "description": "\u3072\u305F\u3080\u304D\u306B\u3001\u305D\u306E\u9053\u3092\u7A76\u3081\u3093\u3068\u7A81\u304D\u9032\u3093\u3067\u304D\u305F\u3002\n\u304D\u3063\u304B\u3051\u306F\u5E7C\u3044\u9803\u306B\u899A\u3048\u305F\u611F\u52D5\u3002\u305D\u3057\u3066\u3001\u5B66\u3079\u3070\u5B66\u3076\u307B\u3069\u306B\u3001\u305D\u306E\u6DF1\u5965\u5E7D\u7384\u306A\u4E16\u754C\u306B\u306E\u3081\u308A\u8FBC\u3093\u3067\u3044\u3063\u305F\u3002\n\u4F55\u304B\u306B\u8FF7\u3046\u3053\u3068\u304C\u3042\u3063\u3066\u3082\u3001\u3053\u306E\u529B\u304C\u79C1\u3092\u5C0E\u3044\u3066\u304F\u308C\u308B\u3002\u3053\u308C\u307E\u3067\u3082\u3001\u305D\u3057\u3066\u304D\u3063\u3068\u3053\u306E\u5148\u3082\u3002",
+    "first_cut": 1,
+    "gacha_perform_bg_position": 4815,
+    "gacha_perform_cut_in_position": [
+      {
+        "position_x": 19,
+        "position_y": 372,
+        "width": 900
+      },
+      {
+        "position_x": 238,
+        "position_y": 1039,
+        "width": 508
+      }
+    ],
+    "id": 30125,
+    "illustrator_id": 66,
+    "item_limit_break_enabled": true,
+    "large_still_path_hash": 5545222709552630379,
+    "memoria_small_still_cut_position": 2,
+    "name": "\u4E00\u610F\u5C02\u5FC3",
+    "narrow_still_path_hash": 4267579867053204343,
+    "rarity": 3,
+    "roles": [
+      2
+    ],
+    "second_cut": 3,
+    "small_still_path_hash": 2369517114726879202,
+    "start_at": "2025-03-12T03:00:00.0000000Z",
+    "status_buffs": [
+      {
+        "growth_id": 31078,
+        "initial_values": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "type": 1
+      },
+      {
+        "growth_id": 31030,
+        "initial_values": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "type": 2
+      },
+      {
+        "growth_id": 31108,
+        "initial_values": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "type": 3
+      },
+      {
+        "growth_id": 31108,
+        "initial_values": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "type": 4
+      },
+      {
+        "growth_id": 31068,
+        "initial_values": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "type": 5
+      },
+      {
+        "growth_id": 31068,
+        "initial_values": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "type": 6
+      }
+    ],
+    "still_path_hash": 4875509222673150464
+  },
+  {
+    "ability_ids": [
+      4990823,
+      4990824,
+      4990825,
+      4990826,
+      4990827
+    ],
+    "attack_attributes": [],
+    "description": "\u65B0\u305F\u306A\u5192\u967A\u306E\u5E55\u304C\u958B\u304F\u3002\n\u671F\u5F85\u3082\u4E0D\u5B89\u3082\u3044\u3063\u3071\u3044\u306B\u62B1\u3048\u3066\u3001\u679C\u3066\u3057\u306A\u304F\u5E83\u304C\u308B\u6D77\u306E\u5411\u3053\u3046\u3078\u3002\u3042\u306E\u6C34\u5E73\u7DDA\u306E\u5148\u306B\u306F\u3001\u3044\u3063\u305F\u3044\u4F55\u304C\u5F85\u3063\u3066\u3044\u308B\u3093\u3060\u308D\u3046\uFF1F",
+    "first_cut": 1,
+    "gacha_perform_bg_position": 4815,
+    "gacha_perform_cut_in_position": [
+      {
+        "position_x": 279,
+        "position_y": 585,
+        "width": 603
+      },
+      {
+        "position_x": 1,
+        "position_y": 1126,
+        "width": 704
+      }
+    ],
+    "id": 30127,
+    "illustrator_id": 65,
+    "item_limit_break_enabled": true,
+    "large_still_path_hash": 8420691606501170715,
+    "memoria_small_still_cut_position": 1,
+    "name": "\u6D77\u306E\u5411\u3053\u3046\u306B\u5F85\u3064\u3082\u306E",
+    "narrow_still_path_hash": 624671911785590793,
+    "rarity": 3,
+    "roles": [
+      1
+    ],
+    "second_cut": 3,
+    "small_still_path_hash": 3563477700140650017,
+    "start_at": "2025-03-12T03:00:00.0000000Z",
+    "status_buffs": [
+      {
+        "growth_id": 31068,
+        "initial_values": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "type": 1
+      },
+      {
+        "growth_id": 31010,
+        "initial_values": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "type": 2
+      },
+      {
+        "growth_id": 31158,
+        "initial_values": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "type": 3
+      },
+      {
+        "growth_id": 31078,
+        "initial_values": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "type": 4
+      },
+      {
+        "growth_id": 31068,
+        "initial_values": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "type": 5
+      },
+      {
+        "growth_id": 31068,
+        "initial_values": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "type": 6
+      }
+    ],
+    "still_path_hash": 1783745252097087829
+  },
+  {
+    "ability_ids": [
       4990758,
       4990759,
       4990760,

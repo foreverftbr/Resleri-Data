@@ -46567,5 +46567,658 @@
       }
     ],
     "still_path_hash": 2959859033513845
+  },
+  {
+    "ability_ids": [
+      301115
+    ],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 100,
+      "wind": 0
+    },
+    "attack_attributes": [
+      1
+    ],
+    "description": "\u5F97\u610F\u5C5E\u6027\u304C\u65AC\u5C5E\u6027\u304B\u3064\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u306E\u6642\u3001HP\u304C70%\u4EE5\u4E0A\u306E\u6642\u3001\u53D7\u3051\u308B\u30C0\u30E1\u30FC\u30B8-{0}%",
+    "easy_synthesis_trait_lottery_id": 10,
+    "id": 1028,
+    "large_still_path_hash": 7441299820298918984,
+    "name": "\u30B7\u30E5\u30F4\u30A1\u30EB\u30C4\u30E9\u30B9\u30BF\u30FC",
+    "quality_group_id": 26,
+    "rarity": 3,
+    "role_combat_power_bonus": {
+      "attacker": 0,
+      "breaker": 0,
+      "defender": 100,
+      "supporter": 0
+    },
+    "roles": [
+      3
+    ],
+    "slot_type": 1,
+    "small_still_path_hash": 6768134882516629205,
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 3,
+        "value": 60
+      },
+      {
+        "change_method": 1,
+        "status_type": 4,
+        "value": 50
+      }
+    ],
+    "still_path_hash": 8379309270417371963
+  },
+  {
+    "ability_ids": [
+      301116
+    ],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 100,
+      "wind": 0
+    },
+    "attack_attributes": [
+      1
+    ],
+    "description": "\u5F97\u610F\u5C5E\u6027\u304C\u65AC\u5C5E\u6027\u304B\u3064\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u306E\u6642\u3001HP\u304C70%\u4EE5\u4E0A\u306E\u6642\u3001\u53D7\u3051\u308B\u30C0\u30E1\u30FC\u30B8-{0}%",
+    "easy_synthesis_trait_lottery_id": 10,
+    "id": 1029,
+    "large_still_path_hash": 7441299820298918984,
+    "name": "\u30B7\u30E5\u30F4\u30A1\u30EB\u30C4\u30E9\u30B9\u30BF\u30FC",
+    "quality_group_id": 26,
+    "rarity": 2,
+    "role_combat_power_bonus": {
+      "attacker": 0,
+      "breaker": 0,
+      "defender": 100,
+      "supporter": 0
+    },
+    "roles": [
+      3
+    ],
+    "slot_type": 1,
+    "small_still_path_hash": 6768134882516629205,
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 3,
+        "value": 45
+      },
+      {
+        "change_method": 1,
+        "status_type": 4,
+        "value": 30
+      }
+    ],
+    "still_path_hash": 8379309270417371963
+  },
+  {
+    "ability_ids": [
+      301117
+    ],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 100,
+      "wind": 0
+    },
+    "attack_attributes": [
+      1
+    ],
+    "description": "\u5F97\u610F\u5C5E\u6027\u304C\u65AC\u5C5E\u6027\u304B\u3064\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u306E\u6642\u3001\u5358\u4F53\u653B\u6483\u304B\u3089\u53D7\u3051\u308B\u30C0\u30E1\u30FC\u30B8-{0}%",
+    "easy_synthesis_trait_lottery_id": 10,
+    "id": 1030,
+    "large_still_path_hash": 4281157030453738522,
+    "name": "\u30D5\u30A7\u30B6\u30FC\u30EF\u30F3\u30D4\u30FC\u30B9",
+    "quality_group_id": 26,
+    "rarity": 3,
+    "role_combat_power_bonus": {
+      "attacker": 0,
+      "breaker": 0,
+      "defender": 100,
+      "supporter": 0
+    },
+    "roles": [
+      3
+    ],
+    "slot_type": 2,
+    "small_still_path_hash": 9151934052996747833,
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 5,
+        "value": 60
+      },
+      {
+        "change_method": 1,
+        "status_type": 6,
+        "value": 50
+      }
+    ],
+    "still_path_hash": 6243752957794588631
+  },
+  {
+    "ability_ids": [
+      301118
+    ],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 100,
+      "wind": 0
+    },
+    "attack_attributes": [
+      1
+    ],
+    "description": "\u5F97\u610F\u5C5E\u6027\u304C\u65AC\u5C5E\u6027\u304B\u3064\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u306E\u6642\u3001\u5358\u4F53\u653B\u6483\u304B\u3089\u53D7\u3051\u308B\u30C0\u30E1\u30FC\u30B8-{0}%",
+    "easy_synthesis_trait_lottery_id": 10,
+    "id": 1031,
+    "large_still_path_hash": 4281157030453738522,
+    "name": "\u30D5\u30A7\u30B6\u30FC\u30EF\u30F3\u30D4\u30FC\u30B9",
+    "quality_group_id": 26,
+    "rarity": 2,
+    "role_combat_power_bonus": {
+      "attacker": 0,
+      "breaker": 0,
+      "defender": 100,
+      "supporter": 0
+    },
+    "roles": [
+      3
+    ],
+    "slot_type": 2,
+    "small_still_path_hash": 9151934052996747833,
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 5,
+        "value": 45
+      },
+      {
+        "change_method": 1,
+        "status_type": 6,
+        "value": 30
+      }
+    ],
+    "still_path_hash": 6243752957794588631
+  },
+  {
+    "ability_ids": [
+      301119
+    ],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 100,
+      "wind": 0
+    },
+    "attack_attributes": [
+      1
+    ],
+    "description": "\u5F97\u610F\u5C5E\u6027\u304C\u65AC\u5C5E\u6027\u304B\u3064\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u306E\u6642\u3001\u30B9\u30AD\u30EB\u767A\u52D5\u5F8C\u3001\u5473\u65B9\u5168\u54E1\u306B\u300C\u5168\u4F53\u653B\u6483\u304B\u3089\u53D7\u3051\u308B\u30C0\u30E1\u30FC\u30B8-{0}%\u300D\u30921\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "easy_synthesis_trait_lottery_id": 10,
+    "id": 1032,
+    "large_still_path_hash": 7741996535935509114,
+    "name": "\u30DB\u30EF\u30A4\u30C8\u30A6\u30A8\u30B9\u30C8\u30DD\u30FC\u30C1",
+    "quality_group_id": 26,
+    "rarity": 3,
+    "role_combat_power_bonus": {
+      "attacker": 0,
+      "breaker": 0,
+      "defender": 100,
+      "supporter": 0
+    },
+    "roles": [
+      3
+    ],
+    "slot_type": 3,
+    "small_still_path_hash": 1598730475881829722,
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 1,
+        "value": 180
+      },
+      {
+        "change_method": 1,
+        "status_type": 2,
+        "value": 6
+      }
+    ],
+    "still_path_hash": 4578933038004506808
+  },
+  {
+    "ability_ids": [
+      301120
+    ],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 100,
+      "wind": 0
+    },
+    "attack_attributes": [
+      1
+    ],
+    "description": "\u5F97\u610F\u5C5E\u6027\u304C\u65AC\u5C5E\u6027\u304B\u3064\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u306E\u6642\u3001\u30B9\u30AD\u30EB\u767A\u52D5\u5F8C\u3001\u5473\u65B9\u5168\u54E1\u306B\u300C\u5168\u4F53\u653B\u6483\u304B\u3089\u53D7\u3051\u308B\u30C0\u30E1\u30FC\u30B8-{0}%\u300D\u30921\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "easy_synthesis_trait_lottery_id": 10,
+    "id": 1033,
+    "large_still_path_hash": 7741996535935509114,
+    "name": "\u30DB\u30EF\u30A4\u30C8\u30A6\u30A8\u30B9\u30C8\u30DD\u30FC\u30C1",
+    "quality_group_id": 26,
+    "rarity": 2,
+    "role_combat_power_bonus": {
+      "attacker": 0,
+      "breaker": 0,
+      "defender": 100,
+      "supporter": 0
+    },
+    "roles": [
+      3
+    ],
+    "slot_type": 3,
+    "small_still_path_hash": 1598730475881829722,
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 1,
+        "value": 90
+      },
+      {
+        "change_method": 1,
+        "status_type": 2,
+        "value": 4
+      }
+    ],
+    "still_path_hash": 4578933038004506808
+  },
+  {
+    "ability_ids": [
+      301121
+    ],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 100,
+      "wind": 0
+    },
+    "attack_attributes": [
+      1
+    ],
+    "description": "\u81EA\u8EAB\u304C\u30E4\u30F3\u30CD\u3010Mother\u2019s Affection\u3011\u306E\u6642\u3001\u653B\u6483\u3092\u53D7\u3051\u305F\u6642\u3001\u7269\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30921\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E(\u91CD\u8907\u4E0D\u53EF)",
+    "easy_synthesis_trait_lottery_id": 10,
+    "id": 1034,
+    "large_still_path_hash": 5288223075711980214,
+    "name": "\u30D7\u30EC\u30B7\u30C7\u30A3\u30AA\u30A2\u30D1\u30BF\u30E9\u30B9",
+    "quality_group_id": 26,
+    "rarity": 3,
+    "role_combat_power_bonus": {
+      "attacker": 0,
+      "breaker": 0,
+      "defender": 100,
+      "supporter": 0
+    },
+    "roles": [
+      3
+    ],
+    "slot_type": 1,
+    "small_still_path_hash": 2770117554017228704,
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 3,
+        "value": 70
+      },
+      {
+        "change_method": 1,
+        "status_type": 4,
+        "value": 65
+      }
+    ],
+    "still_path_hash": 1140845082519097934
+  },
+  {
+    "ability_ids": [
+      301122
+    ],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 100,
+      "wind": 0
+    },
+    "attack_attributes": [
+      1
+    ],
+    "description": "\u5F97\u610F\u5C5E\u6027\u304C\u65AC\u5C5E\u6027\u304B\u3064\u30D6\u30EC\u30A4\u30AB\u30FC\u306E\u6642\u3001WEAK\u653B\u6483\u6642\u3001\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u002B{0}%",
+    "easy_synthesis_trait_lottery_id": 7,
+    "id": 1035,
+    "large_still_path_hash": 8415583803765970222,
+    "name": "\u30C1\u30A7\u30EB\u30AB\u30C8\u30FC\u30EC",
+    "quality_group_id": 14,
+    "rarity": 3,
+    "role_combat_power_bonus": {
+      "attacker": 0,
+      "breaker": 100,
+      "defender": 0,
+      "supporter": 0
+    },
+    "roles": [
+      2
+    ],
+    "slot_type": 1,
+    "small_still_path_hash": 2440678542854624244,
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 3,
+        "value": 90
+      }
+    ],
+    "still_path_hash": 611222395789547038
+  },
+  {
+    "ability_ids": [
+      301123
+    ],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 100,
+      "wind": 0
+    },
+    "attack_attributes": [
+      1
+    ],
+    "description": "\u5F97\u610F\u5C5E\u6027\u304C\u65AC\u5C5E\u6027\u304B\u3064\u30D6\u30EC\u30A4\u30AB\u30FC\u306E\u6642\u3001WEAK\u653B\u6483\u6642\u3001\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u002B{0}%",
+    "easy_synthesis_trait_lottery_id": 7,
+    "id": 1036,
+    "large_still_path_hash": 8415583803765970222,
+    "name": "\u30C1\u30A7\u30EB\u30AB\u30C8\u30FC\u30EC",
+    "quality_group_id": 14,
+    "rarity": 2,
+    "role_combat_power_bonus": {
+      "attacker": 0,
+      "breaker": 100,
+      "defender": 0,
+      "supporter": 0
+    },
+    "roles": [
+      2
+    ],
+    "slot_type": 1,
+    "small_still_path_hash": 2440678542854624244,
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 3,
+        "value": 65
+      }
+    ],
+    "still_path_hash": 611222395789547038
+  },
+  {
+    "ability_ids": [
+      301124
+    ],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 100,
+      "wind": 0
+    },
+    "attack_attributes": [
+      1
+    ],
+    "description": "\u5F97\u610F\u5C5E\u6027\u304C\u65AC\u5C5E\u6027\u306E\u6642\u3001\u5F37\u5316\u7CFB\u30D1\u30CD\u30EB\u304B\u3089\u53D7\u3051\u308B\u52B9\u679C\u91CF\u002B{0}%",
+    "easy_synthesis_trait_lottery_id": 6,
+    "id": 1037,
+    "large_still_path_hash": 2947429492865660272,
+    "name": "\u63A2\u7A76\u8005\u306E\u30DE\u30F3\u30C8",
+    "quality_group_id": 86,
+    "rarity": 3,
+    "role_combat_power_bonus": {
+      "attacker": 20,
+      "breaker": 20,
+      "defender": 20,
+      "supporter": 20
+    },
+    "roles": [],
+    "slot_type": 2,
+    "small_still_path_hash": 229689547263178528,
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 5,
+        "value": 60
+      },
+      {
+        "change_method": 1,
+        "status_type": 6,
+        "value": 50
+      }
+    ],
+    "still_path_hash": 3068203547833529074
+  },
+  {
+    "ability_ids": [
+      301125
+    ],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 100,
+      "wind": 0
+    },
+    "attack_attributes": [
+      1
+    ],
+    "description": "\u5F97\u610F\u5C5E\u6027\u304C\u65AC\u5C5E\u6027\u306E\u6642\u3001\u5F37\u5316\u7CFB\u30D1\u30CD\u30EB\u304B\u3089\u53D7\u3051\u308B\u52B9\u679C\u91CF\u002B{0}%",
+    "easy_synthesis_trait_lottery_id": 6,
+    "id": 1038,
+    "large_still_path_hash": 2947429492865660272,
+    "name": "\u63A2\u7A76\u8005\u306E\u30DE\u30F3\u30C8",
+    "quality_group_id": 86,
+    "rarity": 2,
+    "role_combat_power_bonus": {
+      "attacker": 20,
+      "breaker": 20,
+      "defender": 20,
+      "supporter": 20
+    },
+    "roles": [],
+    "slot_type": 2,
+    "small_still_path_hash": 229689547263178528,
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 5,
+        "value": 45
+      },
+      {
+        "change_method": 1,
+        "status_type": 6,
+        "value": 30
+      }
+    ],
+    "still_path_hash": 3068203547833529074
+  },
+  {
+    "ability_ids": [
+      301126
+    ],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 100,
+      "wind": 0
+    },
+    "attack_attributes": [
+      1
+    ],
+    "description": "\u5F97\u610F\u5C5E\u6027\u304C\u65AC\u5C5E\u6027\u304B\u3064\u30D6\u30EC\u30A4\u30AB\u30FC\u306E\u6642\u3001\u653B\u6483\u524D\u3001\u5BFE\u8C61\u306B\u300C\u65AC\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "easy_synthesis_trait_lottery_id": 7,
+    "id": 1039,
+    "large_still_path_hash": 3706244645495761518,
+    "name": "\u8CE2\u4EBA\u306E\u30EC\u30F3\u30BA",
+    "quality_group_id": 14,
+    "rarity": 3,
+    "role_combat_power_bonus": {
+      "attacker": 0,
+      "breaker": 100,
+      "defender": 0,
+      "supporter": 0
+    },
+    "roles": [
+      2
+    ],
+    "slot_type": 3,
+    "small_still_path_hash": 7206061247588358700,
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 1,
+        "value": 200
+      },
+      {
+        "change_method": 1,
+        "status_type": 2,
+        "value": 10
+      }
+    ],
+    "still_path_hash": 5594989393510031302
+  },
+  {
+    "ability_ids": [
+      301127
+    ],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 100,
+      "wind": 0
+    },
+    "attack_attributes": [
+      1
+    ],
+    "description": "\u5F97\u610F\u5C5E\u6027\u304C\u65AC\u5C5E\u6027\u304B\u3064\u30D6\u30EC\u30A4\u30AB\u30FC\u306E\u6642\u3001\u653B\u6483\u524D\u3001\u5BFE\u8C61\u306B\u300C\u65AC\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "easy_synthesis_trait_lottery_id": 7,
+    "id": 1040,
+    "large_still_path_hash": 3706244645495761518,
+    "name": "\u8CE2\u4EBA\u306E\u30EC\u30F3\u30BA",
+    "quality_group_id": 14,
+    "rarity": 2,
+    "role_combat_power_bonus": {
+      "attacker": 0,
+      "breaker": 100,
+      "defender": 0,
+      "supporter": 0
+    },
+    "roles": [
+      2
+    ],
+    "slot_type": 3,
+    "small_still_path_hash": 7206061247588358700,
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 1,
+        "value": 150
+      },
+      {
+        "change_method": 1,
+        "status_type": 2,
+        "value": 8
+      }
+    ],
+    "still_path_hash": 5594989393510031302
+  },
+  {
+    "ability_ids": [
+      301128
+    ],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 100,
+      "wind": 0
+    },
+    "attack_attributes": [
+      1
+    ],
+    "description": "\u81EA\u8EAB\u304C\u30EC\u30B9\u30CA\u3010Rise Above Fate\u3011\u306E\u6642\u3001\u653B\u6483\u5BFE\u8C61\u304C\u30D6\u30EC\u30A4\u30AF\u6642\u3001\u5BFE\u8C61\u306B\u300C\u53D7\u3051\u308B\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E\u3057\u3001\u81EA\u8EAB\u306B\u300C\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u3092\u4ED8\u4E0E(\u91CD\u8907\u4E0D\u53EF)",
+    "easy_synthesis_trait_lottery_id": 7,
+    "id": 1041,
+    "large_still_path_hash": 5975129370160106924,
+    "name": "\u30A4\u30F3\u30AF\u30EC\u30DF\u30F3\u30C8\u30D7\u30EC\u30FC\u30D6",
+    "quality_group_id": 14,
+    "rarity": 3,
+    "role_combat_power_bonus": {
+      "attacker": 0,
+      "breaker": 100,
+      "defender": 0,
+      "supporter": 0
+    },
+    "roles": [
+      2
+    ],
+    "slot_type": 1,
+    "small_still_path_hash": 4701890872639158932,
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 3,
+        "value": 100
+      }
+    ],
+    "still_path_hash": 7558183003286339450
   }
 ]

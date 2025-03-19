@@ -761,6 +761,26 @@
   },
   {
     "base_enemy_id": 80002,
+    "burst_skill_id": 22000527,
+    "enemy_ai_id": 10002019,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10002025,
+    "is_boss": false,
+    "name": "\u7DD1\u3077\u306B",
+    "resistance": {
+      "fire": -25,
+      "ice": -25,
+      "impact": 0,
+      "lightning": -25,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": -25
+    }
+  },
+  {
+    "base_enemy_id": 80002,
     "burst_skill_id": 32001567,
     "enemy_ai_id": 60002015,
     "extra_skill_ids": [],
@@ -2869,6 +2889,46 @@
   },
   {
     "base_enemy_id": 80013,
+    "burst_skill_id": 32000680,
+    "enemy_ai_id": 60013000,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10013007,
+    "is_boss": false,
+    "name": "\u516D\u89D2\u30AC\u30E1",
+    "resistance": {
+      "fire": -35,
+      "ice": 0,
+      "impact": 0,
+      "lightning": -25,
+      "piercing": -25,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
+    "base_enemy_id": 80013,
+    "burst_skill_id": 32000536,
+    "enemy_ai_id": 60013004,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10013008,
+    "is_boss": false,
+    "name": "\u516D\u89D2\u30AC\u30E1",
+    "resistance": {
+      "fire": -35,
+      "ice": 0,
+      "impact": 0,
+      "lightning": -25,
+      "piercing": -25,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
+    "base_enemy_id": 80013,
     "burst_skill_id": 32000387,
     "enemy_ai_id": 60013007,
     "extra_skill_ids": [],
@@ -3169,6 +3229,28 @@
       "piercing": -25,
       "slashing": 0,
       "wind": -25
+    }
+  },
+  {
+    "base_enemy_id": 80014,
+    "burst_skill_id": 22001485,
+    "enemy_ai_id": 10014011,
+    "extra_skill_ids": [
+      22001482
+    ],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10014013,
+    "is_boss": false,
+    "name": "\u30DE\u30F3\u30AA\u30FC\u30A6\u30A9\u30FC",
+    "resistance": {
+      "fire": 0,
+      "ice": -25,
+      "impact": 0,
+      "lightning": -35,
+      "piercing": -25,
+      "slashing": -25,
+      "wind": 0
     }
   },
   {
@@ -4476,6 +4558,26 @@
     }
   },
   {
+    "base_enemy_id": 80025,
+    "burst_skill_id": 22000664,
+    "enemy_ai_id": 10025004,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10025007,
+    "is_boss": false,
+    "name": "\u30A2\u30DD\u30B9\u30C6\u30EB",
+    "resistance": {
+      "fire": 0,
+      "ice": -25,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": -25
+    }
+  },
+  {
     "base_enemy_id": 80026,
     "burst_skill_id": 20002670,
     "enemy_ai_id": 10026001,
@@ -5318,6 +5420,26 @@
     }
   },
   {
+    "base_enemy_id": 80040,
+    "burst_skill_id": 20009326,
+    "enemy_ai_id": 80040010,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10040006,
+    "is_boss": false,
+    "name": "\u30EF\u30A4\u30EB\u30C9\u30AF\u30EC\u30B9\u30C8",
+    "resistance": {
+      "fire": 0,
+      "ice": -25,
+      "impact": 0,
+      "lightning": -25,
+      "piercing": 0,
+      "slashing": -35,
+      "wind": 0
+    }
+  },
+  {
     "base_enemy_id": 80044,
     "burst_skill_id": 22000491,
     "enemy_ai_id": 10044001,
@@ -5784,6 +5906,26 @@
     }
   },
   {
+    "base_enemy_id": 80069,
+    "burst_skill_id": 32000743,
+    "enemy_ai_id": 60069001,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10069004,
+    "is_boss": false,
+    "name": "\u30D6\u30EB\u30FC\u30D1\u30DA\u30C3\u30C8S",
+    "resistance": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": -35,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
     "base_enemy_id": 80072,
     "burst_skill_id": 20001390,
     "enemy_ai_id": 80072002,
@@ -6020,6 +6162,26 @@
       "lightning": 0,
       "piercing": 0,
       "slashing": 0,
+      "wind": 0
+    }
+  },
+  {
+    "base_enemy_id": 80078,
+    "burst_skill_id": 32001112,
+    "enemy_ai_id": 60078001,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10078005,
+    "is_boss": false,
+    "name": "\u30D1\u30FC\u30D7\u30EB\u30D1\u30DA\u30C3\u30C8S",
+    "resistance": {
+      "fire": 0,
+      "ice": 0,
+      "impact": -35,
+      "lightning": 0,
+      "piercing": -35,
+      "slashing": -35,
       "wind": 0
     }
   },
@@ -6882,6 +7044,28 @@
     }
   },
   {
+    "base_enemy_id": 80098,
+    "burst_skill_id": 22000536,
+    "enemy_ai_id": 10098004,
+    "extra_skill_ids": [
+      30000266
+    ],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10098010,
+    "is_boss": false,
+    "name": "\u30B9\u30AB\u30FC\u30D5\u30D0\u30CB\u30FC",
+    "resistance": {
+      "fire": -25,
+      "ice": -25,
+      "impact": 0,
+      "lightning": -25,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
     "base_enemy_id": 80099,
     "burst_skill_id": 22000579,
     "enemy_ai_id": 10099001,
@@ -7682,6 +7866,26 @@
     }
   },
   {
+    "base_enemy_id": 80104,
+    "burst_skill_id": 22000117,
+    "enemy_ai_id": 10104002,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10104010,
+    "is_boss": false,
+    "name": "\u30AD\u30E3\u30EA\u30A2\u30FC",
+    "resistance": {
+      "fire": 0,
+      "ice": -25,
+      "impact": 0,
+      "lightning": -25,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": -35
+    }
+  },
+  {
     "base_enemy_id": 80105,
     "burst_skill_id": 20009149,
     "enemy_ai_id": 80105001,
@@ -7819,6 +8023,26 @@
       "piercing": 0,
       "slashing": 0,
       "wind": -25
+    }
+  },
+  {
+    "base_enemy_id": 80107,
+    "burst_skill_id": 32001023,
+    "enemy_ai_id": 60107007,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10107006,
+    "is_boss": false,
+    "name": "\u30C7\u30A3\u30FC\u30D7\u30D5\u30A1\u30F3\u30C8\u30E0",
+    "resistance": {
+      "fire": 0,
+      "ice": -25,
+      "impact": 0,
+      "lightning": -25,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": -35
     }
   },
   {
@@ -8202,6 +8426,26 @@
     }
   },
   {
+    "base_enemy_id": 80119,
+    "burst_skill_id": 32001593,
+    "enemy_ai_id": 60119013,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10119003,
+    "is_boss": false,
+    "name": "\u6C37\u82B1\u306E\u7CBE",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": -25,
+      "slashing": -25,
+      "wind": -25
+    }
+  },
+  {
     "base_enemy_id": 80120,
     "burst_skill_id": 22000470,
     "enemy_ai_id": 10120001,
@@ -8379,6 +8623,46 @@
       "piercing": -25,
       "slashing": 0,
       "wind": -25
+    }
+  },
+  {
+    "base_enemy_id": 80120,
+    "burst_skill_id": 22001499,
+    "enemy_ai_id": 10120008,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10120010,
+    "is_boss": false,
+    "name": "\u6C37\u7D50\u30B3\u30AA\u30E2\u30EA",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
+      "impact": 0,
+      "lightning": -25,
+      "piercing": -25,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
+    "base_enemy_id": 80120,
+    "burst_skill_id": 22001499,
+    "enemy_ai_id": 10120009,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10120011,
+    "is_boss": false,
+    "name": "\u6C37\u7D50\u30B3\u30AA\u30E2\u30EA",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
+      "impact": 0,
+      "lightning": -25,
+      "piercing": -25,
+      "slashing": -25,
+      "wind": 0
     }
   },
   {
@@ -10008,6 +10292,26 @@
     "extra_skill_ids": [],
     "hp_loop_count": null,
     "hp_loop_type": 1,
+    "id": 10146020,
+    "is_boss": false,
+    "name": "\u30E9\u30FC\u30B8\u30D5\u30A1\u30F3\u30B0",
+    "resistance": {
+      "fire": 0,
+      "ice": 0,
+      "impact": -25,
+      "lightning": -25,
+      "piercing": 0,
+      "slashing": -35,
+      "wind": 0
+    }
+  },
+  {
+    "base_enemy_id": 80146,
+    "burst_skill_id": 32001130,
+    "enemy_ai_id": 60146002,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
     "id": 10146021,
     "is_boss": false,
     "name": "\u30E9\u30FC\u30B8\u30D5\u30A1\u30F3\u30B0",
@@ -10880,6 +11184,26 @@
       "lightning": 0,
       "piercing": 0,
       "slashing": 0,
+      "wind": 0
+    }
+  },
+  {
+    "base_enemy_id": 80161,
+    "burst_skill_id": 24001569,
+    "enemy_ai_id": 10161001,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10161001,
+    "is_boss": true,
+    "name": "\u30AA\u30FC\u30D0\u30FC\u30A4\u30A7\u30FC\u30AC\u30FC",
+    "resistance": {
+      "fire": -25,
+      "ice": -35,
+      "impact": 0,
+      "lightning": -25,
+      "piercing": 0,
+      "slashing": -25,
       "wind": 0
     }
   },
@@ -12570,6 +12894,26 @@
     }
   },
   {
+    "base_enemy_id": 80188,
+    "burst_skill_id": 22000996,
+    "enemy_ai_id": 10188003,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10188005,
+    "is_boss": false,
+    "name": "\u30C9\u30EA\u30FC\u30E0\u30AD\u30E3\u30C3\u30C1\u30E3\u30FC",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
     "base_enemy_id": 80189,
     "burst_skill_id": 22001036,
     "enemy_ai_id": 10189001,
@@ -12966,6 +13310,26 @@
       "lightning": 0,
       "piercing": -25,
       "slashing": 0,
+      "wind": -25
+    }
+  },
+  {
+    "base_enemy_id": 80204,
+    "burst_skill_id": 22001215,
+    "enemy_ai_id": 10204002,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10204005,
+    "is_boss": false,
+    "name": "\u5CF6\u9B5A",
+    "resistance": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -25,
       "wind": -25
     }
   },
@@ -13740,6 +14104,86 @@
     }
   },
   {
+    "base_enemy_id": 80035,
+    "burst_skill_id": 24001566,
+    "enemy_ai_id": 20035005,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 20035005,
+    "is_boss": false,
+    "name": "\u5147\u7FFC \u30D6\u30EA\u30FC\u30C9",
+    "resistance": {
+      "fire": 0,
+      "ice": -25,
+      "impact": 0,
+      "lightning": -25,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": -35
+    }
+  },
+  {
+    "base_enemy_id": 80035,
+    "burst_skill_id": 24001566,
+    "enemy_ai_id": 20035005,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 20035006,
+    "is_boss": false,
+    "name": "\u5147\u7FFC \u30D6\u30EA\u30FC\u30C9",
+    "resistance": {
+      "fire": 0,
+      "ice": -25,
+      "impact": 0,
+      "lightning": -25,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": -35
+    }
+  },
+  {
+    "base_enemy_id": 80042,
+    "burst_skill_id": 24001540,
+    "enemy_ai_id": 20042001,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 20042001,
+    "is_boss": false,
+    "name": "\u30DE\u30EB\u30B7\u30E5\u30DB\u30EB\u30F3",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
+      "impact": -25,
+      "lightning": 0,
+      "piercing": -25,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
+    "base_enemy_id": 80042,
+    "burst_skill_id": 24001540,
+    "enemy_ai_id": 20042001,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 20042002,
+    "is_boss": false,
+    "name": "\u30DE\u30EB\u30B7\u30E5\u30DB\u30EB\u30F3",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
+      "impact": -25,
+      "lightning": 0,
+      "piercing": -25,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
     "base_enemy_id": 80050,
     "burst_skill_id": 22000318,
     "enemy_ai_id": 20050002,
@@ -13980,6 +14424,50 @@
     }
   },
   {
+    "base_enemy_id": 80133,
+    "burst_skill_id": 24001556,
+    "enemy_ai_id": 20133001,
+    "extra_skill_ids": [
+      24001561
+    ],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 20133001,
+    "is_boss": true,
+    "name": "\u53E4\u306E\u9B54\u50CF",
+    "resistance": {
+      "fire": 0,
+      "ice": 0,
+      "impact": -25,
+      "lightning": 0,
+      "piercing": -25,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
+    "base_enemy_id": 80133,
+    "burst_skill_id": 24001556,
+    "enemy_ai_id": 20133001,
+    "extra_skill_ids": [
+      24001561
+    ],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 20133002,
+    "is_boss": true,
+    "name": "\u53E4\u306E\u9B54\u50CF",
+    "resistance": {
+      "fire": 0,
+      "ice": 0,
+      "impact": -25,
+      "lightning": 0,
+      "piercing": -25,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
     "base_enemy_id": 80146,
     "burst_skill_id": 22001418,
     "enemy_ai_id": 20146001,
@@ -14156,6 +14644,46 @@
       "lightning": 0,
       "piercing": 0,
       "slashing": 0,
+      "wind": 0
+    }
+  },
+  {
+    "base_enemy_id": 80146,
+    "burst_skill_id": 24001550,
+    "enemy_ai_id": 20146021,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 20146021,
+    "is_boss": false,
+    "name": "\u30E9\u30FC\u30B8\u30D5\u30A1\u30F3\u30B0",
+    "resistance": {
+      "fire": 0,
+      "ice": 0,
+      "impact": -25,
+      "lightning": -25,
+      "piercing": 0,
+      "slashing": -35,
+      "wind": 0
+    }
+  },
+  {
+    "base_enemy_id": 80146,
+    "burst_skill_id": 24001550,
+    "enemy_ai_id": 20146021,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 20146022,
+    "is_boss": false,
+    "name": "\u30E9\u30FC\u30B8\u30D5\u30A1\u30F3\u30B0",
+    "resistance": {
+      "fire": 0,
+      "ice": 0,
+      "impact": -25,
+      "lightning": -25,
+      "piercing": 0,
+      "slashing": -35,
       "wind": 0
     }
   },
@@ -14780,6 +15308,46 @@
       "lightning": -25,
       "piercing": 0,
       "slashing": 0,
+      "wind": 0
+    }
+  },
+  {
+    "base_enemy_id": 80214,
+    "burst_skill_id": 24001544,
+    "enemy_ai_id": 20214004,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 20214004,
+    "is_boss": false,
+    "name": "\u30DD\u30EB\u30BF\u30FC\u30AC\u30A4\u30B9\u30C8",
+    "resistance": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": -25,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
+    "base_enemy_id": 80214,
+    "burst_skill_id": 24001544,
+    "enemy_ai_id": 20214004,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 20214005,
+    "is_boss": false,
+    "name": "\u30DD\u30EB\u30BF\u30FC\u30AC\u30A4\u30B9\u30C8",
+    "resistance": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": -25,
+      "slashing": -25,
       "wind": 0
     }
   },
@@ -20812,6 +21380,26 @@
     }
   },
   {
+    "base_enemy_id": 80004,
+    "burst_skill_id": 22000627,
+    "enemy_ai_id": 10004003,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 60004011,
+    "is_boss": false,
+    "name": "\u30AA\u30AA\u30A4\u30BF\u30C1",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
+      "impact": 0,
+      "lightning": -35,
+      "piercing": -25,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
     "base_enemy_id": 80005,
     "burst_skill_id": 32000521,
     "enemy_ai_id": 60005000,
@@ -21049,6 +21637,46 @@
       "piercing": -25,
       "slashing": 0,
       "wind": -25
+    }
+  },
+  {
+    "base_enemy_id": 80005,
+    "burst_skill_id": 22001112,
+    "enemy_ai_id": 10005012,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 60005012,
+    "is_boss": false,
+    "name": "\u30D6\u30EB\u30FC\u30D5\u30A3\u30F3",
+    "resistance": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": -25,
+      "slashing": -25,
+      "wind": -25
+    }
+  },
+  {
+    "base_enemy_id": 80006,
+    "burst_skill_id": 32001742,
+    "enemy_ai_id": 60006001,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 60006001,
+    "is_boss": true,
+    "name": "[\u898B\u5883\u304C\u306A\u3044]\u30B5\u30D9\u30FC\u30B8\u30A2\u30B5\u30B7\u30F3",
+    "resistance": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": 0
     }
   },
   {
@@ -21352,6 +21980,50 @@
     }
   },
   {
+    "base_enemy_id": 80008,
+    "burst_skill_id": 22000502,
+    "enemy_ai_id": 80008019,
+    "extra_skill_ids": [
+      22000205
+    ],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 60008010,
+    "is_boss": false,
+    "name": "\u3064\u306E\u3072\u3064\u3058",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": -25,
+      "slashing": -25,
+      "wind": -35
+    }
+  },
+  {
+    "base_enemy_id": 80008,
+    "burst_skill_id": 32001754,
+    "enemy_ai_id": 60008011,
+    "extra_skill_ids": [
+      32001756
+    ],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 60008011,
+    "is_boss": false,
+    "name": "\u3064\u306E\u3072\u3064\u3058",
+    "resistance": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
     "base_enemy_id": 80009,
     "burst_skill_id": 32000281,
     "enemy_ai_id": 60009001,
@@ -21564,6 +22236,26 @@
     "resistance": {
       "fire": -25,
       "ice": -25,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": -25
+    }
+  },
+  {
+    "base_enemy_id": 80009,
+    "burst_skill_id": 22000909,
+    "enemy_ai_id": 10009019,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 60009012,
+    "is_boss": false,
+    "name": "\u30DF\u30CB\u30EF\u30A4\u30D0\u30FC\u30F3",
+    "resistance": {
+      "fire": -35,
+      "ice": 0,
       "impact": 0,
       "lightning": 0,
       "piercing": 0,
@@ -21944,6 +22636,26 @@
     "resistance": {
       "fire": -25,
       "ice": -25,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": -35
+    }
+  },
+  {
+    "base_enemy_id": 80012,
+    "burst_skill_id": 20009814,
+    "enemy_ai_id": 80012027,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 60012010,
+    "is_boss": false,
+    "name": "\u30AD\u30D0\u30B3\u30AA\u30E2\u30EA",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
       "impact": 0,
       "lightning": 0,
       "piercing": 0,
@@ -22409,6 +23121,26 @@
       "piercing": -25,
       "slashing": 0,
       "wind": -25
+    }
+  },
+  {
+    "base_enemy_id": 80013,
+    "burst_skill_id": 32000680,
+    "enemy_ai_id": 60013000,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 60013022,
+    "is_boss": false,
+    "name": "\u516D\u89D2\u30AC\u30E1",
+    "resistance": {
+      "fire": -35,
+      "ice": 0,
+      "impact": 0,
+      "lightning": -25,
+      "piercing": -25,
+      "slashing": -25,
+      "wind": 0
     }
   },
   {
@@ -23006,6 +23738,28 @@
     }
   },
   {
+    "base_enemy_id": 80015,
+    "burst_skill_id": 20008523,
+    "enemy_ai_id": 80015041,
+    "extra_skill_ids": [
+      32001410
+    ],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 60015008,
+    "is_boss": false,
+    "name": "\u82B1\u306E\u7CBE",
+    "resistance": {
+      "fire": -35,
+      "ice": -25,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
     "base_enemy_id": 80016,
     "burst_skill_id": 32000852,
     "enemy_ai_id": 60016000,
@@ -23445,6 +24199,28 @@
       "piercing": -25,
       "slashing": -25,
       "wind": 0
+    }
+  },
+  {
+    "base_enemy_id": 80017,
+    "burst_skill_id": 22000588,
+    "enemy_ai_id": 60017010,
+    "extra_skill_ids": [
+      22001235
+    ],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 60017012,
+    "is_boss": false,
+    "name": "\u30CA\u30E1\u30EB\u30C0\u30B1",
+    "resistance": {
+      "fire": 0,
+      "ice": -35,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": -25
     }
   },
   {
@@ -25483,6 +26259,26 @@
       "piercing": 0,
       "slashing": 0,
       "wind": 0
+    }
+  },
+  {
+    "base_enemy_id": 80039,
+    "burst_skill_id": 22000103,
+    "enemy_ai_id": 10039001,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 60039007,
+    "is_boss": false,
+    "name": "\u30B9\u30D7\u30EA\u30F3\u30C8\u30D0\u30FC\u30C9",
+    "resistance": {
+      "fire": -35,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": -25
     }
   },
   {
@@ -28432,6 +29228,46 @@
     }
   },
   {
+    "base_enemy_id": 80099,
+    "burst_skill_id": 22000579,
+    "enemy_ai_id": 10099001,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 60099004,
+    "is_boss": false,
+    "name": "\u30A2\u30C3\u30B7\u30E5\u30A6\u30FC\u30EB",
+    "resistance": {
+      "fire": 0,
+      "ice": -25,
+      "impact": 0,
+      "lightning": -35,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
+    "base_enemy_id": 80099,
+    "burst_skill_id": 32001746,
+    "enemy_ai_id": 60099005,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 60099005,
+    "is_boss": false,
+    "name": "[\u898B\u5883\u304C\u306A\u3044]\u30A2\u30C3\u30B7\u30E5\u30A6\u30FC\u30EB",
+    "resistance": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
     "base_enemy_id": 80100,
     "burst_skill_id": 32000846,
     "enemy_ai_id": 60100000,
@@ -28608,6 +29444,26 @@
       "lightning": -25,
       "piercing": 0,
       "slashing": 0,
+      "wind": 0
+    }
+  },
+  {
+    "base_enemy_id": 80100,
+    "burst_skill_id": 22000510,
+    "enemy_ai_id": 10100014,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 60100009,
+    "is_boss": false,
+    "name": "\u30B9\u30DD\u30A2\u30C9\u30C3\u30B0",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
+      "impact": -25,
+      "lightning": -25,
+      "piercing": 0,
+      "slashing": -25,
       "wind": 0
     }
   },
@@ -31512,6 +32368,26 @@
     }
   },
   {
+    "base_enemy_id": 80122,
+    "burst_skill_id": 22001300,
+    "enemy_ai_id": 10122005,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 60122019,
+    "is_boss": false,
+    "name": "\u30ED\u30C3\u30AF\u30D1\u30DA\u30C3\u30C8",
+    "resistance": {
+      "fire": 0,
+      "ice": 0,
+      "impact": -25,
+      "lightning": -25,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
     "base_enemy_id": 80123,
     "burst_skill_id": 32000104,
     "enemy_ai_id": 60123001,
@@ -31726,6 +32602,26 @@
       "ice": -25,
       "impact": 0,
       "lightning": -25,
+      "piercing": -25,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
+    "base_enemy_id": 80123,
+    "burst_skill_id": 22000555,
+    "enemy_ai_id": 10123002,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 60123012,
+    "is_boss": false,
+    "name": "\u30A6\u30A9\u30EB\u30D5",
+    "resistance": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": -35,
       "piercing": -25,
       "slashing": -25,
       "wind": 0
@@ -33554,6 +34450,26 @@
     }
   },
   {
+    "base_enemy_id": 80167,
+    "burst_skill_id": 22000543,
+    "enemy_ai_id": 10167002,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 60167005,
+    "is_boss": false,
+    "name": "\u30C8\u30EA\u30C3\u30AB\u30FC",
+    "resistance": {
+      "fire": 0,
+      "ice": -25,
+      "impact": 0,
+      "lightning": -25,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
     "base_enemy_id": 80169,
     "burst_skill_id": 32001008,
     "enemy_ai_id": 60169001,
@@ -33710,6 +34626,26 @@
       "lightning": -25,
       "piercing": -25,
       "slashing": 0,
+      "wind": 0
+    }
+  },
+  {
+    "base_enemy_id": 80169,
+    "burst_skill_id": 22001061,
+    "enemy_ai_id": 10169009,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 60169009,
+    "is_boss": false,
+    "name": "\u30C9\u30E9\u30A4\u30A2\u30C9",
+    "resistance": {
+      "fire": 0,
+      "ice": -25,
+      "impact": 0,
+      "lightning": -25,
+      "piercing": 0,
+      "slashing": -25,
       "wind": 0
     }
   },

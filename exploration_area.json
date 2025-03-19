@@ -5966,6 +5966,107 @@
     "floor_index": 0,
     "gatherings": [
       {
+        "gathering_type": 1,
+        "point_count": 1,
+        "weight": 1
+      }
+    ],
+    "id": 371,
+    "is_event_gathering": false,
+    "number": 2,
+    "quest_id": 101027004,
+    "talks": []
+  },
+  {
+    "battles": [
+      {
+        "battle_id": 11000497,
+        "character_exp": 2510,
+        "cole": 0,
+        "is_boss": false,
+        "symbol_enemy_id": 10120011,
+        "weight": 1
+      }
+    ],
+    "floor_index": 0,
+    "gatherings": [],
+    "id": 372,
+    "is_event_gathering": false,
+    "number": 4,
+    "quest_id": 101027004,
+    "talks": []
+  },
+  {
+    "battles": [],
+    "floor_index": 0,
+    "gatherings": [],
+    "id": 373,
+    "is_event_gathering": false,
+    "number": 6,
+    "quest_id": 101027004,
+    "talks": [
+      {
+        "name": "\u9B42\u306E\u8A18\u61B6",
+        "timeline_path_hash": 4992102773872145102
+      }
+    ]
+  },
+  {
+    "battles": [],
+    "floor_index": 0,
+    "gatherings": [
+      {
+        "gathering_type": 3,
+        "point_count": 1,
+        "weight": 1
+      }
+    ],
+    "id": 374,
+    "is_event_gathering": false,
+    "number": 8,
+    "quest_id": 101027004,
+    "talks": []
+  },
+  {
+    "battles": [],
+    "floor_index": 0,
+    "gatherings": [
+      {
+        "gathering_type": 2,
+        "point_count": 1,
+        "weight": 1
+      }
+    ],
+    "id": 375,
+    "is_event_gathering": false,
+    "number": 10,
+    "quest_id": 101027004,
+    "talks": []
+  },
+  {
+    "battles": [
+      {
+        "battle_id": 11000498,
+        "character_exp": 2510,
+        "cole": 0,
+        "is_boss": true,
+        "symbol_enemy_id": 10161001,
+        "weight": 1
+      }
+    ],
+    "floor_index": 0,
+    "gatherings": [],
+    "id": 376,
+    "is_event_gathering": false,
+    "number": 12,
+    "quest_id": 101027004,
+    "talks": []
+  },
+  {
+    "battles": [],
+    "floor_index": 0,
+    "gatherings": [
+      {
         "gathering_type": 2,
         "point_count": 1,
         "weight": 1

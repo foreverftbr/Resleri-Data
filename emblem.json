@@ -558,5 +558,13 @@
     "name": "\u306A\u3093\u3067\u3082\u5C4B\u30B7\u30C8\u30EA\u30F3\u306E\u6311\u6226\u72B6\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u5236\u8987\u8005",
     "priority": 999800,
     "start_at": "2025-03-12T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u65AC\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u53D7\u3051\u308BHP\u56DE\u5FA9\u91CF{}",
+    "emblem_group_id": 2,
+    "id": 78,
+    "name": "\u30E4\u30F3\u30CD\u30FB\u30EA\u30F3\u30C7\u30DE\u30F3\u306E\u611B\u3068\u904E\u53BB\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u5236\u8987\u8005",
+    "priority": 999790,
+    "start_at": "2025-03-17T03:00:00.0000000Z"
   }
 ]

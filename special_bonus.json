@@ -1579,5 +1579,87 @@
     "event_id": 84,
     "id": 40,
     "start_at": "2025-03-12T03:00:00.0000000Z"
+  },
+  {
+    "bonuses": [
+      {
+        "effects": [
+          {
+            "item_ids": [
+              938
+            ],
+            "limit": 10,
+            "targets": [
+              {
+                "character_scope_ids": [
+                  32
+                ],
+                "memoria_scope_ids": [],
+                "memoria_sp_bonus_ids": [],
+                "value": 1
+              },
+              {
+                "character_scope_ids": [],
+                "memoria_scope_ids": [
+                  6
+                ],
+                "memoria_sp_bonus_ids": [],
+                "value": 2
+              }
+            ]
+          }
+        ],
+        "name": "\u6311\u6226\u5238\u5897\u91CF\u30DC\u30FC\u30CA\u30B9",
+        "type": 3,
+        "warning_text": "\u6311\u6226\u5238[\u30E4\u30F3\u30CD\u30FB\u30EA\u30F3\u30C7\u30DE\u30F3\u306E\u611B\u3068\u904E\u53BB]\u306E\u6311\u6226\u5238\u5897\u91CF\u30DC\u30FC\u30CA\u30B9\u306F\n\u30D1\u30FC\u30C6\u30A3\u3067\u5408\u8A08\uFF0B10\u500B\u307E\u3067\u304C\u4E0A\u9650\u3068\u306A\u308A\u307E\u3059\u3002"
+      }
+    ],
+    "end_at": "2025-03-31T03:00:00.0000000Z",
+    "episode_categories": [
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      12,
+      13,
+      11
+    ],
+    "event_id": null,
+    "id": 41,
+    "start_at": "2025-03-17T03:00:00.0000000Z"
+  },
+  {
+    "bonuses": [
+      {
+        "effects": [
+          {
+            "item_ids": [],
+            "limit": 200,
+            "targets": [
+              {
+                "character_scope_ids": [],
+                "memoria_scope_ids": [],
+                "memoria_sp_bonus_ids": [
+                  10
+                ],
+                "value": null
+              }
+            ]
+          }
+        ],
+        "name": "",
+        "type": 4,
+        "warning_text": ""
+      }
+    ],
+    "end_at": "2025-03-31T03:00:00.0000000Z",
+    "episode_categories": [
+      12
+    ],
+    "event_id": 87,
+    "id": 42,
+    "start_at": "2025-03-17T03:00:00.0000000Z"
   }
 ]

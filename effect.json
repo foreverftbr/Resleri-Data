@@ -11080,6 +11080,96 @@
     "summons_effect_id": null
   },
   {
+    "description": "\u5F97\u610F\u5C5E\u6027\u304C\u65AC\u5C5E\u6027\u304B\u3064\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u306E\u6642\u3001HP\u304C70%\u4EE5\u4E0A\u306E\u6642\u3001\u53D7\u3051\u308B\u30C0\u30E1\u30FC\u30B8\u30C0\u30A6\u30F3",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 6001004,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "\u5F97\u610F\u5C5E\u6027\u304C\u65AC\u5C5E\u6027\u304B\u3064\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u306E\u6642\u3001\u5358\u4F53\u653B\u6483\u304B\u3089\u53D7\u3051\u308B\u30C0\u30E1\u30FC\u30B8\u30C0\u30A6\u30F3",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 6001005,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "\u5F97\u610F\u5C5E\u6027\u304C\u65AC\u5C5E\u6027\u304B\u3064\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u306E\u6642\u3001\u30B9\u30AD\u30EB\u767A\u52D5\u5F8C\u3001\u5473\u65B9\u5168\u54E1\u306B\u300C\u5168\u4F53\u653B\u6483\u304B\u3089\u53D7\u3051\u308B\u30C0\u30E1\u30FC\u30B8\u30C0\u30A6\u30F3\u300D\u30921\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 6001006,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "\u81EA\u8EAB\u304C\u30E4\u30F3\u30CD\u3010Mother\u2019s Affection\u3011\u306E\u6642\u3001\u653B\u6483\u3092\u53D7\u3051\u305F\u6642\u3001\u7269\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30C0\u30E1\u30FC\u30B8\u30A2\u30C3\u30D7\u300D\u30921\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E(\u91CD\u8907\u4E0D\u53EF)",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 6001007,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "\u5F97\u610F\u5C5E\u6027\u304C\u65AC\u5C5E\u6027\u304B\u3064\u30D6\u30EC\u30A4\u30AB\u30FC\u306E\u6642\u3001WEAK\u653B\u6483\u6642\u3001\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u30A2\u30C3\u30D7",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 6001008,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "\u5F97\u610F\u5C5E\u6027\u304C\u65AC\u5C5E\u6027\u306E\u6642\u3001\u5F37\u5316\u7CFB\u30D1\u30CD\u30EB\u304B\u3089\u53D7\u3051\u308B\u52B9\u679C\u91CF\u30A2\u30C3\u30D7",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 6001009,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "\u5F97\u610F\u5C5E\u6027\u304C\u65AC\u5C5E\u6027\u304B\u3064\u30D6\u30EC\u30A4\u30AB\u30FC\u306E\u6642\u3001\u653B\u6483\u524D\u3001\u5BFE\u8C61\u306B\u300C\u65AC\u5C5E\u6027\u8010\u6027\u30C0\u30A6\u30F3\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 6001010,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "\u81EA\u8EAB\u304C\u30EC\u30B9\u30CA\u3010Rise Above Fate\u3011\u306E\u6642\u3001\u653B\u6483\u5BFE\u8C61\u304C\u30D6\u30EC\u30A4\u30AF\u6642\u3001\u5BFE\u8C61\u306B\u300C\u53D7\u3051\u308B\u30C0\u30E1\u30FC\u30B8\u30A2\u30C3\u30D7\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 6001011,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "\u81EA\u8EAB\u304C\u30EC\u30B9\u30CA\u3010Rise Above Fate\u3011\u306E\u6642\u3001\u653B\u6483\u5BFE\u8C61\u304C\u30D6\u30EC\u30A4\u30AF\u6642\u3001\u81EA\u8EAB\u306B\u300C\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u30A2\u30C3\u30D7\u300D\u3092\u4ED8\u4E0E(\u91CD\u8907\u4E0D\u53EF)",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 6001012,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
     "description": "\u4E0E\u56DE\u5FA9\u91CF\u4E0A\u6607",
     "effect_motion_id": null,
     "enemy_hp_gauge": null,
@@ -12440,6 +12530,16 @@
     "summons_effect_id": null
   },
   {
+    "description": "\u81EA\u8EAB\u304C\u65AC\u5C5E\u6027\u306E\u6642\u3001\u53D7\u3051\u308BHP\u56DE\u5FA9\u91CF\u4E0A\u6607\u002B{}%",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 13000330,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
     "description": "\u81EA\u8EAB\u306B\u5168\u5C5E\u6027\u8010\u6027UP(\u6C38\u7D9A)\u3092\u4ED8\u4E0E",
     "effect_motion_id": null,
     "enemy_hp_gauge": null,
@@ -12775,6 +12875,16 @@
     "enemy_hp_gauge": null,
     "field_effect_id": null,
     "id": 71038017,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "\u81EA\u8EAB\u306B\u88AB\u30C0\u30E1\u30FC\u30B8DOWN(\u6C38\u7D9A)\u3092\u4ED8\u4E0E",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 71042001,
     "is_positive_popup": null,
     "popup_text": "",
     "summons_effect_id": null
@@ -17750,6 +17860,86 @@
     "summons_effect_id": null
   },
   {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 72001213,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 72001214,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 72001215,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 72001216,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 72001217,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 72001218,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 72001219,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 72001233,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
     "description": "[\u81EA\u8EAB/\u5E38\u6642/\u7269\u653B\u4E0A\u6607]",
     "effect_motion_id": null,
     "enemy_hp_gauge": null,
@@ -19990,6 +20180,16 @@
     "summons_effect_id": null
   },
   {
+    "description": "\u81EA\u8EAB\u306B\u30AB\u30A6\u30F3\u30BF\u30FC\u72B6\u614B(\u767A\u52D5\u7387100%)\u3092\u4ED8\u4E0E",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 81014001,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
     "description": "\u6575\u304B\u3064\u30B9\u30AD\u30EB\u5BFE\u8C61\u306B\u300E\u88AB\u30C0\u30E1\u30FC\u30B8UP(\u4ED8\u4E0E\u7387100%/1\u56DE)\u300F\u3092\u4ED8\u4E0E",
     "effect_motion_id": null,
     "enemy_hp_gauge": null,
@@ -20305,6 +20505,26 @@
     "enemy_hp_gauge": null,
     "field_effect_id": null,
     "id": 81131003,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "\u30D6\u30EC\u30A4\u30AF\u5FA9\u5E30\u6642\u3001\u81EA\u8EAB\u306B\u7D20\u65E9\u3055UP(3\u56DE)",
+    "effect_motion_id": 1050,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 81133001,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "\u81EA\u8EAB\u306EHP\u304C70%\u4EE5\u4E0B\u306B\u306A\u3063\u305F\u6642\u3001\u81EA\u8EAB\u306B\u88AB\u30C0\u30E1\u30FC\u30B8DOWN(5\u56DE)\u3092\u4ED8\u4E0E",
+    "effect_motion_id": 1049,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 81133002,
     "is_positive_popup": null,
     "popup_text": "",
     "summons_effect_id": null
@@ -22775,6 +22995,16 @@
     "enemy_hp_gauge": null,
     "field_effect_id": null,
     "id": 86003003,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "\u88AB\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30C0\u30E1\u30FC\u30B8UP(\u7D2F\u7A4D200\uFF05)\u3092\u81EA\u8EAB\u306B\u4ED8\u4E0E",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 86006000,
     "is_positive_popup": null,
     "popup_text": "",
     "summons_effect_id": null
@@ -29334,6 +29564,86 @@
     "effect_motion_id": null,
     "enemy_hp_gauge": null,
     "field_effect_id": null,
+    "id": 91001577,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 91001578,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 91001579,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 91001580,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 91001581,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 91001582,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 91001583,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 91001584,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
     "id": 91001587,
     "is_positive_popup": null,
     "popup_text": "",
@@ -29344,7 +29654,67 @@
     "effect_motion_id": null,
     "enemy_hp_gauge": null,
     "field_effect_id": null,
+    "id": 91001588,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 91001589,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 91001590,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 91001591,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 91001592,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
     "id": 91001599,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 91001600,
     "is_positive_popup": null,
     "popup_text": "",
     "summons_effect_id": null
@@ -31405,6 +31775,46 @@
     "enemy_hp_gauge": null,
     "field_effect_id": null,
     "id": 95000194,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "\u5F97\u610F\u5C5E\u6027\u304C\u65AC\u5C5E\u6027\u306E\u6642\u3001\u653B\u6483\u3092\u53D7\u3051\u305F\u6642\u3001\u5473\u65B9\u5168\u54E1\u306B\u300C\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30C0\u30E1\u30FC\u30B8\u30A2\u30C3\u30D7\u300D\u30921\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E(\u4E0A\u96502\u500B)",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 95000195,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "\u5F97\u610F\u5C5E\u6027\u304C\u65AC\u5C5E\u6027\u304B\u3064WEAK\u653B\u6483\u6642\u3001\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u30A2\u30C3\u30D7",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 95000196,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "\u81EA\u8EAB\u304C\u30A2\u30BF\u30C3\u30AB\u30FC\u306E\u6642\u3001\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30C0\u30E1\u30FC\u30B8\u30A2\u30C3\u30D7",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 95000198,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "\u81EA\u8EAB\u304C\u30A2\u30BF\u30C3\u30AB\u30FC\u306E\u6642\u3001\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u78BA\u7387\u30A2\u30C3\u30D7",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 95000199,
     "is_positive_popup": null,
     "popup_text": "",
     "summons_effect_id": null

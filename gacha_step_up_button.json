@@ -5166,5 +5166,134 @@
     "id": 363,
     "is_always_display": true,
     "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 22022,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\uFF01 \u6BCD\u306A\u308B\u8056\u6226\u58EB \u30E4\u30F3\u30CD LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 364,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 22023,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\uFF01 \u6BCD\u306A\u308B\u8056\u6226\u58EB \u30E4\u30F3\u30CD LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 365,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 22024,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\uFF01 \u6BCD\u306A\u308B\u8056\u6226\u58EB \u30E4\u30F3\u30CD LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 366,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 22042,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\uFF01 \u904B\u547D\u306B\u7ACB\u3061\u5411\u304B\u3044\u3057\u8005 \u30EC\u30B9\u30CA LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 367,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 22043,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\uFF01 \u904B\u547D\u306B\u7ACB\u3061\u5411\u304B\u3044\u3057\u8005 \u30EC\u30B9\u30CA LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 368,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 22044,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\uFF01 \u904B\u547D\u306B\u7ACB\u3061\u5411\u304B\u3044\u3057\u8005 \u30EC\u30B9\u30CA LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 369,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21982,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\u8A18\u5FF5 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 370,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21983,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\u8A18\u5FF5 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 371,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21984,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\u8A18\u5FF5 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 372,
+    "is_always_display": true,
+    "is_wish_list": false
   }
 ]
