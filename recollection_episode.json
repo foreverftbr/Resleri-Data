@@ -298,5 +298,17 @@
       6898783142334157360
     ],
     "still_transition_key_quest_id": null
+  },
+  {
+    "episode_id": 101027,
+    "id": 26,
+    "key_quest_id": 101027001,
+    "name": "第２５章\u3000レスナとヴァレリアの縁",
+    "priority": 26,
+    "recollection_season_id": 1,
+    "still_path_hash_list": [
+      6898783142334157360
+    ],
+    "still_transition_key_quest_id": null
   }
 ]
