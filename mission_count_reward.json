@@ -1,0 +1,184 @@
+[
+  {
+    "category": 1,
+    "end_at": "2025-01-01T03:00:00.0000000Z",
+    "id": 1,
+    "reset_cycle": 1,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 2,
+        "reward_set_id": 30007
+      },
+      {
+        "count": 5,
+        "reward_set_id": 30008
+      },
+      {
+        "count": 8,
+        "reward_set_id": 30009
+      }
+    ]
+  },
+  {
+    "category": 2,
+    "end_at": null,
+    "id": 2,
+    "reset_cycle": 2,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 2,
+        "reward_set_id": 30011
+      },
+      {
+        "count": 5,
+        "reward_set_id": 30054
+      },
+      {
+        "count": 8,
+        "reward_set_id": 30079
+      },
+      {
+        "count": 9,
+        "reward_set_id": 30123
+      },
+      {
+        "count": 10,
+        "reward_set_id": 30150
+      }
+    ]
+  },
+  {
+    "category": 1,
+    "end_at": "2025-02-01T03:00:00.0000000Z",
+    "id": 9,
+    "reset_cycle": 1,
+    "start_at": "2025-01-01T03:00:00.0000000Z",
+    "steps": [
+      {
+        "count": 2,
+        "reward_set_id": 30007
+      },
+      {
+        "count": 3,
+        "reward_set_id": 30128
+      },
+      {
+        "count": 5,
+        "reward_set_id": 30008
+      },
+      {
+        "count": 6,
+        "reward_set_id": 30128
+      },
+      {
+        "count": 8,
+        "reward_set_id": 30009
+      },
+      {
+        "count": 9,
+        "reward_set_id": 30129
+      }
+    ]
+  },
+  {
+    "category": 1,
+    "end_at": "2025-03-01T03:00:00.0000000Z",
+    "id": 10,
+    "reset_cycle": 1,
+    "start_at": "2025-02-01T03:00:00.0000000Z",
+    "steps": [
+      {
+        "count": 2,
+        "reward_set_id": 30007
+      },
+      {
+        "count": 3,
+        "reward_set_id": 30131
+      },
+      {
+        "count": 5,
+        "reward_set_id": 30008
+      },
+      {
+        "count": 6,
+        "reward_set_id": 30131
+      },
+      {
+        "count": 8,
+        "reward_set_id": 30009
+      },
+      {
+        "count": 9,
+        "reward_set_id": 30132
+      }
+    ]
+  },
+  {
+    "category": 1,
+    "end_at": "2025-04-01T03:00:00.0000000Z",
+    "id": 11,
+    "reset_cycle": 1,
+    "start_at": "2025-03-01T03:00:00.0000000Z",
+    "steps": [
+      {
+        "count": 2,
+        "reward_set_id": 30007
+      },
+      {
+        "count": 3,
+        "reward_set_id": 30134
+      },
+      {
+        "count": 5,
+        "reward_set_id": 30008
+      },
+      {
+        "count": 6,
+        "reward_set_id": 30134
+      },
+      {
+        "count": 8,
+        "reward_set_id": 30009
+      },
+      {
+        "count": 9,
+        "reward_set_id": 30135
+      }
+    ]
+  },
+  {
+    "category": 1,
+    "end_at": null,
+    "id": 12,
+    "reset_cycle": 1,
+    "start_at": "2025-04-01T03:00:00.0000000Z",
+    "steps": [
+      {
+        "count": 2,
+        "reward_set_id": 30130
+      },
+      {
+        "count": 3,
+        "reward_set_id": 30130
+      },
+      {
+        "count": 5,
+        "reward_set_id": 30130
+      },
+      {
+        "count": 6,
+        "reward_set_id": 30130
+      },
+      {
+        "count": 8,
+        "reward_set_id": 30130
+      },
+      {
+        "count": 9,
+        "reward_set_id": 30130
+      }
+    ]
+  }
+]

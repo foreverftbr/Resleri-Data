@@ -1,0 +1,562 @@
+[
+  {
+    "count": 3,
+    "growth_pack_id": 1,
+    "id": 1,
+    "premium_reward_set_id": 1008,
+    "reward_set_id": 1001
+  },
+  {
+    "count": 5,
+    "growth_pack_id": 1,
+    "id": 2,
+    "premium_reward_set_id": 1008,
+    "reward_set_id": 1001
+  },
+  {
+    "count": 7,
+    "growth_pack_id": 1,
+    "id": 3,
+    "premium_reward_set_id": 1008,
+    "reward_set_id": 1001
+  },
+  {
+    "count": 10,
+    "growth_pack_id": 1,
+    "id": 4,
+    "premium_reward_set_id": 1008,
+    "reward_set_id": 1001
+  },
+  {
+    "count": 12,
+    "growth_pack_id": 1,
+    "id": 5,
+    "premium_reward_set_id": 1008,
+    "reward_set_id": 1001
+  },
+  {
+    "count": 15,
+    "growth_pack_id": 1,
+    "id": 6,
+    "premium_reward_set_id": 1008,
+    "reward_set_id": 1001
+  },
+  {
+    "count": 20,
+    "growth_pack_id": 1,
+    "id": 7,
+    "premium_reward_set_id": 1008,
+    "reward_set_id": 1003
+  },
+  {
+    "count": 22,
+    "growth_pack_id": 1,
+    "id": 8,
+    "premium_reward_set_id": 1008,
+    "reward_set_id": 1003
+  },
+  {
+    "count": 25,
+    "growth_pack_id": 1,
+    "id": 9,
+    "premium_reward_set_id": 1008,
+    "reward_set_id": 1003
+  },
+  {
+    "count": 30,
+    "growth_pack_id": 1,
+    "id": 10,
+    "premium_reward_set_id": 1008,
+    "reward_set_id": 1003
+  },
+  {
+    "count": 10,
+    "growth_pack_id": 2,
+    "id": 11,
+    "premium_reward_set_id": 1008,
+    "reward_set_id": 1005
+  },
+  {
+    "count": 30,
+    "growth_pack_id": 2,
+    "id": 12,
+    "premium_reward_set_id": 1008,
+    "reward_set_id": 1005
+  },
+  {
+    "count": 50,
+    "growth_pack_id": 2,
+    "id": 13,
+    "premium_reward_set_id": 1008,
+    "reward_set_id": 1005
+  },
+  {
+    "count": 100,
+    "growth_pack_id": 2,
+    "id": 14,
+    "premium_reward_set_id": 1008,
+    "reward_set_id": 1005
+  },
+  {
+    "count": 150,
+    "growth_pack_id": 2,
+    "id": 15,
+    "premium_reward_set_id": 1008,
+    "reward_set_id": 1005
+  },
+  {
+    "count": 200,
+    "growth_pack_id": 2,
+    "id": 16,
+    "premium_reward_set_id": 1008,
+    "reward_set_id": 1005
+  },
+  {
+    "count": 250,
+    "growth_pack_id": 2,
+    "id": 17,
+    "premium_reward_set_id": 1008,
+    "reward_set_id": 1006
+  },
+  {
+    "count": 300,
+    "growth_pack_id": 2,
+    "id": 18,
+    "premium_reward_set_id": 1008,
+    "reward_set_id": 1006
+  },
+  {
+    "count": 400,
+    "growth_pack_id": 2,
+    "id": 19,
+    "premium_reward_set_id": 1008,
+    "reward_set_id": 1006
+  },
+  {
+    "count": 500,
+    "growth_pack_id": 2,
+    "id": 20,
+    "premium_reward_set_id": 1008,
+    "reward_set_id": 1006
+  },
+  {
+    "count": 200,
+    "growth_pack_id": 107,
+    "id": 83,
+    "premium_reward_set_id": 1052,
+    "reward_set_id": 1035
+  },
+  {
+    "count": 400,
+    "growth_pack_id": 107,
+    "id": 84,
+    "premium_reward_set_id": 1053,
+    "reward_set_id": 1036
+  },
+  {
+    "count": 600,
+    "growth_pack_id": 107,
+    "id": 85,
+    "premium_reward_set_id": 1052,
+    "reward_set_id": 1037
+  },
+  {
+    "count": 800,
+    "growth_pack_id": 107,
+    "id": 86,
+    "premium_reward_set_id": 1053,
+    "reward_set_id": 1038
+  },
+  {
+    "count": 1000,
+    "growth_pack_id": 107,
+    "id": 87,
+    "premium_reward_set_id": 1054,
+    "reward_set_id": 1039
+  },
+  {
+    "count": 1200,
+    "growth_pack_id": 107,
+    "id": 88,
+    "premium_reward_set_id": 1052,
+    "reward_set_id": 1040
+  },
+  {
+    "count": 1400,
+    "growth_pack_id": 107,
+    "id": 89,
+    "premium_reward_set_id": 1053,
+    "reward_set_id": 1041
+  },
+  {
+    "count": 1600,
+    "growth_pack_id": 107,
+    "id": 90,
+    "premium_reward_set_id": 1055,
+    "reward_set_id": 1042
+  },
+  {
+    "count": 1800,
+    "growth_pack_id": 107,
+    "id": 91,
+    "premium_reward_set_id": 1056,
+    "reward_set_id": 1043
+  },
+  {
+    "count": 2000,
+    "growth_pack_id": 107,
+    "id": 92,
+    "premium_reward_set_id": 1054,
+    "reward_set_id": 1044
+  },
+  {
+    "count": 2100,
+    "growth_pack_id": 107,
+    "id": 93,
+    "premium_reward_set_id": 1052,
+    "reward_set_id": 1045
+  },
+  {
+    "count": 2200,
+    "growth_pack_id": 107,
+    "id": 94,
+    "premium_reward_set_id": 1053,
+    "reward_set_id": 1046
+  },
+  {
+    "count": 2300,
+    "growth_pack_id": 107,
+    "id": 95,
+    "premium_reward_set_id": 1052,
+    "reward_set_id": 1047
+  },
+  {
+    "count": 2400,
+    "growth_pack_id": 107,
+    "id": 96,
+    "premium_reward_set_id": 1053,
+    "reward_set_id": 1048
+  },
+  {
+    "count": 2500,
+    "growth_pack_id": 107,
+    "id": 97,
+    "premium_reward_set_id": 1054,
+    "reward_set_id": 1049
+  },
+  {
+    "count": 2600,
+    "growth_pack_id": 107,
+    "id": 98,
+    "premium_reward_set_id": 1052,
+    "reward_set_id": 1040
+  },
+  {
+    "count": 2700,
+    "growth_pack_id": 107,
+    "id": 99,
+    "premium_reward_set_id": 1053,
+    "reward_set_id": 1041
+  },
+  {
+    "count": 2800,
+    "growth_pack_id": 107,
+    "id": 100,
+    "premium_reward_set_id": 1057,
+    "reward_set_id": 1050
+  },
+  {
+    "count": 2900,
+    "growth_pack_id": 107,
+    "id": 101,
+    "premium_reward_set_id": 1058,
+    "reward_set_id": 1051
+  },
+  {
+    "count": 3000,
+    "growth_pack_id": 107,
+    "id": 102,
+    "premium_reward_set_id": 1054,
+    "reward_set_id": 1059
+  },
+  {
+    "count": 200,
+    "growth_pack_id": 108,
+    "id": 103,
+    "premium_reward_set_id": 1060,
+    "reward_set_id": 1035
+  },
+  {
+    "count": 400,
+    "growth_pack_id": 108,
+    "id": 104,
+    "premium_reward_set_id": 1061,
+    "reward_set_id": 1036
+  },
+  {
+    "count": 600,
+    "growth_pack_id": 108,
+    "id": 105,
+    "premium_reward_set_id": 1060,
+    "reward_set_id": 1037
+  },
+  {
+    "count": 800,
+    "growth_pack_id": 108,
+    "id": 106,
+    "premium_reward_set_id": 1061,
+    "reward_set_id": 1038
+  },
+  {
+    "count": 1000,
+    "growth_pack_id": 108,
+    "id": 107,
+    "premium_reward_set_id": 1054,
+    "reward_set_id": 1039
+  },
+  {
+    "count": 1200,
+    "growth_pack_id": 108,
+    "id": 108,
+    "premium_reward_set_id": 1060,
+    "reward_set_id": 1040
+  },
+  {
+    "count": 1400,
+    "growth_pack_id": 108,
+    "id": 109,
+    "premium_reward_set_id": 1061,
+    "reward_set_id": 1041
+  },
+  {
+    "count": 1600,
+    "growth_pack_id": 108,
+    "id": 110,
+    "premium_reward_set_id": 1055,
+    "reward_set_id": 1042
+  },
+  {
+    "count": 1800,
+    "growth_pack_id": 108,
+    "id": 111,
+    "premium_reward_set_id": 1056,
+    "reward_set_id": 1043
+  },
+  {
+    "count": 2000,
+    "growth_pack_id": 108,
+    "id": 112,
+    "premium_reward_set_id": 1054,
+    "reward_set_id": 1044
+  },
+  {
+    "count": 2100,
+    "growth_pack_id": 108,
+    "id": 113,
+    "premium_reward_set_id": 1060,
+    "reward_set_id": 1045
+  },
+  {
+    "count": 2200,
+    "growth_pack_id": 108,
+    "id": 114,
+    "premium_reward_set_id": 1061,
+    "reward_set_id": 1046
+  },
+  {
+    "count": 2300,
+    "growth_pack_id": 108,
+    "id": 115,
+    "premium_reward_set_id": 1060,
+    "reward_set_id": 1047
+  },
+  {
+    "count": 2400,
+    "growth_pack_id": 108,
+    "id": 116,
+    "premium_reward_set_id": 1061,
+    "reward_set_id": 1048
+  },
+  {
+    "count": 2500,
+    "growth_pack_id": 108,
+    "id": 117,
+    "premium_reward_set_id": 1054,
+    "reward_set_id": 1049
+  },
+  {
+    "count": 2600,
+    "growth_pack_id": 108,
+    "id": 118,
+    "premium_reward_set_id": 1060,
+    "reward_set_id": 1040
+  },
+  {
+    "count": 2700,
+    "growth_pack_id": 108,
+    "id": 119,
+    "premium_reward_set_id": 1061,
+    "reward_set_id": 1041
+  },
+  {
+    "count": 2800,
+    "growth_pack_id": 108,
+    "id": 120,
+    "premium_reward_set_id": 1057,
+    "reward_set_id": 1050
+  },
+  {
+    "count": 2900,
+    "growth_pack_id": 108,
+    "id": 121,
+    "premium_reward_set_id": 1058,
+    "reward_set_id": 1051
+  },
+  {
+    "count": 3000,
+    "growth_pack_id": 108,
+    "id": 122,
+    "premium_reward_set_id": 1054,
+    "reward_set_id": 1059
+  },
+  {
+    "count": 200,
+    "growth_pack_id": 109,
+    "id": 129,
+    "premium_reward_set_id": 1062,
+    "reward_set_id": 1035
+  },
+  {
+    "count": 400,
+    "growth_pack_id": 109,
+    "id": 130,
+    "premium_reward_set_id": 1063,
+    "reward_set_id": 1036
+  },
+  {
+    "count": 600,
+    "growth_pack_id": 109,
+    "id": 131,
+    "premium_reward_set_id": 1062,
+    "reward_set_id": 1037
+  },
+  {
+    "count": 800,
+    "growth_pack_id": 109,
+    "id": 132,
+    "premium_reward_set_id": 1063,
+    "reward_set_id": 1038
+  },
+  {
+    "count": 1000,
+    "growth_pack_id": 109,
+    "id": 133,
+    "premium_reward_set_id": 1054,
+    "reward_set_id": 1039
+  },
+  {
+    "count": 1200,
+    "growth_pack_id": 109,
+    "id": 134,
+    "premium_reward_set_id": 1062,
+    "reward_set_id": 1040
+  },
+  {
+    "count": 1400,
+    "growth_pack_id": 109,
+    "id": 135,
+    "premium_reward_set_id": 1063,
+    "reward_set_id": 1041
+  },
+  {
+    "count": 1600,
+    "growth_pack_id": 109,
+    "id": 136,
+    "premium_reward_set_id": 1055,
+    "reward_set_id": 1042
+  },
+  {
+    "count": 1800,
+    "growth_pack_id": 109,
+    "id": 137,
+    "premium_reward_set_id": 1056,
+    "reward_set_id": 1043
+  },
+  {
+    "count": 2000,
+    "growth_pack_id": 109,
+    "id": 138,
+    "premium_reward_set_id": 1054,
+    "reward_set_id": 1044
+  },
+  {
+    "count": 2100,
+    "growth_pack_id": 109,
+    "id": 139,
+    "premium_reward_set_id": 1062,
+    "reward_set_id": 1045
+  },
+  {
+    "count": 2200,
+    "growth_pack_id": 109,
+    "id": 140,
+    "premium_reward_set_id": 1063,
+    "reward_set_id": 1046
+  },
+  {
+    "count": 2300,
+    "growth_pack_id": 109,
+    "id": 141,
+    "premium_reward_set_id": 1062,
+    "reward_set_id": 1047
+  },
+  {
+    "count": 2400,
+    "growth_pack_id": 109,
+    "id": 142,
+    "premium_reward_set_id": 1063,
+    "reward_set_id": 1048
+  },
+  {
+    "count": 2500,
+    "growth_pack_id": 109,
+    "id": 143,
+    "premium_reward_set_id": 1054,
+    "reward_set_id": 1049
+  },
+  {
+    "count": 2600,
+    "growth_pack_id": 109,
+    "id": 144,
+    "premium_reward_set_id": 1062,
+    "reward_set_id": 1040
+  },
+  {
+    "count": 2700,
+    "growth_pack_id": 109,
+    "id": 145,
+    "premium_reward_set_id": 1063,
+    "reward_set_id": 1041
+  },
+  {
+    "count": 2800,
+    "growth_pack_id": 109,
+    "id": 146,
+    "premium_reward_set_id": 1057,
+    "reward_set_id": 1050
+  },
+  {
+    "count": 2900,
+    "growth_pack_id": 109,
+    "id": 147,
+    "premium_reward_set_id": 1058,
+    "reward_set_id": 1051
+  },
+  {
+    "count": 3000,
+    "growth_pack_id": 109,
+    "id": 148,
+    "premium_reward_set_id": 1054,
+    "reward_set_id": 1059
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "end_at": null,
+    "gacha_ids": [
+      2195,
+      2196
+    ],
+    "id": 4,
+    "start_at": null
+  },
+  {
+    "end_at": null,
+    "gacha_ids": [
+      2199,
+      2200
+    ],
+    "id": 5,
+    "start_at": null
+  },
+  {
+    "end_at": null,
+    "gacha_ids": [
+      2201,
+      2202
+    ],
+    "id": 6,
+    "start_at": null
+  },
+  {
+    "end_at": null,
+    "gacha_ids": [
+      2203,
+      2204
+    ],
+    "id": 7,
+    "start_at": null
+  }
+]

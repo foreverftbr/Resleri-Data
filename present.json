@@ -1,0 +1,24 @@
+[
+  {
+    "branch_friendship_point": 12,
+    "character_id": 33503,
+    "closeness_branch": 9,
+    "end_at": "2025-02-28T03:00:00.0000000Z",
+    "episode_id": 7908,
+    "id": 2,
+    "name": "あなたと夢見るトクベツ",
+    "stage_id": 97010110,
+    "start_at": "2025-02-14T03:00:00.0000000Z"
+  },
+  {
+    "branch_friendship_point": 12,
+    "character_id": 40004,
+    "closeness_branch": 8,
+    "end_at": "2025-03-07T03:00:00.0000000Z",
+    "episode_id": 8208,
+    "id": 3,
+    "name": "あなたと冒険するトクベツ",
+    "stage_id": 97310110,
+    "start_at": "2025-02-21T03:00:00.0000000Z"
+  }
+]
