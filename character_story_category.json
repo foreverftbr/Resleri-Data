@@ -1,0 +1,44 @@
+[
+  {
+    "episode_id": 6801,
+    "id": 7,
+    "item_id": 772,
+    "name": "\u30DF\u30FC\u30B1\u7DE8",
+    "tab_release_start_at": null
+  },
+  {
+    "episode_id": 6801,
+    "id": 8,
+    "item_id": 772,
+    "name": "\u30C7\u30A3\u30AA\u30FC\u30CA\u7DE8",
+    "tab_release_start_at": null
+  },
+  {
+    "episode_id": 6801,
+    "id": 9,
+    "item_id": 772,
+    "name": "\u5171\u901A\u7DE8",
+    "tab_release_start_at": null
+  },
+  {
+    "episode_id": 6901,
+    "id": 10,
+    "item_id": 773,
+    "name": "\u30DE\u30AF\u30C0\u7DE8",
+    "tab_release_start_at": null
+  },
+  {
+    "episode_id": 6901,
+    "id": 11,
+    "item_id": 773,
+    "name": "\u30D6\u30E9\u30C3\u30C9\u7DE8",
+    "tab_release_start_at": null
+  },
+  {
+    "episode_id": 6901,
+    "id": 12,
+    "item_id": 773,
+    "name": "\u5171\u901A\u7DE8",
+    "tab_release_start_at": null
+  }
+]

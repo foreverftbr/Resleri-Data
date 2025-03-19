@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "\u53CB\u9054\u3092\u62DB\u5F85\u3059\u308B",
+    "reward_set_id": 60001,
+    "user_count": 5
+  },
+  {
+    "id": 2,
+    "name": "\u53CB\u9054\u304C\u30E1\u30A4\u30F3\u30B9\u30C8\u30FC\u30EA\u30FC1\u7AE0\u3092\u30AF\u30EA\u30A2",
+    "reward_set_id": 60001,
+    "user_count": 5
+  },
+  {
+    "id": 3,
+    "name": "\u53CB\u9054\u304C\u30E1\u30A4\u30F3\u30B9\u30C8\u30FC\u30EA\u30FC3\u7AE0\u3092\u30AF\u30EA\u30A2",
+    "reward_set_id": 60001,
+    "user_count": 5
+  },
+  {
+    "id": 4,
+    "name": "\u53CB\u9054\u3092\u62DB\u5F85\u3059\u308B",
+    "reward_set_id": 60001,
+    "user_count": 5
+  },
+  {
+    "id": 5,
+    "name": "\u53CB\u9054\u304C\u30E1\u30A4\u30F3\u30B9\u30C8\u30FC\u30EA\u30FC1\u7AE0\u3092\u30AF\u30EA\u30A2",
+    "reward_set_id": 60001,
+    "user_count": 5
+  },
+  {
+    "id": 6,
+    "name": "\u53CB\u9054\u304C\u30E1\u30A4\u30F3\u30B9\u30C8\u30FC\u30EA\u30FC3\u7AE0\u3092\u30AF\u30EA\u30A2",
+    "reward_set_id": 60001,
+    "user_count": 5
+  }
+]

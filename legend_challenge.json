@@ -1,0 +1,166 @@
+[
+  {
+    "background_image_path_hash": 882853593181366665,
+    "banner_path_hash": 6287540740708223279,
+    "bgm_path_hash": 8997976731272303505,
+    "end_at": "2024-12-27T03:00:00.0000000Z",
+    "episode_id": 1000003,
+    "id": 4,
+    "logo_path_hash": 401882947694797816,
+    "name": "\u30AD\u30E9\u30AD\u30E9\u30BB\u30AD\u30E9\u30E9\u661F\u8A95\u796D\uFF01",
+    "patterns": [],
+    "priority": 4,
+    "start_at": "2024-12-13T03:00:00.0000000Z"
+  },
+  {
+    "background_image_path_hash": 415399440919413292,
+    "banner_path_hash": 6994588571532256245,
+    "bgm_path_hash": 4171598453256239585,
+    "end_at": "2025-01-06T03:00:00.0000000Z",
+    "episode_id": 1000004,
+    "id": 5,
+    "logo_path_hash": 3350552758952235518,
+    "name": "\u6E29\u6CC9\u596A\u9084\u4F5C\u6226\uFF01 \uFF5E\u3068\u3068\u306E\u3044\u3068\u7652\u3057\u3092\u6C42\u3081\u3066\uFF5E",
+    "patterns": [
+      {
+        "ids": [
+          75
+        ],
+        "type": 2
+      }
+    ],
+    "priority": 5,
+    "start_at": "2024-12-18T03:00:00.0000000Z"
+  },
+  {
+    "background_image_path_hash": 2055447228305739462,
+    "banner_path_hash": 4016221897532761493,
+    "bgm_path_hash": 8373548815014406115,
+    "end_at": "2025-01-17T03:00:00.0000000Z",
+    "episode_id": 1000005,
+    "id": 6,
+    "logo_path_hash": 7583718839332333222,
+    "name": "\u7E01\u7D50\u3076\u8005\u3000\u661F\u7167\u3089\u3059\u9053",
+    "patterns": [],
+    "priority": 7,
+    "start_at": "2024-12-31T15:00:00.0000000Z"
+  },
+  {
+    "background_image_path_hash": 5194198530751672699,
+    "banner_path_hash": 4417452253147955741,
+    "bgm_path_hash": 2364467575899548208,
+    "end_at": "2025-01-10T03:00:00.0000000Z",
+    "episode_id": 1000006,
+    "id": 7,
+    "logo_path_hash": 1660153472124664588,
+    "name": "\u30E9\u30F3\u30BF\u30FC\u30CA\u5EFA\u56FD\u8A18\u5FF5\u676F",
+    "patterns": [],
+    "priority": 6,
+    "start_at": "2024-12-27T03:00:00.0000000Z"
+  },
+  {
+    "background_image_path_hash": 6583922819303269860,
+    "banner_path_hash": 6499979656426826530,
+    "bgm_path_hash": 1914696260678914893,
+    "end_at": "2025-02-14T03:00:00.0000000Z",
+    "episode_id": 1000007,
+    "id": 8,
+    "logo_path_hash": 8377292843667884993,
+    "name": "\u89AA\u53CB\u3068\u6B69\u3080\u672A\u6765",
+    "patterns": [],
+    "priority": 8,
+    "start_at": "2025-01-24T03:00:00.0000000Z"
+  },
+  {
+    "background_image_path_hash": 8819535637817226389,
+    "banner_path_hash": 7508749211804080712,
+    "bgm_path_hash": 1914696260678914893,
+    "end_at": "2025-02-14T03:00:00.0000000Z",
+    "episode_id": 1000008,
+    "id": 9,
+    "logo_path_hash": 59019409021686499,
+    "name": "\u30E9\u30A4\u30D0\u30EB\u3068\u7AF6\u3046\u672A\u6765",
+    "patterns": [],
+    "priority": 9,
+    "start_at": "2025-01-31T03:00:00.0000000Z"
+  },
+  {
+    "background_image_path_hash": 1152219494303793808,
+    "banner_path_hash": 5799009976959992054,
+    "bgm_path_hash": 1711905969008417321,
+    "end_at": "2025-02-21T03:00:00.0000000Z",
+    "episode_id": 1000009,
+    "id": 10,
+    "logo_path_hash": 7699109334977754674,
+    "name": "\u7ADC\u306E\u6D99\u306F\u82B1\u3068\u6563\u308B",
+    "patterns": [],
+    "priority": 10,
+    "start_at": "2025-02-07T03:00:00.0000000Z"
+  },
+  {
+    "background_image_path_hash": 1878344720408918547,
+    "banner_path_hash": 7558393194153989160,
+    "bgm_path_hash": 5971992358011089693,
+    "end_at": "2025-02-28T03:00:00.0000000Z",
+    "episode_id": 1000010,
+    "id": 11,
+    "logo_path_hash": 9049333138439838493,
+    "name": "\u3042\u306A\u305F\u3068\u5922\u898B\u308B\u30C8\u30AF\u30D9\u30C4",
+    "patterns": [
+      {
+        "ids": [
+          102
+        ],
+        "type": 2
+      }
+    ],
+    "priority": 11,
+    "start_at": "2025-02-14T03:00:00.0000000Z"
+  },
+  {
+    "background_image_path_hash": 3858684527419967390,
+    "banner_path_hash": 2553760031465648599,
+    "bgm_path_hash": 5971992358011089693,
+    "end_at": "2025-03-07T03:00:00.0000000Z",
+    "episode_id": 1000011,
+    "id": 12,
+    "logo_path_hash": 2057235988238553491,
+    "name": "\u3042\u306A\u305F\u3068\u5192\u967A\u3059\u308B\u30C8\u30AF\u30D9\u30C4",
+    "patterns": [
+      {
+        "ids": [
+          103
+        ],
+        "type": 2
+      }
+    ],
+    "priority": 12,
+    "start_at": "2025-02-21T03:00:00.0000000Z"
+  },
+  {
+    "background_image_path_hash": 2270662187960325133,
+    "banner_path_hash": 3286449477907401570,
+    "bgm_path_hash": 1915067688521612763,
+    "end_at": "2025-03-14T03:00:00.0000000Z",
+    "episode_id": 1000012,
+    "id": 13,
+    "logo_path_hash": 8138952302350719648,
+    "name": "\u30EC\u30B8\u30A7\u30F3\u30C9\u30C1\u30E3\u30EC\u30F3\u30B8\u30AF\u30F4\u30A1\u30EC\u30EB\u30AC",
+    "patterns": [],
+    "priority": 13,
+    "start_at": "2025-02-28T03:00:00.0000000Z"
+  },
+  {
+    "background_image_path_hash": 7976256400610261685,
+    "banner_path_hash": 4030787974143502535,
+    "bgm_path_hash": 1915067688521612763,
+    "end_at": "2025-03-31T03:00:00.0000000Z",
+    "episode_id": 1000013,
+    "id": 14,
+    "logo_path_hash": 8686503822310637806,
+    "name": "\u30A2\u30A4\u30C6\u30E0\u5927\u6226 \u306A\u3093\u3067\u3082\u5C4B\u30B7\u30C8\u30EA\u30F3\u306E\u6311\u6226\u72B6",
+    "patterns": [],
+    "priority": 14,
+    "start_at": "2025-03-12T03:00:00.0000000Z"
+  }
+]

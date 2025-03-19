@@ -1,0 +1,38 @@
+[
+  {
+    "id": 2,
+    "name": "\u30DE\u30F3\u30B9\u30EA\u30FC",
+    "priority": 3,
+    "still_path_hash": 1148004366295646095
+  },
+  {
+    "id": 3,
+    "name": "\u30D1\u30C3\u30AF",
+    "priority": 101,
+    "still_path_hash": 1207440616432708004
+  },
+  {
+    "id": 5,
+    "name": "\u30AD\u30E3\u30E9\u30E1\u30E2\u30EA\u30A2",
+    "priority": 104,
+    "still_path_hash": 7516125805510689963
+  },
+  {
+    "id": 6,
+    "name": "\u4EA4\u63DB\u6240",
+    "priority": 103,
+    "still_path_hash": 2525609284964491912
+  },
+  {
+    "id": 7,
+    "name": "\u304A\u3059\u3059\u3081",
+    "priority": 100,
+    "still_path_hash": 1911614260980266437
+  },
+  {
+    "id": 8,
+    "name": "\u30C7\u30A4\u30EA\u30FC",
+    "priority": 102,
+    "still_path_hash": 1199418045615503335
+  }
+]

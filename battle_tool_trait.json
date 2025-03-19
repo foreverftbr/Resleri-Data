@@ -1,0 +1,1572 @@
+[
+  {
+    "category_id": 1,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000008,
+        "values": [
+          300,
+          600,
+          900,
+          1800,
+          3000
+        ]
+      }
+    ],
+    "filter_ids": [
+      1
+    ],
+    "id": 1,
+    "name": "\u525B\u529B\u306E\u795D\u798F",
+    "quality_group_ids": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 1,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000002,
+        "values": [
+          500,
+          900,
+          1400,
+          2700,
+          4500
+        ]
+      }
+    ],
+    "filter_ids": [
+      1
+    ],
+    "id": 2,
+    "name": "\u65AC\u306E\u795D\u798F",
+    "quality_group_ids": [
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "stimulator_rarity_id": 2
+  },
+  {
+    "category_id": 1,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000003,
+        "values": [
+          500,
+          900,
+          1400,
+          2700,
+          4500
+        ]
+      }
+    ],
+    "filter_ids": [
+      1
+    ],
+    "id": 3,
+    "name": "\u6253\u306E\u795D\u798F",
+    "quality_group_ids": [
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "stimulator_rarity_id": 2
+  },
+  {
+    "category_id": 1,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000001,
+        "values": [
+          500,
+          900,
+          1400,
+          2700,
+          4500
+        ]
+      }
+    ],
+    "filter_ids": [
+      1
+    ],
+    "id": 4,
+    "name": "\u7A81\u306E\u795D\u798F",
+    "quality_group_ids": [
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "stimulator_rarity_id": 2
+  },
+  {
+    "category_id": 1,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000009,
+        "values": [
+          300,
+          600,
+          900,
+          1800,
+          3000
+        ]
+      }
+    ],
+    "filter_ids": [
+      1
+    ],
+    "id": 5,
+    "name": "\u9B54\u529B\u306E\u795D\u798F",
+    "quality_group_ids": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 1,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000004,
+        "values": [
+          500,
+          900,
+          1400,
+          2700,
+          4500
+        ]
+      }
+    ],
+    "filter_ids": [
+      1
+    ],
+    "id": 6,
+    "name": "\u706B\u306E\u795D\u798F",
+    "quality_group_ids": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "stimulator_rarity_id": 2
+  },
+  {
+    "category_id": 1,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000005,
+        "values": [
+          500,
+          900,
+          1400,
+          2700,
+          4500
+        ]
+      }
+    ],
+    "filter_ids": [
+      1
+    ],
+    "id": 7,
+    "name": "\u6C37\u306E\u795D\u798F",
+    "quality_group_ids": [
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "stimulator_rarity_id": 2
+  },
+  {
+    "category_id": 1,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000007,
+        "values": [
+          500,
+          900,
+          1400,
+          2700,
+          4500
+        ]
+      }
+    ],
+    "filter_ids": [
+      1
+    ],
+    "id": 8,
+    "name": "\u98A8\u306E\u795D\u798F",
+    "quality_group_ids": [
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "stimulator_rarity_id": 2
+  },
+  {
+    "category_id": 1,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000006,
+        "values": [
+          500,
+          900,
+          1400,
+          2700,
+          4500
+        ]
+      }
+    ],
+    "filter_ids": [
+      1
+    ],
+    "id": 9,
+    "name": "\u96F7\u306E\u795D\u798F",
+    "quality_group_ids": [
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "stimulator_rarity_id": 2
+  },
+  {
+    "category_id": 2,
+    "description": "\u300C\u7269\u9632{0}%\u30A2\u30C3\u30D7\u300D\u3068\u300C\u9B54\u9632{1}%\u30A2\u30C3\u30D7\u300D\u30921\u56DE\u653B\u6483\u3055\u308C\u308B\u307E\u3067\u4ED8\u4E0E",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000050,
+        "values": [
+          100,
+          200,
+          300,
+          400,
+          500
+        ]
+      },
+      {
+        "id": 3000051,
+        "values": [
+          100,
+          200,
+          300,
+          400,
+          500
+        ]
+      }
+    ],
+    "filter_ids": [
+      2,
+      4
+    ],
+    "id": 10,
+    "name": "\u5B88\u8B77\u306E\u795D\u798F",
+    "quality_group_ids": [
+      121,
+      122,
+      123,
+      124,
+      125
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 2,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000051,
+        "values": [
+          100,
+          200,
+          300,
+          500,
+          800
+        ]
+      }
+    ],
+    "filter_ids": [
+      2,
+      4
+    ],
+    "id": 11,
+    "name": "\u9B54\u9632\u306E\u795D\u798F",
+    "quality_group_ids": [
+      126,
+      127,
+      128,
+      129,
+      130
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 2,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000050,
+        "values": [
+          100,
+          200,
+          300,
+          500,
+          800
+        ]
+      }
+    ],
+    "filter_ids": [
+      2,
+      4
+    ],
+    "id": 12,
+    "name": "\u7269\u9632\u306E\u795D\u798F",
+    "quality_group_ids": [
+      126,
+      127,
+      128,
+      129,
+      130
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 3,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000047,
+        "values": [
+          100,
+          200,
+          300,
+          500,
+          800
+        ]
+      }
+    ],
+    "filter_ids": [
+      3,
+      1
+    ],
+    "id": 13,
+    "name": "\u525B\u529B\u306E\u546A\u8A5B",
+    "quality_group_ids": [
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 3,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000063,
+        "values": [
+          100,
+          200,
+          300,
+          600,
+          1000
+        ]
+      }
+    ],
+    "filter_ids": [
+      3,
+      1
+    ],
+    "id": 14,
+    "name": "\u65AC\u306E\u546A\u8A5B",
+    "quality_group_ids": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "stimulator_rarity_id": 2
+  },
+  {
+    "category_id": 3,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000064,
+        "values": [
+          100,
+          200,
+          300,
+          600,
+          1000
+        ]
+      }
+    ],
+    "filter_ids": [
+      3,
+      1
+    ],
+    "id": 15,
+    "name": "\u6253\u306E\u546A\u8A5B",
+    "quality_group_ids": [
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "stimulator_rarity_id": 2
+  },
+  {
+    "category_id": 3,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000065,
+        "values": [
+          100,
+          200,
+          300,
+          600,
+          1000
+        ]
+      }
+    ],
+    "filter_ids": [
+      3,
+      1
+    ],
+    "id": 16,
+    "name": "\u7A81\u306E\u546A\u8A5B",
+    "quality_group_ids": [
+      111,
+      112,
+      113,
+      114,
+      115
+    ],
+    "stimulator_rarity_id": 2
+  },
+  {
+    "category_id": 3,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000049,
+        "values": [
+          100,
+          200,
+          300,
+          500,
+          800
+        ]
+      }
+    ],
+    "filter_ids": [
+      3,
+      1
+    ],
+    "id": 17,
+    "name": "\u9B54\u529B\u306E\u546A\u8A5B",
+    "quality_group_ids": [
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 3,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000059,
+        "values": [
+          100,
+          200,
+          300,
+          600,
+          1000
+        ]
+      }
+    ],
+    "filter_ids": [
+      3,
+      1
+    ],
+    "id": 18,
+    "name": "\u706B\u306E\u546A\u8A5B",
+    "quality_group_ids": [
+      81,
+      82,
+      83,
+      84,
+      85
+    ],
+    "stimulator_rarity_id": 2
+  },
+  {
+    "category_id": 3,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000060,
+        "values": [
+          100,
+          200,
+          300,
+          600,
+          1000
+        ]
+      }
+    ],
+    "filter_ids": [
+      3,
+      1
+    ],
+    "id": 19,
+    "name": "\u6C37\u306E\u546A\u8A5B",
+    "quality_group_ids": [
+      86,
+      87,
+      88,
+      89,
+      90
+    ],
+    "stimulator_rarity_id": 2
+  },
+  {
+    "category_id": 3,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000062,
+        "values": [
+          100,
+          200,
+          300,
+          600,
+          1000
+        ]
+      }
+    ],
+    "filter_ids": [
+      3,
+      1
+    ],
+    "id": 20,
+    "name": "\u98A8\u306E\u546A\u8A5B",
+    "quality_group_ids": [
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "stimulator_rarity_id": 2
+  },
+  {
+    "category_id": 3,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000061,
+        "values": [
+          100,
+          200,
+          300,
+          600,
+          1000
+        ]
+      }
+    ],
+    "filter_ids": [
+      3,
+      1
+    ],
+    "id": 21,
+    "name": "\u96F7\u306E\u546A\u8A5B",
+    "quality_group_ids": [
+      96,
+      97,
+      98,
+      99,
+      100
+    ],
+    "stimulator_rarity_id": 2
+  },
+  {
+    "category_id": 2,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000070,
+        "values": [
+          100,
+          200,
+          300,
+          500,
+          800
+        ]
+      }
+    ],
+    "filter_ids": [
+      2,
+      4
+    ],
+    "id": 22,
+    "name": "\u65AC\u306E\u76FE",
+    "quality_group_ids": [
+      131,
+      132,
+      133,
+      134,
+      135
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 2,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000071,
+        "values": [
+          100,
+          200,
+          300,
+          500,
+          800
+        ]
+      }
+    ],
+    "filter_ids": [
+      2,
+      4
+    ],
+    "id": 23,
+    "name": "\u6253\u306E\u76FE",
+    "quality_group_ids": [
+      131,
+      132,
+      133,
+      134,
+      135
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 2,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000072,
+        "values": [
+          100,
+          200,
+          300,
+          500,
+          800
+        ]
+      }
+    ],
+    "filter_ids": [
+      2,
+      4
+    ],
+    "id": 24,
+    "name": "\u7A81\u306E\u76FE",
+    "quality_group_ids": [
+      131,
+      132,
+      133,
+      134,
+      135
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 2,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000066,
+        "values": [
+          100,
+          200,
+          300,
+          500,
+          800
+        ]
+      }
+    ],
+    "filter_ids": [
+      2,
+      4
+    ],
+    "id": 25,
+    "name": "\u706B\u306E\u76FE",
+    "quality_group_ids": [
+      131,
+      132,
+      133,
+      134,
+      135
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 2,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000067,
+        "values": [
+          100,
+          200,
+          300,
+          500,
+          800
+        ]
+      }
+    ],
+    "filter_ids": [
+      2,
+      4
+    ],
+    "id": 26,
+    "name": "\u6C37\u306E\u76FE",
+    "quality_group_ids": [
+      131,
+      132,
+      133,
+      134,
+      135
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 2,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000069,
+        "values": [
+          100,
+          200,
+          300,
+          500,
+          800
+        ]
+      }
+    ],
+    "filter_ids": [
+      2,
+      4
+    ],
+    "id": 27,
+    "name": "\u98A8\u306E\u76FE",
+    "quality_group_ids": [
+      131,
+      132,
+      133,
+      134,
+      135
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 2,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000068,
+        "values": [
+          100,
+          200,
+          300,
+          500,
+          800
+        ]
+      }
+    ],
+    "filter_ids": [
+      2,
+      4
+    ],
+    "id": 28,
+    "name": "\u96F7\u306E\u76FE",
+    "quality_group_ids": [
+      131,
+      132,
+      133,
+      134,
+      135
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 1,
+    "description": "",
+    "disable_duplicate_assign": true,
+    "effects": [
+      {
+        "id": 3000079,
+        "values": [
+          600,
+          1200,
+          1800,
+          3600,
+          6000
+        ]
+      }
+    ],
+    "filter_ids": [
+      1
+    ],
+    "id": 29,
+    "name": "\u3077\u306B\u7279\u653B",
+    "quality_group_ids": [
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 1,
+    "description": "",
+    "disable_duplicate_assign": true,
+    "effects": [
+      {
+        "id": 3000082,
+        "values": [
+          600,
+          1200,
+          1800,
+          3600,
+          6000
+        ]
+      }
+    ],
+    "filter_ids": [
+      1
+    ],
+    "id": 30,
+    "name": "\u7CBE\u970A\u7279\u653B",
+    "quality_group_ids": [
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 1,
+    "description": "",
+    "disable_duplicate_assign": true,
+    "effects": [
+      {
+        "id": 3000080,
+        "values": [
+          600,
+          1200,
+          1800,
+          3600,
+          6000
+        ]
+      }
+    ],
+    "filter_ids": [
+      1
+    ],
+    "id": 31,
+    "name": "\u7363\u7279\u653B",
+    "quality_group_ids": [
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 1,
+    "description": "",
+    "disable_duplicate_assign": true,
+    "effects": [
+      {
+        "id": 3000081,
+        "values": [
+          600,
+          1200,
+          1800,
+          3600,
+          6000
+        ]
+      }
+    ],
+    "filter_ids": [
+      1
+    ],
+    "id": 32,
+    "name": "\u9CE5\u7279\u653B",
+    "quality_group_ids": [
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 1,
+    "description": "",
+    "disable_duplicate_assign": true,
+    "effects": [
+      {
+        "id": 3000083,
+        "values": [
+          600,
+          1200,
+          1800,
+          3600,
+          6000
+        ]
+      }
+    ],
+    "filter_ids": [
+      1
+    ],
+    "id": 33,
+    "name": "\u6C34\u68F2\u7279\u653B",
+    "quality_group_ids": [
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 2,
+    "description": "",
+    "disable_duplicate_assign": true,
+    "effects": [
+      {
+        "id": 3000089,
+        "values": [
+          100,
+          200,
+          300,
+          500,
+          800
+        ]
+      }
+    ],
+    "filter_ids": [
+      2,
+      4
+    ],
+    "id": 34,
+    "name": "\u3077\u306B\u7279\u9632",
+    "quality_group_ids": [
+      131,
+      132,
+      133,
+      134,
+      135
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 2,
+    "description": "",
+    "disable_duplicate_assign": true,
+    "effects": [
+      {
+        "id": 3000092,
+        "values": [
+          100,
+          200,
+          300,
+          500,
+          800
+        ]
+      }
+    ],
+    "filter_ids": [
+      2,
+      4
+    ],
+    "id": 35,
+    "name": "\u7CBE\u970A\u7279\u9632",
+    "quality_group_ids": [
+      131,
+      132,
+      133,
+      134,
+      135
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 2,
+    "description": "",
+    "disable_duplicate_assign": true,
+    "effects": [
+      {
+        "id": 3000090,
+        "values": [
+          100,
+          200,
+          300,
+          500,
+          800
+        ]
+      }
+    ],
+    "filter_ids": [
+      2,
+      4
+    ],
+    "id": 36,
+    "name": "\u7363\u7279\u9632",
+    "quality_group_ids": [
+      131,
+      132,
+      133,
+      134,
+      135
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 2,
+    "description": "",
+    "disable_duplicate_assign": true,
+    "effects": [
+      {
+        "id": 3000091,
+        "values": [
+          100,
+          200,
+          300,
+          500,
+          800
+        ]
+      }
+    ],
+    "filter_ids": [
+      2,
+      4
+    ],
+    "id": 37,
+    "name": "\u9CE5\u7279\u9632",
+    "quality_group_ids": [
+      131,
+      132,
+      133,
+      134,
+      135
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 2,
+    "description": "",
+    "disable_duplicate_assign": true,
+    "effects": [
+      {
+        "id": 3000093,
+        "values": [
+          100,
+          200,
+          300,
+          500,
+          800
+        ]
+      }
+    ],
+    "filter_ids": [
+      2,
+      4
+    ],
+    "id": 38,
+    "name": "\u6C34\u68F2\u7279\u9632",
+    "quality_group_ids": [
+      131,
+      132,
+      133,
+      134,
+      135
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 3,
+    "description": "",
+    "disable_duplicate_assign": true,
+    "effects": [
+      {
+        "id": 3000094,
+        "values": [
+          200,
+          400,
+          600,
+          1100,
+          1800
+        ]
+      }
+    ],
+    "filter_ids": [
+      3,
+      1
+    ],
+    "id": 39,
+    "name": "\u3077\u306B\u5F31\u70B9\u30B5\u30FC\u30C1",
+    "quality_group_ids": [
+      116,
+      117,
+      118,
+      119,
+      120
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 3,
+    "description": "",
+    "disable_duplicate_assign": true,
+    "effects": [
+      {
+        "id": 3000097,
+        "values": [
+          200,
+          400,
+          600,
+          1100,
+          1800
+        ]
+      }
+    ],
+    "filter_ids": [
+      3,
+      1
+    ],
+    "id": 40,
+    "name": "\u7CBE\u970A\u5F31\u70B9\u30B5\u30FC\u30C1",
+    "quality_group_ids": [
+      116,
+      117,
+      118,
+      119,
+      120
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 3,
+    "description": "",
+    "disable_duplicate_assign": true,
+    "effects": [
+      {
+        "id": 3000095,
+        "values": [
+          200,
+          400,
+          600,
+          1100,
+          1800
+        ]
+      }
+    ],
+    "filter_ids": [
+      3,
+      1
+    ],
+    "id": 41,
+    "name": "\u7363\u5F31\u70B9\u30B5\u30FC\u30C1",
+    "quality_group_ids": [
+      116,
+      117,
+      118,
+      119,
+      120
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 3,
+    "description": "",
+    "disable_duplicate_assign": true,
+    "effects": [
+      {
+        "id": 3000096,
+        "values": [
+          200,
+          400,
+          600,
+          1100,
+          1800
+        ]
+      }
+    ],
+    "filter_ids": [
+      3,
+      1
+    ],
+    "id": 42,
+    "name": "\u9CE5\u5F31\u70B9\u30B5\u30FC\u30C1",
+    "quality_group_ids": [
+      116,
+      117,
+      118,
+      119,
+      120
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 3,
+    "description": "",
+    "disable_duplicate_assign": true,
+    "effects": [
+      {
+        "id": 3000098,
+        "values": [
+          200,
+          400,
+          600,
+          1100,
+          1800
+        ]
+      }
+    ],
+    "filter_ids": [
+      3,
+      1
+    ],
+    "id": 43,
+    "name": "\u6C34\u68F2\u5F31\u70B9\u30B5\u30FC\u30C1",
+    "quality_group_ids": [
+      116,
+      117,
+      118,
+      119,
+      120
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 4,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000075,
+        "values": [
+          100,
+          200,
+          300,
+          500,
+          800
+        ]
+      }
+    ],
+    "filter_ids": [
+      4
+    ],
+    "id": 44,
+    "name": "\u5927\u304D\u306A\u56DE\u5FA9\u91CF",
+    "quality_group_ids": [
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 4,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000073,
+        "values": [
+          200,
+          300,
+          500,
+          900,
+          1500
+        ]
+      }
+    ],
+    "filter_ids": [
+      4
+    ],
+    "id": 45,
+    "name": "\u5358\u4F53\u56DE\u5FA9\u30DC\u30FC\u30CA\u30B9",
+    "quality_group_ids": [
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "stimulator_rarity_id": 2
+  },
+  {
+    "category_id": 4,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000074,
+        "values": [
+          100,
+          200,
+          300,
+          600,
+          1000
+        ]
+      }
+    ],
+    "filter_ids": [
+      4
+    ],
+    "id": 46,
+    "name": "\u5168\u4F53\u56DE\u5FA9\u30DC\u30FC\u30CA\u30B9",
+    "quality_group_ids": [
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "stimulator_rarity_id": 2
+  },
+  {
+    "category_id": 4,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000109,
+        "values": [
+          200,
+          400,
+          600,
+          1100,
+          1800
+        ]
+      }
+    ],
+    "filter_ids": [
+      4
+    ],
+    "id": 47,
+    "name": "\u4F7F\u3044\u5207\u308A\u56DE\u5FA9\u5F37\u5316",
+    "quality_group_ids": [
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "stimulator_rarity_id": 2
+  },
+  {
+    "category_id": 1,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000108,
+        "values": [
+          500,
+          900,
+          1400,
+          2700,
+          4500
+        ]
+      }
+    ],
+    "filter_ids": [
+      1
+    ],
+    "id": 48,
+    "name": "\u4F7F\u3044\u5207\u308A\u653B\u6483\u5F37\u5316",
+    "quality_group_ids": [
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "stimulator_rarity_id": 2
+  },
+  {
+    "category_id": 1,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000077,
+        "values": [
+          600,
+          1100,
+          1700,
+          3300,
+          5400
+        ]
+      }
+    ],
+    "filter_ids": [
+      1
+    ],
+    "id": 49,
+    "name": "\u8FFD\u3044\u6253\u3061\u5F37\u5316",
+    "quality_group_ids": [
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "stimulator_rarity_id": 1
+  },
+  {
+    "category_id": 2,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000045,
+        "values": [
+          100,
+          200,
+          300,
+          500,
+          800
+        ]
+      }
+    ],
+    "filter_ids": [
+      2,
+      4
+    ],
+    "id": 50,
+    "name": "\u4F1A\u5FC3\u306E\u51FA\u6765",
+    "quality_group_ids": [
+      126,
+      127,
+      128,
+      129,
+      130
+    ],
+    "stimulator_rarity_id": 2
+  },
+  {
+    "category_id": 1,
+    "description": "",
+    "disable_duplicate_assign": false,
+    "effects": [
+      {
+        "id": 3000078,
+        "values": [
+          600,
+          1100,
+          1700,
+          3300,
+          5400
+        ]
+      }
+    ],
+    "filter_ids": [
+      1
+    ],
+    "id": 51,
+    "name": "\u7834\u58CA\u529B\u4E0A\u6607",
+    "quality_group_ids": [
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "stimulator_rarity_id": 2
+  }
+]

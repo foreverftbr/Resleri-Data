@@ -1,0 +1,24 @@
+[
+  {
+    "branch_friendship_point": 12,
+    "character_id": 33503,
+    "closeness_branch": 9,
+    "end_at": "2025-02-28T03:00:00.0000000Z",
+    "episode_id": 7908,
+    "id": 2,
+    "name": "\u3042\u306A\u305F\u3068\u5922\u898B\u308B\u30C8\u30AF\u30D9\u30C4",
+    "stage_id": 97010110,
+    "start_at": "2025-02-14T03:00:00.0000000Z"
+  },
+  {
+    "branch_friendship_point": 12,
+    "character_id": 40004,
+    "closeness_branch": 8,
+    "end_at": "2025-03-07T03:00:00.0000000Z",
+    "episode_id": 8208,
+    "id": 3,
+    "name": "\u3042\u306A\u305F\u3068\u5192\u967A\u3059\u308B\u30C8\u30AF\u30D9\u30C4",
+    "stage_id": 97310110,
+    "start_at": "2025-02-21T03:00:00.0000000Z"
+  }
+]

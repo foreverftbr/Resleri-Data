@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "\u30A2\u30BF\u30C3\u30AB\u30FC\u306EHP\u30A2\u30C3\u30D7",
+    "priority": 1
+  },
+  {
+    "id": 2,
+    "name": "\u30A2\u30BF\u30C3\u30AB\u30FC\u306E\u4E0E\u30C0\u30E1\u30FC\u30B8\u30A2\u30C3\u30D7",
+    "priority": 2
+  },
+  {
+    "id": 3,
+    "name": "\u30D6\u30EC\u30A4\u30AB\u30FC\u306EHP\u30A2\u30C3\u30D7",
+    "priority": 101
+  },
+  {
+    "id": 4,
+    "name": "\u30D6\u30EC\u30A4\u30AB\u30FC\u306E\u4E0E\u30C0\u30E1\u30FC\u30B8\u30A2\u30C3\u30D7",
+    "priority": 102
+  },
+  {
+    "id": 5,
+    "name": "\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u306EHP\u30A2\u30C3\u30D7",
+    "priority": 201
+  },
+  {
+    "id": 6,
+    "name": "\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u306E\u30C0\u30E1\u30FC\u30B8\u8010\u6027\u30A2\u30C3\u30D7",
+    "priority": 202
+  },
+  {
+    "id": 7,
+    "name": "\u30B5\u30DD\u30FC\u30BF\u30FC\u306EHP\u30A2\u30C3\u30D7",
+    "priority": 301
+  },
+  {
+    "id": 8,
+    "name": "\u30B5\u30DD\u30FC\u30BF\u30FC\u306E\u30C0\u30E1\u30FC\u30B8\u8010\u6027\u30A2\u30C3\u30D7",
+    "priority": 302
+  },
+  {
+    "id": 9,
+    "name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\u306EHP\u56DE\u5FA9\u91CF\u30A2\u30C3\u30D7",
+    "priority": 1
+  },
+  {
+    "id": 10,
+    "name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\u306E\u4E0E\u30C0\u30E1\u30FC\u30B8\u30A2\u30C3\u30D7",
+    "priority": 2
+  },
+  {
+    "id": 11,
+    "name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\u306E\u5F37\u5316\u52B9\u679C\u30A2\u30C3\u30D7",
+    "priority": 3
+  },
+  {
+    "id": 12,
+    "name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\u306E\u30DE\u30A4\u30CA\u30B9\u52B9\u679C\u30A2\u30C3\u30D7",
+    "priority": 4
+  },
+  {
+    "id": 13,
+    "name": "\u6B66\u5668\u306E\u7269\u653B\u30A2\u30C3\u30D7",
+    "priority": 101
+  },
+  {
+    "id": 14,
+    "name": "\u6B66\u5668\u306E\u9B54\u653B\u30A2\u30C3\u30D7",
+    "priority": 102
+  },
+  {
+    "id": 15,
+    "name": "\u9632\u5177\u306E\u7269\u9632\u30A2\u30C3\u30D7",
+    "priority": 201
+  },
+  {
+    "id": 16,
+    "name": "\u9632\u5177\u306E\u9B54\u9632\u30A2\u30C3\u30D7",
+    "priority": 202
+  },
+  {
+    "id": 17,
+    "name": "\u88C5\u98FE\u54C1\u306EHP\u30A2\u30C3\u30D7",
+    "priority": 301
+  },
+  {
+    "id": 18,
+    "name": "\u88C5\u98FE\u54C1\u306E\u7D20\u65E9\u3055\u30A2\u30C3\u30D7",
+    "priority": 302
+  }
+]

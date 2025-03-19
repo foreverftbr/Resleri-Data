@@ -1,0 +1,130 @@
+[
+  {
+    "description": "\u30AF\u30F4\u30A1\u30EC\u30EB\u30AC1\u6226\u76EE\u7528\u4EF2\u9593\u547C\u3073_4\u4F53",
+    "enemies": [
+      {
+        "id": 10221001,
+        "level": 80
+      },
+      {
+        "id": 10221001,
+        "level": 80
+      },
+      {
+        "id": 10221001,
+        "level": 80
+      },
+      {
+        "id": 10221001,
+        "level": 80
+      }
+    ],
+    "id": 14
+  },
+  {
+    "description": "\u30AF\u30F4\u30A1\u30EC\u30EB\u30AC1\u6226\u76EE\u7528\u4EF2\u9593\u547C\u3073_3\u4F53",
+    "enemies": [
+      {
+        "id": 10221001,
+        "level": 80
+      },
+      {
+        "id": 10221001,
+        "level": 80
+      },
+      {
+        "id": 10221001,
+        "level": 80
+      }
+    ],
+    "id": 15
+  },
+  {
+    "description": "\u30AF\u30F4\u30A1\u30EC\u30EB\u30AC1\u6226\u76EE\u7528\u4EF2\u9593\u547C\u3073_2\u4F53",
+    "enemies": [
+      {
+        "id": 10221001,
+        "level": 80
+      },
+      {
+        "id": 10221001,
+        "level": 80
+      }
+    ],
+    "id": 16
+  },
+  {
+    "description": "\u30AF\u30F4\u30A1\u30EC\u30EB\u30AC1\u6226\u76EE\u7528\u4EF2\u9593\u547C\u3073_1\u4F53",
+    "enemies": [
+      {
+        "id": 10221001,
+        "level": 80
+      }
+    ],
+    "id": 17
+  },
+  {
+    "description": "\u30AF\u30F4\u30A1\u30EC\u30EB\u30AC1\u6226\u76EE\u7528\u4EF2\u9593\u547C\u3073_4\u4F53",
+    "enemies": [
+      {
+        "id": 10221001,
+        "level": 100
+      },
+      {
+        "id": 10221001,
+        "level": 100
+      },
+      {
+        "id": 10221001,
+        "level": 100
+      },
+      {
+        "id": 10221001,
+        "level": 100
+      }
+    ],
+    "id": 20
+  },
+  {
+    "description": "\u30AF\u30F4\u30A1\u30EC\u30EB\u30AC1\u6226\u76EE\u7528\u4EF2\u9593\u547C\u3073_3\u4F53",
+    "enemies": [
+      {
+        "id": 10221001,
+        "level": 100
+      },
+      {
+        "id": 10221001,
+        "level": 100
+      },
+      {
+        "id": 10221001,
+        "level": 100
+      }
+    ],
+    "id": 21
+  },
+  {
+    "description": "\u30AF\u30F4\u30A1\u30EC\u30EB\u30AC1\u6226\u76EE\u7528\u4EF2\u9593\u547C\u3073_2\u4F53",
+    "enemies": [
+      {
+        "id": 10221001,
+        "level": 100
+      },
+      {
+        "id": 10221001,
+        "level": 100
+      }
+    ],
+    "id": 22
+  },
+  {
+    "description": "\u30AF\u30F4\u30A1\u30EC\u30EB\u30AC1\u6226\u76EE\u7528\u4EF2\u9593\u547C\u3073_1\u4F53",
+    "enemies": [
+      {
+        "id": 10221001,
+        "level": 100
+      }
+    ],
+    "id": 23
+  }
+]

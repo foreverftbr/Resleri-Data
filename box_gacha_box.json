@@ -1,0 +1,200 @@
+[
+  {
+    "box_gacha_deck_ids": [
+      3,
+      4
+    ],
+    "box_gacha_id": 2,
+    "description": "\u203B\u7372\u5F97\u3067\u304D\u308B\u666F\u54C1\u306FBOX\u3054\u3068\u306B\u7570\u306A\u308A\u307E\u3059\u3002\n\u203BBOX\u5185\u5168\u3066\u306E\u30A2\u30A4\u30C6\u30E0\u3092\u7372\u5F97\u3059\u308B\u3068\u3001BOX\u306E\u4E2D\u8EAB\u304C\u5165\u308C\u66FF\u308F\u308A\u307E\u3059\u3002",
+    "id": 12,
+    "max_number": 1,
+    "min_number": 1
+  },
+  {
+    "box_gacha_deck_ids": [
+      5,
+      6
+    ],
+    "box_gacha_id": 2,
+    "description": "\u203B\u7372\u5F97\u3067\u304D\u308B\u666F\u54C1\u306FBOX\u3054\u3068\u306B\u7570\u306A\u308A\u307E\u3059\u3002\n\u203BBOX\u5185\u5168\u3066\u306E\u30A2\u30A4\u30C6\u30E0\u3092\u7372\u5F97\u3059\u308B\u3068\u3001BOX\u306E\u4E2D\u8EAB\u304C\u5165\u308C\u66FF\u308F\u308A\u307E\u3059\u3002",
+    "id": 13,
+    "max_number": 2,
+    "min_number": 2
+  },
+  {
+    "box_gacha_deck_ids": [
+      7,
+      8
+    ],
+    "box_gacha_id": 2,
+    "description": "\u203B\u7372\u5F97\u3067\u304D\u308B\u666F\u54C1\u306FBOX\u3054\u3068\u306B\u7570\u306A\u308A\u307E\u3059\u3002\n\u203BBOX\u5185\u5168\u3066\u306E\u30A2\u30A4\u30C6\u30E0\u3092\u7372\u5F97\u3059\u308B\u3068\u3001BOX\u306E\u4E2D\u8EAB\u304C\u5165\u308C\u66FF\u308F\u308A\u307E\u3059\u3002",
+    "id": 14,
+    "max_number": 3,
+    "min_number": 3
+  },
+  {
+    "box_gacha_deck_ids": [
+      9,
+      10
+    ],
+    "box_gacha_id": 2,
+    "description": "\u203B\u7372\u5F97\u3067\u304D\u308B\u666F\u54C1\u306FBOX\u3054\u3068\u306B\u7570\u306A\u308A\u307E\u3059\u3002\n\u203BBOX\u5185\u5168\u3066\u306E\u30A2\u30A4\u30C6\u30E0\u3092\u7372\u5F97\u3059\u308B\u3068\u3001BOX\u306E\u4E2D\u8EAB\u304C\u5165\u308C\u66FF\u308F\u308A\u307E\u3059\u3002",
+    "id": 15,
+    "max_number": 4,
+    "min_number": 4
+  },
+  {
+    "box_gacha_deck_ids": [
+      11,
+      12
+    ],
+    "box_gacha_id": 2,
+    "description": "\u203B\u7372\u5F97\u3067\u304D\u308B\u666F\u54C1\u306FBOX\u3054\u3068\u306B\u7570\u306A\u308A\u307E\u3059\u3002\n\u203BBOX\u5185\u5168\u3066\u306E\u30A2\u30A4\u30C6\u30E0\u3092\u7372\u5F97\u3059\u308B\u3068\u3001BOX\u306E\u4E2D\u8EAB\u304C\u5165\u308C\u66FF\u308F\u308A\u307E\u3059\u3002",
+    "id": 16,
+    "max_number": 5,
+    "min_number": 5
+  },
+  {
+    "box_gacha_deck_ids": [
+      13,
+      14
+    ],
+    "box_gacha_id": 2,
+    "description": "\u203B\u7372\u5F97\u3067\u304D\u308B\u666F\u54C1\u306FBOX6\u4EE5\u964D\u540C\u3058\u3082\u306E\u306B\u306A\u308A\u307E\u3059\u3002\n\u203BBOX\u5185\u5168\u3066\u306E\u30A2\u30A4\u30C6\u30E0\u3092\u7372\u5F97\u3059\u308B\u3068\u3001BOX\u306E\u4E2D\u8EAB\u304C\u30EA\u30BB\u30C3\u30C8\u3055\u308C\u307E\u3059\u3002",
+    "id": 17,
+    "max_number": null,
+    "min_number": 6
+  },
+  {
+    "box_gacha_deck_ids": [
+      15,
+      16
+    ],
+    "box_gacha_id": 3,
+    "description": "\u203B\u7372\u5F97\u3067\u304D\u308B\u666F\u54C1\u306FBOX\u3054\u3068\u306B\u7570\u306A\u308A\u307E\u3059\u3002\n\u203BBOX\u5185\u5168\u3066\u306E\u30A2\u30A4\u30C6\u30E0\u3092\u7372\u5F97\u3059\u308B\u3068\u3001BOX\u306E\u4E2D\u8EAB\u304C\u5165\u308C\u66FF\u308F\u308A\u307E\u3059\u3002",
+    "id": 18,
+    "max_number": 1,
+    "min_number": 1
+  },
+  {
+    "box_gacha_deck_ids": [
+      17,
+      18
+    ],
+    "box_gacha_id": 3,
+    "description": "\u203B\u7372\u5F97\u3067\u304D\u308B\u666F\u54C1\u306FBOX\u3054\u3068\u306B\u7570\u306A\u308A\u307E\u3059\u3002\n\u203BBOX\u5185\u5168\u3066\u306E\u30A2\u30A4\u30C6\u30E0\u3092\u7372\u5F97\u3059\u308B\u3068\u3001BOX\u306E\u4E2D\u8EAB\u304C\u5165\u308C\u66FF\u308F\u308A\u307E\u3059\u3002",
+    "id": 19,
+    "max_number": 2,
+    "min_number": 2
+  },
+  {
+    "box_gacha_deck_ids": [
+      19,
+      20
+    ],
+    "box_gacha_id": 3,
+    "description": "\u203B\u7372\u5F97\u3067\u304D\u308B\u666F\u54C1\u306FBOX\u3054\u3068\u306B\u7570\u306A\u308A\u307E\u3059\u3002\n\u203BBOX\u5185\u5168\u3066\u306E\u30A2\u30A4\u30C6\u30E0\u3092\u7372\u5F97\u3059\u308B\u3068\u3001BOX\u306E\u4E2D\u8EAB\u304C\u5165\u308C\u66FF\u308F\u308A\u307E\u3059\u3002",
+    "id": 20,
+    "max_number": 3,
+    "min_number": 3
+  },
+  {
+    "box_gacha_deck_ids": [
+      21,
+      22
+    ],
+    "box_gacha_id": 3,
+    "description": "\u203B\u7372\u5F97\u3067\u304D\u308B\u666F\u54C1\u306FBOX\u3054\u3068\u306B\u7570\u306A\u308A\u307E\u3059\u3002\n\u203BBOX\u5185\u5168\u3066\u306E\u30A2\u30A4\u30C6\u30E0\u3092\u7372\u5F97\u3059\u308B\u3068\u3001BOX\u306E\u4E2D\u8EAB\u304C\u5165\u308C\u66FF\u308F\u308A\u307E\u3059\u3002",
+    "id": 21,
+    "max_number": 4,
+    "min_number": 4
+  },
+  {
+    "box_gacha_deck_ids": [
+      23,
+      24
+    ],
+    "box_gacha_id": 3,
+    "description": "\u203B\u7372\u5F97\u3067\u304D\u308B\u666F\u54C1\u306FBOX\u3054\u3068\u306B\u7570\u306A\u308A\u307E\u3059\u3002\n\u203BBOX\u5185\u5168\u3066\u306E\u30A2\u30A4\u30C6\u30E0\u3092\u7372\u5F97\u3059\u308B\u3068\u3001BOX\u306E\u4E2D\u8EAB\u304C\u5165\u308C\u66FF\u308F\u308A\u307E\u3059\u3002",
+    "id": 22,
+    "max_number": 5,
+    "min_number": 5
+  },
+  {
+    "box_gacha_deck_ids": [
+      25,
+      26
+    ],
+    "box_gacha_id": 3,
+    "description": "\u203B\u7372\u5F97\u3067\u304D\u308B\u666F\u54C1\u306FBOX6\u4EE5\u964D\u540C\u3058\u3082\u306E\u306B\u306A\u308A\u307E\u3059\u3002\n\u203BBOX\u5185\u5168\u3066\u306E\u30A2\u30A4\u30C6\u30E0\u3092\u7372\u5F97\u3059\u308B\u3068\u3001BOX\u306E\u4E2D\u8EAB\u304C\u30EA\u30BB\u30C3\u30C8\u3055\u308C\u307E\u3059\u3002",
+    "id": 23,
+    "max_number": null,
+    "min_number": 6
+  },
+  {
+    "box_gacha_deck_ids": [
+      33,
+      34
+    ],
+    "box_gacha_id": 5,
+    "description": "\u203B\u7372\u5F97\u3067\u304D\u308B\u666F\u54C1\u306FBOX\u3054\u3068\u306B\u7570\u306A\u308A\u307E\u3059\u3002\n\u203BBOX\u5185\u5168\u3066\u306E\u30A2\u30A4\u30C6\u30E0\u3092\u7372\u5F97\u3059\u308B\u3068\u3001BOX\u306E\u4E2D\u8EAB\u304C\u5165\u308C\u66FF\u308F\u308A\u307E\u3059\u3002",
+    "id": 27,
+    "max_number": 1,
+    "min_number": 1
+  },
+  {
+    "box_gacha_deck_ids": [
+      35,
+      36
+    ],
+    "box_gacha_id": 5,
+    "description": "\u203B\u7372\u5F97\u3067\u304D\u308B\u666F\u54C1\u306FBOX\u3054\u3068\u306B\u7570\u306A\u308A\u307E\u3059\u3002\n\u203BBOX\u5185\u5168\u3066\u306E\u30A2\u30A4\u30C6\u30E0\u3092\u7372\u5F97\u3059\u308B\u3068\u3001BOX\u306E\u4E2D\u8EAB\u304C\u5165\u308C\u66FF\u308F\u308A\u307E\u3059\u3002",
+    "id": 28,
+    "max_number": 2,
+    "min_number": 2
+  },
+  {
+    "box_gacha_deck_ids": [
+      37,
+      38
+    ],
+    "box_gacha_id": 5,
+    "description": "\u203B\u7372\u5F97\u3067\u304D\u308B\u666F\u54C1\u306FBOX\u3054\u3068\u306B\u7570\u306A\u308A\u307E\u3059\u3002\n\u203BBOX\u5185\u5168\u3066\u306E\u30A2\u30A4\u30C6\u30E0\u3092\u7372\u5F97\u3059\u308B\u3068\u3001BOX\u306E\u4E2D\u8EAB\u304C\u5165\u308C\u66FF\u308F\u308A\u307E\u3059\u3002",
+    "id": 29,
+    "max_number": 3,
+    "min_number": 3
+  },
+  {
+    "box_gacha_deck_ids": [
+      39,
+      40
+    ],
+    "box_gacha_id": 5,
+    "description": "\u203B\u7372\u5F97\u3067\u304D\u308B\u666F\u54C1\u306FBOX\u3054\u3068\u306B\u7570\u306A\u308A\u307E\u3059\u3002\n\u203BBOX\u5185\u5168\u3066\u306E\u30A2\u30A4\u30C6\u30E0\u3092\u7372\u5F97\u3059\u308B\u3068\u3001BOX\u306E\u4E2D\u8EAB\u304C\u5165\u308C\u66FF\u308F\u308A\u307E\u3059\u3002",
+    "id": 30,
+    "max_number": 4,
+    "min_number": 4
+  },
+  {
+    "box_gacha_deck_ids": [
+      41,
+      42
+    ],
+    "box_gacha_id": 5,
+    "description": "\u203B\u7372\u5F97\u3067\u304D\u308B\u666F\u54C1\u306FBOX\u3054\u3068\u306B\u7570\u306A\u308A\u307E\u3059\u3002\n\u203BBOX\u5185\u5168\u3066\u306E\u30A2\u30A4\u30C6\u30E0\u3092\u7372\u5F97\u3059\u308B\u3068\u3001BOX\u306E\u4E2D\u8EAB\u304C\u5165\u308C\u66FF\u308F\u308A\u307E\u3059\u3002",
+    "id": 31,
+    "max_number": 5,
+    "min_number": 5
+  },
+  {
+    "box_gacha_deck_ids": [
+      43,
+      44
+    ],
+    "box_gacha_id": 5,
+    "description": "\u203B\u7372\u5F97\u3067\u304D\u308B\u666F\u54C1\u306FBOX6\u4EE5\u964D\u540C\u3058\u3082\u306E\u306B\u306A\u308A\u307E\u3059\u3002\n\u203BBOX\u5185\u5168\u3066\u306E\u30A2\u30A4\u30C6\u30E0\u3092\u7372\u5F97\u3059\u308B\u3068\u3001BOX\u306E\u4E2D\u8EAB\u304C\u30EA\u30BB\u30C3\u30C8\u3055\u308C\u307E\u3059\u3002",
+    "id": 32,
+    "max_number": null,
+    "min_number": 6
+  }
+]

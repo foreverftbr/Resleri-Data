@@ -1,0 +1,5170 @@
+[
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 3000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "1\u5EA6\u9650\u308A!",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20021,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u26053\u30AD\u30E3\u30E9\u78BA\u5B9A\u30AC\u30C1\u30E3\u30D7\u30EC\u30BC\u30F3\u30C8LEGEND FES",
+    "id": 1,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u26053\u30AD\u30E3\u30E9\u78BA\u5B9A!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20022,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u26053\u30AD\u30E3\u30E9\u78BA\u5B9A\u30AC\u30C1\u30E3\u30D7\u30EC\u30BC\u30F3\u30C8LEGEND FES",
+    "id": 2,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20171,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u30E9\u30A4\u30B6\u306E\u30A2\u30C8\u30EA\u30A8 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 3,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20172,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u30E9\u30A4\u30B6\u306E\u30A2\u30C8\u30EA\u30A8 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 4,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20173,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u30E9\u30A4\u30B6\u306E\u30A2\u30C8\u30EA\u30A8 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 5,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20201,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u30A4\u30B6\u30CA\u65B0\u7AE0\u8FFD\u52A0\u8A18\u5FF5 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 6,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20202,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u30A4\u30B6\u30CA\u65B0\u7AE0\u8FFD\u52A0\u8A18\u5FF5 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 7,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20203,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u30A4\u30B6\u30CA\u65B0\u7AE0\u8FFD\u52A0\u8A18\u5FF5 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 8,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20221,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u30AF\u30EA\u30B9\u30DE\u30B9  LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 9,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20222,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u30AF\u30EA\u30B9\u30DE\u30B9  LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 10,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20223,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u30AF\u30EA\u30B9\u30DE\u30B9  LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 11,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20241,
+    "gacha_rate_set_name": "\u3010STEP1\u3011HAPPY NEW YEAR LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 12,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20242,
+    "gacha_rate_set_name": "\u3010STEP2\u3011HAPPY NEW YEAR LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 13,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20243,
+    "gacha_rate_set_name": "\u3010STEP3\u3011HAPPY NEW YEAR LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 14,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20261,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u65B0\u7AE0\u8A18\u5FF5 \u6D6A\u6F2B\u306E\u679C\u3066\u306B LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 15,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20262,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u65B0\u7AE0\u8A18\u5FF5 \u6D6A\u6F2B\u306E\u679C\u3066\u306B LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 16,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20263,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u65B0\u7AE0\u8A18\u5FF5 \u6D6A\u6F2B\u306E\u679C\u3066\u306B LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 17,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20301,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u30B7\u30E3\u30EA\u30FC\u306E\u30A2\u30C8\u30EA\u30A8 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 18,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20302,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u30B7\u30E3\u30EA\u30FC\u306E\u30A2\u30C8\u30EA\u30A8 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 19,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20303,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u30B7\u30E3\u30EA\u30FC\u306E\u30A2\u30C8\u30EA\u30A8 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 20,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20321,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u65B0\u7AE0\u8A18\u5FF5 \u53CC\u74A7\u306E\u9A0E\u58EB LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 21,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20322,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u65B0\u7AE0\u8A18\u5FF5 \u53CC\u74A7\u306E\u9A0E\u58EB LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 22,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20323,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u65B0\u7AE0\u8A18\u5FF5 \u53CC\u74A7\u306E\u9A0E\u58EB LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 23,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20341,
+    "gacha_rate_set_name": "\u3010STEP1\u3011VALENTINE2024 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 24,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20342,
+    "gacha_rate_set_name": "\u3010STEP2\u3011VALENTINE2024 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 25,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20343,
+    "gacha_rate_set_name": "\u3010STEP3\u3011VALENTINE2024 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 26,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20401,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u30A2\u30FC\u30E9\u30F3\u30C9\u306E\u932C\u91D1\u8853\u58EB LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 27,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20402,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u30A2\u30FC\u30E9\u30F3\u30C9\u306E\u932C\u91D1\u8853\u58EB LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 28,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20403,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u30A2\u30FC\u30E9\u30F3\u30C9\u306E\u932C\u91D1\u8853\u58EB LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 29,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 3000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 20431,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "id": 30,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20432,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "id": 31,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 2000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 20433,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "id": 32,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 20434,
+    "gacha_rate_set_name": "\u3010STEP4\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "id": 33,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20435,
+    "gacha_rate_set_name": "\u3010STEP5\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "id": 34,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20451,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u6C7A\u6226 LEGEND FES \u76EE\u899A\u3081\u305F\u707D\u5384[\u6709\u511F\u9650\u5B9A]",
+    "id": 35,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20452,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u6C7A\u6226 LEGEND FES \u76EE\u899A\u3081\u305F\u707D\u5384[\u6709\u511F\u9650\u5B9A]",
+    "id": 36,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20453,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u6C7A\u6226 LEGEND FES \u76EE\u899A\u3081\u305F\u707D\u5384[\u6709\u511F\u9650\u5B9A]",
+    "id": 37,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20472,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u6C7A\u6226 LEGEND FES \u305D\u308C\u305E\u308C\u306E\u899A\u609F[\u6709\u511F\u9650\u5B9A]",
+    "id": 38,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20473,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u6C7A\u6226 LEGEND FES \u305D\u308C\u305E\u308C\u306E\u899A\u609F[\u6709\u511F\u9650\u5B9A]",
+    "id": 39,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20474,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u6C7A\u6226 LEGEND FES \u305D\u308C\u305E\u308C\u306E\u899A\u609F[\u6709\u511F\u9650\u5B9A]",
+    "id": 40,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20492,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u6C7A\u6226 LEGEND FES \u6700\u5F8C\u306E\u65E5[\u6709\u511F\u9650\u5B9A]",
+    "id": 41,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20493,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u6C7A\u6226 LEGEND FES \u6700\u5F8C\u306E\u65E5[\u6709\u511F\u9650\u5B9A]",
+    "id": 42,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20494,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u6C7A\u6226 LEGEND FES \u6700\u5F8C\u306E\u65E5[\u6709\u511F\u9650\u5B9A]",
+    "id": 43,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20512,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u30EC\u30B9\u30EC\u30EA\u5B66\u5712 LEGEND FES \u5165\u5B66\u7DE8[\u6709\u511F\u9650\u5B9A]",
+    "id": 44,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20513,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u30EC\u30B9\u30EC\u30EA\u5B66\u5712 LEGEND FES \u5165\u5B66\u7DE8[\u6709\u511F\u9650\u5B9A]",
+    "id": 45,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20514,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u30EC\u30B9\u30EC\u30EA\u5B66\u5712 LEGEND FES \u5165\u5B66\u7DE8[\u6709\u511F\u9650\u5B9A]",
+    "id": 46,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20542,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u30EC\u30B9\u30EC\u30EA\u5B66\u5712 LEGEND FES \u932C\u91D1\u796D\u7DE8[\u6709\u511F\u9650\u5B9A]",
+    "id": 47,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20543,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u30EC\u30B9\u30EC\u30EA\u5B66\u5712 LEGEND FES \u932C\u91D1\u796D\u7DE8[\u6709\u511F\u9650\u5B9A]",
+    "id": 48,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20544,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u30EC\u30B9\u30EC\u30EA\u5B66\u5712 LEGEND FES \u932C\u91D1\u796D\u7DE8[\u6709\u511F\u9650\u5B9A]",
+    "id": 49,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20562,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u30EC\u30B9\u30EC\u30EA\u5B66\u5712 LEGEND FES \u5BFE\u6297\u6226\u7DE8[\u6709\u511F\u9650\u5B9A]",
+    "id": 50,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20563,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u30EC\u30B9\u30EC\u30EA\u5B66\u5712 LEGEND FES \u5BFE\u6297\u6226\u7DE8[\u6709\u511F\u9650\u5B9A]",
+    "id": 51,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20564,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u30EC\u30B9\u30EC\u30EA\u5B66\u5712 LEGEND FES \u5BFE\u6297\u6226\u7DE8[\u6709\u511F\u9650\u5B9A]",
+    "id": 52,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20582,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u7652\u3057\u304F\u3064\u308D\u304E\u6E29\u6CC9 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 53,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20583,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u7652\u3057\u304F\u3064\u308D\u304E\u6E29\u6CC9 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 54,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20584,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u7652\u3057\u304F\u3064\u308D\u304E\u6E29\u6CC9 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 55,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20602,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u65B0\u7AE0\u8A18\u5FF5 \u6D77\u306E\u7537\u306E\u9580\u51FA LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 56,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20603,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u65B0\u7AE0\u8A18\u5FF5 \u6D77\u306E\u7537\u306E\u9580\u51FA LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 57,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20604,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u65B0\u7AE0\u8A18\u5FF5 \u6D77\u306E\u7537\u306E\u9580\u51FA LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 58,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20622,
+    "gacha_rate_set_name": "\u3010STEP1\u3011ATELIER 27th LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 59,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20623,
+    "gacha_rate_set_name": "\u3010STEP2\u3011ATELIER 27th LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 60,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20624,
+    "gacha_rate_set_name": "\u3010STEP3\u3011ATELIER 27th LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 61,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20642,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u65B0\u7AE0\u8A18\u5FF5 \u7DCB\u84BC\u306E\u5263\u58EB LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 62,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20643,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u65B0\u7AE0\u8A18\u5FF5 \u7DCB\u84BC\u306E\u5263\u58EB LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 63,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20644,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u65B0\u7AE0\u8A18\u5FF5 \u7DCB\u84BC\u306E\u5263\u58EB LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 64,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20662,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u7ADC\u306E\u82B1\u5AC1 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 65,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20663,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u7ADC\u306E\u82B1\u5AC1 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 66,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20664,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u7ADC\u306E\u82B1\u5AC1 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 67,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20682,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u9EC4\u660F\u306E\u958B\u767A\u73ED LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 68,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20683,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u9EC4\u660F\u306E\u958B\u767A\u73ED LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 69,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20684,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u9EC4\u660F\u306E\u958B\u767A\u73ED LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 70,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20702,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u65B0\u7AE0\u8A18\u5FF5 \u5F71\u306E\u6F5C\u5165\u8005 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 71,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20703,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u65B0\u7AE0\u8A18\u5FF5 \u5F71\u306E\u6F5C\u5165\u8005 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 72,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20704,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u65B0\u7AE0\u8A18\u5FF5 \u5F71\u306E\u6F5C\u5165\u8005 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 73,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 3000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 20731,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\uFF13\u7AE0\u7A81\u7834\u8A18\u5FF5 SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "id": 74,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20732,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\uFF13\u7AE0\u7A81\u7834\u8A18\u5FF5 SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "id": 75,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 2000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 20733,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\uFF13\u7AE0\u7A81\u7834\u8A18\u5FF5 SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "id": 76,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 20734,
+    "gacha_rate_set_name": "\u3010STEP4\u3011\uFF13\u7AE0\u7A81\u7834\u8A18\u5FF5 SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "id": 77,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20735,
+    "gacha_rate_set_name": "\u3010STEP5\u3011\uFF13\u7AE0\u7A81\u7834\u8A18\u5FF5 SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "id": 78,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20722,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C1\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 79,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20723,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C1\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 80,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20724,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C1\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 81,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20752,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C2\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 82,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20753,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C2\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 83,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20754,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C2\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 84,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20762,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u96F7\u96FB\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 85,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20763,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u96F7\u96FB\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 86,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20764,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u96F7\u96FB\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 87,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20782,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C3\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 88,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20783,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C3\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 89,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20784,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C3\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 90,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20792,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u6C37\u51CD\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 91,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20793,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u6C37\u51CD\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 92,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20794,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u6C37\u51CD\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 93,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20812,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C4\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 94,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20813,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C4\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 95,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20814,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C4\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 96,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20832,
+    "gacha_rate_set_name": "\u3010STEP1\u30111\u5468\u5E74 \u661F\u7948\u796D LEGEND FES \u5149\u5DEE\u3059\u6708\u5F71[\u6709\u511F\u9650\u5B9A]",
+    "id": 97,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20833,
+    "gacha_rate_set_name": "\u3010STEP2\u30111\u5468\u5E74 \u661F\u7948\u796D LEGEND FES \u5149\u5DEE\u3059\u6708\u5F71[\u6709\u511F\u9650\u5B9A]",
+    "id": 98,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20834,
+    "gacha_rate_set_name": "\u3010STEP3\u30111\u5468\u5E74 \u661F\u7948\u796D LEGEND FES \u5149\u5DEE\u3059\u6708\u5F71[\u6709\u511F\u9650\u5B9A]",
+    "id": 99,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20842,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u523A\u7A81\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 100,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20843,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u523A\u7A81\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 101,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20844,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u523A\u7A81\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 102,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20862,
+    "gacha_rate_set_name": "\u3010STEP1\u30111\u5468\u5E74 \u661F\u7948\u796D LEGEND FES \u7948\u308A\u3068\u5B89\u3089\u304E\u306E\u82B1[\u6709\u511F\u9650\u5B9A]",
+    "id": 103,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20863,
+    "gacha_rate_set_name": "\u3010STEP2\u30111\u5468\u5E74 \u661F\u7948\u796D LEGEND FES \u7948\u308A\u3068\u5B89\u3089\u304E\u306E\u82B1[\u6709\u511F\u9650\u5B9A]",
+    "id": 104,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20864,
+    "gacha_rate_set_name": "\u3010STEP3\u30111\u5468\u5E74 \u661F\u7948\u796D LEGEND FES \u7948\u308A\u3068\u5B89\u3089\u304E\u306E\u82B1[\u6709\u511F\u9650\u5B9A]",
+    "id": 105,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20872,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u523A\u7A81\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 106,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20873,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u523A\u7A81\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 107,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20874,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u523A\u7A81\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 108,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20892,
+    "gacha_rate_set_name": "\u3010STEP1\u30111\u5468\u5E74 \u661F\u5C0E\u796D LEGEND FES \u8A23\u5225\u306E\u6642[\u6709\u511F\u9650\u5B9A]",
+    "id": 109,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20893,
+    "gacha_rate_set_name": "\u3010STEP2\u30111\u5468\u5E74 \u661F\u5C0E\u796D LEGEND FES \u8A23\u5225\u306E\u6642[\u6709\u511F\u9650\u5B9A]",
+    "id": 110,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20894,
+    "gacha_rate_set_name": "\u3010STEP3\u30111\u5468\u5E74 \u661F\u5C0E\u796D LEGEND FES \u8A23\u5225\u306E\u6642[\u6709\u511F\u9650\u5B9A]",
+    "id": 111,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20902,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u65AC\u88C2\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 112,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20903,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u65AC\u88C2\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 113,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20904,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u65AC\u88C2\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 114,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 3000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 21011,
+    "gacha_rate_set_name": "\u3010STEP1\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C1\u5F3E",
+    "id": 115,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21012,
+    "gacha_rate_set_name": "\u3010STEP2\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C1\u5F3E",
+    "id": 116,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 2000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 21013,
+    "gacha_rate_set_name": "\u3010STEP3\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C1\u5F3E",
+    "id": 117,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 21014,
+    "gacha_rate_set_name": "\u3010STEP4\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C1\u5F3E",
+    "id": 118,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21015,
+    "gacha_rate_set_name": "\u3010STEP5\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C1\u5F3E",
+    "id": 119,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 3000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 21021,
+    "gacha_rate_set_name": "\u3010STEP1\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C2\u5F3E",
+    "id": 120,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21022,
+    "gacha_rate_set_name": "\u3010STEP2\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C2\u5F3E",
+    "id": 121,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 2000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 21023,
+    "gacha_rate_set_name": "\u3010STEP3\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C2\u5F3E",
+    "id": 122,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 21024,
+    "gacha_rate_set_name": "\u3010STEP4\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C2\u5F3E",
+    "id": 123,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21025,
+    "gacha_rate_set_name": "\u3010STEP5\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C2\u5F3E",
+    "id": 124,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20922,
+    "gacha_rate_set_name": "\u3010STEP1\u30111\u5468\u5E74 \u661F\u5C0E\u796D LEGEND FES \u30D2\u30C8\u9020\u30EA\u30B7\u707D\u798D[\u6709\u511F\u9650\u5B9A]",
+    "id": 125,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20923,
+    "gacha_rate_set_name": "\u3010STEP2\u30111\u5468\u5E74 \u661F\u5C0E\u796D LEGEND FES \u30D2\u30C8\u9020\u30EA\u30B7\u707D\u798D[\u6709\u511F\u9650\u5B9A]",
+    "id": 126,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 20924,
+    "gacha_rate_set_name": "\u3010STEP3\u30111\u5468\u5E74 \u661F\u5C0E\u796D LEGEND FES \u30D2\u30C8\u9020\u30EA\u30B7\u707D\u798D[\u6709\u511F\u9650\u5B9A]",
+    "id": 127,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21052,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u706B\u708E\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 128,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21053,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u706B\u708E\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 129,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21054,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u706B\u708E\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 130,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21072,
+    "gacha_rate_set_name": "\u3010STEP1\u30111\u5468\u5E74 \u661F\u5C0E\u796D LEGEND FES \u5F77\u5FA8\u3048\u308B\u4EA1\u8005[\u6709\u511F\u9650\u5B9A]",
+    "id": 131,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21073,
+    "gacha_rate_set_name": "\u3010STEP2\u30111\u5468\u5E74 \u661F\u5C0E\u796D LEGEND FES \u5F77\u5FA8\u3048\u308B\u4EA1\u8005[\u6709\u511F\u9650\u5B9A]",
+    "id": 132,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21074,
+    "gacha_rate_set_name": "\u3010STEP3\u30111\u5468\u5E74 \u661F\u5C0E\u796D LEGEND FES \u5F77\u5FA8\u3048\u308B\u4EA1\u8005[\u6709\u511F\u9650\u5B9A]",
+    "id": 133,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21081,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 134,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21082,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 135,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21083,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 136,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21084,
+    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 137,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21091,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 138,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21092,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 139,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21093,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 140,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21094,
+    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 141,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21101,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 142,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21102,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 143,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21103,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 144,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21104,
+    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 145,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21111,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 146,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21112,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 147,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21113,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 148,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21114,
+    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 149,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21121,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 150,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21122,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 151,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21123,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 152,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21124,
+    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 153,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21131,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 154,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21132,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 155,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21133,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 156,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21134,
+    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 157,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21141,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 158,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21142,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 159,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21143,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 160,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21144,
+    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 161,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21182,
+    "gacha_rate_set_name": "\u3010STEP1\u30111\u5468\u5E74 \u661F\u793C\u796D LEGEND FES \u6975\u591C\u306B\u89E3\u3051\u308B\u547C\u3073\u58F0[\u6709\u511F\u9650\u5B9A]",
+    "id": 162,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21183,
+    "gacha_rate_set_name": "\u3010STEP2\u30111\u5468\u5E74 \u661F\u793C\u796D LEGEND FES \u6975\u591C\u306B\u89E3\u3051\u308B\u547C\u3073\u58F0[\u6709\u511F\u9650\u5B9A]",
+    "id": 163,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21184,
+    "gacha_rate_set_name": "\u3010STEP3\u30111\u5468\u5E74 \u661F\u793C\u796D LEGEND FES \u6975\u591C\u306B\u89E3\u3051\u308B\u547C\u3073\u58F0[\u6709\u511F\u9650\u5B9A]",
+    "id": 164,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21162,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u7815\u6253\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 165,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21163,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u7815\u6253\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 166,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21164,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u7815\u6253\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 167,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21202,
+    "gacha_rate_set_name": "\u3010STEP1\u30111\u5468\u5E74 \u661F\u793C\u796D LEGEND FES \u6681\u306E\u98A8\u96F2\u5150[\u6709\u511F\u9650\u5B9A]",
+    "id": 168,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21203,
+    "gacha_rate_set_name": "\u3010STEP2\u30111\u5468\u5E74 \u661F\u793C\u796D LEGEND FES \u6681\u306E\u98A8\u96F2\u5150[\u6709\u511F\u9650\u5B9A]",
+    "id": 169,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21204,
+    "gacha_rate_set_name": "\u3010STEP3\u30111\u5468\u5E74 \u661F\u793C\u796D LEGEND FES \u6681\u306E\u98A8\u96F2\u5150[\u6709\u511F\u9650\u5B9A]",
+    "id": 170,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21222,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u5D50\u98A8\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 171,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21223,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u5D50\u98A8\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 172,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21224,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u5D50\u98A8\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 173,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21242,
+    "gacha_rate_set_name": "\u3010STEP1\u3011HALLOWEEN2024 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 174,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21243,
+    "gacha_rate_set_name": "\u3010STEP2\u3011HALLOWEEN2024 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 175,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21244,
+    "gacha_rate_set_name": "\u3010STEP3\u3011HALLOWEEN2024 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 176,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21262,
+    "gacha_rate_set_name": "\u3010STEP1\u30111\u5468\u5E74 \u661F\u793C\u796D LEGEND FES \u304B\u3051\u304C\u3048\u306E\u306A\u3044\u30E2\u30CE[\u6709\u511F\u9650\u5B9A]",
+    "id": 177,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21263,
+    "gacha_rate_set_name": "\u3010STEP2\u30111\u5468\u5E74 \u661F\u793C\u796D LEGEND FES \u304B\u3051\u304C\u3048\u306E\u306A\u3044\u30E2\u30CE[\u6709\u511F\u9650\u5B9A]",
+    "id": 178,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21264,
+    "gacha_rate_set_name": "\u3010STEP3\u30111\u5468\u5E74 \u661F\u793C\u796D LEGEND FES \u304B\u3051\u304C\u3048\u306E\u306A\u3044\u30E2\u30CE[\u6709\u511F\u9650\u5B9A]",
+    "id": 179,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21282,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u6E07\u304D\u306E\u4E2D\u3067\u54B2\u304F\u82B1\u305F\u3061 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 180,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21283,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u6E07\u304D\u306E\u4E2D\u3067\u54B2\u304F\u82B1\u305F\u3061 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 181,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21284,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u6E07\u304D\u306E\u4E2D\u3067\u54B2\u304F\u82B1\u305F\u3061 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 182,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21322,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u8E0A\u308B\u6DF7\u6C8C \u30DE\u30AF\u30C0 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 183,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21323,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u8E0A\u308B\u6DF7\u6C8C \u30DE\u30AF\u30C0 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 184,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21324,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u8E0A\u308B\u6DF7\u6C8C \u30DE\u30AF\u30C0 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 185,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21342,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u82E6\u60A9\u305B\u3057\u898F\u5F8B \u30D6\u30E9\u30C3\u30C9 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 186,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21343,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u82E6\u60A9\u305B\u3057\u898F\u5F8B \u30D6\u30E9\u30C3\u30C9 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 187,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21344,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u82E6\u60A9\u305B\u3057\u898F\u5F8B \u30D6\u30E9\u30C3\u30C9 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 188,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21372,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u6975\u591C\u6FC0\u95D8 \u89E3\u653E\u8005\u305F\u3061\u306E\u6C7A\u610F LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 189,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21373,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u6975\u591C\u6FC0\u95D8 \u89E3\u653E\u8005\u305F\u3061\u306E\u6C7A\u610F LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 190,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21374,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u6975\u591C\u6FC0\u95D8 \u89E3\u653E\u8005\u305F\u3061\u306E\u6C7A\u610F LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 191,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21392,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u6975\u591C\u6FC0\u95D8 \u9ED2\u306E\u596A\u9084 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 192,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21393,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u6975\u591C\u6FC0\u95D8 \u9ED2\u306E\u596A\u9084 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 193,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21394,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u6975\u591C\u6FC0\u95D8 \u9ED2\u306E\u596A\u9084 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 194,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21422,
+    "gacha_rate_set_name": "\u3010STEP1\u3011Atelier Christmas 2024 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 195,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21423,
+    "gacha_rate_set_name": "\u3010STEP2\u3011Atelier Christmas 2024 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 196,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21424,
+    "gacha_rate_set_name": "\u3010STEP3\u3011Atelier Christmas 2024 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 197,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21452,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u6975\u591C\u6FC0\u95D8 \u6E07\u671B\u6E80\u3061\u308B\u6642 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 198,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21453,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u6975\u591C\u6FC0\u95D8 \u6E07\u671B\u6E80\u3061\u308B\u6642 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 199,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21454,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u6975\u591C\u6FC0\u95D8 \u6E07\u671B\u6E80\u3061\u308B\u6642 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 200,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21622,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u5FA9\u523B \u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C4\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 201,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21623,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u5FA9\u523B \u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C4\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 202,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21624,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u5FA9\u523B \u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C4\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 203,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21502,
+    "gacha_rate_set_name": "\u3010STEP1\u3011HAPPY NEW YEAR 2025 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 204,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21503,
+    "gacha_rate_set_name": "\u3010STEP2\u3011HAPPY NEW YEAR 2025 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 205,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21504,
+    "gacha_rate_set_name": "\u3010STEP3\u3011HAPPY NEW YEAR 2025 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 206,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 2151011,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 207,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 2000,
+      "resource_params": null,
+      "type": 1
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151012,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 208,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151013,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 209,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151014,
+    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 210,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 2151015,
+    "gacha_rate_set_name": "\u3010STEP5\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 211,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 2151021,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 212,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 2000,
+      "resource_params": null,
+      "type": 1
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151022,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 213,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151023,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 214,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151024,
+    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 215,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 2151025,
+    "gacha_rate_set_name": "\u3010STEP5\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 216,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 2151031,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 217,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 2000,
+      "resource_params": null,
+      "type": 1
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151032,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 218,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151033,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 219,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151034,
+    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 220,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 2151035,
+    "gacha_rate_set_name": "\u3010STEP5\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 221,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 2151041,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 222,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 2000,
+      "resource_params": null,
+      "type": 1
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151042,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 223,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151043,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 224,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151044,
+    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 225,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 2151045,
+    "gacha_rate_set_name": "\u3010STEP5\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 226,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 2151051,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 227,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 2000,
+      "resource_params": null,
+      "type": 1
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151052,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 228,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151053,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 229,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151054,
+    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 230,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 2151055,
+    "gacha_rate_set_name": "\u3010STEP5\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 231,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 2151061,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 232,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 2000,
+      "resource_params": null,
+      "type": 1
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151062,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 233,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151063,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 234,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151064,
+    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 235,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 2151065,
+    "gacha_rate_set_name": "\u3010STEP5\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 236,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 2151071,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 237,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 2000,
+      "resource_params": null,
+      "type": 1
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151072,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 238,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151073,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 239,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151074,
+    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 240,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 2151075,
+    "gacha_rate_set_name": "\u3010STEP5\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 241,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 2151081,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 242,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 2000,
+      "resource_params": null,
+      "type": 1
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151082,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 243,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151083,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 244,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151084,
+    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 245,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 2151085,
+    "gacha_rate_set_name": "\u3010STEP5\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 246,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 2151091,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 247,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 2000,
+      "resource_params": null,
+      "type": 1
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151092,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 248,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151093,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 249,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151094,
+    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 250,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 2151095,
+    "gacha_rate_set_name": "\u3010STEP5\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 251,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21642,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u5E74\u672B\u30B9\u30DA\u30B7\u30E3\u30EB LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 252,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21643,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u5E74\u672B\u30B9\u30DA\u30B7\u30E3\u30EB LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 253,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21644,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u5E74\u672B\u30B9\u30DA\u30B7\u30E3\u30EB LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 254,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 3000,
+      "resource_params": null,
+      "type": 1
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 21651,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u26053\u30AD\u30E3\u30E9\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 255,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u304B\u30891\u4EBA\u78BA\u5B9A",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21652,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u26053\u30AD\u30E3\u30E9\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 256,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 2000,
+      "resource_params": null,
+      "type": 1
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 21653,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u26053\u30AD\u30E3\u30E9\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 257,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 21654,
+    "gacha_rate_set_name": "\u3010STEP4\u3011\u26053\u30AD\u30E3\u30E9\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 258,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u304B\u30891\u4EBA\u78BA\u5B9A",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21655,
+    "gacha_rate_set_name": "\u3010STEP5\u3011\u26053\u30AD\u30E3\u30E9\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 259,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 2151101,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 260,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 2000,
+      "resource_params": null,
+      "type": 1
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151102,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 261,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151103,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 262,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 2151104,
+    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 263,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 2151105,
+    "gacha_rate_set_name": "\u3010STEP5\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "id": 264,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 3000,
+      "resource_params": null,
+      "type": 1
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 21661,
+    "gacha_rate_set_name": "\u3010STEP1\u3011SSR\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 265,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30E1\u30E2\u30EA\u30A2\u304B\u30891\u679A\u78BA\u5B9A",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21662,
+    "gacha_rate_set_name": "\u3010STEP2\u3011SSR\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 266,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 2000,
+      "resource_params": null,
+      "type": 1
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 21663,
+    "gacha_rate_set_name": "\u3010STEP3\u3011SSR\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 267,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 21664,
+    "gacha_rate_set_name": "\u3010STEP4\u3011SSR\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 268,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30E1\u30E2\u30EA\u30A2\u304B\u30891\u679A\u78BA\u5B9A",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21665,
+    "gacha_rate_set_name": "\u3010STEP5\u3011SSR\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 269,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21692,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u306F\u3058\u307E\u308A\u306E\u7D46 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 270,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21693,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u306F\u3058\u307E\u308A\u306E\u7D46 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 271,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21694,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u306F\u3058\u307E\u308A\u306E\u7D46 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 272,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21542,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u6D41\u661F\u306E\u65C5\u7ACB\u3061 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 273,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21543,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u6D41\u661F\u306E\u65C5\u7ACB\u3061 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 274,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21544,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u6D41\u661F\u306E\u65C5\u7ACB\u3061 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 275,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21602,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u89AA\u53CB\u3068\u6B69\u3080\u672A\u6765 \u30D5\u30A3\u30EA\u30B9 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 276,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21603,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u89AA\u53CB\u3068\u6B69\u3080\u672A\u6765 \u30D5\u30A3\u30EA\u30B9 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 277,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21604,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u89AA\u53CB\u3068\u6B69\u3080\u672A\u6765 \u30D5\u30A3\u30EA\u30B9 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 278,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 3000,
+      "resource_params": null,
+      "type": 1
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 21741,
+    "gacha_rate_set_name": "\u3010STEP1\u3011SSR\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u65B0\u661F\u3011",
+    "id": 279,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 3000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 21742,
+    "gacha_rate_set_name": "\u3010STEP2\u3011SSR\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u65B0\u661F\u3011",
+    "id": 280,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 2000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 21743,
+    "gacha_rate_set_name": "\u3010STEP3\u3011SSR\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u65B0\u661F\u3011",
+    "id": 281,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30E1\u30E2\u30EA\u30A2\u304B\u30891\u679A\u78BA\u5B9A",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21744,
+    "gacha_rate_set_name": "\u3010STEP4\u3011SSR\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u65B0\u661F\u3011",
+    "id": 282,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21582,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u89AA\u53CB\u3068\u6B69\u3080\u672A\u6765 \u30A4\u30EB\u30E1\u30EA\u30A2 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 283,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21583,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u89AA\u53CB\u3068\u6B69\u3080\u672A\u6765 \u30A4\u30EB\u30E1\u30EA\u30A2 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 284,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21584,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u89AA\u53CB\u3068\u6B69\u3080\u672A\u6765 \u30A4\u30EB\u30E1\u30EA\u30A2 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 285,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21732,
+    "gacha_rate_set_name": "\u3010STEP1\u3011VALENTINE 2025 \u30D7\u30E9\u30D5\u30BF LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 286,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21733,
+    "gacha_rate_set_name": "\u3010STEP2\u3011VALENTINE 2025 \u30D7\u30E9\u30D5\u30BF LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 287,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21734,
+    "gacha_rate_set_name": "\u3010STEP3\u3011VALENTINE 2025 \u30D7\u30E9\u30D5\u30BF LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 288,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 3000,
+      "resource_params": null,
+      "type": 1
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 21791,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 289,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 21792,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 290,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 21793,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 291,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21794,
+    "gacha_rate_set_name": "\u3010STEP4\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 292,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 3000,
+      "resource_params": null,
+      "type": 1
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 21801,
+    "gacha_rate_set_name": "\u3010STEP1\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 293,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 21802,
+    "gacha_rate_set_name": "\u3010STEP2\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 294,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 21803,
+    "gacha_rate_set_name": "\u3010STEP3\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 295,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21804,
+    "gacha_rate_set_name": "\u3010STEP4\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 296,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21762,
+    "gacha_rate_set_name": "\u3010STEP1\u3011VALENTINE 2025 \u30AF\u30E9\u30A6\u30C7\u30A3\u30A2 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 297,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21763,
+    "gacha_rate_set_name": "\u3010STEP2\u3011VALENTINE 2025 \u30AF\u30E9\u30A6\u30C7\u30A3\u30A2 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 298,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21764,
+    "gacha_rate_set_name": "\u3010STEP3\u3011VALENTINE 2025 \u30AF\u30E9\u30A6\u30C7\u30A3\u30A2 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 299,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 3000,
+      "resource_params": null,
+      "type": 1
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 21811,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "id": 300,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 21812,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "id": 301,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 21813,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "id": 302,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21814,
+    "gacha_rate_set_name": "\u3010STEP4\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "id": 303,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 3000,
+      "resource_params": null,
+      "type": 1
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 21821,
+    "gacha_rate_set_name": "\u3010STEP1\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "id": 304,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 21822,
+    "gacha_rate_set_name": "\u3010STEP2\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "id": 305,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 21823,
+    "gacha_rate_set_name": "\u3010STEP3\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "id": 306,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21824,
+    "gacha_rate_set_name": "\u3010STEP4\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "id": 307,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 3000,
+      "resource_params": null,
+      "type": 1
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22051,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 308,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22052,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 309,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22053,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 310,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 22054,
+    "gacha_rate_set_name": "\u3010STEP4\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 311,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 3000,
+      "resource_params": null,
+      "type": 1
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22061,
+    "gacha_rate_set_name": "\u3010STEP1\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 312,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22062,
+    "gacha_rate_set_name": "\u3010STEP2\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 313,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22063,
+    "gacha_rate_set_name": "\u3010STEP3\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 314,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 22064,
+    "gacha_rate_set_name": "\u3010STEP4\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 315,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 3000,
+      "resource_params": null,
+      "type": 1
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22071,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 316,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22072,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 317,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22073,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 318,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 22074,
+    "gacha_rate_set_name": "\u3010STEP4\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 319,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 3000,
+      "resource_params": null,
+      "type": 1
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22081,
+    "gacha_rate_set_name": "\u3010STEP1\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 320,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22082,
+    "gacha_rate_set_name": "\u3010STEP2\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 321,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22083,
+    "gacha_rate_set_name": "\u3010STEP3\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 322,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 22084,
+    "gacha_rate_set_name": "\u3010STEP4\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "id": 323,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 3000,
+      "resource_params": null,
+      "type": 1
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22091,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "id": 324,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22092,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "id": 325,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22093,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "id": 326,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 22094,
+    "gacha_rate_set_name": "\u3010STEP4\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "id": 327,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 3000,
+      "resource_params": null,
+      "type": 1
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22101,
+    "gacha_rate_set_name": "\u3010STEP1\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "id": 328,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22102,
+    "gacha_rate_set_name": "\u3010STEP2\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "id": 329,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22103,
+    "gacha_rate_set_name": "\u3010STEP3\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "id": 330,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 22104,
+    "gacha_rate_set_name": "\u3010STEP4\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "id": 331,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 3000,
+      "resource_params": null,
+      "type": 1
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22111,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "id": 332,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22112,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "id": 333,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22113,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "id": 334,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 22114,
+    "gacha_rate_set_name": "\u3010STEP4\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "id": 335,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 3000,
+      "resource_params": null,
+      "type": 1
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22121,
+    "gacha_rate_set_name": "\u3010STEP1\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "id": 336,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22122,
+    "gacha_rate_set_name": "\u3010STEP2\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "id": 337,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22123,
+    "gacha_rate_set_name": "\u3010STEP3\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "id": 338,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 22124,
+    "gacha_rate_set_name": "\u3010STEP4\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "id": 339,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21782,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u5192\u967A\u306F\u3001\u6D77\u306E\u5411\u3053\u3046 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 340,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21783,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u5192\u967A\u306F\u3001\u6D77\u306E\u5411\u3053\u3046 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 341,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21784,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u5192\u967A\u306F\u3001\u6D77\u306E\u5411\u3053\u3046 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 342,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 3000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22291,
+    "gacha_rate_set_name": "\u3010STEP1\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C1\u5F3E",
+    "id": 343,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 22292,
+    "gacha_rate_set_name": "\u3010STEP2\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C1\u5F3E",
+    "id": 344,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 2000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22293,
+    "gacha_rate_set_name": "\u3010STEP3\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C1\u5F3E",
+    "id": 345,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22294,
+    "gacha_rate_set_name": "\u3010STEP4\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C1\u5F3E",
+    "id": 346,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 22295,
+    "gacha_rate_set_name": "\u3010STEP5\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C1\u5F3E",
+    "id": 347,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 3000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22311,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\uFF13\u7AE0\u7A81\u7834\u8A18\u5FF5 SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "id": 348,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 22312,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\uFF13\u7AE0\u7A81\u7834\u8A18\u5FF5 SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "id": 349,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 2000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22313,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\uFF13\u7AE0\u7A81\u7834\u8A18\u5FF5 SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "id": 350,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22314,
+    "gacha_rate_set_name": "\u3010STEP4\u3011\uFF13\u7AE0\u7A81\u7834\u8A18\u5FF5 SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "id": 351,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 22315,
+    "gacha_rate_set_name": "\u3010STEP5\u3011\uFF13\u7AE0\u7A81\u7834\u8A18\u5FF5 SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "id": 352,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 3000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22301,
+    "gacha_rate_set_name": "\u3010STEP1\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C2\u5F3E",
+    "id": 353,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 22302,
+    "gacha_rate_set_name": "\u3010STEP2\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C2\u5F3E",
+    "id": 354,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 2000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22303,
+    "gacha_rate_set_name": "\u3010STEP3\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C2\u5F3E",
+    "id": 355,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 22304,
+    "gacha_rate_set_name": "\u3010STEP4\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C2\u5F3E",
+    "id": 356,
+    "is_always_display": true,
+    "is_wish_list": false
+  },
+  {
+    "cost": null,
+    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 22305,
+    "gacha_rate_set_name": "\u3010STEP5\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C2\u5F3E",
+    "id": 357,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21962,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\uFF01 \u65B0\u305F\u306A\u308B\u5C0E\u304D \u30A2\u30EB\u30D3\u30FC\u30CA LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 358,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21963,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\uFF01 \u65B0\u305F\u306A\u308B\u5C0E\u304D \u30A2\u30EB\u30D3\u30FC\u30CA LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 359,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 21964,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\uFF01 \u65B0\u305F\u306A\u308B\u5C0E\u304D \u30A2\u30EB\u30D3\u30FC\u30CA LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 360,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 22002,
+    "gacha_rate_set_name": "\u3010STEP1\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\uFF01 \u5F14\u3044\u306E\u53CC\u5203 \u30D9\u30C3\u30D7 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 361,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 22003,
+    "gacha_rate_set_name": "\u3010STEP2\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\uFF01 \u5F14\u3044\u306E\u53CC\u5203 \u30D9\u30C3\u30D7 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 362,
+    "is_always_display": true,
+    "is_wish_list": true
+  },
+  {
+    "cost": null,
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 22004,
+    "gacha_rate_set_name": "\u3010STEP3\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\uFF01 \u5F14\u3044\u306E\u53CC\u5203 \u30D9\u30C3\u30D7 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "id": 363,
+    "is_always_display": true,
+    "is_wish_list": true
+  }
+]

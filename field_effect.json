@@ -1,0 +1,155 @@
+[
+  {
+    "attack_attribute": 5,
+    "description": "\u5473\u65B9\uFF1A\u884C\u52D5\u524D\u306B\u6700\u5927HP\u306E10\uFF05\u306E\u5272\u5408\u30C0\u30E1\u30FC\u30B8",
+    "id": 11,
+    "popup_text": "HP\u5272\u5408\u30C0\u30E1\u30FC\u30B8",
+    "turn": 5,
+    "turn_type": 2,
+    "vfx_path_hash": 3475552498269331355
+  },
+  {
+    "attack_attribute": 6,
+    "description": "\u5473\u65B9\uFF1A\u30A2\u30A4\u30C6\u30E0\u30B2\u30FC\u30B8\u5897\u52A0\u91CF\u304C99%DOWN",
+    "id": 12,
+    "popup_text": "\u30A2\u30A4\u30C6\u30E0\u30B2\u30FC\u30B8\u5897\u52A0\u505C\u6B62",
+    "turn": 3,
+    "turn_type": 2,
+    "vfx_path_hash": 6255199844559231777
+  },
+  {
+    "attack_attribute": 5,
+    "description": "\u5473\u65B9\uFF1A\u884C\u52D5\u524D\u306B\u6700\u5927HP\u306E3\uFF05\u306E\u5272\u5408\u30C0\u30E1\u30FC\u30B8",
+    "id": 13,
+    "popup_text": "HP\u5272\u5408\u30C0\u30E1\u30FC\u30B8",
+    "turn": null,
+    "turn_type": 1,
+    "vfx_path_hash": 3475552498269331355
+  },
+  {
+    "attack_attribute": 6,
+    "description": "\u5473\u65B9\uFF1A\u30A2\u30A4\u30C6\u30E0\u30B2\u30FC\u30B8\u5897\u52A0\u91CF\u304C20%DOWN",
+    "id": 14,
+    "popup_text": "\u30A2\u30A4\u30C6\u30E0\u30B2\u30FC\u30B8\u5897\u52A0\u91CF\u6E1B\u5C11",
+    "turn": null,
+    "turn_type": 1,
+    "vfx_path_hash": 6255199844559231777
+  },
+  {
+    "attack_attribute": 7,
+    "description": "\u5473\u65B9\uFF1A\u7269\u9632\uFF06\u9B54\u96325\uFF05DOWN",
+    "id": 15,
+    "popup_text": "\u30B9\u30C6\u30FC\u30BF\u30B9\u30C0\u30A6\u30F3",
+    "turn": null,
+    "turn_type": 1,
+    "vfx_path_hash": 1307578327666010006
+  },
+  {
+    "attack_attribute": 7,
+    "description": "\u5473\u65B9\uFF1A\u7269\u9632\uFF06\u9B54\u9632\uFF06\u96F7\u8010\u602710\uFF05DOWN",
+    "id": 16,
+    "popup_text": "\u30B9\u30C6\u30FC\u30BF\u30B9\u30C0\u30A6\u30F3",
+    "turn": 3,
+    "turn_type": 2,
+    "vfx_path_hash": 1307578327666010006
+  },
+  {
+    "attack_attribute": 8,
+    "description": "\u5473\u65B9\uFF1A\u5F37\u5316\u52B9\u679C\u91CF30\uFF05DOWN",
+    "id": 17,
+    "popup_text": "\u53D7\u3051\u308B\u5F37\u5316\u52B9\u679C\u91CF\u30C0\u30A6\u30F3",
+    "turn": null,
+    "turn_type": 1,
+    "vfx_path_hash": 9022399762943701700
+  },
+  {
+    "attack_attribute": 8,
+    "description": "\u5473\u65B9\uFF1A\u5F37\u5316\u52B9\u679C\u91CF90\uFF05DOWN",
+    "id": 18,
+    "popup_text": "\u53D7\u3051\u308B\u5F37\u5316\u52B9\u679C\u91CF\u30C0\u30A6\u30F3",
+    "turn": 3,
+    "turn_type": 2,
+    "vfx_path_hash": 9022399762943701700
+  },
+  {
+    "attack_attribute": 7,
+    "description": "\u6575\uFF1A\u4E0E\u30C0\u30E1\u30FC\u30B850%UP",
+    "id": 20,
+    "popup_text": "\u4E0E\u30C0\u30E1\u30FC\u30B8UP",
+    "turn": 30,
+    "turn_type": 1,
+    "vfx_path_hash": 1307578327666010006
+  },
+  {
+    "attack_attribute": 6,
+    "description": "\u5168\u4F53\uFF1A\u6575\u306B\u88AB\u30C0\u30E1\u30FC\u30B83%DOWN\u4ED8\u4E0E",
+    "id": 21,
+    "popup_text": "\u88AB\u30C0\u30E1\u30FC\u30B8DOWN\u3092\u4ED8\u4E0E",
+    "turn": null,
+    "turn_type": 1,
+    "vfx_path_hash": 6255199844559231777
+  },
+  {
+    "attack_attribute": 5,
+    "description": "\u5168\u4F53\uFF1A\u6575\u306B\u88AB\u30C0\u30E1\u30FC\u30B82%UP\u4ED8\u4E0E",
+    "id": 22,
+    "popup_text": "\u88AB\u30C0\u30E1\u30FC\u30B8UP\u3092\u4ED8\u4E0E",
+    "turn": 25,
+    "turn_type": 1,
+    "vfx_path_hash": 3475552498269331355
+  },
+  {
+    "attack_attribute": 8,
+    "description": "\u5473\u65B9\uFF1A\u4E0E\u30C0\u30E1\u30FC\u30B880\uFF05DOWN",
+    "id": 26,
+    "popup_text": "\u4E0E\u30C0\u30E1\u30FC\u30B8DOWN",
+    "turn": null,
+    "turn_type": 1,
+    "vfx_path_hash": 3544120239894651858
+  },
+  {
+    "attack_attribute": 8,
+    "description": "\u5473\u65B9\uFF1A\u4E0E\u30C0\u30E1\u30FC\u30B890\uFF05DOWN",
+    "id": 27,
+    "popup_text": "\u4E0E\u30C0\u30E1\u30FC\u30B8DOWN",
+    "turn": null,
+    "turn_type": 1,
+    "vfx_path_hash": 3544120239894651858
+  },
+  {
+    "attack_attribute": 8,
+    "description": "\u5473\u65B9\uFF1A\u4E0E\u30C0\u30E1\u30FC\u30B890\uFF05DOWN\u3001\u4E0E\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B830\uFF05DOWN",
+    "id": 28,
+    "popup_text": "\u4E0E\u30C0\u30E1\u30FC\u30B8/\u4E0E\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8DOWN",
+    "turn": 5,
+    "turn_type": 2,
+    "vfx_path_hash": 3544120239894651858
+  },
+  {
+    "attack_attribute": 8,
+    "description": "\u5473\u65B9\uFF1A\u4E0E\u30C0\u30E1\u30FC\u30B895\uFF05DOWN\u3001\u4E0E\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B850\uFF05DOWN",
+    "id": 29,
+    "popup_text": "\u4E0E\u30C0\u30E1\u30FC\u30B8/\u4E0E\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8DOWN",
+    "turn": 5,
+    "turn_type": 2,
+    "vfx_path_hash": 3544120239894651858
+  },
+  {
+    "attack_attribute": 8,
+    "description": "\u6575\uFF1A\u88AB\u30C0\u30E1\u30FC\u30B8100%UP",
+    "id": 30,
+    "popup_text": "\u88AB\u30C0\u30E1\u30FC\u30B8UP",
+    "turn": 1,
+    "turn_type": 3,
+    "vfx_path_hash": 1472207331609133934
+  },
+  {
+    "attack_attribute": 5,
+    "description": "\u5168\u4F53\uFF1A\u72B6\u614B\u7570\u5E38\u8010\u6027DOWN",
+    "id": 31,
+    "popup_text": "\u72B6\u614B\u7570\u5E38\u8010\u6027DOWN",
+    "turn": 10,
+    "turn_type": 1,
+    "vfx_path_hash": 3475552498269331355
+  }
+]

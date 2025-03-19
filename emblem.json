@@ -1,0 +1,562 @@
+[
+  {
+    "effect_name": "\u6B66\u5668\u306E\u7269\u653B{}",
+    "emblem_group_id": 1,
+    "id": 1,
+    "name": "\u6B66\u5668\u8ABF\u5408\u306E\u5320",
+    "priority": 1,
+    "start_at": "2024-03-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u9632\u5177\u306E\u7269\u9632{}",
+    "emblem_group_id": 1,
+    "id": 2,
+    "name": "\u9632\u5177\u8ABF\u5408\u306E\u5320",
+    "priority": 2,
+    "start_at": "2024-03-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u88C5\u98FE\u54C1\u306EHP{}",
+    "emblem_group_id": 1,
+    "id": 3,
+    "name": "\u88C5\u98FE\u54C1\u8ABF\u5408\u306E\u5320",
+    "priority": 3,
+    "start_at": "2024-03-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u6B66\u5668\u306E\u9B54\u653B{}",
+    "emblem_group_id": 1,
+    "id": 4,
+    "name": "\u6B66\u5668\u8ABF\u5408\u30DE\u30B9\u30BF\u30FC",
+    "priority": 4,
+    "start_at": "2024-05-10T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u9632\u5177\u306E\u9B54\u9632{}",
+    "emblem_group_id": 1,
+    "id": 5,
+    "name": "\u9632\u5177\u8ABF\u5408\u30DE\u30B9\u30BF\u30FC",
+    "priority": 5,
+    "start_at": "2024-05-10T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u88C5\u98FE\u54C1\u306E\u7D20\u65E9\u3055{}",
+    "emblem_group_id": 1,
+    "id": 6,
+    "name": "\u88C5\u98FE\u54C1\u8ABF\u5408\u30DE\u30B9\u30BF\u30FC",
+    "priority": 6,
+    "start_at": "2024-05-10T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\u306E\u4E0E\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 1,
+    "id": 7,
+    "name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\u8ABF\u5408\u306E\u5320",
+    "priority": 7,
+    "start_at": "2024-03-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\u306EHP\u56DE\u5FA9\u91CF{}",
+    "emblem_group_id": 1,
+    "id": 8,
+    "name": "\u56DE\u5FA9\u30A2\u30A4\u30C6\u30E0\u8ABF\u5408\u306E\u5320",
+    "priority": 8,
+    "start_at": "2024-03-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\u306E\u30DE\u30A4\u30CA\u30B9\u52B9\u679C{}",
+    "emblem_group_id": 1,
+    "id": 9,
+    "name": "\u5F31\u4F53\u5316\u30A2\u30A4\u30C6\u30E0\u8ABF\u5408\u306E\u5320",
+    "priority": 9,
+    "start_at": "2024-03-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\u306E\u5F37\u5316\u52B9\u679C{}",
+    "emblem_group_id": 1,
+    "id": 10,
+    "name": "\u5F37\u5316\u30A2\u30A4\u30C6\u30E0\u8ABF\u5408\u306E\u5320",
+    "priority": 10,
+    "start_at": "2024-03-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u30A2\u30BF\u30C3\u30AB\u30FC\u306EHP{}",
+    "emblem_group_id": 1,
+    "id": 11,
+    "name": "\u30AB\u30D5\u30A7\u306E\u5E38\u9023\u3055\u3093",
+    "priority": 11,
+    "start_at": "2024-03-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u3077\u306B\u7A2E\u65CF\u3078\u4E0E\u3048\u308B\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 1,
+    "id": 12,
+    "name": "\u3077\u306B\u30B9\u30EC\u30A4\u30E4\u30FC",
+    "priority": 12,
+    "start_at": "2024-03-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u6C34\u68F2\u7A2E\u65CF\u3078\u4E0E\u3048\u308B\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 1,
+    "id": 13,
+    "name": "\u6C34\u68F2\u7A2E\u30B9\u30EC\u30A4\u30E4\u30FC",
+    "priority": 13,
+    "start_at": "2024-03-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u9CE5\u7A2E\u65CF\u3078\u4E0E\u3048\u308B\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 1,
+    "id": 14,
+    "name": "\u9CE5\u7A2E\u30B9\u30EC\u30A4\u30E4\u30FC",
+    "priority": 14,
+    "start_at": "2024-03-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "weak\u653B\u6483\u6642\u3001\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 1,
+    "id": 15,
+    "name": "\u6226\u95D8\u7814\u7A76\u30D7\u30ED\u30D5\u30A7\u30C3\u30B5\u30FC",
+    "priority": 15,
+    "start_at": "2024-03-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "weak\u653B\u6483\u6642\u3001\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 1,
+    "id": 16,
+    "name": "\u932C\u91D1\u7814\u7A76\u30D7\u30ED\u30D5\u30A7\u30C3\u30B5\u30FC",
+    "priority": 16,
+    "start_at": "2024-03-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u306EHP{}",
+    "emblem_group_id": 1,
+    "id": 18,
+    "name": "\u30B9\u30B3\u30A2\u30D0\u30C8\u30EB\u30DE\u30B9\u30BF\u30FC",
+    "priority": 18,
+    "start_at": "2024-03-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u30D6\u30EC\u30A4\u30AB\u30FC\u306EHP{}",
+    "emblem_group_id": 1,
+    "id": 20,
+    "name": "\u30EC\u30B7\u30D4\u767A\u60F3\u30DE\u30B9\u30BF\u30FC",
+    "priority": 20,
+    "start_at": "2024-03-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u72B6\u614B\u7570\u5E38\u306E\u76F8\u624B\u306B\u653B\u6483\u3059\u308B\u6642\u3001\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 1,
+    "id": 21,
+    "name": "\u30AD\u30E9\u30AD\u30E9\u30B3\u30A4\u30F3\u9577\u8005",
+    "priority": 21,
+    "start_at": "2024-03-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u72B6\u614B\u7570\u5E38\u306E\u76F8\u624B\u306B\u653B\u6483\u3059\u308B\u6642\u3001\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 1,
+    "id": 22,
+    "name": "\u30B9\u30BF\u30DF\u30CA\u6D88\u8CBB\u6570\u30DE\u30B9\u30BF\u30FC",
+    "priority": 22,
+    "start_at": "2024-03-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 1,
+    "id": 25,
+    "name": "\u56DB\u5143\u306E\u9AD8\u307F\u3092\u76EE\u6307\u3059\u8005",
+    "priority": 25,
+    "start_at": "2024-03-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5358\u4F53\u653B\u6483\u306E\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 1,
+    "id": 26,
+    "name": "\u6210\u9577\u3092\u9042\u3052\u308B\u8005",
+    "priority": 26,
+    "start_at": "2024-03-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5168\u4F53\u653B\u6483\u306E\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 1,
+    "id": 27,
+    "name": "\u3055\u3089\u306A\u308B\u6210\u9577\u3092\u9042\u3052\u308B\u8005",
+    "priority": 27,
+    "start_at": "2024-03-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u30D6\u30EC\u30A4\u30AF\u5F37\u5316\u30D1\u30CD\u30EB\u306E\u52B9\u679C{}",
+    "emblem_group_id": 1,
+    "id": 28,
+    "name": "\u935B\u932C\u306B\u52B1\u3080\u5192\u967A\u8005",
+    "priority": 28,
+    "start_at": "2024-03-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u30B5\u30DD\u30FC\u30BF\u30FC\u306EHP{}",
+    "emblem_group_id": 1,
+    "id": 29,
+    "name": "\u63A1\u53D6\u306B\u52B1\u3080\u932C\u91D1\u8853\u58EB",
+    "priority": 29,
+    "start_at": "2024-03-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u98A8\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 30,
+    "name": "\u30EC\u30B9\u30EC\u30EA\u5B66\u5712\u7B2C1\u5F3EEX\u5236\u8987\u8005",
+    "priority": 1000000,
+    "start_at": "2024-04-01T12:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u98A8\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 31,
+    "name": "\u30EC\u30B9\u30EC\u30EA\u5B66\u5712\u7B2C2\u5F3EEX\u5236\u8987\u8005",
+    "priority": 1000010,
+    "start_at": "2024-04-12T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u306E\u9B54\u9632{}",
+    "emblem_group_id": 2,
+    "id": 32,
+    "name": "\u6226\u58EB\u306E\u5927\u93A7EX\u5236\u8987\u8005",
+    "priority": 1000030,
+    "start_at": "2024-04-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u96F7\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 33,
+    "name": "\u30B6\u30FC\u30EB\u30D6\u30EB\u30B0\u306E\u932C\u91D1\u8853\u58EBEX\u5236\u8987\u8005",
+    "priority": 1000040,
+    "start_at": "2024-04-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u98A8\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 34,
+    "name": "\u30EC\u30B9\u30EC\u30EA\u5B66\u5712\u7B2C3\u5F3EEX\u5236\u8987\u8005",
+    "priority": 1000020,
+    "start_at": "2024-04-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u30B5\u30DD\u30FC\u30BF\u30FC\u306E\u7269\u9632{}",
+    "emblem_group_id": 2,
+    "id": 35,
+    "name": "\u6E29\u6CC9\u596A\u9084\u4F5C\u6226\uFF01EX\u5236\u8987\u8005",
+    "priority": 999990,
+    "start_at": "2024-04-30T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\u306E\u65AC\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 36,
+    "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u8987\u8005\u3010\u65AC\u3011",
+    "priority": 1,
+    "start_at": "2024-05-13T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\u306E\u96F7\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 37,
+    "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u8987\u8005\u3010\u96F7\u3011",
+    "priority": 2,
+    "start_at": "2024-05-20T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\u306E\u98A8\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 38,
+    "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u8987\u8005\u3010\u98A8\u3011",
+    "priority": 3,
+    "start_at": "2024-05-27T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\u306E\u6253\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 39,
+    "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u8987\u8005\u3010\u6253\u3011",
+    "priority": 4,
+    "start_at": "2024-06-03T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\u306E\u6C37\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 40,
+    "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u8987\u8005\u3010\u6C37\u3011",
+    "priority": 5,
+    "start_at": "2024-06-10T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\u306E\u7A81\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 41,
+    "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u8987\u8005\u3010\u7A81\u3011",
+    "priority": 6,
+    "start_at": "2024-06-17T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\u306E\u706B\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 42,
+    "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u8987\u8005\u3010\u706B\u3011",
+    "priority": 7,
+    "start_at": "2024-06-24T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 1,
+    "id": 43,
+    "name": "\u304A\u8CB7\u3044\u7269\u4E0A\u624B",
+    "priority": 30,
+    "start_at": "2024-05-10T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u96F7\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 44,
+    "name": "\u30E9\u30F3\u30BF\u30FC\u30CA\u5EFA\u56FD\u8A18\u5FF5\u676FEX\u5236\u8987\u8005",
+    "priority": 999980,
+    "start_at": "2024-05-20T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u6C37\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 45,
+    "name": "\u52C7\u8005\u30EC\u30B9\u30CA\u306E\u5927\u5192\u967AEX\u5236\u8987\u8005",
+    "priority": 1000050,
+    "start_at": "2024-05-23T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u30B5\u30DD\u30FC\u30BF\u30FC\u306E\u9B54\u9632{}",
+    "emblem_group_id": 2,
+    "id": 46,
+    "name": "\u6C7A\u6226\uFF01\u30CF\u30ED\u30A6\u30A3\u30F3\u3077\u306BEX\u5236\u8987\u8005",
+    "priority": 1000060,
+    "start_at": "2024-05-23T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u65AC\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 48,
+    "name": "\u7ADC\u306E\u6D99\u306F\u82B1\u3068\u6563\u308BEX\u5236\u8987\u8005",
+    "priority": 999970,
+    "start_at": "2024-06-10T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u706B\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 51,
+    "name": "\u98DB\u3073\u51FA\u305B\u30AA\u30D5\u30A3\u30B9\uFF01EX\u5236\u8987\u8005",
+    "priority": 999960,
+    "start_at": "2024-06-21T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u6253\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 52,
+    "name": "\u30EA\u30C7\u30A3\u30FC\uFF06\u30B9\u30FC\u30EB\u306E\u65E5\u5E38EX\u5236\u8987\u8005",
+    "priority": 1000070,
+    "start_at": "2024-06-24T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u96F7\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 53,
+    "name": "\u6C34\u7740DE\u30EA\u30BE\u30FC\u30C8\uFF01EX\u5236\u8987\u8005",
+    "priority": 999950,
+    "start_at": "2024-07-10T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u30D6\u30EC\u30A4\u30AB\u30FC\u306E\u7269\u9632{}",
+    "emblem_group_id": 2,
+    "id": 54,
+    "name": "\u5FD8\u5374\u306E\u8CE2\u8005\u3068\u79D8\u5BC6\u306E\u697D\u5712EX\u5236\u8987\u8005",
+    "priority": 1000080,
+    "start_at": "2024-07-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u6C37\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 55,
+    "name": "\u661F\u964D\u308B\u591C\u306E\u8D08\u308A\u3082\u306EEX\u5236\u8987\u8005",
+    "priority": 1000090,
+    "start_at": "2024-07-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u30A2\u30BF\u30C3\u30AB\u30FC\u306E\u7269\u9632{}",
+    "emblem_group_id": 2,
+    "id": 56,
+    "name": "\u30D3\u30FC\u30C1\u30D5\u30E9\u30C3\u30B0EX\u5236\u8987\u8005",
+    "priority": 999951,
+    "start_at": "2024-07-19T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u30D6\u30EC\u30A4\u30AB\u30FC\u306E\u7269\u9632{}",
+    "emblem_group_id": 2,
+    "id": 57,
+    "name": "\u591C\u7A7A\u306B\u7B11\u9854\u304C\u54B2\u3044\u305F\u590FEX\u5236\u8987\u8005",
+    "priority": 999952,
+    "start_at": "2024-07-31T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u6253\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u53D7\u3051\u308BHP\u56DE\u5FA9\u91CF{}",
+    "emblem_group_id": 2,
+    "id": 58,
+    "name": "\u4E8C\u4EBA\u306E\u30B7\u30E3\u30EA\u30FC\u3068\u6BCD\u306E\u9858\u3044EX\u5236\u8987\u8005",
+    "priority": 1000110,
+    "start_at": "2024-08-16T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u6C37\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u5358\u4F53\u653B\u6483\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 59,
+    "name": "\u30DE\u30EA\u30FC\u306E\u62DB\u798F\u5927\u4F5C\u6226\uFF01EX\u5236\u8987\u8005",
+    "priority": 1000100,
+    "start_at": "2024-08-16T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u6C37\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 60,
+    "name": "\u30D3\u30FC\u30C1\u3067\u5B9D\u63A2\u3057\uFF01EX\u5236\u8987\u8005",
+    "priority": 999953,
+    "start_at": "2024-08-09T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u306E\u7269\u9632{}",
+    "emblem_group_id": 2,
+    "id": 61,
+    "name": "\uFF11\u5468\u5E74\u524D\u591C\u796D\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8EX\u5236\u8987\u8005",
+    "priority": 999940,
+    "start_at": "2024-08-21T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u30A2\u30BF\u30C3\u30AB\u30FC\u306E\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 62,
+    "name": "\u7206\u88C2\uFF01\uFF01 \u30DE\u30EA\u30FC\u304B\u3089\u306E\u8A66\u7DF4EX\u5236\u8987\u8005",
+    "priority": 999930,
+    "start_at": "2024-09-19T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u6253\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 63,
+    "name": "\u65CB\u98A8\uFF01\uFF01\u30E6\u30FC\u30C7\u30A3\u30FC\u304B\u3089\u306E\u8A66\u7DF4EX\u5236\u8987\u8005",
+    "priority": 999920,
+    "start_at": "2024-10-11T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u7A81\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 64,
+    "name": "\u4E59\u5973\u305F\u3061\u306E\u30C1\u30E7\u30B3\u30EC\u30FC\u30C8\u30DF\u30C3\u30AF\u30B9EX\u5236\u8987\u8005",
+    "priority": 1000120,
+    "start_at": "2024-10-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u98A8\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u53D7\u3051\u308BHP\u56DE\u5FA9\u91CF{}",
+    "emblem_group_id": 2,
+    "id": 65,
+    "name": "\u30A2\u30FC\u30E9\u30F3\u30C9\u306E\u932C\u91D1\u8853\u58EBEX\u5236\u8987\u8005",
+    "priority": 1000130,
+    "start_at": "2024-10-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u98A8\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u5358\u4F53\u653B\u6483\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 66,
+    "name": "\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8 \u30B3\u30BA\u30DF\u30C3\u30AF\u30B7\u30A7\u30EBEX\u5236\u8987\u8005",
+    "priority": 999910,
+    "start_at": "2024-10-31T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u7A81\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 67,
+    "name": "\u6E07\u304D\u306E\u4E2D\u3067\u54B2\u304F\u82B1\u305F\u3061EX\u5236\u8987\u8005",
+    "priority": 999900,
+    "start_at": "2024-11-08T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u7A81\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u53D7\u3051\u308BHP\u56DE\u5FA9\u91CF{}",
+    "emblem_group_id": 2,
+    "id": 68,
+    "name": "\u6DF7\u6C8C\u3068\u898F\u5F8B\u306E\u9082\u9005EX\u5236\u8987\u8005",
+    "priority": 999890,
+    "start_at": "2024-11-15T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u7A81\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 69,
+    "name": "\u30D6\u30E9\u30C3\u30C9\u306E\u5B9F\u5730\u8ABF\u67FBEX\u5236\u8987\u8005",
+    "priority": 999880,
+    "start_at": "2024-11-22T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u96F7\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u53D7\u3051\u308BHP\u56DE\u5FA9\u91CF{}",
+    "emblem_group_id": 2,
+    "id": 70,
+    "name": "\u30AD\u30E9\u30AD\u30E9\u30BB\u30AD\u30E9\u30E9\u661F\u8A95\u796D\uFF01\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u5236\u8987\u8005",
+    "priority": 999870,
+    "start_at": "2024-12-13T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u6C37\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u5358\u4F53\u653B\u6483\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 71,
+    "name": "\u7E01\u7D50\u3076\u8005\u3000\u661F\u7167\u3089\u3059\u9053\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u5236\u8987\u8005",
+    "priority": 999860,
+    "start_at": "2024-12-31T15:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u30A2\u30BF\u30C3\u30AB\u30FC\u306E\u9B54\u9632{}",
+    "emblem_group_id": 2,
+    "id": 72,
+    "name": "\u89AA\u53CB\u3068\u6B69\u3080\u672A\u6765\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u5236\u8987\u8005",
+    "priority": 999850,
+    "start_at": "2025-01-24T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u98A8\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u4E0E\u3048\u308BHP\u56DE\u5FA9\u91CF{}",
+    "emblem_group_id": 2,
+    "id": 73,
+    "name": "\u30E9\u30A4\u30D0\u30EB\u3068\u7AF6\u3046\u672A\u6765\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u5236\u8987\u8005",
+    "priority": 999840,
+    "start_at": "2025-01-31T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u6C37\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u53D7\u3051\u308BHP\u56DE\u5FA9\u91CF{}",
+    "emblem_group_id": 2,
+    "id": 74,
+    "name": "\u3042\u306A\u305F\u3068\u5922\u898B\u308B\u30C8\u30AF\u30D9\u30C4\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u5236\u8987\u8005",
+    "priority": 999830,
+    "start_at": "2025-02-14T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u7A81\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 75,
+    "name": "\u3042\u306A\u305F\u3068\u5192\u967A\u3059\u308B\u30C8\u30AF\u30D9\u30C4\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u5236\u8987\u8005",
+    "priority": 999820,
+    "start_at": "2025-02-21T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u7A81\u5C5E\u6027\u306E\u30AD\u30E3\u30E9\u306E\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 76,
+    "name": "\u30C1\u30E3\u30EC\u30F3\u30B8\u30D0\u30C8\u30EB\u30AF\u30F4\u30A1\u30EC\u30EB\u30AC\u5236\u8987\u8005",
+    "priority": 999810,
+    "start_at": "2025-02-28T03:00:00.0000000Z"
+  },
+  {
+    "effect_name": "\u5F97\u610F\u5C5E\u6027\u304C\u65AC\u5C5E\u6027\u30AD\u30E3\u30E9\u306E\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8{}",
+    "emblem_group_id": 2,
+    "id": 77,
+    "name": "\u306A\u3093\u3067\u3082\u5C4B\u30B7\u30C8\u30EA\u30F3\u306E\u6311\u6226\u72B6\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u5236\u8987\u8005",
+    "priority": 999800,
+    "start_at": "2025-03-12T03:00:00.0000000Z"
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "id": 100202701,
+    "name": "\u30A4\u30B6\u30CA\u306E\u8A71\u3092\u805E\u3053\u3046",
+    "phase": 1,
+    "quest_id": 101002032,
+    "show_after_phase": 0,
+    "triggers": [
+      {
+        "move_part_id": null,
+        "talk_id": 100202701
+      }
+    ]
+  },
+  {
+    "id": 100202702,
+    "name": "\u30B7\u30E3\u30EA\u30B9\u30C6\u30E9\u306E\u8A71\u3092\u805E\u3053\u3046",
+    "phase": 2,
+    "quest_id": 101002032,
+    "show_after_phase": 1,
+    "triggers": [
+      {
+        "move_part_id": null,
+        "talk_id": 100202702
+      }
+    ]
+  },
+  {
+    "id": 100202703,
+    "name": "\u30E9\u30A4\u30B6\u306E\u8A71\u3092\u805E\u3053\u3046",
+    "phase": 3,
+    "quest_id": 101002032,
+    "show_after_phase": 2,
+    "triggers": [
+      {
+        "move_part_id": null,
+        "talk_id": 100202703
+      }
+    ]
+  },
+  {
+    "id": 100202704,
+    "name": "\u518D\u5EA6\u30A4\u30B6\u30CA\u306E\u8A71\u3092\u805E\u3053\u3046",
+    "phase": 4,
+    "quest_id": 101002032,
+    "show_after_phase": 3,
+    "triggers": [
+      {
+        "move_part_id": null,
+        "talk_id": 100202704
+      }
+    ]
+  },
+  {
+    "id": 100202705,
+    "name": "\u4E2D\u6D41\u5730\u533A\u306B\u79FB\u52D5\u3057\u3066\u518D\u5EA6\u30E9\u30A4\u30B6\u306E\u8A71\u3092\u805E\u3053\u3046",
+    "phase": 5,
+    "quest_id": 101002032,
+    "show_after_phase": 4,
+    "triggers": [
+      {
+        "move_part_id": null,
+        "talk_id": 100202705
+      }
+    ]
+  },
+  {
+    "id": 100202706,
+    "name": "\u518D\u5EA6\u30B7\u30E3\u30EA\u30B9\u30C6\u30E9\u306E\u8A71\u3092\u805E\u3053\u3046",
+    "phase": 6,
+    "quest_id": 101002032,
+    "show_after_phase": 5,
+    "triggers": [
+      {
+        "move_part_id": null,
+        "talk_id": 100202706
+      }
+    ]
+  },
+  {
+    "id": 100400701,
+    "name": "\u30E9\u30F3\u30C4\u30A7\u306E\u8A71\u3092\u805E\u3053\u3046",
+    "phase": 1,
+    "quest_id": 101004007,
+    "show_after_phase": 0,
+    "triggers": [
+      {
+        "move_part_id": null,
+        "talk_id": 100400701
+      }
+    ]
+  },
+  {
+    "id": 100400702,
+    "name": "\u30D5\u30ED\u30C3\u30B1\u306E\u8A71\u3092\u805E\u3053\u3046",
+    "phase": 2,
+    "quest_id": 101004007,
+    "show_after_phase": 1,
+    "triggers": [
+      {
+        "move_part_id": null,
+        "talk_id": 100400702
+      }
+    ]
+  },
+  {
+    "id": 100400703,
+    "name": "\u30A2\u30FC\u30B7\u30E3\u305F\u3061\u306E\u8A71\u3092\u805E\u3053\u3046",
+    "phase": 3,
+    "quest_id": 101004007,
+    "show_after_phase": 2,
+    "triggers": [
+      {
+        "move_part_id": null,
+        "talk_id": 100400703
+      }
+    ]
+  },
+  {
+    "id": 100501601,
+    "name": "\u4E2D\u6D41\u5730\u533A\u3092\u8ABF\u67FB\u3057\u3088\u3046",
+    "phase": 1,
+    "quest_id": 101005015,
+    "show_after_phase": 0,
+    "triggers": [
+      {
+        "move_part_id": null,
+        "talk_id": 100501601
+      }
+    ]
+  },
+  {
+    "id": 100501602,
+    "name": "\u3055\u3089\u306B\u4E2D\u6D41\u5730\u533A\u3092\u8ABF\u67FB\u3057\u3088\u3046",
+    "phase": 2,
+    "quest_id": 101005015,
+    "show_after_phase": 1,
+    "triggers": [
+      {
+        "move_part_id": null,
+        "talk_id": 100501602
+      }
+    ]
+  },
+  {
+    "id": 100501603,
+    "name": "\u6E7E\u5CB8\u5730\u533A\u306B\u79FB\u52D5\u3057\u3088\u3046",
+    "phase": 3,
+    "quest_id": 101005015,
+    "show_after_phase": 2,
+    "triggers": [
+      {
+        "move_part_id": null,
+        "talk_id": 100501603
+      }
+    ]
+  },
+  {
+    "id": 100501604,
+    "name": "\u6E7E\u5CB8\u5730\u533A\u3092\u8ABF\u67FB\u3057\u3088\u3046",
+    "phase": 4,
+    "quest_id": 101005015,
+    "show_after_phase": 3,
+    "triggers": [
+      {
+        "move_part_id": null,
+        "talk_id": 100501604
+      }
+    ]
+  }
+]
