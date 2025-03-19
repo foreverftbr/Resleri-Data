@@ -10730,5 +10730,13 @@
       "focused_on": 8501003,
       "transition": 31
     }
+  },
+  {
+    "id": 1545,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 22
+    }
   }
 ]
