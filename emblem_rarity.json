@@ -12,7 +12,7 @@
     "requirement": {
       "condition_id": 727,
       "count": 500,
-      "name": "\u6B66\u5668\u3092500\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "武器を500個調合しよう"
     },
     "status_buffs": [],
     "value": 200
@@ -30,7 +30,7 @@
     "requirement": {
       "condition_id": 727,
       "count": 2500,
-      "name": "\u6B66\u5668\u30922500\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "武器を2500個調合しよう"
     },
     "status_buffs": [],
     "value": 300
@@ -48,7 +48,7 @@
     "requirement": {
       "condition_id": 727,
       "count": 5000,
-      "name": "\u6B66\u5668\u30925000\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "武器を5000個調合しよう"
     },
     "status_buffs": [],
     "value": 500
@@ -66,7 +66,7 @@
     "requirement": {
       "condition_id": 728,
       "count": 500,
-      "name": "\u9632\u5177\u3092500\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "防具を500個調合しよう"
     },
     "status_buffs": [],
     "value": 200
@@ -84,7 +84,7 @@
     "requirement": {
       "condition_id": 728,
       "count": 2500,
-      "name": "\u9632\u5177\u30922500\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "防具を2500個調合しよう"
     },
     "status_buffs": [],
     "value": 300
@@ -102,7 +102,7 @@
     "requirement": {
       "condition_id": 728,
       "count": 5000,
-      "name": "\u9632\u5177\u30925000\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "防具を5000個調合しよう"
     },
     "status_buffs": [],
     "value": 500
@@ -120,7 +120,7 @@
     "requirement": {
       "condition_id": 729,
       "count": 500,
-      "name": "\u88C5\u98FE\u54C1\u3092500\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "装飾品を500個調合しよう"
     },
     "status_buffs": [],
     "value": 200
@@ -138,7 +138,7 @@
     "requirement": {
       "condition_id": 729,
       "count": 2500,
-      "name": "\u88C5\u98FE\u54C1\u30922500\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "装飾品を2500個調合しよう"
     },
     "status_buffs": [],
     "value": 300
@@ -156,7 +156,7 @@
     "requirement": {
       "condition_id": 729,
       "count": 5000,
-      "name": "\u88C5\u98FE\u54C1\u30925000\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "装飾品を5000個調合しよう"
     },
     "status_buffs": [],
     "value": 500
@@ -174,7 +174,7 @@
     "requirement": {
       "condition_id": 828,
       "count": 5,
-      "name": "SSR\u304B\u3064\u7279\u6027\u30EC\u30D9\u30EB\u5408\u8A089\u4EE5\u4E0A\u306E\u6B66\u5668\u30925\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "SSRかつ特性レベル合計9以上の武器を5個調合しよう"
     },
     "status_buffs": [],
     "value": 200
@@ -192,7 +192,7 @@
     "requirement": {
       "condition_id": 828,
       "count": 15,
-      "name": "SSR\u304B\u3064\u7279\u6027\u30EC\u30D9\u30EB\u5408\u8A089\u4EE5\u4E0A\u306E\u6B66\u5668\u309215\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "SSRかつ特性レベル合計9以上の武器を15個調合しよう"
     },
     "status_buffs": [],
     "value": 300
@@ -210,7 +210,7 @@
     "requirement": {
       "condition_id": 828,
       "count": 30,
-      "name": "SSR\u304B\u3064\u7279\u6027\u30EC\u30D9\u30EB\u5408\u8A089\u4EE5\u4E0A\u306E\u6B66\u5668\u309230\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "SSRかつ特性レベル合計9以上の武器を30個調合しよう"
     },
     "status_buffs": [],
     "value": 500
@@ -228,7 +228,7 @@
     "requirement": {
       "condition_id": 829,
       "count": 5,
-      "name": "SSR\u304B\u3064\u7279\u6027\u30EC\u30D9\u30EB\u5408\u8A089\u4EE5\u4E0A\u306E\u9632\u5177\u30925\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "SSRかつ特性レベル合計9以上の防具を5個調合しよう"
     },
     "status_buffs": [],
     "value": 200
@@ -246,7 +246,7 @@
     "requirement": {
       "condition_id": 829,
       "count": 15,
-      "name": "SSR\u304B\u3064\u7279\u6027\u30EC\u30D9\u30EB\u5408\u8A089\u4EE5\u4E0A\u306E\u9632\u5177\u309215\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "SSRかつ特性レベル合計9以上の防具を15個調合しよう"
     },
     "status_buffs": [],
     "value": 300
@@ -264,7 +264,7 @@
     "requirement": {
       "condition_id": 829,
       "count": 30,
-      "name": "SSR\u304B\u3064\u7279\u6027\u30EC\u30D9\u30EB\u5408\u8A089\u4EE5\u4E0A\u306E\u9632\u5177\u309230\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "SSRかつ特性レベル合計9以上の防具を30個調合しよう"
     },
     "status_buffs": [],
     "value": 500
@@ -282,7 +282,7 @@
     "requirement": {
       "condition_id": 830,
       "count": 5,
-      "name": "SSR\u304B\u3064\u7279\u6027\u30EC\u30D9\u30EB\u5408\u8A089\u4EE5\u4E0A\u306E\u88C5\u98FE\u54C1\u30925\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "SSRかつ特性レベル合計9以上の装飾品を5個調合しよう"
     },
     "status_buffs": [],
     "value": 200
@@ -300,7 +300,7 @@
     "requirement": {
       "condition_id": 830,
       "count": 15,
-      "name": "SSR\u304B\u3064\u7279\u6027\u30EC\u30D9\u30EB\u5408\u8A089\u4EE5\u4E0A\u306E\u88C5\u98FE\u54C1\u309215\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "SSRかつ特性レベル合計9以上の装飾品を15個調合しよう"
     },
     "status_buffs": [],
     "value": 300
@@ -318,7 +318,7 @@
     "requirement": {
       "condition_id": 830,
       "count": 30,
-      "name": "SSR\u304B\u3064\u7279\u6027\u30EC\u30D9\u30EB\u5408\u8A089\u4EE5\u4E0A\u306E\u88C5\u98FE\u54C1\u309230\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "SSRかつ特性レベル合計9以上の装飾品を30個調合しよう"
     },
     "status_buffs": [],
     "value": 500
@@ -332,7 +332,7 @@
     "requirement": {
       "condition_id": 731,
       "count": 100,
-      "name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\uFF08\u653B\u6483\uFF09\u3092100\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "戦闘アイテム（攻撃）を100個調合しよう"
     },
     "status_buffs": [],
     "value": 500
@@ -346,7 +346,7 @@
     "requirement": {
       "condition_id": 731,
       "count": 500,
-      "name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\uFF08\u653B\u6483\uFF09\u3092500\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "戦闘アイテム（攻撃）を500個調合しよう"
     },
     "status_buffs": [],
     "value": 1000
@@ -360,7 +360,7 @@
     "requirement": {
       "condition_id": 731,
       "count": 1200,
-      "name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\uFF08\u653B\u6483\uFF09\u30921200\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "戦闘アイテム（攻撃）を1200個調合しよう"
     },
     "status_buffs": [],
     "value": 1500
@@ -374,7 +374,7 @@
     "requirement": {
       "condition_id": 730,
       "count": 100,
-      "name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\uFF08\u56DE\u5FA9\uFF09\u3092100\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "戦闘アイテム（回復）を100個調合しよう"
     },
     "status_buffs": [],
     "value": 200
@@ -388,7 +388,7 @@
     "requirement": {
       "condition_id": 730,
       "count": 500,
-      "name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\uFF08\u56DE\u5FA9\uFF09\u3092500\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "戦闘アイテム（回復）を500個調合しよう"
     },
     "status_buffs": [],
     "value": 400
@@ -402,7 +402,7 @@
     "requirement": {
       "condition_id": 730,
       "count": 1200,
-      "name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\uFF08\u56DE\u5FA9\uFF09\u30921200\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "戦闘アイテム（回復）を1200個調合しよう"
     },
     "status_buffs": [],
     "value": 800
@@ -416,7 +416,7 @@
     "requirement": {
       "condition_id": 733,
       "count": 100,
-      "name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\uFF08\u5F31\u4F53\uFF09\u3092100\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "戦闘アイテム（弱体）を100個調合しよう"
     },
     "status_buffs": [],
     "value": 100
@@ -430,7 +430,7 @@
     "requirement": {
       "condition_id": 733,
       "count": 500,
-      "name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\uFF08\u5F31\u4F53\uFF09\u3092500\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "戦闘アイテム（弱体）を500個調合しよう"
     },
     "status_buffs": [],
     "value": 200
@@ -444,7 +444,7 @@
     "requirement": {
       "condition_id": 733,
       "count": 1200,
-      "name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\uFF08\u5F31\u4F53\uFF09\u30921200\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "戦闘アイテム（弱体）を1200個調合しよう"
     },
     "status_buffs": [],
     "value": 400
@@ -458,7 +458,7 @@
     "requirement": {
       "condition_id": 732,
       "count": 100,
-      "name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\uFF08\u5F37\u5316\uFF09\u3092100\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "戦闘アイテム（強化）を100個調合しよう"
     },
     "status_buffs": [],
     "value": 100
@@ -472,7 +472,7 @@
     "requirement": {
       "condition_id": 732,
       "count": 500,
-      "name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\uFF08\u5F37\u5316\uFF09\u3092500\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "戦闘アイテム（強化）を500個調合しよう"
     },
     "status_buffs": [],
     "value": 200
@@ -486,7 +486,7 @@
     "requirement": {
       "condition_id": 732,
       "count": 1200,
-      "name": "\u6226\u95D8\u30A2\u30A4\u30C6\u30E0\uFF08\u5F37\u5316\uFF09\u30921200\u500B\u8ABF\u5408\u3057\u3088\u3046"
+      "name": "戦闘アイテム（強化）を1200個調合しよう"
     },
     "status_buffs": [],
     "value": 400
@@ -500,7 +500,7 @@
     "requirement": {
       "condition_id": 734,
       "count": 50,
-      "name": "\u6CE8\u6587\u309250\u56DE\u53D7\u3051\u53D6\u308D\u3046"
+      "name": "注文を50回受け取ろう"
     },
     "status_buffs": [
       {
@@ -519,7 +519,7 @@
     "requirement": {
       "condition_id": 734,
       "count": 300,
-      "name": "\u6CE8\u6587\u3092300\u56DE\u53D7\u3051\u53D6\u308D\u3046"
+      "name": "注文を300回受け取ろう"
     },
     "status_buffs": [
       {
@@ -538,7 +538,7 @@
     "requirement": {
       "condition_id": 734,
       "count": 700,
-      "name": "\u6CE8\u6587\u3092700\u56DE\u53D7\u3051\u53D6\u308D\u3046"
+      "name": "注文を700回受け取ろう"
     },
     "status_buffs": [
       {
@@ -557,7 +557,7 @@
     "requirement": {
       "condition_id": 735,
       "count": 2000,
-      "name": "\u3077\u306B\u306E\u6575\u30922000\u4F53\u5012\u305D\u3046"
+      "name": "ぷにの敵を2000体倒そう"
     },
     "status_buffs": [],
     "value": 100
@@ -571,7 +571,7 @@
     "requirement": {
       "condition_id": 735,
       "count": 10000,
-      "name": "\u3077\u306B\u306E\u6575\u309210000\u4F53\u5012\u305D\u3046"
+      "name": "ぷにの敵を10000体倒そう"
     },
     "status_buffs": [],
     "value": 200
@@ -585,7 +585,7 @@
     "requirement": {
       "condition_id": 735,
       "count": 20000,
-      "name": "\u3077\u306B\u306E\u6575\u309220000\u4F53\u5012\u305D\u3046"
+      "name": "ぷにの敵を20000体倒そう"
     },
     "status_buffs": [],
     "value": 400
@@ -599,7 +599,7 @@
     "requirement": {
       "condition_id": 736,
       "count": 500,
-      "name": "\u6C34\u68F2\u306E\u6575\u3092500\u4F53\u5012\u305D\u3046"
+      "name": "水棲の敵を500体倒そう"
     },
     "status_buffs": [],
     "value": 100
@@ -613,7 +613,7 @@
     "requirement": {
       "condition_id": 736,
       "count": 3000,
-      "name": "\u6C34\u68F2\u306E\u6575\u30923000\u4F53\u5012\u305D\u3046"
+      "name": "水棲の敵を3000体倒そう"
     },
     "status_buffs": [],
     "value": 200
@@ -627,7 +627,7 @@
     "requirement": {
       "condition_id": 736,
       "count": 7000,
-      "name": "\u6C34\u68F2\u306E\u6575\u30927000\u4F53\u5012\u305D\u3046"
+      "name": "水棲の敵を7000体倒そう"
     },
     "status_buffs": [],
     "value": 400
@@ -641,7 +641,7 @@
     "requirement": {
       "condition_id": 737,
       "count": 2000,
-      "name": "\u9CE5\u306E\u6575\u30922000\u4F53\u5012\u305D\u3046"
+      "name": "鳥の敵を2000体倒そう"
     },
     "status_buffs": [],
     "value": 100
@@ -655,7 +655,7 @@
     "requirement": {
       "condition_id": 737,
       "count": 10000,
-      "name": "\u9CE5\u306E\u6575\u309210000\u4F53\u5012\u305D\u3046"
+      "name": "鳥の敵を10000体倒そう"
     },
     "status_buffs": [],
     "value": 200
@@ -669,7 +669,7 @@
     "requirement": {
       "condition_id": 737,
       "count": 20000,
-      "name": "\u9CE5\u306E\u6575\u309220000\u4F53\u5012\u305D\u3046"
+      "name": "鳥の敵を20000体倒そう"
     },
     "status_buffs": [],
     "value": 400
@@ -683,7 +683,7 @@
     "requirement": {
       "condition_id": 185,
       "count": 50,
-      "name": "\u6226\u95D8\u7814\u7A76Lv50\u3092\u5B8C\u4E86\u3057\u3088\u3046"
+      "name": "戦闘研究Lv50を完了しよう"
     },
     "status_buffs": [],
     "value": 100
@@ -697,7 +697,7 @@
     "requirement": {
       "condition_id": 185,
       "count": 70,
-      "name": "\u6226\u95D8\u7814\u7A76Lv70\u3092\u5B8C\u4E86\u3057\u3088\u3046"
+      "name": "戦闘研究Lv70を完了しよう"
     },
     "status_buffs": [],
     "value": 200
@@ -711,7 +711,7 @@
     "requirement": {
       "condition_id": 185,
       "count": 100,
-      "name": "\u6226\u95D8\u7814\u7A76Lv100\u3092\u5B8C\u4E86\u3057\u3088\u3046"
+      "name": "戦闘研究Lv100を完了しよう"
     },
     "status_buffs": [],
     "value": 300
@@ -725,7 +725,7 @@
     "requirement": {
       "condition_id": 141,
       "count": 50,
-      "name": "\u932C\u91D1\u7814\u7A76Lv50\u3092\u5B8C\u4E86\u3057\u3088\u3046"
+      "name": "錬金研究Lv50を完了しよう"
     },
     "status_buffs": [],
     "value": 100
@@ -739,7 +739,7 @@
     "requirement": {
       "condition_id": 141,
       "count": 70,
-      "name": "\u932C\u91D1\u7814\u7A76Lv70\u3092\u5B8C\u4E86\u3057\u3088\u3046"
+      "name": "錬金研究Lv70を完了しよう"
     },
     "status_buffs": [],
     "value": 200
@@ -753,7 +753,7 @@
     "requirement": {
       "condition_id": 141,
       "count": 100,
-      "name": "\u932C\u91D1\u7814\u7A76Lv100\u3092\u5B8C\u4E86\u3057\u3088\u3046"
+      "name": "錬金研究Lv100を完了しよう"
     },
     "status_buffs": [],
     "value": 300
@@ -767,7 +767,7 @@
     "requirement": {
       "condition_id": 46,
       "count": 90,
-      "name": "\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFSS\u309290\u500B\u7372\u5F97\u3057\u3088\u3046"
+      "name": "スコアランクSSを90個獲得しよう"
     },
     "status_buffs": [
       {
@@ -786,7 +786,7 @@
     "requirement": {
       "condition_id": 46,
       "count": 110,
-      "name": "\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFSS\u3092110\u500B\u7372\u5F97\u3057\u3088\u3046"
+      "name": "スコアランクSSを110個獲得しよう"
     },
     "status_buffs": [
       {
@@ -805,7 +805,7 @@
     "requirement": {
       "condition_id": 46,
       "count": 135,
-      "name": "\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFSS\u3092135\u500B\u7372\u5F97\u3057\u3088\u3046"
+      "name": "スコアランクSSを135個獲得しよう"
     },
     "status_buffs": [
       {
@@ -824,7 +824,7 @@
     "requirement": {
       "condition_id": 134,
       "count": 200,
-      "name": "200\u56DE\u30EC\u30B7\u30D4\u767A\u60F3\u3057\u3088\u3046"
+      "name": "200回レシピ発想しよう"
     },
     "status_buffs": [
       {
@@ -843,7 +843,7 @@
     "requirement": {
       "condition_id": 134,
       "count": 300,
-      "name": "300\u56DE\u30EC\u30B7\u30D4\u767A\u60F3\u3057\u3088\u3046"
+      "name": "300回レシピ発想しよう"
     },
     "status_buffs": [
       {
@@ -862,7 +862,7 @@
     "requirement": {
       "condition_id": 134,
       "count": 400,
-      "name": "400\u56DE\u30EC\u30B7\u30D4\u767A\u60F3\u3057\u3088\u3046"
+      "name": "400回レシピ発想しよう"
     },
     "status_buffs": [
       {
@@ -881,7 +881,7 @@
     "requirement": {
       "condition_id": 739,
       "count": 100000,
-      "name": "\u30AD\u30E9\u30AD\u30E9\u30B3\u30A4\u30F3\u3092100000\u7372\u5F97\u3057\u3088\u3046"
+      "name": "キラキラコインを100000獲得しよう"
     },
     "status_buffs": [],
     "value": 100
@@ -895,7 +895,7 @@
     "requirement": {
       "condition_id": 739,
       "count": 150000,
-      "name": "\u30AD\u30E9\u30AD\u30E9\u30B3\u30A4\u30F3\u3092150000\u7372\u5F97\u3057\u3088\u3046"
+      "name": "キラキラコインを150000獲得しよう"
     },
     "status_buffs": [],
     "value": 200
@@ -909,7 +909,7 @@
     "requirement": {
       "condition_id": 739,
       "count": 300000,
-      "name": "\u30AD\u30E9\u30AD\u30E9\u30B3\u30A4\u30F3\u3092300000\u7372\u5F97\u3057\u3088\u3046"
+      "name": "キラキラコインを300000獲得しよう"
     },
     "status_buffs": [],
     "value": 400
@@ -923,7 +923,7 @@
     "requirement": {
       "condition_id": 740,
       "count": 30000,
-      "name": "\u30B9\u30BF\u30DF\u30CA\u309230000\u6D88\u8CBB\u3057\u3088\u3046"
+      "name": "スタミナを30000消費しよう"
     },
     "status_buffs": [],
     "value": 100
@@ -937,7 +937,7 @@
     "requirement": {
       "condition_id": 740,
       "count": 150000,
-      "name": "\u30B9\u30BF\u30DF\u30CA\u3092150000\u6D88\u8CBB\u3057\u3088\u3046"
+      "name": "スタミナを150000消費しよう"
     },
     "status_buffs": [],
     "value": 200
@@ -951,7 +951,7 @@
     "requirement": {
       "condition_id": 740,
       "count": 300000,
-      "name": "\u30B9\u30BF\u30DF\u30CA\u3092300000\u6D88\u8CBB\u3057\u3088\u3046"
+      "name": "スタミナを300000消費しよう"
     },
     "status_buffs": [],
     "value": 400
@@ -965,7 +965,7 @@
     "requirement": {
       "condition_id": 36,
       "count": 20,
-      "name": "\u56DB\u5143\u306E\u5854\u306E20\u968E\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "四元の塔の20階をクリアしよう"
     },
     "status_buffs": [],
     "value": 30
@@ -979,7 +979,7 @@
     "requirement": {
       "condition_id": 36,
       "count": 30,
-      "name": "\u56DB\u5143\u306E\u5854\u306E30\u968E\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "四元の塔の30階をクリアしよう"
     },
     "status_buffs": [],
     "value": 60
@@ -993,7 +993,7 @@
     "requirement": {
       "condition_id": 36,
       "count": 40,
-      "name": "\u56DB\u5143\u306E\u5854\u306E40\u968E\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "四元の塔の40階をクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -1007,7 +1007,7 @@
     "requirement": {
       "condition_id": 49,
       "count": 1000,
-      "name": "\u30B0\u30ED\u30A6\u30DC\u30FC\u30C9\u30921000\u56DE\u5F37\u5316\u3057\u3088\u3046"
+      "name": "グロウボードを1000回強化しよう"
     },
     "status_buffs": [],
     "value": 50
@@ -1021,7 +1021,7 @@
     "requirement": {
       "condition_id": 49,
       "count": 2000,
-      "name": "\u30B0\u30ED\u30A6\u30DC\u30FC\u30C9\u30922000\u56DE\u5F37\u5316\u3057\u3088\u3046"
+      "name": "グロウボードを2000回強化しよう"
     },
     "status_buffs": [],
     "value": 100
@@ -1035,7 +1035,7 @@
     "requirement": {
       "condition_id": 49,
       "count": 3000,
-      "name": "\u30B0\u30ED\u30A6\u30DC\u30FC\u30C9\u30923000\u56DE\u5F37\u5316\u3057\u3088\u3046"
+      "name": "グロウボードを3000回強化しよう"
     },
     "status_buffs": [],
     "value": 200
@@ -1049,7 +1049,7 @@
     "requirement": {
       "condition_id": 100,
       "count": 100,
-      "name": "EX\u30DC\u30FC\u30C9\u3092100\u56DE\u5F37\u5316\u3057\u3088\u3046"
+      "name": "EXボードを100回強化しよう"
     },
     "status_buffs": [],
     "value": 50
@@ -1063,7 +1063,7 @@
     "requirement": {
       "condition_id": 100,
       "count": 300,
-      "name": "EX\u30DC\u30FC\u30C9\u3092300\u56DE\u5F37\u5316\u3057\u3088\u3046"
+      "name": "EXボードを300回強化しよう"
     },
     "status_buffs": [],
     "value": 100
@@ -1077,7 +1077,7 @@
     "requirement": {
       "condition_id": 100,
       "count": 500,
-      "name": "EX\u30DC\u30FC\u30C9\u3092500\u56DE\u5F37\u5316\u3057\u3088\u3046"
+      "name": "EXボードを500回強化しよう"
     },
     "status_buffs": [],
     "value": 200
@@ -1091,7 +1091,7 @@
     "requirement": {
       "condition_id": 743,
       "count": 2000,
-      "name": "\u80B2\u6210\u30AF\u30A8\u30B9\u30C8\u30922000\u56DE\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "育成クエストを2000回クリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -1105,7 +1105,7 @@
     "requirement": {
       "condition_id": 743,
       "count": 4000,
-      "name": "\u80B2\u6210\u30AF\u30A8\u30B9\u30C8\u30924000\u56DE\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "育成クエストを4000回クリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -1119,7 +1119,7 @@
     "requirement": {
       "condition_id": 743,
       "count": 7000,
-      "name": "\u80B2\u6210\u30AF\u30A8\u30B9\u30C8\u30927000\u56DE\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "育成クエストを7000回クリアしよう"
     },
     "status_buffs": [],
     "value": 500
@@ -1133,7 +1133,7 @@
     "requirement": {
       "condition_id": 744,
       "count": 1000,
-      "name": "\u7D20\u6750\u30AF\u30A8\u30B9\u30C8\u30921000\u56DE\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "素材クエストを1000回クリアしよう"
     },
     "status_buffs": [
       {
@@ -1152,7 +1152,7 @@
     "requirement": {
       "condition_id": 744,
       "count": 7000,
-      "name": "\u7D20\u6750\u30AF\u30A8\u30B9\u30C8\u30927000\u56DE\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "素材クエストを7000回クリアしよう"
     },
     "status_buffs": [
       {
@@ -1171,7 +1171,7 @@
     "requirement": {
       "condition_id": 744,
       "count": 15000,
-      "name": "\u7D20\u6750\u30AF\u30A8\u30B9\u30C8\u309215000\u56DE\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "素材クエストを15000回クリアしよう"
     },
     "status_buffs": [
       {
@@ -1190,7 +1190,7 @@
     "requirement": {
       "condition_id": 754,
       "count": 1,
-      "name": "\u30EC\u30B9\u30EC\u30EA\u5B66\u5712\u7B2C1\u5F3EEX1\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "レスレリ学園第1弾EX1をクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -1204,7 +1204,7 @@
     "requirement": {
       "condition_id": 755,
       "count": 1,
-      "name": "\u30EC\u30B9\u30EC\u30EA\u5B66\u5712\u7B2C1\u5F3EEX2\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "レスレリ学園第1弾EX2をクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -1218,7 +1218,7 @@
     "requirement": {
       "condition_id": 756,
       "count": 1,
-      "name": "\u30EC\u30B9\u30EC\u30EA\u5B66\u5712\u7B2C1\u5F3EEX3\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "レスレリ学園第1弾EX3をクリアしよう"
     },
     "status_buffs": [],
     "value": 300
@@ -1232,7 +1232,7 @@
     "requirement": {
       "condition_id": 772,
       "count": 1,
-      "name": "\u30EC\u30B9\u30EC\u30EA\u5B66\u5712\u7B2C2\u5F3EEX1\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "レスレリ学園第2弾EX1をクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -1246,7 +1246,7 @@
     "requirement": {
       "condition_id": 773,
       "count": 1,
-      "name": "\u30EC\u30B9\u30EC\u30EA\u5B66\u5712\u7B2C2\u5F3EEX2\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "レスレリ学園第2弾EX2をクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -1260,7 +1260,7 @@
     "requirement": {
       "condition_id": 774,
       "count": 1,
-      "name": "\u30EC\u30B9\u30EC\u30EA\u5B66\u5712\u7B2C2\u5F3EEX3\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "レスレリ学園第2弾EX3をクリアしよう"
     },
     "status_buffs": [],
     "value": 300
@@ -1274,7 +1274,7 @@
     "requirement": {
       "condition_id": 776,
       "count": 1,
-      "name": "\u6226\u58EB\u306E\u5927\u93A7EX1\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "戦士の大鎧EX1をクリアしよう"
     },
     "status_buffs": [
       {
@@ -1293,7 +1293,7 @@
     "requirement": {
       "condition_id": 794,
       "count": 1,
-      "name": "\u6226\u58EB\u306E\u5927\u93A7EX2\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "戦士の大鎧EX2をクリアしよう"
     },
     "status_buffs": [
       {
@@ -1312,7 +1312,7 @@
     "requirement": {
       "condition_id": 795,
       "count": 1,
-      "name": "\u6226\u58EB\u306E\u5927\u93A7EX2\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFSS\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "戦士の大鎧EX2をスコアランクSSでクリアしよう"
     },
     "status_buffs": [
       {
@@ -1331,7 +1331,7 @@
     "requirement": {
       "condition_id": 796,
       "count": 1,
-      "name": "\u30B6\u30FC\u30EB\u30D6\u30EB\u30B0\u306E\u932C\u91D1\u8853\u58EBEX1\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "ザールブルグの錬金術士EX1をクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -1345,7 +1345,7 @@
     "requirement": {
       "condition_id": 797,
       "count": 1,
-      "name": "\u30B6\u30FC\u30EB\u30D6\u30EB\u30B0\u306E\u932C\u91D1\u8853\u58EBEX2\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "ザールブルグの錬金術士EX2をクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -1359,7 +1359,7 @@
     "requirement": {
       "condition_id": 798,
       "count": 1,
-      "name": "\u30B6\u30FC\u30EB\u30D6\u30EB\u30B0\u306E\u932C\u91D1\u8853\u58EBEX2\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFSS\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "ザールブルグの錬金術士EX2をスコアランクSSでクリアしよう"
     },
     "status_buffs": [],
     "value": 300
@@ -1373,7 +1373,7 @@
     "requirement": {
       "condition_id": 790,
       "count": 1,
-      "name": "\u30EC\u30B9\u30EC\u30EA\u5B66\u5712\u7B2C3\u5F3EEX1\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "レスレリ学園第3弾EX1をクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -1387,7 +1387,7 @@
     "requirement": {
       "condition_id": 791,
       "count": 1,
-      "name": "\u30EC\u30B9\u30EC\u30EA\u5B66\u5712\u7B2C3\u5F3EEX2\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "レスレリ学園第3弾EX2をクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -1401,7 +1401,7 @@
     "requirement": {
       "condition_id": 792,
       "count": 1,
-      "name": "\u30EC\u30B9\u30EC\u30EA\u5B66\u5712\u7B2C3\u5F3EEX3\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "レスレリ学園第3弾EX3をクリアしよう"
     },
     "status_buffs": [],
     "value": 400
@@ -1415,7 +1415,7 @@
     "requirement": {
       "condition_id": 803,
       "count": 1,
-      "name": "\u6E29\u6CC9\u596A\u9084\u4F5C\u6226\uFF01EX1\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "温泉奪還作戦！EX1をクリアしよう"
     },
     "status_buffs": [
       {
@@ -1434,7 +1434,7 @@
     "requirement": {
       "condition_id": 804,
       "count": 1,
-      "name": "\u6E29\u6CC9\u596A\u9084\u4F5C\u6226\uFF01EX2\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "温泉奪還作戦！EX2をクリアしよう"
     },
     "status_buffs": [
       {
@@ -1453,7 +1453,7 @@
     "requirement": {
       "condition_id": 805,
       "count": 1,
-      "name": "\u6E29\u6CC9\u596A\u9084\u4F5C\u6226\uFF01EX3\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "温泉奪還作戦！EX3をクリアしよう"
     },
     "status_buffs": [
       {
@@ -1472,7 +1472,7 @@
     "requirement": {
       "condition_id": 1015,
       "count": 10000000,
-      "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u301C\u65AC\u88C2\u796D\u301C\u3067Total Damage10000000\u4EE5\u4E0A\u3092\u51FA\u305D\u3046"
+      "name": "ロマン大武闘大会〜斬裂祭〜でTotal Damage10000000以上を出そう"
     },
     "status_buffs": [],
     "value": 400
@@ -1486,7 +1486,7 @@
     "requirement": {
       "condition_id": 1015,
       "count": 30000000,
-      "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u301C\u65AC\u88C2\u796D\u301C\u3067Total Damage30000000\u4EE5\u4E0A\u3092\u51FA\u305D\u3046"
+      "name": "ロマン大武闘大会〜斬裂祭〜でTotal Damage30000000以上を出そう"
     },
     "status_buffs": [],
     "value": 800
@@ -1500,7 +1500,7 @@
     "requirement": {
       "condition_id": 1015,
       "count": 50000000,
-      "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u301C\u65AC\u88C2\u796D\u301C\u3067Total Damage50000000\u4EE5\u4E0A\u3092\u51FA\u305D\u3046"
+      "name": "ロマン大武闘大会〜斬裂祭〜でTotal Damage50000000以上を出そう"
     },
     "status_buffs": [],
     "value": 1600
@@ -1514,7 +1514,7 @@
     "requirement": {
       "condition_id": 1013,
       "count": 10000000,
-      "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u301C\u96F7\u96FB\u796D\u301C\u3067Total Damage10000000\u4EE5\u4E0A\u3092\u51FA\u305D\u3046"
+      "name": "ロマン大武闘大会〜雷電祭〜でTotal Damage10000000以上を出そう"
     },
     "status_buffs": [],
     "value": 400
@@ -1528,7 +1528,7 @@
     "requirement": {
       "condition_id": 1013,
       "count": 30000000,
-      "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u301C\u96F7\u96FB\u796D\u301C\u3067Total Damage30000000\u4EE5\u4E0A\u3092\u51FA\u305D\u3046"
+      "name": "ロマン大武闘大会〜雷電祭〜でTotal Damage30000000以上を出そう"
     },
     "status_buffs": [],
     "value": 800
@@ -1542,7 +1542,7 @@
     "requirement": {
       "condition_id": 1013,
       "count": 50000000,
-      "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u301C\u96F7\u96FB\u796D\u301C\u3067Total Damage50000000\u4EE5\u4E0A\u3092\u51FA\u305D\u3046"
+      "name": "ロマン大武闘大会〜雷電祭〜でTotal Damage50000000以上を出そう"
     },
     "status_buffs": [],
     "value": 1600
@@ -1556,7 +1556,7 @@
     "requirement": {
       "condition_id": 1014,
       "count": 10000000,
-      "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u301C\u5D50\u98A8\u796D\u301C\u3067Total Damage10000000\u4EE5\u4E0A\u3092\u51FA\u305D\u3046"
+      "name": "ロマン大武闘大会〜嵐風祭〜でTotal Damage10000000以上を出そう"
     },
     "status_buffs": [],
     "value": 400
@@ -1570,7 +1570,7 @@
     "requirement": {
       "condition_id": 1014,
       "count": 30000000,
-      "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u301C\u5D50\u98A8\u796D\u301C\u3067Total Damage30000000\u4EE5\u4E0A\u3092\u51FA\u305D\u3046"
+      "name": "ロマン大武闘大会〜嵐風祭〜でTotal Damage30000000以上を出そう"
     },
     "status_buffs": [],
     "value": 800
@@ -1584,7 +1584,7 @@
     "requirement": {
       "condition_id": 1014,
       "count": 50000000,
-      "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u301C\u5D50\u98A8\u796D\u301C\u3067Total Damage50000000\u4EE5\u4E0A\u3092\u51FA\u305D\u3046"
+      "name": "ロマン大武闘大会〜嵐風祭〜でTotal Damage50000000以上を出そう"
     },
     "status_buffs": [],
     "value": 1600
@@ -1598,7 +1598,7 @@
     "requirement": {
       "condition_id": 1017,
       "count": 10000000,
-      "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u301C\u7815\u6253\u796D\u301C\u3067Total Damage10000000\u4EE5\u4E0A\u3092\u51FA\u305D\u3046"
+      "name": "ロマン大武闘大会〜砕打祭〜でTotal Damage10000000以上を出そう"
     },
     "status_buffs": [],
     "value": 400
@@ -1612,7 +1612,7 @@
     "requirement": {
       "condition_id": 1017,
       "count": 30000000,
-      "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u301C\u7815\u6253\u796D\u301C\u3067Total Damage30000000\u4EE5\u4E0A\u3092\u51FA\u305D\u3046"
+      "name": "ロマン大武闘大会〜砕打祭〜でTotal Damage30000000以上を出そう"
     },
     "status_buffs": [],
     "value": 800
@@ -1626,7 +1626,7 @@
     "requirement": {
       "condition_id": 1017,
       "count": 50000000,
-      "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u301C\u7815\u6253\u796D\u301C\u3067Total Damage50000000\u4EE5\u4E0A\u3092\u51FA\u305D\u3046"
+      "name": "ロマン大武闘大会〜砕打祭〜でTotal Damage50000000以上を出そう"
     },
     "status_buffs": [],
     "value": 1600
@@ -1640,7 +1640,7 @@
     "requirement": {
       "condition_id": 1012,
       "count": 10000000,
-      "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u301C\u6C37\u51CD\u796D\u301C\u3067Total Damage10000000\u4EE5\u4E0A\u3092\u51FA\u305D\u3046"
+      "name": "ロマン大武闘大会〜氷凍祭〜でTotal Damage10000000以上を出そう"
     },
     "status_buffs": [],
     "value": 400
@@ -1654,7 +1654,7 @@
     "requirement": {
       "condition_id": 1012,
       "count": 30000000,
-      "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u301C\u6C37\u51CD\u796D\u301C\u3067Total Damage30000000\u4EE5\u4E0A\u3092\u51FA\u305D\u3046"
+      "name": "ロマン大武闘大会〜氷凍祭〜でTotal Damage30000000以上を出そう"
     },
     "status_buffs": [],
     "value": 800
@@ -1668,7 +1668,7 @@
     "requirement": {
       "condition_id": 1012,
       "count": 50000000,
-      "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u301C\u6C37\u51CD\u796D\u301C\u3067Total Damage50000000\u4EE5\u4E0A\u3092\u51FA\u305D\u3046"
+      "name": "ロマン大武闘大会〜氷凍祭〜でTotal Damage50000000以上を出そう"
     },
     "status_buffs": [],
     "value": 1600
@@ -1682,7 +1682,7 @@
     "requirement": {
       "condition_id": 1016,
       "count": 10000000,
-      "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u301C\u523A\u7A81\u796D\u301C\u3067Total Damage10000000\u4EE5\u4E0A\u3092\u51FA\u305D\u3046"
+      "name": "ロマン大武闘大会〜刺突祭〜でTotal Damage10000000以上を出そう"
     },
     "status_buffs": [],
     "value": 400
@@ -1696,7 +1696,7 @@
     "requirement": {
       "condition_id": 1016,
       "count": 30000000,
-      "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u301C\u523A\u7A81\u796D\u301C\u3067Total Damage30000000\u4EE5\u4E0A\u3092\u51FA\u305D\u3046"
+      "name": "ロマン大武闘大会〜刺突祭〜でTotal Damage30000000以上を出そう"
     },
     "status_buffs": [],
     "value": 800
@@ -1710,7 +1710,7 @@
     "requirement": {
       "condition_id": 1016,
       "count": 50000000,
-      "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u301C\u523A\u7A81\u796D\u301C\u3067Total Damage50000000\u4EE5\u4E0A\u3092\u51FA\u305D\u3046"
+      "name": "ロマン大武闘大会〜刺突祭〜でTotal Damage50000000以上を出そう"
     },
     "status_buffs": [],
     "value": 1600
@@ -1724,7 +1724,7 @@
     "requirement": {
       "condition_id": 1011,
       "count": 10000000,
-      "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u301C\u706B\u708E\u796D\u301C\u3067Total Damage10000000\u4EE5\u4E0A\u3092\u51FA\u305D\u3046"
+      "name": "ロマン大武闘大会〜火炎祭〜でTotal Damage10000000以上を出そう"
     },
     "status_buffs": [],
     "value": 400
@@ -1738,7 +1738,7 @@
     "requirement": {
       "condition_id": 1011,
       "count": 30000000,
-      "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u301C\u706B\u708E\u796D\u301C\u3067Total Damage30000000\u4EE5\u4E0A\u3092\u51FA\u305D\u3046"
+      "name": "ロマン大武闘大会〜火炎祭〜でTotal Damage30000000以上を出そう"
     },
     "status_buffs": [],
     "value": 800
@@ -1752,7 +1752,7 @@
     "requirement": {
       "condition_id": 1011,
       "count": 50000000,
-      "name": "\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u301C\u706B\u708E\u796D\u301C\u3067Total Damage50000000\u4EE5\u4E0A\u3092\u51FA\u305D\u3046"
+      "name": "ロマン大武闘大会〜火炎祭〜でTotal Damage50000000以上を出そう"
     },
     "status_buffs": [],
     "value": 1600
@@ -1766,7 +1766,7 @@
     "requirement": {
       "condition_id": 831,
       "count": 2500000,
-      "name": "\u30B7\u30E7\u30C3\u30D7\u3067\u30B3\u30FC\u30EB\u30922500000\u6D88\u8CBB\u3057\u3088\u3046"
+      "name": "ショップでコールを2500000消費しよう"
     },
     "status_buffs": [],
     "value": 30
@@ -1780,7 +1780,7 @@
     "requirement": {
       "condition_id": 831,
       "count": 15000000,
-      "name": "\u30B7\u30E7\u30C3\u30D7\u3067\u30B3\u30FC\u30EB\u309215000000\u6D88\u8CBB\u3057\u3088\u3046"
+      "name": "ショップでコールを15000000消費しよう"
     },
     "status_buffs": [],
     "value": 60
@@ -1794,7 +1794,7 @@
     "requirement": {
       "condition_id": 831,
       "count": 30000000,
-      "name": "\u30B7\u30E7\u30C3\u30D7\u3067\u30B3\u30FC\u30EB\u309230000000\u6D88\u8CBB\u3057\u3088\u3046"
+      "name": "ショップでコールを30000000消費しよう"
     },
     "status_buffs": [],
     "value": 100
@@ -1808,7 +1808,7 @@
     "requirement": {
       "condition_id": 869,
       "count": 1,
-      "name": "\u30E9\u30F3\u30BF\u30FC\u30CA\u5EFA\u56FD\u8A18\u5FF5\u676FEX\uFF11\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "ランターナ建国記念杯EX１をクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -1822,7 +1822,7 @@
     "requirement": {
       "condition_id": 870,
       "count": 1,
-      "name": "\u30E9\u30F3\u30BF\u30FC\u30CA\u5EFA\u56FD\u8A18\u5FF5\u676FEX\uFF12\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "ランターナ建国記念杯EX２をクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -1836,7 +1836,7 @@
     "requirement": {
       "condition_id": 871,
       "count": 1,
-      "name": "\u30E9\u30F3\u30BF\u30FC\u30CA\u5EFA\u56FD\u8A18\u5FF5\u676FEX\uFF13\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "ランターナ建国記念杯EX３をクリアしよう"
     },
     "status_buffs": [],
     "value": 300
@@ -1850,7 +1850,7 @@
     "requirement": {
       "condition_id": 872,
       "count": 1,
-      "name": "\u52C7\u8005\u30EC\u30B9\u30CA\u306E\u5927\u5192\u967AEX\uFF11\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "勇者レスナの大冒険EX１をクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -1864,7 +1864,7 @@
     "requirement": {
       "condition_id": 873,
       "count": 1,
-      "name": "\u52C7\u8005\u30EC\u30B9\u30CA\u306E\u5927\u5192\u967AEX\uFF12\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "勇者レスナの大冒険EX２をクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -1878,7 +1878,7 @@
     "requirement": {
       "condition_id": 874,
       "count": 1,
-      "name": "\u52C7\u8005\u30EC\u30B9\u30CA\u306E\u5927\u5192\u967AEX\uFF12\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFSS\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "勇者レスナの大冒険EX２をスコアランクSSでクリアしよう"
     },
     "status_buffs": [],
     "value": 300
@@ -1892,7 +1892,7 @@
     "requirement": {
       "condition_id": 875,
       "count": 1,
-      "name": "\u6C7A\u6226\uFF01\u30CF\u30ED\u30A6\u30A3\u30F3\u3077\u306BEX\uFF11\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "決戦！ハロウィンぷにEX１をクリアしよう"
     },
     "status_buffs": [
       {
@@ -1911,7 +1911,7 @@
     "requirement": {
       "condition_id": 876,
       "count": 1,
-      "name": "\u6C7A\u6226\uFF01\u30CF\u30ED\u30A6\u30A3\u30F3\u3077\u306BEX\uFF12\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "決戦！ハロウィンぷにEX２をクリアしよう"
     },
     "status_buffs": [
       {
@@ -1930,7 +1930,7 @@
     "requirement": {
       "condition_id": 877,
       "count": 1,
-      "name": "\u6C7A\u6226\uFF01\u30CF\u30ED\u30A6\u30A3\u30F3\u3077\u306BEX\uFF12\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFSS\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "決戦！ハロウィンぷにEX２をスコアランクSSでクリアしよう"
     },
     "status_buffs": [
       {
@@ -1949,7 +1949,7 @@
     "requirement": {
       "condition_id": 934,
       "count": 1,
-      "name": "\u7ADC\u306E\u6D99\u306F\u82B1\u3068\u6563\u308BEX\uFF11\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "竜の涙は花と散るEX１をクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -1963,7 +1963,7 @@
     "requirement": {
       "condition_id": 935,
       "count": 1,
-      "name": "\u7ADC\u306E\u6D99\u306F\u82B1\u3068\u6563\u308BEX\uFF12\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "竜の涙は花と散るEX２をクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -1977,7 +1977,7 @@
     "requirement": {
       "condition_id": 936,
       "count": 1,
-      "name": "\u7ADC\u306E\u6D99\u306F\u82B1\u3068\u6563\u308BEX\uFF13\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "竜の涙は花と散るEX３をクリアしよう"
     },
     "status_buffs": [],
     "value": 300
@@ -1991,7 +1991,7 @@
     "requirement": {
       "condition_id": 945,
       "count": 1,
-      "name": "\u4E8B\u4EF6\u767A\u751F\uFF01\u3000\u98DB\u3073\u51FA\u305B\u30AA\u30D5\u30A3\u30B9\uFF01EX\uFF11\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "事件発生！\u3000飛び出せオフィス！EX１をクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -2005,7 +2005,7 @@
     "requirement": {
       "condition_id": 946,
       "count": 1,
-      "name": "\u4E8B\u4EF6\u767A\u751F\uFF01\u3000\u98DB\u3073\u51FA\u305B\u30AA\u30D5\u30A3\u30B9\uFF01EX\uFF12\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "事件発生！\u3000飛び出せオフィス！EX２をクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -2019,7 +2019,7 @@
     "requirement": {
       "condition_id": 947,
       "count": 1,
-      "name": "\u4E8B\u4EF6\u767A\u751F\uFF01\u3000\u98DB\u3073\u51FA\u305B\u30AA\u30D5\u30A3\u30B9\uFF01EX\uFF13\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "事件発生！\u3000飛び出せオフィス！EX３をクリアしよう"
     },
     "status_buffs": [],
     "value": 300
@@ -2033,7 +2033,7 @@
     "requirement": {
       "condition_id": 948,
       "count": 1,
-      "name": "\u30EA\u30C7\u30A3\u30FC\uFF06\u30B9\u30FC\u30EB\u306E\u65E5\u5E38EX\uFF11\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "リディー＆スールの日常EX１をクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -2047,7 +2047,7 @@
     "requirement": {
       "condition_id": 949,
       "count": 1,
-      "name": "\u30EA\u30C7\u30A3\u30FC\uFF06\u30B9\u30FC\u30EB\u306E\u65E5\u5E38EX\uFF12\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "リディー＆スールの日常EX２をクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -2061,7 +2061,7 @@
     "requirement": {
       "condition_id": 950,
       "count": 1,
-      "name": "\u30EA\u30C7\u30A3\u30FC\uFF06\u30B9\u30FC\u30EB\u306E\u65E5\u5E38EX\uFF12\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFSS\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "リディー＆スールの日常EX２をスコアランクSSでクリアしよう"
     },
     "status_buffs": [],
     "value": 300
@@ -2075,7 +2075,7 @@
     "requirement": {
       "condition_id": 982,
       "count": 1,
-      "name": "\u6C34\u7740DE\u30EA\u30BE\u30FC\u30C8\uFF01EX1\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "水着DEリゾート！EX1をクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -2089,7 +2089,7 @@
     "requirement": {
       "condition_id": 983,
       "count": 1,
-      "name": "\u6C34\u7740DE\u30EA\u30BE\u30FC\u30C8\uFF01EX2\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "水着DEリゾート！EX2をクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -2103,7 +2103,7 @@
     "requirement": {
       "condition_id": 984,
       "count": 1,
-      "name": "\u6C34\u7740DE\u30EA\u30BE\u30FC\u30C8\uFF01EX3\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "水着DEリゾート！EX3をクリアしよう"
     },
     "status_buffs": [],
     "value": 400
@@ -2117,7 +2117,7 @@
     "requirement": {
       "condition_id": 996,
       "count": 1,
-      "name": "\u5FD8\u5374\u306E\u8CE2\u8005\u3068\u79D8\u5BC6\u306E\u697D\u5712EX\uFF14\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFC\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "忘却の賢者と秘密の楽園EX４をスコアランクCでクリアしよう"
     },
     "status_buffs": [
       {
@@ -2136,7 +2136,7 @@
     "requirement": {
       "condition_id": 997,
       "count": 1,
-      "name": "\u5FD8\u5374\u306E\u8CE2\u8005\u3068\u79D8\u5BC6\u306E\u697D\u5712EX\uFF14\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFA\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "忘却の賢者と秘密の楽園EX４をスコアランクAでクリアしよう"
     },
     "status_buffs": [
       {
@@ -2155,7 +2155,7 @@
     "requirement": {
       "condition_id": 998,
       "count": 1,
-      "name": "\u5FD8\u5374\u306E\u8CE2\u8005\u3068\u79D8\u5BC6\u306E\u697D\u5712EX\uFF14\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFSS\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "忘却の賢者と秘密の楽園EX４をスコアランクSSでクリアしよう"
     },
     "status_buffs": [
       {
@@ -2174,7 +2174,7 @@
     "requirement": {
       "condition_id": 999,
       "count": 1,
-      "name": "\u661F\u964D\u308B\u591C\u306E\u8D08\u308A\u3082\u306EEX\uFF14\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFC\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "星降る夜の贈りものEX４をスコアランクCでクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -2188,7 +2188,7 @@
     "requirement": {
       "condition_id": 1000,
       "count": 1,
-      "name": "\u661F\u964D\u308B\u591C\u306E\u8D08\u308A\u3082\u306EEX\uFF14\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFA\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "星降る夜の贈りものEX４をスコアランクAでクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -2202,7 +2202,7 @@
     "requirement": {
       "condition_id": 1001,
       "count": 1,
-      "name": "\u661F\u964D\u308B\u591C\u306E\u8D08\u308A\u3082\u306EEX\uFF14\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFSS\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "星降る夜の贈りものEX４をスコアランクSSでクリアしよう"
     },
     "status_buffs": [],
     "value": 400
@@ -2216,7 +2216,7 @@
     "requirement": {
       "condition_id": 1002,
       "count": 1,
-      "name": "\u30D3\u30FC\u30C1\u30D5\u30E9\u30C3\u30B0EX1\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "ビーチフラッグEX1をクリアしよう"
     },
     "status_buffs": [
       {
@@ -2235,7 +2235,7 @@
     "requirement": {
       "condition_id": 1003,
       "count": 1,
-      "name": "\u30D3\u30FC\u30C1\u30D5\u30E9\u30C3\u30B0EX2\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "ビーチフラッグEX2をクリアしよう"
     },
     "status_buffs": [
       {
@@ -2254,7 +2254,7 @@
     "requirement": {
       "condition_id": 1004,
       "count": 1,
-      "name": "\u30D3\u30FC\u30C1\u30D5\u30E9\u30C3\u30B0EX3\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "ビーチフラッグEX3をクリアしよう"
     },
     "status_buffs": [
       {
@@ -2273,7 +2273,7 @@
     "requirement": {
       "condition_id": 1018,
       "count": 1,
-      "name": "\u591C\u7A7A\u306B\u7B11\u9854\u304C\u54B2\u3044\u305F\u590FEX1\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "夜空に笑顔が咲いた夏EX1をクリアしよう"
     },
     "status_buffs": [
       {
@@ -2292,7 +2292,7 @@
     "requirement": {
       "condition_id": 1019,
       "count": 1,
-      "name": "\u591C\u7A7A\u306B\u7B11\u9854\u304C\u54B2\u3044\u305F\u590FEX2\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "夜空に笑顔が咲いた夏EX2をクリアしよう"
     },
     "status_buffs": [
       {
@@ -2311,7 +2311,7 @@
     "requirement": {
       "condition_id": 1020,
       "count": 1,
-      "name": "\u591C\u7A7A\u306B\u7B11\u9854\u304C\u54B2\u3044\u305F\u590FEX3\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "夜空に笑顔が咲いた夏EX3をクリアしよう"
     },
     "status_buffs": [
       {
@@ -2330,7 +2330,7 @@
     "requirement": {
       "condition_id": 1041,
       "count": 1,
-      "name": "\u4E8C\u4EBA\u306E\u30B7\u30E3\u30EA\u30FC\u3068\u6BCD\u306E\u9858\u3044EX\uFF14\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFC\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "二人のシャリーと母の願いEX４をスコアランクCでクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -2344,7 +2344,7 @@
     "requirement": {
       "condition_id": 1042,
       "count": 1,
-      "name": "\u4E8C\u4EBA\u306E\u30B7\u30E3\u30EA\u30FC\u3068\u6BCD\u306E\u9858\u3044EX\uFF14\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFA\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "二人のシャリーと母の願いEX４をスコアランクAでクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -2358,7 +2358,7 @@
     "requirement": {
       "condition_id": 1043,
       "count": 1,
-      "name": "\u4E8C\u4EBA\u306E\u30B7\u30E3\u30EA\u30FC\u3068\u6BCD\u306E\u9858\u3044EX\uFF14\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFSS\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "二人のシャリーと母の願いEX４をスコアランクSSでクリアしよう"
     },
     "status_buffs": [],
     "value": 300
@@ -2372,7 +2372,7 @@
     "requirement": {
       "condition_id": 1044,
       "count": 1,
-      "name": "\u30DE\u30EA\u30FC\u306E\u62DB\u798F\u5927\u4F5C\u6226\uFF01EX\uFF14\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFC\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "マリーの招福大作戦！EX４をスコアランクCでクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -2386,7 +2386,7 @@
     "requirement": {
       "condition_id": 1045,
       "count": 1,
-      "name": "\u30DE\u30EA\u30FC\u306E\u62DB\u798F\u5927\u4F5C\u6226\uFF01EX\uFF14\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFA\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "マリーの招福大作戦！EX４をスコアランクAでクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -2400,7 +2400,7 @@
     "requirement": {
       "condition_id": 1046,
       "count": 1,
-      "name": "\u30DE\u30EA\u30FC\u306E\u62DB\u798F\u5927\u4F5C\u6226\uFF01EX\uFF14\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFSS\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "マリーの招福大作戦！EX４をスコアランクSSでクリアしよう"
     },
     "status_buffs": [],
     "value": 300
@@ -2414,7 +2414,7 @@
     "requirement": {
       "condition_id": 1047,
       "count": 1,
-      "name": "\u30D3\u30FC\u30C1\u3067\u5B9D\u63A2\u3057\uFF01EX1\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFC\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "ビーチで宝探し！EX1をスコアランクCでクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -2428,7 +2428,7 @@
     "requirement": {
       "condition_id": 1048,
       "count": 1,
-      "name": "\u30D3\u30FC\u30C1\u3067\u5B9D\u63A2\u3057\uFF01EX1\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFS\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "ビーチで宝探し！EX1をスコアランクSでクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -2442,7 +2442,7 @@
     "requirement": {
       "condition_id": 1049,
       "count": 1,
-      "name": "\u30D3\u30FC\u30C1\u3067\u5B9D\u63A2\u3057\uFF01EX1\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFSS\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "ビーチで宝探し！EX1をスコアランクSSでクリアしよう"
     },
     "status_buffs": [],
     "value": 300
@@ -2456,7 +2456,7 @@
     "requirement": {
       "condition_id": 1055,
       "count": 1,
-      "name": "\uFF11\u5468\u5E74\u524D\u591C\u796D\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8EX\uFF11\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "１周年前夜祭ボスチャレンジEX１をクリアしよう"
     },
     "status_buffs": [
       {
@@ -2475,7 +2475,7 @@
     "requirement": {
       "condition_id": 1056,
       "count": 1,
-      "name": "\uFF11\u5468\u5E74\u524D\u591C\u796D\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8EX\uFF12\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "１周年前夜祭ボスチャレンジEX２をクリアしよう"
     },
     "status_buffs": [
       {
@@ -2494,7 +2494,7 @@
     "requirement": {
       "condition_id": 1057,
       "count": 1,
-      "name": "\uFF11\u5468\u5E74\u524D\u591C\u796D\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8EX\uFF13\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "１周年前夜祭ボスチャレンジEX３をクリアしよう"
     },
     "status_buffs": [
       {
@@ -2513,7 +2513,7 @@
     "requirement": {
       "condition_id": 1133,
       "count": 1,
-      "name": "\u7206\u88C2\uFF01\uFF01 \u30DE\u30EA\u30FC\u304B\u3089\u306E\u8A66\u7DF4EX\uFF11\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFC\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "爆裂！！ マリーからの試練EX１をスコアランクCでクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -2527,7 +2527,7 @@
     "requirement": {
       "condition_id": 1134,
       "count": 1,
-      "name": "\u7206\u88C2\uFF01\uFF01 \u30DE\u30EA\u30FC\u304B\u3089\u306E\u8A66\u7DF4EX\uFF11\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFA\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "爆裂！！ マリーからの試練EX１をスコアランクAでクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -2541,7 +2541,7 @@
     "requirement": {
       "condition_id": 1135,
       "count": 1,
-      "name": "\u7206\u88C2\uFF01\uFF01 \u30DE\u30EA\u30FC\u304B\u3089\u306E\u8A66\u7DF4EX\uFF11\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFSS\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "爆裂！！ マリーからの試練EX１をスコアランクSSでクリアしよう"
     },
     "status_buffs": [],
     "value": 300
@@ -2555,7 +2555,7 @@
     "requirement": {
       "condition_id": 1198,
       "count": 1,
-      "name": "\u65CB\u98A8\uFF01\uFF01\u30E6\u30FC\u30C7\u30A3\u30FC\u304B\u3089\u306E\u8A66\u7DF4EX\uFF11\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFC\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "旋風！！ユーディーからの試練EX１をスコアランクCでクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -2569,7 +2569,7 @@
     "requirement": {
       "condition_id": 1199,
       "count": 1,
-      "name": "\u65CB\u98A8\uFF01\uFF01\u30E6\u30FC\u30C7\u30A3\u30FC\u304B\u3089\u306E\u8A66\u7DF4EX\uFF11\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFA\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "旋風！！ユーディーからの試練EX１をスコアランクAでクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -2583,7 +2583,7 @@
     "requirement": {
       "condition_id": 1200,
       "count": 1,
-      "name": "\u65CB\u98A8\uFF01\uFF01\u30E6\u30FC\u30C7\u30A3\u30FC\u304B\u3089\u306E\u8A66\u7DF4EX\uFF11\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFSS\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "旋風！！ユーディーからの試練EX１をスコアランクSSでクリアしよう"
     },
     "status_buffs": [],
     "value": 300
@@ -2597,7 +2597,7 @@
     "requirement": {
       "condition_id": 1201,
       "count": 1,
-      "name": "\u4E59\u5973\u305F\u3061\u306E\u30C1\u30E7\u30B3\u30EC\u30FC\u30C8\u30DF\u30C3\u30AF\u30B9EX\uFF14\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFC\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "乙女たちのチョコレートミックスEX４をスコアランクCでクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -2611,7 +2611,7 @@
     "requirement": {
       "condition_id": 1202,
       "count": 1,
-      "name": "\u4E59\u5973\u305F\u3061\u306E\u30C1\u30E7\u30B3\u30EC\u30FC\u30C8\u30DF\u30C3\u30AF\u30B9EX\uFF14\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFA\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "乙女たちのチョコレートミックスEX４をスコアランクAでクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -2625,7 +2625,7 @@
     "requirement": {
       "condition_id": 1203,
       "count": 1,
-      "name": "\u4E59\u5973\u305F\u3061\u306E\u30C1\u30E7\u30B3\u30EC\u30FC\u30C8\u30DF\u30C3\u30AF\u30B9EX\uFF14\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFSS\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "乙女たちのチョコレートミックスEX４をスコアランクSSでクリアしよう"
     },
     "status_buffs": [],
     "value": 300
@@ -2639,7 +2639,7 @@
     "requirement": {
       "condition_id": 1204,
       "count": 1,
-      "name": "\u30A2\u30FC\u30E9\u30F3\u30C9\u306E\u932C\u91D1\u8853\u58EBEX\uFF14\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFC\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "アーランドの錬金術士EX４をスコアランクCでクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -2653,7 +2653,7 @@
     "requirement": {
       "condition_id": 1205,
       "count": 1,
-      "name": "\u30A2\u30FC\u30E9\u30F3\u30C9\u306E\u932C\u91D1\u8853\u58EBEX\uFF14\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFA\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "アーランドの錬金術士EX４をスコアランクAでクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -2667,7 +2667,7 @@
     "requirement": {
       "condition_id": 1206,
       "count": 1,
-      "name": "\u30A2\u30FC\u30E9\u30F3\u30C9\u306E\u932C\u91D1\u8853\u58EBEX\uFF14\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFSS\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "アーランドの錬金術士EX４をスコアランクSSでクリアしよう"
     },
     "status_buffs": [],
     "value": 300
@@ -2681,7 +2681,7 @@
     "requirement": {
       "condition_id": 1284,
       "count": 1,
-      "name": "\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8 \u30B3\u30BA\u30DF\u30C3\u30AF\u30B7\u30A7\u30EBEX\uFF11\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFC\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "ボスチャレンジ コズミックシェルEX１をスコアランクCでクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -2695,7 +2695,7 @@
     "requirement": {
       "condition_id": 1285,
       "count": 1,
-      "name": "\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8 \u30B3\u30BA\u30DF\u30C3\u30AF\u30B7\u30A7\u30EBEX\uFF11\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFA\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "ボスチャレンジ コズミックシェルEX１をスコアランクAでクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -2709,7 +2709,7 @@
     "requirement": {
       "condition_id": 1286,
       "count": 1,
-      "name": "\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8 \u30B3\u30BA\u30DF\u30C3\u30AF\u30B7\u30A7\u30EBEX\uFF11\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFSS\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "ボスチャレンジ コズミックシェルEX１をスコアランクSSでクリアしよう"
     },
     "status_buffs": [],
     "value": 300
@@ -2723,7 +2723,7 @@
     "requirement": {
       "condition_id": 1305,
       "count": 1,
-      "name": "\u6E07\u304D\u306E\u4E2D\u3067\u54B2\u304F\u82B1\u305F\u3061EX1\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "渇きの中で咲く花たちEX1をクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -2737,7 +2737,7 @@
     "requirement": {
       "condition_id": 1306,
       "count": 1,
-      "name": "\u6E07\u304D\u306E\u4E2D\u3067\u54B2\u304F\u82B1\u305F\u3061EX2\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "渇きの中で咲く花たちEX2をクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -2751,7 +2751,7 @@
     "requirement": {
       "condition_id": 1307,
       "count": 1,
-      "name": "\u6E07\u304D\u306E\u4E2D\u3067\u54B2\u304F\u82B1\u305F\u3061EX3\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "渇きの中で咲く花たちEX3をクリアしよう"
     },
     "status_buffs": [],
     "value": 300
@@ -2765,7 +2765,7 @@
     "requirement": {
       "condition_id": 1312,
       "count": 1,
-      "name": "\u6DF7\u6C8C\u3068\u898F\u5F8B\u306E\u9082\u9005EX1\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "混沌と規律の邂逅EX1をクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -2779,7 +2779,7 @@
     "requirement": {
       "condition_id": 1313,
       "count": 1,
-      "name": "\u6DF7\u6C8C\u3068\u898F\u5F8B\u306E\u9082\u9005EX2\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "混沌と規律の邂逅EX2をクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -2793,7 +2793,7 @@
     "requirement": {
       "condition_id": 1314,
       "count": 1,
-      "name": "\u6DF7\u6C8C\u3068\u898F\u5F8B\u306E\u9082\u9005EX3\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "混沌と規律の邂逅EX3をクリアしよう"
     },
     "status_buffs": [],
     "value": 300
@@ -2807,7 +2807,7 @@
     "requirement": {
       "condition_id": 1315,
       "count": 1,
-      "name": "\u30D6\u30E9\u30C3\u30C9\u306E\u5B9F\u5730\u8ABF\u67FBEX1\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "ブラッドの実地調査EX1をクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -2821,7 +2821,7 @@
     "requirement": {
       "condition_id": 1316,
       "count": 1,
-      "name": "\u30D6\u30E9\u30C3\u30C9\u306E\u5B9F\u5730\u8ABF\u67FBEX2\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "ブラッドの実地調査EX2をクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -2835,7 +2835,7 @@
     "requirement": {
       "condition_id": 1317,
       "count": 1,
-      "name": "\u30D6\u30E9\u30C3\u30C9\u306E\u5B9F\u5730\u8ABF\u67FBEX3\u3092\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "ブラッドの実地調査EX3をクリアしよう"
     },
     "status_buffs": [],
     "value": 400
@@ -2849,7 +2849,7 @@
     "requirement": {
       "condition_id": 1360,
       "count": 1,
-      "name": "\u30AD\u30E9\u30AD\u30E9\u30BB\u30AD\u30E9\u30E9\u661F\u8A95\u796D\uFF01\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFC\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "キラキラセキララ星誕祭！ボスチャレンジをスコアランクCでクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -2863,7 +2863,7 @@
     "requirement": {
       "condition_id": 1361,
       "count": 1,
-      "name": "\u30AD\u30E9\u30AD\u30E9\u30BB\u30AD\u30E9\u30E9\u661F\u8A95\u796D\uFF01\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFA\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "キラキラセキララ星誕祭！ボスチャレンジをスコアランクAでクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -2877,7 +2877,7 @@
     "requirement": {
       "condition_id": 1362,
       "count": 1,
-      "name": "\u30AD\u30E9\u30AD\u30E9\u30BB\u30AD\u30E9\u30E9\u661F\u8A95\u796D\uFF01\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFSS\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "キラキラセキララ星誕祭！ボスチャレンジをスコアランクSSでクリアしよう"
     },
     "status_buffs": [],
     "value": 300
@@ -2891,7 +2891,7 @@
     "requirement": {
       "condition_id": 1372,
       "count": 1,
-      "name": "\u7E01\u7D50\u3076\u8005\u3000\u661F\u7167\u3089\u3059\u9053\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFC\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "縁結ぶ者\u3000星照らす道ボスチャレンジをスコアランクCでクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -2905,7 +2905,7 @@
     "requirement": {
       "condition_id": 1373,
       "count": 1,
-      "name": "\u7E01\u7D50\u3076\u8005\u3000\u661F\u7167\u3089\u3059\u9053\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFA\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "縁結ぶ者\u3000星照らす道ボスチャレンジをスコアランクAでクリアしよう"
     },
     "status_buffs": [],
     "value": 300
@@ -2919,7 +2919,7 @@
     "requirement": {
       "condition_id": 1374,
       "count": 1,
-      "name": "\u7E01\u7D50\u3076\u8005\u3000\u661F\u7167\u3089\u3059\u9053\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFSS\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "縁結ぶ者\u3000星照らす道ボスチャレンジをスコアランクSSでクリアしよう"
     },
     "status_buffs": [],
     "value": 500
@@ -2933,7 +2933,7 @@
     "requirement": {
       "condition_id": 1421,
       "count": 1,
-      "name": "\u89AA\u53CB\u3068\u6B69\u3080\u672A\u6765\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFC\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "親友と歩む未来ボスチャレンジをスコアランクCでクリアしよう"
     },
     "status_buffs": [
       {
@@ -2952,7 +2952,7 @@
     "requirement": {
       "condition_id": 1422,
       "count": 1,
-      "name": "\u89AA\u53CB\u3068\u6B69\u3080\u672A\u6765\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFA\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "親友と歩む未来ボスチャレンジをスコアランクAでクリアしよう"
     },
     "status_buffs": [
       {
@@ -2971,7 +2971,7 @@
     "requirement": {
       "condition_id": 1423,
       "count": 1,
-      "name": "\u89AA\u53CB\u3068\u6B69\u3080\u672A\u6765\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFSS\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "親友と歩む未来ボスチャレンジをスコアランクSSでクリアしよう"
     },
     "status_buffs": [
       {
@@ -2990,7 +2990,7 @@
     "requirement": {
       "condition_id": 1447,
       "count": 1,
-      "name": "\u30E9\u30A4\u30D0\u30EB\u3068\u7AF6\u3046\u672A\u6765\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFC\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "ライバルと競う未来ボスチャレンジをスコアランクCでクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -3004,7 +3004,7 @@
     "requirement": {
       "condition_id": 1448,
       "count": 1,
-      "name": "\u30E9\u30A4\u30D0\u30EB\u3068\u7AF6\u3046\u672A\u6765\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFA\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "ライバルと競う未来ボスチャレンジをスコアランクAでクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -3018,7 +3018,7 @@
     "requirement": {
       "condition_id": 1449,
       "count": 1,
-      "name": "\u30E9\u30A4\u30D0\u30EB\u3068\u7AF6\u3046\u672A\u6765\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFSS\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "ライバルと競う未来ボスチャレンジをスコアランクSSでクリアしよう"
     },
     "status_buffs": [],
     "value": 300
@@ -3032,7 +3032,7 @@
     "requirement": {
       "condition_id": 1465,
       "count": 1,
-      "name": "\u3042\u306A\u305F\u3068\u5922\u898B\u308B\u30C8\u30AF\u30D9\u30C4\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFC\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "あなたと夢見るトクベツボスチャレンジをスコアランクCでクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -3046,7 +3046,7 @@
     "requirement": {
       "condition_id": 1466,
       "count": 1,
-      "name": "\u3042\u306A\u305F\u3068\u5922\u898B\u308B\u30C8\u30AF\u30D9\u30C4\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFA\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "あなたと夢見るトクベツボスチャレンジをスコアランクAでクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -3060,7 +3060,7 @@
     "requirement": {
       "condition_id": 1467,
       "count": 1,
-      "name": "\u3042\u306A\u305F\u3068\u5922\u898B\u308B\u30C8\u30AF\u30D9\u30C4\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFSS\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "あなたと夢見るトクベツボスチャレンジをスコアランクSSでクリアしよう"
     },
     "status_buffs": [],
     "value": 300
@@ -3074,7 +3074,7 @@
     "requirement": {
       "condition_id": 1474,
       "count": 1,
-      "name": "\u3042\u306A\u305F\u3068\u5192\u967A\u3059\u308B\u30C8\u30AF\u30D9\u30C4\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFC\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "あなたと冒険するトクベツボスチャレンジをスコアランクCでクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -3088,7 +3088,7 @@
     "requirement": {
       "condition_id": 1475,
       "count": 1,
-      "name": "\u3042\u306A\u305F\u3068\u5192\u967A\u3059\u308B\u30C8\u30AF\u30D9\u30C4\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFA\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "あなたと冒険するトクベツボスチャレンジをスコアランクAでクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -3102,7 +3102,7 @@
     "requirement": {
       "condition_id": 1476,
       "count": 1,
-      "name": "\u3042\u306A\u305F\u3068\u5192\u967A\u3059\u308B\u30C8\u30AF\u30D9\u30C4\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFSS\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "あなたと冒険するトクベツボスチャレンジをスコアランクSSでクリアしよう"
     },
     "status_buffs": [],
     "value": 400
@@ -3116,7 +3116,7 @@
     "requirement": {
       "condition_id": 1492,
       "count": 1,
-      "name": "\u30C1\u30E3\u30EC\u30F3\u30B8\u30D0\u30C8\u30EB\u30AF\u30F4\u30A1\u30EC\u30EB\u30AC\uFF13\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFC\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "チャレンジバトルクヴァレルガ３をスコアランクCでクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -3130,7 +3130,7 @@
     "requirement": {
       "condition_id": 1493,
       "count": 1,
-      "name": "\u30C1\u30E3\u30EC\u30F3\u30B8\u30D0\u30C8\u30EB\u30AF\u30F4\u30A1\u30EC\u30EB\u30AC\uFF13\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFA\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "チャレンジバトルクヴァレルガ３をスコアランクAでクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -3144,7 +3144,7 @@
     "requirement": {
       "condition_id": 1494,
       "count": 1,
-      "name": "\u30C1\u30E3\u30EC\u30F3\u30B8\u30D0\u30C8\u30EB\u30AF\u30F4\u30A1\u30EC\u30EB\u30AC\uFF13\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFSS\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "チャレンジバトルクヴァレルガ３をスコアランクSSでクリアしよう"
     },
     "status_buffs": [],
     "value": 300
@@ -3158,7 +3158,7 @@
     "requirement": {
       "condition_id": 1510,
       "count": 1,
-      "name": "\u306A\u3093\u3067\u3082\u5C4B\u30B7\u30C8\u30EA\u30F3\u306E\u6311\u6226\u72B6\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFC\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "なんでも屋シトリンの挑戦状ボスチャレンジをスコアランクCでクリアしよう"
     },
     "status_buffs": [],
     "value": 100
@@ -3172,7 +3172,7 @@
     "requirement": {
       "condition_id": 1511,
       "count": 1,
-      "name": "\u306A\u3093\u3067\u3082\u5C4B\u30B7\u30C8\u30EA\u30F3\u306E\u6311\u6226\u72B6\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFA\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "なんでも屋シトリンの挑戦状ボスチャレンジをスコアランクAでクリアしよう"
     },
     "status_buffs": [],
     "value": 200
@@ -3186,49 +3186,7 @@
     "requirement": {
       "condition_id": 1512,
       "count": 1,
-      "name": "\u306A\u3093\u3067\u3082\u5C4B\u30B7\u30C8\u30EA\u30F3\u306E\u6311\u6226\u72B6\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFSS\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
-    },
-    "status_buffs": [],
-    "value": 300
-  },
-  {
-    "emblem_id": 78,
-    "equipment_tool_buffs": [],
-    "id": 235,
-    "image_path_hash": 2171477271663550072,
-    "rarity": 1,
-    "requirement": {
-      "condition_id": 1532,
-      "count": 1,
-      "name": "\u30E4\u30F3\u30CD\u30FB\u30EA\u30F3\u30C7\u30DE\u30F3\u306E\u611B\u3068\u904E\u53BB\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFC\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
-    },
-    "status_buffs": [],
-    "value": 100
-  },
-  {
-    "emblem_id": 78,
-    "equipment_tool_buffs": [],
-    "id": 236,
-    "image_path_hash": 408355652828954986,
-    "rarity": 2,
-    "requirement": {
-      "condition_id": 1533,
-      "count": 1,
-      "name": "\u30E4\u30F3\u30CD\u30FB\u30EA\u30F3\u30C7\u30DE\u30F3\u306E\u611B\u3068\u904E\u53BB\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFA\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
-    },
-    "status_buffs": [],
-    "value": 200
-  },
-  {
-    "emblem_id": 78,
-    "equipment_tool_buffs": [],
-    "id": 237,
-    "image_path_hash": 6451320898902335796,
-    "rarity": 3,
-    "requirement": {
-      "condition_id": 1534,
-      "count": 1,
-      "name": "\u30E4\u30F3\u30CD\u30FB\u30EA\u30F3\u30C7\u30DE\u30F3\u306E\u611B\u3068\u904E\u53BB\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8\u3092\u30B9\u30B3\u30A2\u30E9\u30F3\u30AFSS\u3067\u30AF\u30EA\u30A2\u3057\u3088\u3046"
+      "name": "なんでも屋シトリンの挑戦状ボスチャレンジをスコアランクSSでクリアしよう"
     },
     "status_buffs": [],
     "value": 300

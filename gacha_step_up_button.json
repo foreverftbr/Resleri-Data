@@ -6,22 +6,22 @@
       "resource_params": null,
       "type": 2
     },
-    "description": "1\u5EA6\u9650\u308A!",
+    "description": "1度限り!",
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20021,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u26053\u30AD\u30E3\u30E9\u78BA\u5B9A\u30AC\u30C1\u30E3\u30D7\u30EC\u30BC\u30F3\u30C8LEGEND FES",
+    "gacha_rate_set_name": "【STEP1】★3キャラ確定ガチャプレゼントLEGEND FES",
     "id": 1,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u26053\u30AD\u30E3\u30E9\u78BA\u5B9A!",
+    "description": "★3キャラ確定!",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20022,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u26053\u30AD\u30E3\u30E9\u78BA\u5B9A\u30AC\u30C1\u30E3\u30D7\u30EC\u30BC\u30F3\u30C8LEGEND FES",
+    "gacha_rate_set_name": "【STEP2】★3キャラ確定ガチャプレゼントLEGEND FES",
     "id": 2,
     "is_always_display": true,
     "is_wish_list": false
@@ -37,7 +37,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20171,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u30E9\u30A4\u30B6\u306E\u30A2\u30C8\u30EA\u30A8 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】ライザのアトリエ LEGEND FES[有償限定]",
     "id": 3,
     "is_always_display": true,
     "is_wish_list": false
@@ -53,7 +53,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20172,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u30E9\u30A4\u30B6\u306E\u30A2\u30C8\u30EA\u30A8 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】ライザのアトリエ LEGEND FES[有償限定]",
     "id": 4,
     "is_always_display": true,
     "is_wish_list": false
@@ -64,7 +64,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20173,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u30E9\u30A4\u30B6\u306E\u30A2\u30C8\u30EA\u30A8 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】ライザのアトリエ LEGEND FES[有償限定]",
     "id": 5,
     "is_always_display": true,
     "is_wish_list": false
@@ -80,7 +80,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20201,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u30A4\u30B6\u30CA\u65B0\u7AE0\u8FFD\u52A0\u8A18\u5FF5 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】イザナ新章追加記念 LEGEND FES[有償限定]",
     "id": 6,
     "is_always_display": true,
     "is_wish_list": false
@@ -96,7 +96,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20202,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u30A4\u30B6\u30CA\u65B0\u7AE0\u8FFD\u52A0\u8A18\u5FF5 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】イザナ新章追加記念 LEGEND FES[有償限定]",
     "id": 7,
     "is_always_display": true,
     "is_wish_list": false
@@ -107,7 +107,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20203,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u30A4\u30B6\u30CA\u65B0\u7AE0\u8FFD\u52A0\u8A18\u5FF5 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】イザナ新章追加記念 LEGEND FES[有償限定]",
     "id": 8,
     "is_always_display": true,
     "is_wish_list": false
@@ -123,7 +123,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20221,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u30AF\u30EA\u30B9\u30DE\u30B9  LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】クリスマス  LEGEND FES[有償限定]",
     "id": 9,
     "is_always_display": true,
     "is_wish_list": false
@@ -139,7 +139,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20222,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u30AF\u30EA\u30B9\u30DE\u30B9  LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】クリスマス  LEGEND FES[有償限定]",
     "id": 10,
     "is_always_display": true,
     "is_wish_list": false
@@ -150,7 +150,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20223,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u30AF\u30EA\u30B9\u30DE\u30B9  LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】クリスマス  LEGEND FES[有償限定]",
     "id": 11,
     "is_always_display": true,
     "is_wish_list": false
@@ -166,7 +166,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20241,
-    "gacha_rate_set_name": "\u3010STEP1\u3011HAPPY NEW YEAR LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】HAPPY NEW YEAR LEGEND FES[有償限定]",
     "id": 12,
     "is_always_display": true,
     "is_wish_list": false
@@ -182,7 +182,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20242,
-    "gacha_rate_set_name": "\u3010STEP2\u3011HAPPY NEW YEAR LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】HAPPY NEW YEAR LEGEND FES[有償限定]",
     "id": 13,
     "is_always_display": true,
     "is_wish_list": false
@@ -193,7 +193,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20243,
-    "gacha_rate_set_name": "\u3010STEP3\u3011HAPPY NEW YEAR LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】HAPPY NEW YEAR LEGEND FES[有償限定]",
     "id": 14,
     "is_always_display": true,
     "is_wish_list": false
@@ -209,7 +209,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20261,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u65B0\u7AE0\u8A18\u5FF5 \u6D6A\u6F2B\u306E\u679C\u3066\u306B LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】新章記念 浪漫の果てに LEGEND FES[有償限定]",
     "id": 15,
     "is_always_display": true,
     "is_wish_list": false
@@ -225,7 +225,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20262,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u65B0\u7AE0\u8A18\u5FF5 \u6D6A\u6F2B\u306E\u679C\u3066\u306B LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】新章記念 浪漫の果てに LEGEND FES[有償限定]",
     "id": 16,
     "is_always_display": true,
     "is_wish_list": false
@@ -236,7 +236,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20263,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u65B0\u7AE0\u8A18\u5FF5 \u6D6A\u6F2B\u306E\u679C\u3066\u306B LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】新章記念 浪漫の果てに LEGEND FES[有償限定]",
     "id": 17,
     "is_always_display": true,
     "is_wish_list": false
@@ -252,7 +252,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20301,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u30B7\u30E3\u30EA\u30FC\u306E\u30A2\u30C8\u30EA\u30A8 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】シャリーのアトリエ LEGEND FES[有償限定]",
     "id": 18,
     "is_always_display": true,
     "is_wish_list": false
@@ -268,7 +268,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20302,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u30B7\u30E3\u30EA\u30FC\u306E\u30A2\u30C8\u30EA\u30A8 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】シャリーのアトリエ LEGEND FES[有償限定]",
     "id": 19,
     "is_always_display": true,
     "is_wish_list": false
@@ -279,7 +279,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20303,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u30B7\u30E3\u30EA\u30FC\u306E\u30A2\u30C8\u30EA\u30A8 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】シャリーのアトリエ LEGEND FES[有償限定]",
     "id": 20,
     "is_always_display": true,
     "is_wish_list": false
@@ -295,7 +295,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20321,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u65B0\u7AE0\u8A18\u5FF5 \u53CC\u74A7\u306E\u9A0E\u58EB LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】新章記念 双璧の騎士 LEGEND FES[有償限定]",
     "id": 21,
     "is_always_display": true,
     "is_wish_list": false
@@ -311,7 +311,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20322,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u65B0\u7AE0\u8A18\u5FF5 \u53CC\u74A7\u306E\u9A0E\u58EB LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】新章記念 双璧の騎士 LEGEND FES[有償限定]",
     "id": 22,
     "is_always_display": true,
     "is_wish_list": false
@@ -322,7 +322,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20323,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u65B0\u7AE0\u8A18\u5FF5 \u53CC\u74A7\u306E\u9A0E\u58EB LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】新章記念 双璧の騎士 LEGEND FES[有償限定]",
     "id": 23,
     "is_always_display": true,
     "is_wish_list": false
@@ -338,7 +338,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20341,
-    "gacha_rate_set_name": "\u3010STEP1\u3011VALENTINE2024 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】VALENTINE2024 LEGEND FES[有償限定]",
     "id": 24,
     "is_always_display": true,
     "is_wish_list": false
@@ -354,7 +354,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20342,
-    "gacha_rate_set_name": "\u3010STEP2\u3011VALENTINE2024 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】VALENTINE2024 LEGEND FES[有償限定]",
     "id": 25,
     "is_always_display": true,
     "is_wish_list": false
@@ -365,7 +365,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20343,
-    "gacha_rate_set_name": "\u3010STEP3\u3011VALENTINE2024 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】VALENTINE2024 LEGEND FES[有償限定]",
     "id": 26,
     "is_always_display": true,
     "is_wish_list": false
@@ -381,7 +381,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20401,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u30A2\u30FC\u30E9\u30F3\u30C9\u306E\u932C\u91D1\u8853\u58EB LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】アーランドの錬金術士 LEGEND FES[有償限定]",
     "id": 27,
     "is_always_display": true,
     "is_wish_list": false
@@ -397,7 +397,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20402,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u30A2\u30FC\u30E9\u30F3\u30C9\u306E\u932C\u91D1\u8853\u58EB LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】アーランドの錬金術士 LEGEND FES[有償限定]",
     "id": 28,
     "is_always_display": true,
     "is_wish_list": false
@@ -408,7 +408,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20403,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u30A2\u30FC\u30E9\u30F3\u30C9\u306E\u932C\u91D1\u8853\u58EB LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】アーランドの錬金術士 LEGEND FES[有償限定]",
     "id": 29,
     "is_always_display": true,
     "is_wish_list": false
@@ -424,18 +424,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 20431,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP1】★3キャラ選んで確定ガチャ",
     "id": 30,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "description": "選択キャラ確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20432,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP2】★3キャラ選んで確定ガチャ",
     "id": 31,
     "is_always_display": true,
     "is_wish_list": true
@@ -451,7 +451,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 20433,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP3】★3キャラ選んで確定ガチャ",
     "id": 32,
     "is_always_display": true,
     "is_wish_list": false
@@ -467,18 +467,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 20434,
-    "gacha_rate_set_name": "\u3010STEP4\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP4】★3キャラ選んで確定ガチャ",
     "id": 33,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "description": "選択キャラ確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20435,
-    "gacha_rate_set_name": "\u3010STEP5\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP5】★3キャラ選んで確定ガチャ",
     "id": 34,
     "is_always_display": true,
     "is_wish_list": true
@@ -494,7 +494,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20451,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u6C7A\u6226 LEGEND FES \u76EE\u899A\u3081\u305F\u707D\u5384[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】決戦 LEGEND FES 目覚めた災厄[有償限定]",
     "id": 35,
     "is_always_display": true,
     "is_wish_list": false
@@ -510,7 +510,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20452,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u6C7A\u6226 LEGEND FES \u76EE\u899A\u3081\u305F\u707D\u5384[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】決戦 LEGEND FES 目覚めた災厄[有償限定]",
     "id": 36,
     "is_always_display": true,
     "is_wish_list": false
@@ -521,7 +521,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20453,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u6C7A\u6226 LEGEND FES \u76EE\u899A\u3081\u305F\u707D\u5384[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】決戦 LEGEND FES 目覚めた災厄[有償限定]",
     "id": 37,
     "is_always_display": true,
     "is_wish_list": false
@@ -537,7 +537,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20472,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u6C7A\u6226 LEGEND FES \u305D\u308C\u305E\u308C\u306E\u899A\u609F[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】決戦 LEGEND FES それぞれの覚悟[有償限定]",
     "id": 38,
     "is_always_display": true,
     "is_wish_list": false
@@ -553,7 +553,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20473,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u6C7A\u6226 LEGEND FES \u305D\u308C\u305E\u308C\u306E\u899A\u609F[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】決戦 LEGEND FES それぞれの覚悟[有償限定]",
     "id": 39,
     "is_always_display": true,
     "is_wish_list": false
@@ -564,7 +564,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20474,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u6C7A\u6226 LEGEND FES \u305D\u308C\u305E\u308C\u306E\u899A\u609F[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】決戦 LEGEND FES それぞれの覚悟[有償限定]",
     "id": 40,
     "is_always_display": true,
     "is_wish_list": false
@@ -580,7 +580,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20492,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u6C7A\u6226 LEGEND FES \u6700\u5F8C\u306E\u65E5[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】決戦 LEGEND FES 最後の日[有償限定]",
     "id": 41,
     "is_always_display": true,
     "is_wish_list": false
@@ -596,7 +596,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20493,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u6C7A\u6226 LEGEND FES \u6700\u5F8C\u306E\u65E5[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】決戦 LEGEND FES 最後の日[有償限定]",
     "id": 42,
     "is_always_display": true,
     "is_wish_list": false
@@ -607,7 +607,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20494,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u6C7A\u6226 LEGEND FES \u6700\u5F8C\u306E\u65E5[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】決戦 LEGEND FES 最後の日[有償限定]",
     "id": 43,
     "is_always_display": true,
     "is_wish_list": false
@@ -623,7 +623,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20512,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u30EC\u30B9\u30EC\u30EA\u5B66\u5712 LEGEND FES \u5165\u5B66\u7DE8[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】レスレリ学園 LEGEND FES 入学編[有償限定]",
     "id": 44,
     "is_always_display": true,
     "is_wish_list": false
@@ -639,7 +639,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20513,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u30EC\u30B9\u30EC\u30EA\u5B66\u5712 LEGEND FES \u5165\u5B66\u7DE8[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】レスレリ学園 LEGEND FES 入学編[有償限定]",
     "id": 45,
     "is_always_display": true,
     "is_wish_list": false
@@ -650,7 +650,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20514,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u30EC\u30B9\u30EC\u30EA\u5B66\u5712 LEGEND FES \u5165\u5B66\u7DE8[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】レスレリ学園 LEGEND FES 入学編[有償限定]",
     "id": 46,
     "is_always_display": true,
     "is_wish_list": false
@@ -666,7 +666,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20542,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u30EC\u30B9\u30EC\u30EA\u5B66\u5712 LEGEND FES \u932C\u91D1\u796D\u7DE8[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】レスレリ学園 LEGEND FES 錬金祭編[有償限定]",
     "id": 47,
     "is_always_display": true,
     "is_wish_list": false
@@ -682,7 +682,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20543,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u30EC\u30B9\u30EC\u30EA\u5B66\u5712 LEGEND FES \u932C\u91D1\u796D\u7DE8[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】レスレリ学園 LEGEND FES 錬金祭編[有償限定]",
     "id": 48,
     "is_always_display": true,
     "is_wish_list": false
@@ -693,7 +693,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20544,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u30EC\u30B9\u30EC\u30EA\u5B66\u5712 LEGEND FES \u932C\u91D1\u796D\u7DE8[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】レスレリ学園 LEGEND FES 錬金祭編[有償限定]",
     "id": 49,
     "is_always_display": true,
     "is_wish_list": false
@@ -709,7 +709,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20562,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u30EC\u30B9\u30EC\u30EA\u5B66\u5712 LEGEND FES \u5BFE\u6297\u6226\u7DE8[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】レスレリ学園 LEGEND FES 対抗戦編[有償限定]",
     "id": 50,
     "is_always_display": true,
     "is_wish_list": false
@@ -725,7 +725,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20563,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u30EC\u30B9\u30EC\u30EA\u5B66\u5712 LEGEND FES \u5BFE\u6297\u6226\u7DE8[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】レスレリ学園 LEGEND FES 対抗戦編[有償限定]",
     "id": 51,
     "is_always_display": true,
     "is_wish_list": false
@@ -736,7 +736,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20564,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u30EC\u30B9\u30EC\u30EA\u5B66\u5712 LEGEND FES \u5BFE\u6297\u6226\u7DE8[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】レスレリ学園 LEGEND FES 対抗戦編[有償限定]",
     "id": 52,
     "is_always_display": true,
     "is_wish_list": false
@@ -752,7 +752,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20582,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u7652\u3057\u304F\u3064\u308D\u304E\u6E29\u6CC9 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】癒しくつろぎ温泉 LEGEND FES[有償限定]",
     "id": 53,
     "is_always_display": true,
     "is_wish_list": false
@@ -768,7 +768,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20583,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u7652\u3057\u304F\u3064\u308D\u304E\u6E29\u6CC9 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】癒しくつろぎ温泉 LEGEND FES[有償限定]",
     "id": 54,
     "is_always_display": true,
     "is_wish_list": false
@@ -779,7 +779,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20584,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u7652\u3057\u304F\u3064\u308D\u304E\u6E29\u6CC9 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】癒しくつろぎ温泉 LEGEND FES[有償限定]",
     "id": 55,
     "is_always_display": true,
     "is_wish_list": false
@@ -795,7 +795,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20602,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u65B0\u7AE0\u8A18\u5FF5 \u6D77\u306E\u7537\u306E\u9580\u51FA LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】新章記念 海の男の門出 LEGEND FES[有償限定]",
     "id": 56,
     "is_always_display": true,
     "is_wish_list": false
@@ -811,7 +811,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20603,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u65B0\u7AE0\u8A18\u5FF5 \u6D77\u306E\u7537\u306E\u9580\u51FA LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】新章記念 海の男の門出 LEGEND FES[有償限定]",
     "id": 57,
     "is_always_display": true,
     "is_wish_list": false
@@ -822,7 +822,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20604,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u65B0\u7AE0\u8A18\u5FF5 \u6D77\u306E\u7537\u306E\u9580\u51FA LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】新章記念 海の男の門出 LEGEND FES[有償限定]",
     "id": 58,
     "is_always_display": true,
     "is_wish_list": false
@@ -838,7 +838,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20622,
-    "gacha_rate_set_name": "\u3010STEP1\u3011ATELIER 27th LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】ATELIER 27th LEGEND FES[有償限定]",
     "id": 59,
     "is_always_display": true,
     "is_wish_list": false
@@ -854,7 +854,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20623,
-    "gacha_rate_set_name": "\u3010STEP2\u3011ATELIER 27th LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】ATELIER 27th LEGEND FES[有償限定]",
     "id": 60,
     "is_always_display": true,
     "is_wish_list": false
@@ -865,7 +865,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20624,
-    "gacha_rate_set_name": "\u3010STEP3\u3011ATELIER 27th LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】ATELIER 27th LEGEND FES[有償限定]",
     "id": 61,
     "is_always_display": true,
     "is_wish_list": false
@@ -881,7 +881,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20642,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u65B0\u7AE0\u8A18\u5FF5 \u7DCB\u84BC\u306E\u5263\u58EB LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】新章記念 緋蒼の剣士 LEGEND FES[有償限定]",
     "id": 62,
     "is_always_display": true,
     "is_wish_list": false
@@ -897,7 +897,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20643,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u65B0\u7AE0\u8A18\u5FF5 \u7DCB\u84BC\u306E\u5263\u58EB LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】新章記念 緋蒼の剣士 LEGEND FES[有償限定]",
     "id": 63,
     "is_always_display": true,
     "is_wish_list": false
@@ -908,7 +908,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20644,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u65B0\u7AE0\u8A18\u5FF5 \u7DCB\u84BC\u306E\u5263\u58EB LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】新章記念 緋蒼の剣士 LEGEND FES[有償限定]",
     "id": 64,
     "is_always_display": true,
     "is_wish_list": false
@@ -924,7 +924,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20662,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u7ADC\u306E\u82B1\u5AC1 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】竜の花嫁 LEGEND FES[有償限定]",
     "id": 65,
     "is_always_display": true,
     "is_wish_list": false
@@ -940,7 +940,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20663,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u7ADC\u306E\u82B1\u5AC1 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】竜の花嫁 LEGEND FES[有償限定]",
     "id": 66,
     "is_always_display": true,
     "is_wish_list": false
@@ -951,7 +951,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20664,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u7ADC\u306E\u82B1\u5AC1 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】竜の花嫁 LEGEND FES[有償限定]",
     "id": 67,
     "is_always_display": true,
     "is_wish_list": false
@@ -967,7 +967,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20682,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u9EC4\u660F\u306E\u958B\u767A\u73ED LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】黄昏の開発班 LEGEND FES[有償限定]",
     "id": 68,
     "is_always_display": true,
     "is_wish_list": false
@@ -983,7 +983,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20683,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u9EC4\u660F\u306E\u958B\u767A\u73ED LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】黄昏の開発班 LEGEND FES[有償限定]",
     "id": 69,
     "is_always_display": true,
     "is_wish_list": false
@@ -994,7 +994,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20684,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u9EC4\u660F\u306E\u958B\u767A\u73ED LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】黄昏の開発班 LEGEND FES[有償限定]",
     "id": 70,
     "is_always_display": true,
     "is_wish_list": false
@@ -1010,7 +1010,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20702,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u65B0\u7AE0\u8A18\u5FF5 \u5F71\u306E\u6F5C\u5165\u8005 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】新章記念 影の潜入者 LEGEND FES[有償限定]",
     "id": 71,
     "is_always_display": true,
     "is_wish_list": false
@@ -1026,7 +1026,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20703,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u65B0\u7AE0\u8A18\u5FF5 \u5F71\u306E\u6F5C\u5165\u8005 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】新章記念 影の潜入者 LEGEND FES[有償限定]",
     "id": 72,
     "is_always_display": true,
     "is_wish_list": false
@@ -1037,7 +1037,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20704,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u65B0\u7AE0\u8A18\u5FF5 \u5F71\u306E\u6F5C\u5165\u8005 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】新章記念 影の潜入者 LEGEND FES[有償限定]",
     "id": 73,
     "is_always_display": true,
     "is_wish_list": false
@@ -1053,18 +1053,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 20731,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\uFF13\u7AE0\u7A81\u7834\u8A18\u5FF5 SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP1】３章突破記念 SSRメモリア選んで確定ガチャ",
     "id": 74,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\uFF01",
+    "description": "選択メモリア確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20732,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\uFF13\u7AE0\u7A81\u7834\u8A18\u5FF5 SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP2】３章突破記念 SSRメモリア選んで確定ガチャ",
     "id": 75,
     "is_always_display": true,
     "is_wish_list": true
@@ -1080,7 +1080,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 20733,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\uFF13\u7AE0\u7A81\u7834\u8A18\u5FF5 SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP3】３章突破記念 SSRメモリア選んで確定ガチャ",
     "id": 76,
     "is_always_display": true,
     "is_wish_list": false
@@ -1096,18 +1096,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 20734,
-    "gacha_rate_set_name": "\u3010STEP4\u3011\uFF13\u7AE0\u7A81\u7834\u8A18\u5FF5 SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP4】３章突破記念 SSRメモリア選んで確定ガチャ",
     "id": 77,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\uFF01",
+    "description": "選択メモリア確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20735,
-    "gacha_rate_set_name": "\u3010STEP5\u3011\uFF13\u7AE0\u7A81\u7834\u8A18\u5FF5 SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP5】３章突破記念 SSRメモリア選んで確定ガチャ",
     "id": 78,
     "is_always_display": true,
     "is_wish_list": true
@@ -1123,7 +1123,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20722,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C1\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】アトリエサマー第1弾 LEGEND FES[有償限定]",
     "id": 79,
     "is_always_display": true,
     "is_wish_list": true
@@ -1139,7 +1139,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20723,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C1\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】アトリエサマー第1弾 LEGEND FES[有償限定]",
     "id": 80,
     "is_always_display": true,
     "is_wish_list": true
@@ -1150,7 +1150,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20724,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C1\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】アトリエサマー第1弾 LEGEND FES[有償限定]",
     "id": 81,
     "is_always_display": true,
     "is_wish_list": true
@@ -1166,7 +1166,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20752,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C2\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】アトリエサマー第2弾 LEGEND FES[有償限定]",
     "id": 82,
     "is_always_display": true,
     "is_wish_list": true
@@ -1182,7 +1182,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20753,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C2\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】アトリエサマー第2弾 LEGEND FES[有償限定]",
     "id": 83,
     "is_always_display": true,
     "is_wish_list": true
@@ -1193,7 +1193,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20754,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C2\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】アトリエサマー第2弾 LEGEND FES[有償限定]",
     "id": 84,
     "is_always_display": true,
     "is_wish_list": true
@@ -1209,7 +1209,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20762,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u96F7\u96FB\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】雷電祭ガチャ LEGEND FES[有償限定]",
     "id": 85,
     "is_always_display": true,
     "is_wish_list": true
@@ -1225,7 +1225,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20763,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u96F7\u96FB\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】雷電祭ガチャ LEGEND FES[有償限定]",
     "id": 86,
     "is_always_display": true,
     "is_wish_list": true
@@ -1236,7 +1236,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20764,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u96F7\u96FB\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】雷電祭ガチャ LEGEND FES[有償限定]",
     "id": 87,
     "is_always_display": true,
     "is_wish_list": true
@@ -1252,7 +1252,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20782,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C3\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】アトリエサマー第3弾 LEGEND FES[有償限定]",
     "id": 88,
     "is_always_display": true,
     "is_wish_list": true
@@ -1268,7 +1268,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20783,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C3\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】アトリエサマー第3弾 LEGEND FES[有償限定]",
     "id": 89,
     "is_always_display": true,
     "is_wish_list": true
@@ -1279,7 +1279,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20784,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C3\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】アトリエサマー第3弾 LEGEND FES[有償限定]",
     "id": 90,
     "is_always_display": true,
     "is_wish_list": true
@@ -1295,7 +1295,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20792,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u6C37\u51CD\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】氷凍祭ガチャ LEGEND FES[有償限定]",
     "id": 91,
     "is_always_display": true,
     "is_wish_list": true
@@ -1311,7 +1311,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20793,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u6C37\u51CD\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】氷凍祭ガチャ LEGEND FES[有償限定]",
     "id": 92,
     "is_always_display": true,
     "is_wish_list": true
@@ -1322,7 +1322,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20794,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u6C37\u51CD\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】氷凍祭ガチャ LEGEND FES[有償限定]",
     "id": 93,
     "is_always_display": true,
     "is_wish_list": true
@@ -1338,7 +1338,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20812,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C4\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】アトリエサマー第4弾 LEGEND FES[有償限定]",
     "id": 94,
     "is_always_display": true,
     "is_wish_list": false
@@ -1354,7 +1354,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20813,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C4\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】アトリエサマー第4弾 LEGEND FES[有償限定]",
     "id": 95,
     "is_always_display": true,
     "is_wish_list": false
@@ -1365,7 +1365,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20814,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C4\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】アトリエサマー第4弾 LEGEND FES[有償限定]",
     "id": 96,
     "is_always_display": true,
     "is_wish_list": false
@@ -1381,7 +1381,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20832,
-    "gacha_rate_set_name": "\u3010STEP1\u30111\u5468\u5E74 \u661F\u7948\u796D LEGEND FES \u5149\u5DEE\u3059\u6708\u5F71[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】1周年 星祈祭 LEGEND FES 光差す月影[有償限定]",
     "id": 97,
     "is_always_display": true,
     "is_wish_list": true
@@ -1397,7 +1397,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20833,
-    "gacha_rate_set_name": "\u3010STEP2\u30111\u5468\u5E74 \u661F\u7948\u796D LEGEND FES \u5149\u5DEE\u3059\u6708\u5F71[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】1周年 星祈祭 LEGEND FES 光差す月影[有償限定]",
     "id": 98,
     "is_always_display": true,
     "is_wish_list": true
@@ -1408,7 +1408,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20834,
-    "gacha_rate_set_name": "\u3010STEP3\u30111\u5468\u5E74 \u661F\u7948\u796D LEGEND FES \u5149\u5DEE\u3059\u6708\u5F71[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】1周年 星祈祭 LEGEND FES 光差す月影[有償限定]",
     "id": 99,
     "is_always_display": true,
     "is_wish_list": true
@@ -1424,7 +1424,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20842,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u523A\u7A81\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】刺突祭ガチャ LEGEND FES[有償限定]",
     "id": 100,
     "is_always_display": true,
     "is_wish_list": true
@@ -1440,7 +1440,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20843,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u523A\u7A81\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】刺突祭ガチャ LEGEND FES[有償限定]",
     "id": 101,
     "is_always_display": true,
     "is_wish_list": true
@@ -1451,7 +1451,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20844,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u523A\u7A81\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】刺突祭ガチャ LEGEND FES[有償限定]",
     "id": 102,
     "is_always_display": true,
     "is_wish_list": true
@@ -1467,7 +1467,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20862,
-    "gacha_rate_set_name": "\u3010STEP1\u30111\u5468\u5E74 \u661F\u7948\u796D LEGEND FES \u7948\u308A\u3068\u5B89\u3089\u304E\u306E\u82B1[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】1周年 星祈祭 LEGEND FES 祈りと安らぎの花[有償限定]",
     "id": 103,
     "is_always_display": true,
     "is_wish_list": true
@@ -1483,7 +1483,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20863,
-    "gacha_rate_set_name": "\u3010STEP2\u30111\u5468\u5E74 \u661F\u7948\u796D LEGEND FES \u7948\u308A\u3068\u5B89\u3089\u304E\u306E\u82B1[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】1周年 星祈祭 LEGEND FES 祈りと安らぎの花[有償限定]",
     "id": 104,
     "is_always_display": true,
     "is_wish_list": true
@@ -1494,7 +1494,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20864,
-    "gacha_rate_set_name": "\u3010STEP3\u30111\u5468\u5E74 \u661F\u7948\u796D LEGEND FES \u7948\u308A\u3068\u5B89\u3089\u304E\u306E\u82B1[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】1周年 星祈祭 LEGEND FES 祈りと安らぎの花[有償限定]",
     "id": 105,
     "is_always_display": true,
     "is_wish_list": true
@@ -1510,7 +1510,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20872,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u523A\u7A81\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】刺突祭ガチャ LEGEND FES[有償限定]",
     "id": 106,
     "is_always_display": true,
     "is_wish_list": true
@@ -1526,7 +1526,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20873,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u523A\u7A81\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】刺突祭ガチャ LEGEND FES[有償限定]",
     "id": 107,
     "is_always_display": true,
     "is_wish_list": true
@@ -1537,7 +1537,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20874,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u523A\u7A81\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】刺突祭ガチャ LEGEND FES[有償限定]",
     "id": 108,
     "is_always_display": true,
     "is_wish_list": true
@@ -1553,7 +1553,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20892,
-    "gacha_rate_set_name": "\u3010STEP1\u30111\u5468\u5E74 \u661F\u5C0E\u796D LEGEND FES \u8A23\u5225\u306E\u6642[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】1周年 星導祭 LEGEND FES 訣別の時[有償限定]",
     "id": 109,
     "is_always_display": true,
     "is_wish_list": true
@@ -1569,7 +1569,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20893,
-    "gacha_rate_set_name": "\u3010STEP2\u30111\u5468\u5E74 \u661F\u5C0E\u796D LEGEND FES \u8A23\u5225\u306E\u6642[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】1周年 星導祭 LEGEND FES 訣別の時[有償限定]",
     "id": 110,
     "is_always_display": true,
     "is_wish_list": true
@@ -1580,7 +1580,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20894,
-    "gacha_rate_set_name": "\u3010STEP3\u30111\u5468\u5E74 \u661F\u5C0E\u796D LEGEND FES \u8A23\u5225\u306E\u6642[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】1周年 星導祭 LEGEND FES 訣別の時[有償限定]",
     "id": 111,
     "is_always_display": true,
     "is_wish_list": true
@@ -1596,7 +1596,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20902,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u65AC\u88C2\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】斬裂祭ガチャ LEGEND FES[有償限定]",
     "id": 112,
     "is_always_display": true,
     "is_wish_list": true
@@ -1612,7 +1612,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20903,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u65AC\u88C2\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】斬裂祭ガチャ LEGEND FES[有償限定]",
     "id": 113,
     "is_always_display": true,
     "is_wish_list": true
@@ -1623,7 +1623,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20904,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u65AC\u88C2\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】斬裂祭ガチャ LEGEND FES[有償限定]",
     "id": 114,
     "is_always_display": true,
     "is_wish_list": true
@@ -1639,18 +1639,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 21011,
-    "gacha_rate_set_name": "\u3010STEP1\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C1\u5F3E",
+    "gacha_rate_set_name": "【STEP1】72時間限定！★3キャラ選んで確定ガチャ 第1弾",
     "id": 115,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "description": "選択キャラ確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21012,
-    "gacha_rate_set_name": "\u3010STEP2\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C1\u5F3E",
+    "gacha_rate_set_name": "【STEP2】72時間限定！★3キャラ選んで確定ガチャ 第1弾",
     "id": 116,
     "is_always_display": true,
     "is_wish_list": true
@@ -1666,7 +1666,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 21013,
-    "gacha_rate_set_name": "\u3010STEP3\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C1\u5F3E",
+    "gacha_rate_set_name": "【STEP3】72時間限定！★3キャラ選んで確定ガチャ 第1弾",
     "id": 117,
     "is_always_display": true,
     "is_wish_list": false
@@ -1682,18 +1682,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 21014,
-    "gacha_rate_set_name": "\u3010STEP4\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C1\u5F3E",
+    "gacha_rate_set_name": "【STEP4】72時間限定！★3キャラ選んで確定ガチャ 第1弾",
     "id": 118,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "description": "選択キャラ確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21015,
-    "gacha_rate_set_name": "\u3010STEP5\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C1\u5F3E",
+    "gacha_rate_set_name": "【STEP5】72時間限定！★3キャラ選んで確定ガチャ 第1弾",
     "id": 119,
     "is_always_display": true,
     "is_wish_list": true
@@ -1709,18 +1709,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 21021,
-    "gacha_rate_set_name": "\u3010STEP1\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C2\u5F3E",
+    "gacha_rate_set_name": "【STEP1】72時間限定！★3キャラ選んで確定ガチャ 第2弾",
     "id": 120,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "description": "選択キャラ確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21022,
-    "gacha_rate_set_name": "\u3010STEP2\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C2\u5F3E",
+    "gacha_rate_set_name": "【STEP2】72時間限定！★3キャラ選んで確定ガチャ 第2弾",
     "id": 121,
     "is_always_display": true,
     "is_wish_list": true
@@ -1736,7 +1736,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 21023,
-    "gacha_rate_set_name": "\u3010STEP3\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C2\u5F3E",
+    "gacha_rate_set_name": "【STEP3】72時間限定！★3キャラ選んで確定ガチャ 第2弾",
     "id": 122,
     "is_always_display": true,
     "is_wish_list": false
@@ -1752,18 +1752,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 21024,
-    "gacha_rate_set_name": "\u3010STEP4\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C2\u5F3E",
+    "gacha_rate_set_name": "【STEP4】72時間限定！★3キャラ選んで確定ガチャ 第2弾",
     "id": 123,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "description": "選択キャラ確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21025,
-    "gacha_rate_set_name": "\u3010STEP5\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C2\u5F3E",
+    "gacha_rate_set_name": "【STEP5】72時間限定！★3キャラ選んで確定ガチャ 第2弾",
     "id": 124,
     "is_always_display": true,
     "is_wish_list": true
@@ -1779,7 +1779,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20922,
-    "gacha_rate_set_name": "\u3010STEP1\u30111\u5468\u5E74 \u661F\u5C0E\u796D LEGEND FES \u30D2\u30C8\u9020\u30EA\u30B7\u707D\u798D[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】1周年 星導祭 LEGEND FES ヒト造リシ災禍[有償限定]",
     "id": 125,
     "is_always_display": true,
     "is_wish_list": true
@@ -1795,7 +1795,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20923,
-    "gacha_rate_set_name": "\u3010STEP2\u30111\u5468\u5E74 \u661F\u5C0E\u796D LEGEND FES \u30D2\u30C8\u9020\u30EA\u30B7\u707D\u798D[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】1周年 星導祭 LEGEND FES ヒト造リシ災禍[有償限定]",
     "id": 126,
     "is_always_display": true,
     "is_wish_list": true
@@ -1806,7 +1806,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 20924,
-    "gacha_rate_set_name": "\u3010STEP3\u30111\u5468\u5E74 \u661F\u5C0E\u796D LEGEND FES \u30D2\u30C8\u9020\u30EA\u30B7\u707D\u798D[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】1周年 星導祭 LEGEND FES ヒト造リシ災禍[有償限定]",
     "id": 127,
     "is_always_display": true,
     "is_wish_list": true
@@ -1822,7 +1822,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21052,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u706B\u708E\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】火炎祭ガチャ LEGEND FES[有償限定]",
     "id": 128,
     "is_always_display": true,
     "is_wish_list": true
@@ -1838,7 +1838,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21053,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u706B\u708E\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】火炎祭ガチャ LEGEND FES[有償限定]",
     "id": 129,
     "is_always_display": true,
     "is_wish_list": true
@@ -1849,7 +1849,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21054,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u706B\u708E\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】火炎祭ガチャ LEGEND FES[有償限定]",
     "id": 130,
     "is_always_display": true,
     "is_wish_list": true
@@ -1865,7 +1865,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21072,
-    "gacha_rate_set_name": "\u3010STEP1\u30111\u5468\u5E74 \u661F\u5C0E\u796D LEGEND FES \u5F77\u5FA8\u3048\u308B\u4EA1\u8005[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】1周年 星導祭 LEGEND FES 彷徨える亡者[有償限定]",
     "id": 131,
     "is_always_display": true,
     "is_wish_list": true
@@ -1881,7 +1881,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21073,
-    "gacha_rate_set_name": "\u3010STEP2\u30111\u5468\u5E74 \u661F\u5C0E\u796D LEGEND FES \u5F77\u5FA8\u3048\u308B\u4EA1\u8005[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】1周年 星導祭 LEGEND FES 彷徨える亡者[有償限定]",
     "id": 132,
     "is_always_display": true,
     "is_wish_list": true
@@ -1892,7 +1892,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21074,
-    "gacha_rate_set_name": "\u3010STEP3\u30111\u5468\u5E74 \u661F\u5C0E\u796D LEGEND FES \u5F77\u5FA8\u3048\u308B\u4EA1\u8005[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】1周年 星導祭 LEGEND FES 彷徨える亡者[有償限定]",
     "id": 133,
     "is_always_display": true,
     "is_wish_list": true
@@ -1903,7 +1903,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21081,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP1】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 134,
     "is_always_display": true,
     "is_wish_list": false
@@ -1919,7 +1919,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21082,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP2】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 135,
     "is_always_display": true,
     "is_wish_list": false
@@ -1935,18 +1935,18 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21083,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP3】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 136,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "description": "★3またはSSR確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21084,
-    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP4】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 137,
     "is_always_display": true,
     "is_wish_list": false
@@ -1957,7 +1957,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21091,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP1】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 138,
     "is_always_display": true,
     "is_wish_list": false
@@ -1973,7 +1973,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21092,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP2】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 139,
     "is_always_display": true,
     "is_wish_list": false
@@ -1989,18 +1989,18 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21093,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP3】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 140,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "description": "★3またはSSR確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21094,
-    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP4】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 141,
     "is_always_display": true,
     "is_wish_list": false
@@ -2011,7 +2011,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21101,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP1】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 142,
     "is_always_display": true,
     "is_wish_list": false
@@ -2027,7 +2027,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21102,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP2】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 143,
     "is_always_display": true,
     "is_wish_list": false
@@ -2043,18 +2043,18 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21103,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP3】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 144,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "description": "★3またはSSR確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21104,
-    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP4】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 145,
     "is_always_display": true,
     "is_wish_list": false
@@ -2065,7 +2065,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21111,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP1】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 146,
     "is_always_display": true,
     "is_wish_list": false
@@ -2081,7 +2081,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21112,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP2】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 147,
     "is_always_display": true,
     "is_wish_list": false
@@ -2097,18 +2097,18 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21113,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP3】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 148,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "description": "★3またはSSR確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21114,
-    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP4】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 149,
     "is_always_display": true,
     "is_wish_list": false
@@ -2119,7 +2119,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21121,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP1】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 150,
     "is_always_display": true,
     "is_wish_list": false
@@ -2135,7 +2135,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21122,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP2】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 151,
     "is_always_display": true,
     "is_wish_list": false
@@ -2151,18 +2151,18 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21123,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP3】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 152,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "description": "★3またはSSR確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21124,
-    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP4】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 153,
     "is_always_display": true,
     "is_wish_list": false
@@ -2173,7 +2173,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21131,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP1】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 154,
     "is_always_display": true,
     "is_wish_list": false
@@ -2189,7 +2189,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21132,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP2】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 155,
     "is_always_display": true,
     "is_wish_list": false
@@ -2205,18 +2205,18 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21133,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP3】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 156,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "description": "★3またはSSR確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21134,
-    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP4】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 157,
     "is_always_display": true,
     "is_wish_list": false
@@ -2227,7 +2227,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21141,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP1】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 158,
     "is_always_display": true,
     "is_wish_list": false
@@ -2243,7 +2243,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21142,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP2】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 159,
     "is_always_display": true,
     "is_wish_list": false
@@ -2259,18 +2259,18 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21143,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP3】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 160,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "description": "★3またはSSR確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21144,
-    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 1\u5468\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP4】毎日Step1の10回が無料！ 1周年記念特別ガチャ",
     "id": 161,
     "is_always_display": true,
     "is_wish_list": false
@@ -2286,7 +2286,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21182,
-    "gacha_rate_set_name": "\u3010STEP1\u30111\u5468\u5E74 \u661F\u793C\u796D LEGEND FES \u6975\u591C\u306B\u89E3\u3051\u308B\u547C\u3073\u58F0[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】1周年 星礼祭 LEGEND FES 極夜に解ける呼び声[有償限定]",
     "id": 162,
     "is_always_display": true,
     "is_wish_list": true
@@ -2302,7 +2302,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21183,
-    "gacha_rate_set_name": "\u3010STEP2\u30111\u5468\u5E74 \u661F\u793C\u796D LEGEND FES \u6975\u591C\u306B\u89E3\u3051\u308B\u547C\u3073\u58F0[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】1周年 星礼祭 LEGEND FES 極夜に解ける呼び声[有償限定]",
     "id": 163,
     "is_always_display": true,
     "is_wish_list": true
@@ -2313,7 +2313,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21184,
-    "gacha_rate_set_name": "\u3010STEP3\u30111\u5468\u5E74 \u661F\u793C\u796D LEGEND FES \u6975\u591C\u306B\u89E3\u3051\u308B\u547C\u3073\u58F0[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】1周年 星礼祭 LEGEND FES 極夜に解ける呼び声[有償限定]",
     "id": 164,
     "is_always_display": true,
     "is_wish_list": true
@@ -2329,7 +2329,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21162,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u7815\u6253\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】砕打祭ガチャ LEGEND FES[有償限定]",
     "id": 165,
     "is_always_display": true,
     "is_wish_list": true
@@ -2345,7 +2345,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21163,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u7815\u6253\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】砕打祭ガチャ LEGEND FES[有償限定]",
     "id": 166,
     "is_always_display": true,
     "is_wish_list": true
@@ -2356,7 +2356,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21164,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u7815\u6253\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】砕打祭ガチャ LEGEND FES[有償限定]",
     "id": 167,
     "is_always_display": true,
     "is_wish_list": true
@@ -2372,7 +2372,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21202,
-    "gacha_rate_set_name": "\u3010STEP1\u30111\u5468\u5E74 \u661F\u793C\u796D LEGEND FES \u6681\u306E\u98A8\u96F2\u5150[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】1周年 星礼祭 LEGEND FES 暁の風雲児[有償限定]",
     "id": 168,
     "is_always_display": true,
     "is_wish_list": true
@@ -2388,7 +2388,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21203,
-    "gacha_rate_set_name": "\u3010STEP2\u30111\u5468\u5E74 \u661F\u793C\u796D LEGEND FES \u6681\u306E\u98A8\u96F2\u5150[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】1周年 星礼祭 LEGEND FES 暁の風雲児[有償限定]",
     "id": 169,
     "is_always_display": true,
     "is_wish_list": true
@@ -2399,7 +2399,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21204,
-    "gacha_rate_set_name": "\u3010STEP3\u30111\u5468\u5E74 \u661F\u793C\u796D LEGEND FES \u6681\u306E\u98A8\u96F2\u5150[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】1周年 星礼祭 LEGEND FES 暁の風雲児[有償限定]",
     "id": 170,
     "is_always_display": true,
     "is_wish_list": true
@@ -2415,7 +2415,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21222,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u5D50\u98A8\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】嵐風祭ガチャ LEGEND FES[有償限定]",
     "id": 171,
     "is_always_display": true,
     "is_wish_list": true
@@ -2431,7 +2431,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21223,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u5D50\u98A8\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】嵐風祭ガチャ LEGEND FES[有償限定]",
     "id": 172,
     "is_always_display": true,
     "is_wish_list": true
@@ -2442,7 +2442,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21224,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u5D50\u98A8\u796D\u30AC\u30C1\u30E3 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】嵐風祭ガチャ LEGEND FES[有償限定]",
     "id": 173,
     "is_always_display": true,
     "is_wish_list": true
@@ -2458,7 +2458,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21242,
-    "gacha_rate_set_name": "\u3010STEP1\u3011HALLOWEEN2024 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】HALLOWEEN2024 LEGEND FES[有償限定]",
     "id": 174,
     "is_always_display": true,
     "is_wish_list": false
@@ -2474,7 +2474,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21243,
-    "gacha_rate_set_name": "\u3010STEP2\u3011HALLOWEEN2024 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】HALLOWEEN2024 LEGEND FES[有償限定]",
     "id": 175,
     "is_always_display": true,
     "is_wish_list": false
@@ -2485,7 +2485,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21244,
-    "gacha_rate_set_name": "\u3010STEP3\u3011HALLOWEEN2024 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】HALLOWEEN2024 LEGEND FES[有償限定]",
     "id": 176,
     "is_always_display": true,
     "is_wish_list": false
@@ -2501,7 +2501,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21262,
-    "gacha_rate_set_name": "\u3010STEP1\u30111\u5468\u5E74 \u661F\u793C\u796D LEGEND FES \u304B\u3051\u304C\u3048\u306E\u306A\u3044\u30E2\u30CE[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】1周年 星礼祭 LEGEND FES かけがえのないモノ[有償限定]",
     "id": 177,
     "is_always_display": true,
     "is_wish_list": true
@@ -2517,7 +2517,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21263,
-    "gacha_rate_set_name": "\u3010STEP2\u30111\u5468\u5E74 \u661F\u793C\u796D LEGEND FES \u304B\u3051\u304C\u3048\u306E\u306A\u3044\u30E2\u30CE[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】1周年 星礼祭 LEGEND FES かけがえのないモノ[有償限定]",
     "id": 178,
     "is_always_display": true,
     "is_wish_list": true
@@ -2528,7 +2528,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21264,
-    "gacha_rate_set_name": "\u3010STEP3\u30111\u5468\u5E74 \u661F\u793C\u796D LEGEND FES \u304B\u3051\u304C\u3048\u306E\u306A\u3044\u30E2\u30CE[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】1周年 星礼祭 LEGEND FES かけがえのないモノ[有償限定]",
     "id": 179,
     "is_always_display": true,
     "is_wish_list": true
@@ -2544,7 +2544,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21282,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u6E07\u304D\u306E\u4E2D\u3067\u54B2\u304F\u82B1\u305F\u3061 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】渇きの中で咲く花たち LEGEND FES[有償限定]",
     "id": 180,
     "is_always_display": true,
     "is_wish_list": true
@@ -2560,7 +2560,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21283,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u6E07\u304D\u306E\u4E2D\u3067\u54B2\u304F\u82B1\u305F\u3061 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】渇きの中で咲く花たち LEGEND FES[有償限定]",
     "id": 181,
     "is_always_display": true,
     "is_wish_list": true
@@ -2571,7 +2571,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21284,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u6E07\u304D\u306E\u4E2D\u3067\u54B2\u304F\u82B1\u305F\u3061 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】渇きの中で咲く花たち LEGEND FES[有償限定]",
     "id": 182,
     "is_always_display": true,
     "is_wish_list": true
@@ -2587,7 +2587,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21322,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u8E0A\u308B\u6DF7\u6C8C \u30DE\u30AF\u30C0 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】踊る混沌 マクダ LEGEND FES[有償限定]",
     "id": 183,
     "is_always_display": true,
     "is_wish_list": true
@@ -2603,7 +2603,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21323,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u8E0A\u308B\u6DF7\u6C8C \u30DE\u30AF\u30C0 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】踊る混沌 マクダ LEGEND FES[有償限定]",
     "id": 184,
     "is_always_display": true,
     "is_wish_list": true
@@ -2614,7 +2614,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21324,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u8E0A\u308B\u6DF7\u6C8C \u30DE\u30AF\u30C0 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】踊る混沌 マクダ LEGEND FES[有償限定]",
     "id": 185,
     "is_always_display": true,
     "is_wish_list": true
@@ -2630,7 +2630,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21342,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u82E6\u60A9\u305B\u3057\u898F\u5F8B \u30D6\u30E9\u30C3\u30C9 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】苦悩せし規律 ブラッド LEGEND FES[有償限定]",
     "id": 186,
     "is_always_display": true,
     "is_wish_list": true
@@ -2646,7 +2646,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21343,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u82E6\u60A9\u305B\u3057\u898F\u5F8B \u30D6\u30E9\u30C3\u30C9 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】苦悩せし規律 ブラッド LEGEND FES[有償限定]",
     "id": 187,
     "is_always_display": true,
     "is_wish_list": true
@@ -2657,7 +2657,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21344,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u82E6\u60A9\u305B\u3057\u898F\u5F8B \u30D6\u30E9\u30C3\u30C9 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】苦悩せし規律 ブラッド LEGEND FES[有償限定]",
     "id": 188,
     "is_always_display": true,
     "is_wish_list": true
@@ -2673,7 +2673,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21372,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u6975\u591C\u6FC0\u95D8 \u89E3\u653E\u8005\u305F\u3061\u306E\u6C7A\u610F LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】極夜激闘 解放者たちの決意 LEGEND FES[有償限定]",
     "id": 189,
     "is_always_display": true,
     "is_wish_list": true
@@ -2689,7 +2689,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21373,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u6975\u591C\u6FC0\u95D8 \u89E3\u653E\u8005\u305F\u3061\u306E\u6C7A\u610F LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】極夜激闘 解放者たちの決意 LEGEND FES[有償限定]",
     "id": 190,
     "is_always_display": true,
     "is_wish_list": true
@@ -2700,7 +2700,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21374,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u6975\u591C\u6FC0\u95D8 \u89E3\u653E\u8005\u305F\u3061\u306E\u6C7A\u610F LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】極夜激闘 解放者たちの決意 LEGEND FES[有償限定]",
     "id": 191,
     "is_always_display": true,
     "is_wish_list": true
@@ -2716,7 +2716,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21392,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u6975\u591C\u6FC0\u95D8 \u9ED2\u306E\u596A\u9084 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】極夜激闘 黒の奪還 LEGEND FES[有償限定]",
     "id": 192,
     "is_always_display": true,
     "is_wish_list": true
@@ -2732,7 +2732,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21393,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u6975\u591C\u6FC0\u95D8 \u9ED2\u306E\u596A\u9084 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】極夜激闘 黒の奪還 LEGEND FES[有償限定]",
     "id": 193,
     "is_always_display": true,
     "is_wish_list": true
@@ -2743,7 +2743,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21394,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u6975\u591C\u6FC0\u95D8 \u9ED2\u306E\u596A\u9084 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】極夜激闘 黒の奪還 LEGEND FES[有償限定]",
     "id": 194,
     "is_always_display": true,
     "is_wish_list": true
@@ -2759,7 +2759,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21422,
-    "gacha_rate_set_name": "\u3010STEP1\u3011Atelier Christmas 2024 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】Atelier Christmas 2024 LEGEND FES[有償限定]",
     "id": 195,
     "is_always_display": true,
     "is_wish_list": true
@@ -2775,7 +2775,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21423,
-    "gacha_rate_set_name": "\u3010STEP2\u3011Atelier Christmas 2024 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】Atelier Christmas 2024 LEGEND FES[有償限定]",
     "id": 196,
     "is_always_display": true,
     "is_wish_list": true
@@ -2786,7 +2786,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21424,
-    "gacha_rate_set_name": "\u3010STEP3\u3011Atelier Christmas 2024 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】Atelier Christmas 2024 LEGEND FES[有償限定]",
     "id": 197,
     "is_always_display": true,
     "is_wish_list": true
@@ -2802,7 +2802,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21452,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u6975\u591C\u6FC0\u95D8 \u6E07\u671B\u6E80\u3061\u308B\u6642 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】極夜激闘 渇望満ちる時 LEGEND FES[有償限定]",
     "id": 198,
     "is_always_display": true,
     "is_wish_list": true
@@ -2818,7 +2818,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21453,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u6975\u591C\u6FC0\u95D8 \u6E07\u671B\u6E80\u3061\u308B\u6642 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】極夜激闘 渇望満ちる時 LEGEND FES[有償限定]",
     "id": 199,
     "is_always_display": true,
     "is_wish_list": true
@@ -2829,7 +2829,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21454,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u6975\u591C\u6FC0\u95D8 \u6E07\u671B\u6E80\u3061\u308B\u6642 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】極夜激闘 渇望満ちる時 LEGEND FES[有償限定]",
     "id": 200,
     "is_always_display": true,
     "is_wish_list": true
@@ -2845,7 +2845,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21622,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u5FA9\u523B \u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C4\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】復刻 アトリエサマー第4弾 LEGEND FES[有償限定]",
     "id": 201,
     "is_always_display": true,
     "is_wish_list": true
@@ -2861,7 +2861,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21623,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u5FA9\u523B \u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C4\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】復刻 アトリエサマー第4弾 LEGEND FES[有償限定]",
     "id": 202,
     "is_always_display": true,
     "is_wish_list": true
@@ -2872,7 +2872,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21624,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u5FA9\u523B \u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC\u7B2C4\u5F3E LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】復刻 アトリエサマー第4弾 LEGEND FES[有償限定]",
     "id": 203,
     "is_always_display": true,
     "is_wish_list": true
@@ -2888,7 +2888,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21502,
-    "gacha_rate_set_name": "\u3010STEP1\u3011HAPPY NEW YEAR 2025 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】HAPPY NEW YEAR 2025 LEGEND FES[有償限定]",
     "id": 204,
     "is_always_display": true,
     "is_wish_list": true
@@ -2904,7 +2904,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21503,
-    "gacha_rate_set_name": "\u3010STEP2\u3011HAPPY NEW YEAR 2025 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】HAPPY NEW YEAR 2025 LEGEND FES[有償限定]",
     "id": 205,
     "is_always_display": true,
     "is_wish_list": true
@@ -2915,7 +2915,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21504,
-    "gacha_rate_set_name": "\u3010STEP3\u3011HAPPY NEW YEAR 2025 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】HAPPY NEW YEAR 2025 LEGEND FES[有償限定]",
     "id": 206,
     "is_always_display": true,
     "is_wish_list": true
@@ -2926,7 +2926,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 2151011,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP1】毎日Step1の10回が無料！ 新年記念特別ガチャ",
     "id": 207,
     "is_always_display": true,
     "is_wish_list": false
@@ -2942,7 +2942,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151012,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP2】毎日Step1の10回が無料！ 新年記念特別ガチャ",
     "id": 208,
     "is_always_display": true,
     "is_wish_list": false
@@ -2958,7 +2958,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151013,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP3】毎日Step1の10回が無料！ 新年記念特別ガチャ",
     "id": 209,
     "is_always_display": true,
     "is_wish_list": false
@@ -2974,18 +2974,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151014,
-    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP4】毎日Step1の10回が無料！ 新年記念特別ガチャ",
     "id": 210,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "description": "★3またはSSR確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 2151015,
-    "gacha_rate_set_name": "\u3010STEP5\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP5】毎日Step1の10回が無料！ 新年記念特別ガチャ",
     "id": 211,
     "is_always_display": true,
     "is_wish_list": false
@@ -2996,7 +2996,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 2151021,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP1】毎日Step1の10回が無料！ 新年記念特別ガチャ",
     "id": 212,
     "is_always_display": true,
     "is_wish_list": false
@@ -3012,7 +3012,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151022,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP2】毎日Step1の10回が無料！ 新年記念特別ガチャ",
     "id": 213,
     "is_always_display": true,
     "is_wish_list": false
@@ -3028,7 +3028,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151023,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP3】毎日Step1の10回が無料！ 新年記念特別ガチャ",
     "id": 214,
     "is_always_display": true,
     "is_wish_list": false
@@ -3044,18 +3044,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151024,
-    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP4】毎日Step1の10回が無料！ 新年記念特別ガチャ",
     "id": 215,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "description": "★3またはSSR確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 2151025,
-    "gacha_rate_set_name": "\u3010STEP5\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP5】毎日Step1の10回が無料！ 新年記念特別ガチャ",
     "id": 216,
     "is_always_display": true,
     "is_wish_list": false
@@ -3066,7 +3066,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 2151031,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP1】毎日Step1の10回が無料！ 新年記念特別ガチャ",
     "id": 217,
     "is_always_display": true,
     "is_wish_list": false
@@ -3082,7 +3082,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151032,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP2】毎日Step1の10回が無料！ 新年記念特別ガチャ",
     "id": 218,
     "is_always_display": true,
     "is_wish_list": false
@@ -3098,7 +3098,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151033,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP3】毎日Step1の10回が無料！ 新年記念特別ガチャ",
     "id": 219,
     "is_always_display": true,
     "is_wish_list": false
@@ -3114,18 +3114,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151034,
-    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP4】毎日Step1の10回が無料！ 新年記念特別ガチャ",
     "id": 220,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "description": "★3またはSSR確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 2151035,
-    "gacha_rate_set_name": "\u3010STEP5\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP5】毎日Step1の10回が無料！ 新年記念特別ガチャ",
     "id": 221,
     "is_always_display": true,
     "is_wish_list": false
@@ -3136,7 +3136,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 2151041,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP1】毎日Step1の10回が無料！ 新年記念特別ガチャ",
     "id": 222,
     "is_always_display": true,
     "is_wish_list": false
@@ -3152,7 +3152,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151042,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP2】毎日Step1の10回が無料！ 新年記念特別ガチャ",
     "id": 223,
     "is_always_display": true,
     "is_wish_list": false
@@ -3168,7 +3168,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151043,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP3】毎日Step1の10回が無料！ 新年記念特別ガチャ",
     "id": 224,
     "is_always_display": true,
     "is_wish_list": false
@@ -3184,18 +3184,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151044,
-    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP4】毎日Step1の10回が無料！ 新年記念特別ガチャ",
     "id": 225,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "description": "★3またはSSR確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 2151045,
-    "gacha_rate_set_name": "\u3010STEP5\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP5】毎日Step1の10回が無料！ 新年記念特別ガチャ",
     "id": 226,
     "is_always_display": true,
     "is_wish_list": false
@@ -3206,7 +3206,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 2151051,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP1】毎日Step1の10回が無料！ 新年記念特別ガチャ",
     "id": 227,
     "is_always_display": true,
     "is_wish_list": false
@@ -3222,7 +3222,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151052,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP2】毎日Step1の10回が無料！ 新年記念特別ガチャ",
     "id": 228,
     "is_always_display": true,
     "is_wish_list": false
@@ -3238,7 +3238,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151053,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP3】毎日Step1の10回が無料！ 新年記念特別ガチャ",
     "id": 229,
     "is_always_display": true,
     "is_wish_list": false
@@ -3254,18 +3254,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151054,
-    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP4】毎日Step1の10回が無料！ 新年記念特別ガチャ",
     "id": 230,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "description": "★3またはSSR確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 2151055,
-    "gacha_rate_set_name": "\u3010STEP5\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u65B0\u5E74\u8A18\u5FF5\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP5】毎日Step1の10回が無料！ 新年記念特別ガチャ",
     "id": 231,
     "is_always_display": true,
     "is_wish_list": false
@@ -3276,7 +3276,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 2151061,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP1】毎日Step1の10回が無料！ 年の暮れ特別ガチャ",
     "id": 232,
     "is_always_display": true,
     "is_wish_list": false
@@ -3292,7 +3292,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151062,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP2】毎日Step1の10回が無料！ 年の暮れ特別ガチャ",
     "id": 233,
     "is_always_display": true,
     "is_wish_list": false
@@ -3308,7 +3308,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151063,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP3】毎日Step1の10回が無料！ 年の暮れ特別ガチャ",
     "id": 234,
     "is_always_display": true,
     "is_wish_list": false
@@ -3324,18 +3324,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151064,
-    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP4】毎日Step1の10回が無料！ 年の暮れ特別ガチャ",
     "id": 235,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "description": "★3またはSSR確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 2151065,
-    "gacha_rate_set_name": "\u3010STEP5\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP5】毎日Step1の10回が無料！ 年の暮れ特別ガチャ",
     "id": 236,
     "is_always_display": true,
     "is_wish_list": false
@@ -3346,7 +3346,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 2151071,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP1】毎日Step1の10回が無料！ 年の暮れ特別ガチャ",
     "id": 237,
     "is_always_display": true,
     "is_wish_list": false
@@ -3362,7 +3362,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151072,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP2】毎日Step1の10回が無料！ 年の暮れ特別ガチャ",
     "id": 238,
     "is_always_display": true,
     "is_wish_list": false
@@ -3378,7 +3378,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151073,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP3】毎日Step1の10回が無料！ 年の暮れ特別ガチャ",
     "id": 239,
     "is_always_display": true,
     "is_wish_list": false
@@ -3394,18 +3394,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151074,
-    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP4】毎日Step1の10回が無料！ 年の暮れ特別ガチャ",
     "id": 240,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "description": "★3またはSSR確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 2151075,
-    "gacha_rate_set_name": "\u3010STEP5\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP5】毎日Step1の10回が無料！ 年の暮れ特別ガチャ",
     "id": 241,
     "is_always_display": true,
     "is_wish_list": false
@@ -3416,7 +3416,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 2151081,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP1】毎日Step1の10回が無料！ 年の暮れ特別ガチャ",
     "id": 242,
     "is_always_display": true,
     "is_wish_list": false
@@ -3432,7 +3432,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151082,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP2】毎日Step1の10回が無料！ 年の暮れ特別ガチャ",
     "id": 243,
     "is_always_display": true,
     "is_wish_list": false
@@ -3448,7 +3448,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151083,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP3】毎日Step1の10回が無料！ 年の暮れ特別ガチャ",
     "id": 244,
     "is_always_display": true,
     "is_wish_list": false
@@ -3464,18 +3464,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151084,
-    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP4】毎日Step1の10回が無料！ 年の暮れ特別ガチャ",
     "id": 245,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "description": "★3またはSSR確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 2151085,
-    "gacha_rate_set_name": "\u3010STEP5\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP5】毎日Step1の10回が無料！ 年の暮れ特別ガチャ",
     "id": 246,
     "is_always_display": true,
     "is_wish_list": false
@@ -3486,7 +3486,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 2151091,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP1】毎日Step1の10回が無料！ 年の暮れ特別ガチャ",
     "id": 247,
     "is_always_display": true,
     "is_wish_list": false
@@ -3502,7 +3502,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151092,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP2】毎日Step1の10回が無料！ 年の暮れ特別ガチャ",
     "id": 248,
     "is_always_display": true,
     "is_wish_list": false
@@ -3518,7 +3518,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151093,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP3】毎日Step1の10回が無料！ 年の暮れ特別ガチャ",
     "id": 249,
     "is_always_display": true,
     "is_wish_list": false
@@ -3534,18 +3534,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151094,
-    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP4】毎日Step1の10回が無料！ 年の暮れ特別ガチャ",
     "id": 250,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "description": "★3またはSSR確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 2151095,
-    "gacha_rate_set_name": "\u3010STEP5\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP5】毎日Step1の10回が無料！ 年の暮れ特別ガチャ",
     "id": 251,
     "is_always_display": true,
     "is_wish_list": false
@@ -3561,7 +3561,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21642,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u5E74\u672B\u30B9\u30DA\u30B7\u30E3\u30EB LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】ロマン大武闘大会年末スペシャル LEGEND FES[有償限定]",
     "id": 252,
     "is_always_display": true,
     "is_wish_list": false
@@ -3577,7 +3577,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21643,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u5E74\u672B\u30B9\u30DA\u30B7\u30E3\u30EB LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】ロマン大武闘大会年末スペシャル LEGEND FES[有償限定]",
     "id": 253,
     "is_always_display": true,
     "is_wish_list": false
@@ -3588,7 +3588,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21644,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u30ED\u30DE\u30F3\u5927\u6B66\u95D8\u5927\u4F1A\u5E74\u672B\u30B9\u30DA\u30B7\u30E3\u30EB LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】ロマン大武闘大会年末スペシャル LEGEND FES[有償限定]",
     "id": 254,
     "is_always_display": true,
     "is_wish_list": false
@@ -3604,18 +3604,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 21651,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u26053\u30AD\u30E3\u30E9\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP1】★3キャラ確定ウィッシュリストガチャ【魔法】",
     "id": 255,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u304B\u30891\u4EBA\u78BA\u5B9A",
+    "description": "選択キャラから1人確定",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21652,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u26053\u30AD\u30E3\u30E9\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP2】★3キャラ確定ウィッシュリストガチャ【魔法】",
     "id": 256,
     "is_always_display": true,
     "is_wish_list": true
@@ -3631,7 +3631,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 21653,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u26053\u30AD\u30E3\u30E9\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP3】★3キャラ確定ウィッシュリストガチャ【魔法】",
     "id": 257,
     "is_always_display": true,
     "is_wish_list": false
@@ -3647,18 +3647,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 21654,
-    "gacha_rate_set_name": "\u3010STEP4\u3011\u26053\u30AD\u30E3\u30E9\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP4】★3キャラ確定ウィッシュリストガチャ【魔法】",
     "id": 258,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u304B\u30891\u4EBA\u78BA\u5B9A",
+    "description": "選択キャラから1人確定",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21655,
-    "gacha_rate_set_name": "\u3010STEP5\u3011\u26053\u30AD\u30E3\u30E9\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP5】★3キャラ確定ウィッシュリストガチャ【魔法】",
     "id": 259,
     "is_always_display": true,
     "is_wish_list": true
@@ -3669,7 +3669,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 2151101,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP1】毎日Step1の10回が無料！ 年の暮れ特別ガチャ",
     "id": 260,
     "is_always_display": true,
     "is_wish_list": false
@@ -3685,7 +3685,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151102,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP2】毎日Step1の10回が無料！ 年の暮れ特別ガチャ",
     "id": 261,
     "is_always_display": true,
     "is_wish_list": false
@@ -3701,7 +3701,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151103,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP3】毎日Step1の10回が無料！ 年の暮れ特別ガチャ",
     "id": 262,
     "is_always_display": true,
     "is_wish_list": false
@@ -3717,18 +3717,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 2151104,
-    "gacha_rate_set_name": "\u3010STEP4\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP4】毎日Step1の10回が無料！ 年の暮れ特別ガチャ",
     "id": 263,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u26053\u307E\u305F\u306FSSR\u78BA\u5B9A\uFF01",
+    "description": "★3またはSSR確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 2151105,
-    "gacha_rate_set_name": "\u3010STEP5\u3011\u6BCE\u65E5Step1\u306E10\u56DE\u304C\u7121\u6599\uFF01 \u5E74\u306E\u66AE\u308C\u7279\u5225\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP5】毎日Step1の10回が無料！ 年の暮れ特別ガチャ",
     "id": 264,
     "is_always_display": true,
     "is_wish_list": false
@@ -3744,18 +3744,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 21661,
-    "gacha_rate_set_name": "\u3010STEP1\u3011SSR\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP1】SSRメモリア確定ウィッシュリストガチャ【魔法】",
     "id": 265,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30E1\u30E2\u30EA\u30A2\u304B\u30891\u679A\u78BA\u5B9A",
+    "description": "選択メモリアから1枚確定",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21662,
-    "gacha_rate_set_name": "\u3010STEP2\u3011SSR\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP2】SSRメモリア確定ウィッシュリストガチャ【魔法】",
     "id": 266,
     "is_always_display": true,
     "is_wish_list": true
@@ -3771,7 +3771,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 21663,
-    "gacha_rate_set_name": "\u3010STEP3\u3011SSR\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP3】SSRメモリア確定ウィッシュリストガチャ【魔法】",
     "id": 267,
     "is_always_display": true,
     "is_wish_list": false
@@ -3787,18 +3787,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 21664,
-    "gacha_rate_set_name": "\u3010STEP4\u3011SSR\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP4】SSRメモリア確定ウィッシュリストガチャ【魔法】",
     "id": 268,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30E1\u30E2\u30EA\u30A2\u304B\u30891\u679A\u78BA\u5B9A",
+    "description": "選択メモリアから1枚確定",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21665,
-    "gacha_rate_set_name": "\u3010STEP5\u3011SSR\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP5】SSRメモリア確定ウィッシュリストガチャ【魔法】",
     "id": 269,
     "is_always_display": true,
     "is_wish_list": true
@@ -3814,7 +3814,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21692,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u306F\u3058\u307E\u308A\u306E\u7D46 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】はじまりの絆 LEGEND FES[有償限定]",
     "id": 270,
     "is_always_display": true,
     "is_wish_list": true
@@ -3830,7 +3830,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21693,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u306F\u3058\u307E\u308A\u306E\u7D46 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】はじまりの絆 LEGEND FES[有償限定]",
     "id": 271,
     "is_always_display": true,
     "is_wish_list": true
@@ -3841,7 +3841,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21694,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u306F\u3058\u307E\u308A\u306E\u7D46 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】はじまりの絆 LEGEND FES[有償限定]",
     "id": 272,
     "is_always_display": true,
     "is_wish_list": true
@@ -3857,7 +3857,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21542,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u6D41\u661F\u306E\u65C5\u7ACB\u3061 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】流星の旅立ち LEGEND FES[有償限定]",
     "id": 273,
     "is_always_display": true,
     "is_wish_list": true
@@ -3873,7 +3873,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21543,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u6D41\u661F\u306E\u65C5\u7ACB\u3061 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】流星の旅立ち LEGEND FES[有償限定]",
     "id": 274,
     "is_always_display": true,
     "is_wish_list": true
@@ -3884,7 +3884,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21544,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u6D41\u661F\u306E\u65C5\u7ACB\u3061 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】流星の旅立ち LEGEND FES[有償限定]",
     "id": 275,
     "is_always_display": true,
     "is_wish_list": true
@@ -3900,7 +3900,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21602,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u89AA\u53CB\u3068\u6B69\u3080\u672A\u6765 \u30D5\u30A3\u30EA\u30B9 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】親友と歩む未来 フィリス LEGEND FES[有償限定]",
     "id": 276,
     "is_always_display": true,
     "is_wish_list": true
@@ -3916,7 +3916,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21603,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u89AA\u53CB\u3068\u6B69\u3080\u672A\u6765 \u30D5\u30A3\u30EA\u30B9 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】親友と歩む未来 フィリス LEGEND FES[有償限定]",
     "id": 277,
     "is_always_display": true,
     "is_wish_list": true
@@ -3927,7 +3927,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21604,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u89AA\u53CB\u3068\u6B69\u3080\u672A\u6765 \u30D5\u30A3\u30EA\u30B9 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】親友と歩む未来 フィリス LEGEND FES[有償限定]",
     "id": 278,
     "is_always_display": true,
     "is_wish_list": true
@@ -3943,7 +3943,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 21741,
-    "gacha_rate_set_name": "\u3010STEP1\u3011SSR\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u65B0\u661F\u3011",
+    "gacha_rate_set_name": "【STEP1】SSRメモリア確定ウィッシュリストガチャ【新星】",
     "id": 279,
     "is_always_display": true,
     "is_wish_list": false
@@ -3959,7 +3959,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 21742,
-    "gacha_rate_set_name": "\u3010STEP2\u3011SSR\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u65B0\u661F\u3011",
+    "gacha_rate_set_name": "【STEP2】SSRメモリア確定ウィッシュリストガチャ【新星】",
     "id": 280,
     "is_always_display": true,
     "is_wish_list": false
@@ -3975,18 +3975,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 21743,
-    "gacha_rate_set_name": "\u3010STEP3\u3011SSR\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u65B0\u661F\u3011",
+    "gacha_rate_set_name": "【STEP3】SSRメモリア確定ウィッシュリストガチャ【新星】",
     "id": 281,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30E1\u30E2\u30EA\u30A2\u304B\u30891\u679A\u78BA\u5B9A",
+    "description": "選択メモリアから1枚確定",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21744,
-    "gacha_rate_set_name": "\u3010STEP4\u3011SSR\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\u30A6\u30A3\u30C3\u30B7\u30E5\u30EA\u30B9\u30C8\u30AC\u30C1\u30E3\u3010\u65B0\u661F\u3011",
+    "gacha_rate_set_name": "【STEP4】SSRメモリア確定ウィッシュリストガチャ【新星】",
     "id": 282,
     "is_always_display": true,
     "is_wish_list": true
@@ -4002,7 +4002,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21582,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u89AA\u53CB\u3068\u6B69\u3080\u672A\u6765 \u30A4\u30EB\u30E1\u30EA\u30A2 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】親友と歩む未来 イルメリア LEGEND FES[有償限定]",
     "id": 283,
     "is_always_display": true,
     "is_wish_list": true
@@ -4018,7 +4018,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21583,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u89AA\u53CB\u3068\u6B69\u3080\u672A\u6765 \u30A4\u30EB\u30E1\u30EA\u30A2 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】親友と歩む未来 イルメリア LEGEND FES[有償限定]",
     "id": 284,
     "is_always_display": true,
     "is_wish_list": true
@@ -4029,7 +4029,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21584,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u89AA\u53CB\u3068\u6B69\u3080\u672A\u6765 \u30A4\u30EB\u30E1\u30EA\u30A2 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】親友と歩む未来 イルメリア LEGEND FES[有償限定]",
     "id": 285,
     "is_always_display": true,
     "is_wish_list": true
@@ -4045,7 +4045,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21732,
-    "gacha_rate_set_name": "\u3010STEP1\u3011VALENTINE 2025 \u30D7\u30E9\u30D5\u30BF LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】VALENTINE 2025 プラフタ LEGEND FES[有償限定]",
     "id": 286,
     "is_always_display": true,
     "is_wish_list": true
@@ -4061,7 +4061,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21733,
-    "gacha_rate_set_name": "\u3010STEP2\u3011VALENTINE 2025 \u30D7\u30E9\u30D5\u30BF LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】VALENTINE 2025 プラフタ LEGEND FES[有償限定]",
     "id": 287,
     "is_always_display": true,
     "is_wish_list": true
@@ -4072,7 +4072,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21734,
-    "gacha_rate_set_name": "\u3010STEP3\u3011VALENTINE 2025 \u30D7\u30E9\u30D5\u30BF LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】VALENTINE 2025 プラフタ LEGEND FES[有償限定]",
     "id": 288,
     "is_always_display": true,
     "is_wish_list": true
@@ -4088,7 +4088,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 21791,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP1】★3キャラ選んで確定ガチャ【魔法】",
     "id": 289,
     "is_always_display": true,
     "is_wish_list": false
@@ -4104,7 +4104,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 21792,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP2】★3キャラ選んで確定ガチャ【魔法】",
     "id": 290,
     "is_always_display": true,
     "is_wish_list": false
@@ -4120,18 +4120,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 21793,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP3】★3キャラ選んで確定ガチャ【魔法】",
     "id": 291,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "description": "選択キャラ確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21794,
-    "gacha_rate_set_name": "\u3010STEP4\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP4】★3キャラ選んで確定ガチャ【魔法】",
     "id": 292,
     "is_always_display": true,
     "is_wish_list": true
@@ -4147,7 +4147,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 21801,
-    "gacha_rate_set_name": "\u3010STEP1\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP1】SSRメモリア選んで確定ガチャ【魔法】",
     "id": 293,
     "is_always_display": true,
     "is_wish_list": false
@@ -4163,7 +4163,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 21802,
-    "gacha_rate_set_name": "\u3010STEP2\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP2】SSRメモリア選んで確定ガチャ【魔法】",
     "id": 294,
     "is_always_display": true,
     "is_wish_list": false
@@ -4179,18 +4179,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 21803,
-    "gacha_rate_set_name": "\u3010STEP3\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP3】SSRメモリア選んで確定ガチャ【魔法】",
     "id": 295,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\uFF01",
+    "description": "選択メモリア確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21804,
-    "gacha_rate_set_name": "\u3010STEP4\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP4】SSRメモリア選んで確定ガチャ【魔法】",
     "id": 296,
     "is_always_display": true,
     "is_wish_list": true
@@ -4206,7 +4206,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21762,
-    "gacha_rate_set_name": "\u3010STEP1\u3011VALENTINE 2025 \u30AF\u30E9\u30A6\u30C7\u30A3\u30A2 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】VALENTINE 2025 クラウディア LEGEND FES[有償限定]",
     "id": 297,
     "is_always_display": true,
     "is_wish_list": true
@@ -4222,7 +4222,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21763,
-    "gacha_rate_set_name": "\u3010STEP2\u3011VALENTINE 2025 \u30AF\u30E9\u30A6\u30C7\u30A3\u30A2 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】VALENTINE 2025 クラウディア LEGEND FES[有償限定]",
     "id": 298,
     "is_always_display": true,
     "is_wish_list": true
@@ -4233,7 +4233,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21764,
-    "gacha_rate_set_name": "\u3010STEP3\u3011VALENTINE 2025 \u30AF\u30E9\u30A6\u30C7\u30A3\u30A2 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】VALENTINE 2025 クラウディア LEGEND FES[有償限定]",
     "id": 299,
     "is_always_display": true,
     "is_wish_list": true
@@ -4249,7 +4249,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 21811,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "gacha_rate_set_name": "【STEP1】★3キャラ選んで確定ガチャ【物理】",
     "id": 300,
     "is_always_display": true,
     "is_wish_list": false
@@ -4265,7 +4265,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 21812,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "gacha_rate_set_name": "【STEP2】★3キャラ選んで確定ガチャ【物理】",
     "id": 301,
     "is_always_display": true,
     "is_wish_list": false
@@ -4281,18 +4281,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 21813,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "gacha_rate_set_name": "【STEP3】★3キャラ選んで確定ガチャ【物理】",
     "id": 302,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "description": "選択キャラ確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21814,
-    "gacha_rate_set_name": "\u3010STEP4\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "gacha_rate_set_name": "【STEP4】★3キャラ選んで確定ガチャ【物理】",
     "id": 303,
     "is_always_display": true,
     "is_wish_list": true
@@ -4308,7 +4308,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 21821,
-    "gacha_rate_set_name": "\u3010STEP1\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "gacha_rate_set_name": "【STEP1】SSRメモリア選んで確定ガチャ【物理】",
     "id": 304,
     "is_always_display": true,
     "is_wish_list": false
@@ -4324,7 +4324,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 21822,
-    "gacha_rate_set_name": "\u3010STEP2\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "gacha_rate_set_name": "【STEP2】SSRメモリア選んで確定ガチャ【物理】",
     "id": 305,
     "is_always_display": true,
     "is_wish_list": false
@@ -4340,18 +4340,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 21823,
-    "gacha_rate_set_name": "\u3010STEP3\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "gacha_rate_set_name": "【STEP3】SSRメモリア選んで確定ガチャ【物理】",
     "id": 306,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\uFF01",
+    "description": "選択メモリア確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21824,
-    "gacha_rate_set_name": "\u3010STEP4\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "gacha_rate_set_name": "【STEP4】SSRメモリア選んで確定ガチャ【物理】",
     "id": 307,
     "is_always_display": true,
     "is_wish_list": true
@@ -4367,7 +4367,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22051,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP1】★3キャラ選んで確定ガチャ【魔法】",
     "id": 308,
     "is_always_display": true,
     "is_wish_list": false
@@ -4383,7 +4383,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22052,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP2】★3キャラ選んで確定ガチャ【魔法】",
     "id": 309,
     "is_always_display": true,
     "is_wish_list": false
@@ -4399,18 +4399,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22053,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP3】★3キャラ選んで確定ガチャ【魔法】",
     "id": 310,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "description": "選択キャラ確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 22054,
-    "gacha_rate_set_name": "\u3010STEP4\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP4】★3キャラ選んで確定ガチャ【魔法】",
     "id": 311,
     "is_always_display": true,
     "is_wish_list": true
@@ -4426,7 +4426,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22061,
-    "gacha_rate_set_name": "\u3010STEP1\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP1】SSRメモリア選んで確定ガチャ【魔法】",
     "id": 312,
     "is_always_display": true,
     "is_wish_list": false
@@ -4442,7 +4442,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22062,
-    "gacha_rate_set_name": "\u3010STEP2\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP2】SSRメモリア選んで確定ガチャ【魔法】",
     "id": 313,
     "is_always_display": true,
     "is_wish_list": false
@@ -4458,18 +4458,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22063,
-    "gacha_rate_set_name": "\u3010STEP3\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP3】SSRメモリア選んで確定ガチャ【魔法】",
     "id": 314,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\uFF01",
+    "description": "選択メモリア確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 22064,
-    "gacha_rate_set_name": "\u3010STEP4\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP4】SSRメモリア選んで確定ガチャ【魔法】",
     "id": 315,
     "is_always_display": true,
     "is_wish_list": true
@@ -4485,7 +4485,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22071,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP1】★3キャラ選んで確定ガチャ【魔法】",
     "id": 316,
     "is_always_display": true,
     "is_wish_list": false
@@ -4501,7 +4501,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22072,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP2】★3キャラ選んで確定ガチャ【魔法】",
     "id": 317,
     "is_always_display": true,
     "is_wish_list": false
@@ -4517,18 +4517,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22073,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP3】★3キャラ選んで確定ガチャ【魔法】",
     "id": 318,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "description": "選択キャラ確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 22074,
-    "gacha_rate_set_name": "\u3010STEP4\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP4】★3キャラ選んで確定ガチャ【魔法】",
     "id": 319,
     "is_always_display": true,
     "is_wish_list": true
@@ -4544,7 +4544,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22081,
-    "gacha_rate_set_name": "\u3010STEP1\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP1】SSRメモリア選んで確定ガチャ【魔法】",
     "id": 320,
     "is_always_display": true,
     "is_wish_list": false
@@ -4560,7 +4560,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22082,
-    "gacha_rate_set_name": "\u3010STEP2\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP2】SSRメモリア選んで確定ガチャ【魔法】",
     "id": 321,
     "is_always_display": true,
     "is_wish_list": false
@@ -4576,18 +4576,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22083,
-    "gacha_rate_set_name": "\u3010STEP3\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP3】SSRメモリア選んで確定ガチャ【魔法】",
     "id": 322,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\uFF01",
+    "description": "選択メモリア確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 22084,
-    "gacha_rate_set_name": "\u3010STEP4\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u9B54\u6CD5\u3011",
+    "gacha_rate_set_name": "【STEP4】SSRメモリア選んで確定ガチャ【魔法】",
     "id": 323,
     "is_always_display": true,
     "is_wish_list": true
@@ -4603,7 +4603,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22091,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "gacha_rate_set_name": "【STEP1】★3キャラ選んで確定ガチャ【物理】",
     "id": 324,
     "is_always_display": true,
     "is_wish_list": false
@@ -4619,7 +4619,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22092,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "gacha_rate_set_name": "【STEP2】★3キャラ選んで確定ガチャ【物理】",
     "id": 325,
     "is_always_display": true,
     "is_wish_list": false
@@ -4635,18 +4635,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22093,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "gacha_rate_set_name": "【STEP3】★3キャラ選んで確定ガチャ【物理】",
     "id": 326,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "description": "選択キャラ確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 22094,
-    "gacha_rate_set_name": "\u3010STEP4\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "gacha_rate_set_name": "【STEP4】★3キャラ選んで確定ガチャ【物理】",
     "id": 327,
     "is_always_display": true,
     "is_wish_list": true
@@ -4662,7 +4662,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22101,
-    "gacha_rate_set_name": "\u3010STEP1\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "gacha_rate_set_name": "【STEP1】SSRメモリア選んで確定ガチャ【物理】",
     "id": 328,
     "is_always_display": true,
     "is_wish_list": false
@@ -4678,7 +4678,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22102,
-    "gacha_rate_set_name": "\u3010STEP2\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "gacha_rate_set_name": "【STEP2】SSRメモリア選んで確定ガチャ【物理】",
     "id": 329,
     "is_always_display": true,
     "is_wish_list": false
@@ -4694,18 +4694,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22103,
-    "gacha_rate_set_name": "\u3010STEP3\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "gacha_rate_set_name": "【STEP3】SSRメモリア選んで確定ガチャ【物理】",
     "id": 330,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\uFF01",
+    "description": "選択メモリア確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 22104,
-    "gacha_rate_set_name": "\u3010STEP4\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "gacha_rate_set_name": "【STEP4】SSRメモリア選んで確定ガチャ【物理】",
     "id": 331,
     "is_always_display": true,
     "is_wish_list": true
@@ -4721,7 +4721,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22111,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "gacha_rate_set_name": "【STEP1】★3キャラ選んで確定ガチャ【物理】",
     "id": 332,
     "is_always_display": true,
     "is_wish_list": false
@@ -4737,7 +4737,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22112,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "gacha_rate_set_name": "【STEP2】★3キャラ選んで確定ガチャ【物理】",
     "id": 333,
     "is_always_display": true,
     "is_wish_list": false
@@ -4753,18 +4753,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22113,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "gacha_rate_set_name": "【STEP3】★3キャラ選んで確定ガチャ【物理】",
     "id": 334,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "description": "選択キャラ確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 22114,
-    "gacha_rate_set_name": "\u3010STEP4\u3011\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "gacha_rate_set_name": "【STEP4】★3キャラ選んで確定ガチャ【物理】",
     "id": 335,
     "is_always_display": true,
     "is_wish_list": true
@@ -4780,7 +4780,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22121,
-    "gacha_rate_set_name": "\u3010STEP1\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "gacha_rate_set_name": "【STEP1】SSRメモリア選んで確定ガチャ【物理】",
     "id": 336,
     "is_always_display": true,
     "is_wish_list": false
@@ -4796,7 +4796,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22122,
-    "gacha_rate_set_name": "\u3010STEP2\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "gacha_rate_set_name": "【STEP2】SSRメモリア選んで確定ガチャ【物理】",
     "id": 337,
     "is_always_display": true,
     "is_wish_list": false
@@ -4812,18 +4812,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22123,
-    "gacha_rate_set_name": "\u3010STEP3\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "gacha_rate_set_name": "【STEP3】SSRメモリア選んで確定ガチャ【物理】",
     "id": 338,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\uFF01",
+    "description": "選択メモリア確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 22124,
-    "gacha_rate_set_name": "\u3010STEP4\u3011SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3\u3010\u7269\u7406\u3011",
+    "gacha_rate_set_name": "【STEP4】SSRメモリア選んで確定ガチャ【物理】",
     "id": 339,
     "is_always_display": true,
     "is_wish_list": true
@@ -4839,7 +4839,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21782,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u5192\u967A\u306F\u3001\u6D77\u306E\u5411\u3053\u3046 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】冒険は、海の向こう LEGEND FES[有償限定]",
     "id": 340,
     "is_always_display": true,
     "is_wish_list": true
@@ -4855,7 +4855,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21783,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u5192\u967A\u306F\u3001\u6D77\u306E\u5411\u3053\u3046 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】冒険は、海の向こう LEGEND FES[有償限定]",
     "id": 341,
     "is_always_display": true,
     "is_wish_list": true
@@ -4866,7 +4866,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21784,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u5192\u967A\u306F\u3001\u6D77\u306E\u5411\u3053\u3046 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】冒険は、海の向こう LEGEND FES[有償限定]",
     "id": 342,
     "is_always_display": true,
     "is_wish_list": true
@@ -4882,18 +4882,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22291,
-    "gacha_rate_set_name": "\u3010STEP1\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C1\u5F3E",
+    "gacha_rate_set_name": "【STEP1】72時間限定！★3キャラ選んで確定ガチャ 第1弾",
     "id": 343,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "description": "選択キャラ確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 22292,
-    "gacha_rate_set_name": "\u3010STEP2\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C1\u5F3E",
+    "gacha_rate_set_name": "【STEP2】72時間限定！★3キャラ選んで確定ガチャ 第1弾",
     "id": 344,
     "is_always_display": true,
     "is_wish_list": true
@@ -4909,7 +4909,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22293,
-    "gacha_rate_set_name": "\u3010STEP3\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C1\u5F3E",
+    "gacha_rate_set_name": "【STEP3】72時間限定！★3キャラ選んで確定ガチャ 第1弾",
     "id": 345,
     "is_always_display": true,
     "is_wish_list": false
@@ -4925,18 +4925,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22294,
-    "gacha_rate_set_name": "\u3010STEP4\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C1\u5F3E",
+    "gacha_rate_set_name": "【STEP4】72時間限定！★3キャラ選んで確定ガチャ 第1弾",
     "id": 346,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "description": "選択キャラ確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 22295,
-    "gacha_rate_set_name": "\u3010STEP5\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C1\u5F3E",
+    "gacha_rate_set_name": "【STEP5】72時間限定！★3キャラ選んで確定ガチャ 第1弾",
     "id": 347,
     "is_always_display": true,
     "is_wish_list": true
@@ -4952,18 +4952,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22311,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\uFF13\u7AE0\u7A81\u7834\u8A18\u5FF5 SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP1】３章突破記念 SSRメモリア選んで確定ガチャ",
     "id": 348,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\uFF01",
+    "description": "選択メモリア確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 22312,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\uFF13\u7AE0\u7A81\u7834\u8A18\u5FF5 SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP2】３章突破記念 SSRメモリア選んで確定ガチャ",
     "id": 349,
     "is_always_display": true,
     "is_wish_list": true
@@ -4979,7 +4979,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22313,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\uFF13\u7AE0\u7A81\u7834\u8A18\u5FF5 SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP3】３章突破記念 SSRメモリア選んで確定ガチャ",
     "id": 350,
     "is_always_display": true,
     "is_wish_list": false
@@ -4995,18 +4995,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22314,
-    "gacha_rate_set_name": "\u3010STEP4\u3011\uFF13\u7AE0\u7A81\u7834\u8A18\u5FF5 SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP4】３章突破記念 SSRメモリア選んで確定ガチャ",
     "id": 351,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30E1\u30E2\u30EA\u30A2\u78BA\u5B9A\uFF01",
+    "description": "選択メモリア確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 22315,
-    "gacha_rate_set_name": "\u3010STEP5\u3011\uFF13\u7AE0\u7A81\u7834\u8A18\u5FF5 SSR\u30E1\u30E2\u30EA\u30A2\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3",
+    "gacha_rate_set_name": "【STEP5】３章突破記念 SSRメモリア選んで確定ガチャ",
     "id": 352,
     "is_always_display": true,
     "is_wish_list": true
@@ -5022,18 +5022,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22301,
-    "gacha_rate_set_name": "\u3010STEP1\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C2\u5F3E",
+    "gacha_rate_set_name": "【STEP1】72時間限定！★3キャラ選んで確定ガチャ 第2弾",
     "id": 353,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "description": "選択キャラ確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 22302,
-    "gacha_rate_set_name": "\u3010STEP2\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C2\u5F3E",
+    "gacha_rate_set_name": "【STEP2】72時間限定！★3キャラ選んで確定ガチャ 第2弾",
     "id": 354,
     "is_always_display": true,
     "is_wish_list": true
@@ -5049,7 +5049,7 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22303,
-    "gacha_rate_set_name": "\u3010STEP3\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C2\u5F3E",
+    "gacha_rate_set_name": "【STEP3】72時間限定！★3キャラ選んで確定ガチャ 第2弾",
     "id": 355,
     "is_always_display": true,
     "is_wish_list": false
@@ -5065,18 +5065,18 @@
     "draw_count": 10,
     "gacha_button_type": 2,
     "gacha_rate_set_id": 22304,
-    "gacha_rate_set_name": "\u3010STEP4\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C2\u5F3E",
+    "gacha_rate_set_name": "【STEP4】72時間限定！★3キャラ選んで確定ガチャ 第2弾",
     "id": 356,
     "is_always_display": true,
     "is_wish_list": false
   },
   {
     "cost": null,
-    "description": "\u9078\u629E\u30AD\u30E3\u30E9\u78BA\u5B9A\uFF01",
+    "description": "選択キャラ確定！",
     "draw_count": 1,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 22305,
-    "gacha_rate_set_name": "\u3010STEP5\u301172\u6642\u9593\u9650\u5B9A\uFF01\u26053\u30AD\u30E3\u30E9\u9078\u3093\u3067\u78BA\u5B9A\u30AC\u30C1\u30E3 \u7B2C2\u5F3E",
+    "gacha_rate_set_name": "【STEP5】72時間限定！★3キャラ選んで確定ガチャ 第2弾",
     "id": 357,
     "is_always_display": true,
     "is_wish_list": true
@@ -5092,7 +5092,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21962,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\uFF01 \u65B0\u305F\u306A\u308B\u5C0E\u304D \u30A2\u30EB\u30D3\u30FC\u30CA LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】シーズン2開幕！ 新たなる導き アルビーナ LEGEND FES[有償限定]",
     "id": 358,
     "is_always_display": true,
     "is_wish_list": true
@@ -5108,7 +5108,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21963,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\uFF01 \u65B0\u305F\u306A\u308B\u5C0E\u304D \u30A2\u30EB\u30D3\u30FC\u30CA LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】シーズン2開幕！ 新たなる導き アルビーナ LEGEND FES[有償限定]",
     "id": 359,
     "is_always_display": true,
     "is_wish_list": true
@@ -5119,7 +5119,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 21964,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\uFF01 \u65B0\u305F\u306A\u308B\u5C0E\u304D \u30A2\u30EB\u30D3\u30FC\u30CA LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】シーズン2開幕！ 新たなる導き アルビーナ LEGEND FES[有償限定]",
     "id": 360,
     "is_always_display": true,
     "is_wish_list": true
@@ -5135,7 +5135,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 22002,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\uFF01 \u5F14\u3044\u306E\u53CC\u5203 \u30D9\u30C3\u30D7 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP1】シーズン2開幕！ 弔いの双刃 ベップ LEGEND FES[有償限定]",
     "id": 361,
     "is_always_display": true,
     "is_wish_list": true
@@ -5151,7 +5151,7 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 22003,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\uFF01 \u5F14\u3044\u306E\u53CC\u5203 \u30D9\u30C3\u30D7 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP2】シーズン2開幕！ 弔いの双刃 ベップ LEGEND FES[有償限定]",
     "id": 362,
     "is_always_display": true,
     "is_wish_list": true
@@ -5162,138 +5162,9 @@
     "draw_count": 10,
     "gacha_button_type": 3,
     "gacha_rate_set_id": 22004,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\uFF01 \u5F14\u3044\u306E\u53CC\u5203 \u30D9\u30C3\u30D7 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
+    "gacha_rate_set_name": "【STEP3】シーズン2開幕！ 弔いの双刃 ベップ LEGEND FES[有償限定]",
     "id": 363,
     "is_always_display": true,
     "is_wish_list": true
-  },
-  {
-    "cost": {
-      "id": 1,
-      "quantity": 1500,
-      "resource_params": null,
-      "type": 2
-    },
-    "description": "",
-    "draw_count": 10,
-    "gacha_button_type": 3,
-    "gacha_rate_set_id": 22022,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\uFF01 \u6BCD\u306A\u308B\u8056\u6226\u58EB \u30E4\u30F3\u30CD LEGEND FES[\u6709\u511F\u9650\u5B9A]",
-    "id": 364,
-    "is_always_display": true,
-    "is_wish_list": true
-  },
-  {
-    "cost": {
-      "id": 1,
-      "quantity": 1500,
-      "resource_params": null,
-      "type": 2
-    },
-    "description": "",
-    "draw_count": 10,
-    "gacha_button_type": 3,
-    "gacha_rate_set_id": 22023,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\uFF01 \u6BCD\u306A\u308B\u8056\u6226\u58EB \u30E4\u30F3\u30CD LEGEND FES[\u6709\u511F\u9650\u5B9A]",
-    "id": 365,
-    "is_always_display": true,
-    "is_wish_list": true
-  },
-  {
-    "cost": null,
-    "description": "",
-    "draw_count": 10,
-    "gacha_button_type": 3,
-    "gacha_rate_set_id": 22024,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\uFF01 \u6BCD\u306A\u308B\u8056\u6226\u58EB \u30E4\u30F3\u30CD LEGEND FES[\u6709\u511F\u9650\u5B9A]",
-    "id": 366,
-    "is_always_display": true,
-    "is_wish_list": true
-  },
-  {
-    "cost": {
-      "id": 1,
-      "quantity": 1500,
-      "resource_params": null,
-      "type": 2
-    },
-    "description": "",
-    "draw_count": 10,
-    "gacha_button_type": 3,
-    "gacha_rate_set_id": 22042,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\uFF01 \u904B\u547D\u306B\u7ACB\u3061\u5411\u304B\u3044\u3057\u8005 \u30EC\u30B9\u30CA LEGEND FES[\u6709\u511F\u9650\u5B9A]",
-    "id": 367,
-    "is_always_display": true,
-    "is_wish_list": true
-  },
-  {
-    "cost": {
-      "id": 1,
-      "quantity": 1500,
-      "resource_params": null,
-      "type": 2
-    },
-    "description": "",
-    "draw_count": 10,
-    "gacha_button_type": 3,
-    "gacha_rate_set_id": 22043,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\uFF01 \u904B\u547D\u306B\u7ACB\u3061\u5411\u304B\u3044\u3057\u8005 \u30EC\u30B9\u30CA LEGEND FES[\u6709\u511F\u9650\u5B9A]",
-    "id": 368,
-    "is_always_display": true,
-    "is_wish_list": true
-  },
-  {
-    "cost": null,
-    "description": "",
-    "draw_count": 10,
-    "gacha_button_type": 3,
-    "gacha_rate_set_id": 22044,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\uFF01 \u904B\u547D\u306B\u7ACB\u3061\u5411\u304B\u3044\u3057\u8005 \u30EC\u30B9\u30CA LEGEND FES[\u6709\u511F\u9650\u5B9A]",
-    "id": 369,
-    "is_always_display": true,
-    "is_wish_list": true
-  },
-  {
-    "cost": {
-      "id": 1,
-      "quantity": 1500,
-      "resource_params": null,
-      "type": 2
-    },
-    "description": "",
-    "draw_count": 10,
-    "gacha_button_type": 3,
-    "gacha_rate_set_id": 21982,
-    "gacha_rate_set_name": "\u3010STEP1\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\u8A18\u5FF5 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
-    "id": 370,
-    "is_always_display": true,
-    "is_wish_list": false
-  },
-  {
-    "cost": {
-      "id": 1,
-      "quantity": 1500,
-      "resource_params": null,
-      "type": 2
-    },
-    "description": "",
-    "draw_count": 10,
-    "gacha_button_type": 3,
-    "gacha_rate_set_id": 21983,
-    "gacha_rate_set_name": "\u3010STEP2\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\u8A18\u5FF5 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
-    "id": 371,
-    "is_always_display": true,
-    "is_wish_list": false
-  },
-  {
-    "cost": null,
-    "description": "",
-    "draw_count": 10,
-    "gacha_button_type": 3,
-    "gacha_rate_set_id": 21984,
-    "gacha_rate_set_name": "\u3010STEP3\u3011\u30B7\u30FC\u30BA\u30F32\u958B\u5E55\u8A18\u5FF5 LEGEND FES[\u6709\u511F\u9650\u5B9A]",
-    "id": 372,
-    "is_always_display": true,
-    "is_wish_list": false
   }
 ]

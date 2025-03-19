@@ -1,78 +1,78 @@
 [
   {
     "id": 9001,
-    "name": "\u30B4\u30FC\u30EC\u30E0"
+    "name": "ゴーレム"
   },
   {
     "id": 9002,
-    "name": "\u304A\u5316\u3051"
+    "name": "お化け"
   },
   {
     "id": 9003,
-    "name": "\u9CE5"
+    "name": "鳥"
   },
   {
     "id": 9004,
-    "name": "\u6A5F\u68B0"
+    "name": "機械"
   },
   {
     "id": 9005,
-    "name": "\u3077\u306B"
+    "name": "ぷに"
   },
   {
     "id": 9006,
-    "name": "\u30A4\u30BF\u30C1"
+    "name": "イタチ"
   },
   {
     "id": 9007,
-    "name": "\u9A0E\u58EB"
+    "name": "騎士"
   },
   {
     "id": 9008,
-    "name": "\u7FFC\u7ADC"
+    "name": "翼竜"
   },
   {
     "id": 9009,
-    "name": "\u30B9\u30D4\u30EA\u30C3\u30C8"
+    "name": "スピリット"
   },
   {
     "id": 9010,
-    "name": "\u8D70\u9CE5"
+    "name": "走鳥"
   },
   {
     "id": 9011,
-    "name": "\u30CF\u30EA\u30CD\u30BA\u30DF"
+    "name": "ハリネズミ"
   },
   {
     "id": 9012,
-    "name": "\u30B5\u30E1"
+    "name": "サメ"
   },
   {
     "id": 9013,
-    "name": "\u7532\u866B"
+    "name": "甲虫"
   },
   {
     "id": 9014,
-    "name": "\u7363"
+    "name": "獣"
   },
   {
     "id": 9015,
-    "name": "\u6C34\u68F2"
+    "name": "水棲"
   },
   {
     "id": 9016,
-    "name": "\u7CBE\u970A"
+    "name": "精霊"
   },
   {
     "id": 9017,
-    "name": "\u6B7B\u970A"
+    "name": "死霊"
   },
   {
     "id": 9018,
-    "name": "\u60AA\u9B54"
+    "name": "悪魔"
   },
   {
     "id": 9019,
-    "name": "\u4EBA\u9593"
+    "name": "人間"
   }
 ]

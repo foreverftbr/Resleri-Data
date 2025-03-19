@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "name": "\u5B9A\u5E38",
+    "name": "定常",
     "priority": 1
   },
   {
     "id": 2,
-    "name": "\u9650\u5B9A",
+    "name": "限定",
     "priority": 2
   }
 ]

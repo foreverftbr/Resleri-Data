@@ -10,7 +10,7 @@
     "category_id": 1,
     "disable_duplicate_assign": false,
     "id": 1,
-    "name": "\u4E0E\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607",
+    "name": "与ダメージ上昇",
     "quality_group_ids": [
       1,
       2,
@@ -31,7 +31,7 @@
     "category_id": 1,
     "disable_duplicate_assign": false,
     "id": 2,
-    "name": "\u30B9\u30AD\u30EB\u5A01\u529B\u4E0A\u6607",
+    "name": "スキル威力上昇",
     "quality_group_ids": [
       66,
       67,
@@ -52,7 +52,7 @@
     "category_id": 1,
     "disable_duplicate_assign": false,
     "id": 3,
-    "name": "\u65AC\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607",
+    "name": "斬ダメージ上昇",
     "quality_group_ids": [
       16,
       17,
@@ -73,7 +73,7 @@
     "category_id": 1,
     "disable_duplicate_assign": false,
     "id": 4,
-    "name": "\u6253\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607",
+    "name": "打ダメージ上昇",
     "quality_group_ids": [
       21,
       22,
@@ -94,7 +94,7 @@
     "category_id": 1,
     "disable_duplicate_assign": false,
     "id": 5,
-    "name": "\u7A81\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607",
+    "name": "突ダメージ上昇",
     "quality_group_ids": [
       26,
       27,
@@ -115,7 +115,7 @@
     "category_id": 1,
     "disable_duplicate_assign": false,
     "id": 6,
-    "name": "\u706B\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607",
+    "name": "火ダメージ上昇",
     "quality_group_ids": [
       31,
       32,
@@ -136,7 +136,7 @@
     "category_id": 1,
     "disable_duplicate_assign": false,
     "id": 7,
-    "name": "\u6C37\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607",
+    "name": "氷ダメージ上昇",
     "quality_group_ids": [
       36,
       37,
@@ -157,7 +157,7 @@
     "category_id": 1,
     "disable_duplicate_assign": false,
     "id": 8,
-    "name": "\u98A8\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607",
+    "name": "風ダメージ上昇",
     "quality_group_ids": [
       41,
       42,
@@ -178,7 +178,7 @@
     "category_id": 1,
     "disable_duplicate_assign": false,
     "id": 9,
-    "name": "\u96F7\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607",
+    "name": "雷ダメージ上昇",
     "quality_group_ids": [
       46,
       47,
@@ -199,7 +199,7 @@
     "category_id": 1,
     "disable_duplicate_assign": false,
     "id": 10,
-    "name": "\u7269\u7406\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607",
+    "name": "物理ダメージ上昇",
     "quality_group_ids": [
       6,
       7,
@@ -220,7 +220,7 @@
     "category_id": 1,
     "disable_duplicate_assign": false,
     "id": 11,
-    "name": "\u9B54\u6CD5\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607",
+    "name": "魔法ダメージ上昇",
     "quality_group_ids": [
       11,
       12,
@@ -241,7 +241,7 @@
     "category_id": 1,
     "disable_duplicate_assign": false,
     "id": 12,
-    "name": "\u30D6\u30EC\u30A4\u30AF\u4E2D\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607",
+    "name": "ブレイク中ダメージ上昇",
     "quality_group_ids": [
       51,
       52,
@@ -262,7 +262,7 @@
     "category_id": 1,
     "disable_duplicate_assign": false,
     "id": 13,
-    "name": "\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607",
+    "name": "ブレイクダメージ上昇",
     "quality_group_ids": [
       81,
       82,
@@ -283,7 +283,7 @@
     "category_id": 1,
     "disable_duplicate_assign": false,
     "id": 14,
-    "name": "\u7269\u7406\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607",
+    "name": "物理ブレイクダメージ上昇",
     "quality_group_ids": [
       86,
       87,
@@ -304,7 +304,7 @@
     "category_id": 1,
     "disable_duplicate_assign": false,
     "id": 15,
-    "name": "\u9B54\u6CD5\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607",
+    "name": "魔法ブレイクダメージ上昇",
     "quality_group_ids": [
       91,
       92,
@@ -325,7 +325,7 @@
     "category_id": 1,
     "disable_duplicate_assign": true,
     "id": 16,
-    "name": "\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607\u3010\u80CC\u6C34\u3011",
+    "name": "ブレイクダメージ上昇【背水】",
     "quality_group_ids": [
       81,
       82,
@@ -346,7 +346,7 @@
     "category_id": 1,
     "disable_duplicate_assign": false,
     "id": 17,
-    "name": "\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607\u3010\u6E3E\u8EAB\u3011",
+    "name": "ブレイクダメージ上昇【渾身】",
     "quality_group_ids": [
       81,
       82,
@@ -367,7 +367,7 @@
     "category_id": 2,
     "disable_duplicate_assign": false,
     "id": 18,
-    "name": "\u65AC\u8010\u6027\u4E0A\u6607",
+    "name": "斬耐性上昇",
     "quality_group_ids": [
       96,
       97,
@@ -388,7 +388,7 @@
     "category_id": 2,
     "disable_duplicate_assign": false,
     "id": 19,
-    "name": "\u6253\u8010\u6027\u4E0A\u6607",
+    "name": "打耐性上昇",
     "quality_group_ids": [
       96,
       97,
@@ -409,7 +409,7 @@
     "category_id": 2,
     "disable_duplicate_assign": false,
     "id": 20,
-    "name": "\u7A81\u8010\u6027\u4E0A\u6607",
+    "name": "突耐性上昇",
     "quality_group_ids": [
       96,
       97,
@@ -430,7 +430,7 @@
     "category_id": 2,
     "disable_duplicate_assign": false,
     "id": 21,
-    "name": "\u706B\u8010\u6027\u4E0A\u6607",
+    "name": "火耐性上昇",
     "quality_group_ids": [
       96,
       97,
@@ -451,7 +451,7 @@
     "category_id": 2,
     "disable_duplicate_assign": false,
     "id": 22,
-    "name": "\u6C37\u8010\u6027\u4E0A\u6607",
+    "name": "氷耐性上昇",
     "quality_group_ids": [
       96,
       97,
@@ -472,7 +472,7 @@
     "category_id": 2,
     "disable_duplicate_assign": false,
     "id": 23,
-    "name": "\u98A8\u8010\u6027\u4E0A\u6607",
+    "name": "風耐性上昇",
     "quality_group_ids": [
       96,
       97,
@@ -493,7 +493,7 @@
     "category_id": 2,
     "disable_duplicate_assign": false,
     "id": 24,
-    "name": "\u96F7\u8010\u6027\u4E0A\u6607",
+    "name": "雷耐性上昇",
     "quality_group_ids": [
       96,
       97,
@@ -514,7 +514,7 @@
     "category_id": 2,
     "disable_duplicate_assign": false,
     "id": 25,
-    "name": "\u7269\u7406\u8010\u6027\u4E0A\u6607",
+    "name": "物理耐性上昇",
     "quality_group_ids": [
       101,
       102,
@@ -535,7 +535,7 @@
     "category_id": 2,
     "disable_duplicate_assign": false,
     "id": 26,
-    "name": "\u9B54\u6CD5\u8010\u6027\u4E0A\u6607",
+    "name": "魔法耐性上昇",
     "quality_group_ids": [
       101,
       102,
@@ -556,7 +556,7 @@
     "category_id": 1,
     "disable_duplicate_assign": false,
     "id": 27,
-    "name": "\u5358\u4F53\u653B\u6483\u5A01\u529B\u4E0A\u6607",
+    "name": "単体攻撃威力上昇",
     "quality_group_ids": [
       56,
       57,
@@ -577,7 +577,7 @@
     "category_id": 1,
     "disable_duplicate_assign": true,
     "id": 28,
-    "name": "\u5168\u4F53\u653B\u6483\u5A01\u529B\u4E0A\u6607",
+    "name": "全体攻撃威力上昇",
     "quality_group_ids": [
       61,
       62,
@@ -598,7 +598,7 @@
     "category_id": 2,
     "disable_duplicate_assign": true,
     "id": 29,
-    "name": "\u5168\u4F53\u653B\u6483\u8010\u6027\u4E0A\u6607",
+    "name": "全体攻撃耐性上昇",
     "quality_group_ids": [
       106,
       107,
@@ -619,7 +619,7 @@
     "category_id": 1,
     "disable_duplicate_assign": true,
     "id": 30,
-    "name": "\u7269\u7406\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607\u3010\u80CC\u6C34\u3011",
+    "name": "物理ダメージ上昇【背水】",
     "quality_group_ids": [
       6,
       7,
@@ -640,7 +640,7 @@
     "category_id": 1,
     "disable_duplicate_assign": false,
     "id": 31,
-    "name": "\u7269\u7406\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607\u3010\u6E3E\u8EAB\u3011",
+    "name": "物理ダメージ上昇【渾身】",
     "quality_group_ids": [
       6,
       7,
@@ -661,7 +661,7 @@
     "category_id": 1,
     "disable_duplicate_assign": true,
     "id": 32,
-    "name": "\u9B54\u6CD5\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607\u3010\u80CC\u6C34\u3011",
+    "name": "魔法ダメージ上昇【背水】",
     "quality_group_ids": [
       11,
       12,
@@ -682,7 +682,7 @@
     "category_id": 1,
     "disable_duplicate_assign": false,
     "id": 33,
-    "name": "\u9B54\u6CD5\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607\u3010\u6E3E\u8EAB\u3011",
+    "name": "魔法ダメージ上昇【渾身】",
     "quality_group_ids": [
       11,
       12,
@@ -703,7 +703,7 @@
     "category_id": 2,
     "disable_duplicate_assign": false,
     "id": 34,
-    "name": "\u5168\u8010\u6027\u4E0A\u6607\u3010\u80CC\u6C34\u3011",
+    "name": "全耐性上昇【背水】",
     "quality_group_ids": [
       106,
       107,
@@ -724,7 +724,7 @@
     "category_id": 2,
     "disable_duplicate_assign": true,
     "id": 35,
-    "name": "\u9B54\u6CD5\u8010\u6027\u4E0A\u6607\u3010\u6E3E\u8EAB\u3011",
+    "name": "魔法耐性上昇【渾身】",
     "quality_group_ids": [
       106,
       107,
@@ -745,7 +745,7 @@
     "category_id": 2,
     "disable_duplicate_assign": true,
     "id": 36,
-    "name": "\u7269\u7406\u8010\u6027\u4E0A\u6607\u3010\u6E3E\u8EAB\u3011",
+    "name": "物理耐性上昇【渾身】",
     "quality_group_ids": [
       106,
       107,
@@ -766,7 +766,7 @@
     "category_id": 4,
     "disable_duplicate_assign": true,
     "id": 37,
-    "name": "\u56DE\u5FA9\u91CF\u4E0A\u6607\u3010\u6E3E\u8EAB\u3011",
+    "name": "回復量上昇【渾身】",
     "quality_group_ids": [
       116,
       117,
@@ -787,7 +787,7 @@
     "category_id": 4,
     "disable_duplicate_assign": true,
     "id": 38,
-    "name": "\u56DE\u5FA9\u91CF\u4E0A\u6607\u3010\u80CC\u6C34\u3011",
+    "name": "回復量上昇【背水】",
     "quality_group_ids": [
       116,
       117,
@@ -808,7 +808,7 @@
     "category_id": 4,
     "disable_duplicate_assign": false,
     "id": 39,
-    "name": "\u56DE\u5FA9\u91CF\u4E0A\u6607",
+    "name": "回復量上昇",
     "quality_group_ids": [
       116,
       117,
@@ -829,7 +829,7 @@
     "category_id": 4,
     "disable_duplicate_assign": false,
     "id": 40,
-    "name": "\u5358\u4F53\u56DE\u5FA9\u91CF\u4E0A\u6607",
+    "name": "単体回復量上昇",
     "quality_group_ids": [
       121,
       122,
@@ -850,7 +850,7 @@
     "category_id": 4,
     "disable_duplicate_assign": false,
     "id": 41,
-    "name": "\u5168\u4F53\u56DE\u5FA9\u91CF\u4E0A\u6607",
+    "name": "全体回復量上昇",
     "quality_group_ids": [
       126,
       127,
@@ -871,7 +871,7 @@
     "category_id": 2,
     "disable_duplicate_assign": false,
     "id": 42,
-    "name": "\u9B54\u6CD5\u8010\u6027\u4E0A\u6607\u3010D\u3011",
+    "name": "魔法耐性上昇【D】",
     "quality_group_ids": [
       101,
       102,
@@ -892,7 +892,7 @@
     "category_id": 2,
     "disable_duplicate_assign": false,
     "id": 43,
-    "name": "\u7269\u7406\u8010\u6027\u4E0A\u6607\u3010D\u3011",
+    "name": "物理耐性上昇【D】",
     "quality_group_ids": [
       101,
       102,
@@ -913,7 +913,7 @@
     "category_id": 2,
     "disable_duplicate_assign": true,
     "id": 44,
-    "name": "\u7269\u7406/\u9B54\u6CD5\u8010\u6027\u30A2\u30C3\u30D7\u5F37\u5316\u3010D\u3011",
+    "name": "物理/魔法耐性アップ強化【D】",
     "quality_group_ids": [
       131,
       132,
@@ -934,7 +934,7 @@
     "category_id": 2,
     "disable_duplicate_assign": true,
     "id": 45,
-    "name": "\u30C0\u30E1\u30FC\u30B8\u30D0\u30D5\u5F37\u5316\u3010A\u3011",
+    "name": "ダメージバフ強化【A】",
     "quality_group_ids": [
       136,
       137,
@@ -955,7 +955,7 @@
     "category_id": 2,
     "disable_duplicate_assign": true,
     "id": 46,
-    "name": "\u30C0\u30E1\u30FC\u30B8\u30D0\u30D5\u5F37\u5316\u3010B\u3011",
+    "name": "ダメージバフ強化【B】",
     "quality_group_ids": [
       141,
       142,
@@ -976,7 +976,7 @@
     "category_id": 4,
     "disable_duplicate_assign": false,
     "id": 47,
-    "name": "\u56DE\u5FA9\u91CF\u4E0A\u6607\u3010D\u3011",
+    "name": "回復量上昇【D】",
     "quality_group_ids": [
       116,
       117,
@@ -997,7 +997,7 @@
     "category_id": 3,
     "disable_duplicate_assign": true,
     "id": 48,
-    "name": "\u7269\u7406/\u9B54\u6CD5\u8010\u6027\u30C0\u30A6\u30F3\u5F37\u5316",
+    "name": "物理/魔法耐性ダウン強化",
     "quality_group_ids": [
       146,
       147,
@@ -1018,7 +1018,7 @@
     "category_id": 2,
     "disable_duplicate_assign": true,
     "id": 49,
-    "name": "\u7269\u7406/\u9B54\u6CD5\u8010\u6027\u30A2\u30C3\u30D7\u5F37\u5316",
+    "name": "物理/魔法耐性アップ強化",
     "quality_group_ids": [
       131,
       132,
@@ -1039,7 +1039,7 @@
     "category_id": 2,
     "disable_duplicate_assign": true,
     "id": 50,
-    "name": "\u3077\u306B\u30C0\u30E1\u30FC\u30B8\u8EFD\u6E1B",
+    "name": "ぷにダメージ軽減",
     "quality_group_ids": [
       96,
       97,
@@ -1060,7 +1060,7 @@
     "category_id": 2,
     "disable_duplicate_assign": true,
     "id": 51,
-    "name": "\u7363\u30C0\u30E1\u30FC\u30B8\u8EFD\u6E1B",
+    "name": "獣ダメージ軽減",
     "quality_group_ids": [
       96,
       97,
@@ -1081,7 +1081,7 @@
     "category_id": 2,
     "disable_duplicate_assign": true,
     "id": 52,
-    "name": "\u7CBE\u970A\u30C0\u30E1\u30FC\u30B8\u8EFD\u6E1B",
+    "name": "精霊ダメージ軽減",
     "quality_group_ids": [
       96,
       97,
@@ -1102,7 +1102,7 @@
     "category_id": 2,
     "disable_duplicate_assign": true,
     "id": 53,
-    "name": "\u6C34\u68F2\u30C0\u30E1\u30FC\u30B8\u8EFD\u6E1B",
+    "name": "水棲ダメージ軽減",
     "quality_group_ids": [
       96,
       97,
@@ -1123,7 +1123,7 @@
     "category_id": 2,
     "disable_duplicate_assign": true,
     "id": 54,
-    "name": "\u9CE5\u30C0\u30E1\u30FC\u30B8\u8EFD\u6E1B",
+    "name": "鳥ダメージ軽減",
     "quality_group_ids": [
       96,
       97,
@@ -1144,7 +1144,7 @@
     "category_id": 1,
     "disable_duplicate_assign": true,
     "id": 55,
-    "name": "\u3077\u306B\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607",
+    "name": "ぷにダメージ上昇",
     "quality_group_ids": [
       71,
       72,
@@ -1165,7 +1165,7 @@
     "category_id": 1,
     "disable_duplicate_assign": true,
     "id": 56,
-    "name": "\u7363\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607",
+    "name": "獣ダメージ上昇",
     "quality_group_ids": [
       71,
       72,
@@ -1186,7 +1186,7 @@
     "category_id": 1,
     "disable_duplicate_assign": true,
     "id": 57,
-    "name": "\u7CBE\u970A\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607",
+    "name": "精霊ダメージ上昇",
     "quality_group_ids": [
       71,
       72,
@@ -1207,7 +1207,7 @@
     "category_id": 1,
     "disable_duplicate_assign": true,
     "id": 58,
-    "name": "\u6C34\u68F2\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607",
+    "name": "水棲ダメージ上昇",
     "quality_group_ids": [
       71,
       72,
@@ -1228,7 +1228,7 @@
     "category_id": 1,
     "disable_duplicate_assign": true,
     "id": 59,
-    "name": "\u9CE5\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607",
+    "name": "鳥ダメージ上昇",
     "quality_group_ids": [
       71,
       72,
@@ -1249,7 +1249,7 @@
     "category_id": 1,
     "disable_duplicate_assign": true,
     "id": 60,
-    "name": "\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607",
+    "name": "クリティカルダメージ上昇",
     "quality_group_ids": [
       76,
       77,
@@ -1270,7 +1270,7 @@
     "category_id": 1,
     "disable_duplicate_assign": true,
     "id": 61,
-    "name": "\u30D0\u30FC\u30B9\u30C8\u30B9\u30AD\u30EB\u5A01\u529B\u4E0A\u6607",
+    "name": "バーストスキル威力上昇",
     "quality_group_ids": [
       66,
       67,
@@ -1291,7 +1291,7 @@
     "category_id": 4,
     "disable_duplicate_assign": true,
     "id": 62,
-    "name": "\u88AB\u56DE\u5FA9\u91CF\u4E0A\u6607",
+    "name": "被回復量上昇",
     "quality_group_ids": [
       111,
       112,
@@ -1312,7 +1312,7 @@
     "category_id": 1,
     "disable_duplicate_assign": true,
     "id": 63,
-    "name": "\u30B9\u30AD\u30EB2\u5A01\u529B\u4E0A\u6607",
+    "name": "スキル2威力上昇",
     "quality_group_ids": [
       66,
       67,
@@ -1333,7 +1333,7 @@
     "category_id": 1,
     "disable_duplicate_assign": true,
     "id": 64,
-    "name": "\u9CE5\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607",
+    "name": "鳥ブレイクダメージ上昇",
     "quality_group_ids": [
       81,
       82,
@@ -1354,7 +1354,7 @@
     "category_id": 3,
     "disable_duplicate_assign": true,
     "id": 65,
-    "name": "\u5C5E\u6027\u8010\u6027\u30C0\u30A6\u30F3\u5F37\u5316\u3010\u96F7\u3011",
+    "name": "属性耐性ダウン強化【雷】",
     "quality_group_ids": [
       221,
       222,
@@ -1375,7 +1375,7 @@
     "category_id": 3,
     "disable_duplicate_assign": true,
     "id": 66,
-    "name": "\u5C5E\u6027\u8010\u6027\u30C0\u30A6\u30F3\u5F37\u5316\u3010\u6C37\u3011",
+    "name": "属性耐性ダウン強化【氷】",
     "quality_group_ids": [
       211,
       212,
@@ -1396,7 +1396,7 @@
     "category_id": 1,
     "disable_duplicate_assign": true,
     "id": 67,
-    "name": "WEAK\u6642\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607",
+    "name": "WEAK時ブレイクダメージ上昇",
     "quality_group_ids": [
       186,
       187,
@@ -1417,7 +1417,7 @@
     "category_id": 1,
     "disable_duplicate_assign": true,
     "id": 68,
-    "name": "\u30B9\u30AD\u30EB2\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u4E0A\u6607",
+    "name": "スキル2ブレイクダメージ上昇",
     "quality_group_ids": [
       81,
       82,
@@ -1438,7 +1438,7 @@
     "category_id": 3,
     "disable_duplicate_assign": true,
     "id": 69,
-    "name": "\u5C5E\u6027\u8010\u6027\u30C0\u30A6\u30F3\u5F37\u5316\u3010\u706B\u3011",
+    "name": "属性耐性ダウン強化【火】",
     "quality_group_ids": [
       206,
       207,
@@ -1459,7 +1459,7 @@
     "category_id": 3,
     "disable_duplicate_assign": true,
     "id": 70,
-    "name": "\u5C5E\u6027\u8010\u6027\u30C0\u30A6\u30F3\u5F37\u5316\u3010\u7A81\u3011",
+    "name": "属性耐性ダウン強化【突】",
     "quality_group_ids": [
       201,
       202,
@@ -1480,7 +1480,7 @@
     "category_id": 1,
     "disable_duplicate_assign": true,
     "id": 71,
-    "name": "\u96F7\u30B9\u30AD\u30EB\u5A01\u529B\u4E0A\u6607",
+    "name": "雷スキル威力上昇",
     "quality_group_ids": [
       181,
       182,
@@ -1501,7 +1501,7 @@
     "category_id": 1,
     "disable_duplicate_assign": true,
     "id": 72,
-    "name": "\u6C37\u30B9\u30AD\u30EB\u5A01\u529B\u4E0A\u6607",
+    "name": "氷スキル威力上昇",
     "quality_group_ids": [
       171,
       172,
@@ -1522,7 +1522,7 @@
     "category_id": 1,
     "disable_duplicate_assign": true,
     "id": 73,
-    "name": "\u98A8\u30B9\u30AD\u30EB\u5A01\u529B\u4E0A\u6607",
+    "name": "風スキル威力上昇",
     "quality_group_ids": [
       176,
       177,
@@ -1543,7 +1543,7 @@
     "category_id": 1,
     "disable_duplicate_assign": true,
     "id": 74,
-    "name": "\u65AC\u30B9\u30AD\u30EB\u5A01\u529B\u4E0A\u6607",
+    "name": "斬スキル威力上昇",
     "quality_group_ids": [
       151,
       152,
@@ -1564,7 +1564,7 @@
     "category_id": 1,
     "disable_duplicate_assign": true,
     "id": 75,
-    "name": "\u6253\u30B9\u30AD\u30EB\u5A01\u529B\u4E0A\u6607",
+    "name": "打スキル威力上昇",
     "quality_group_ids": [
       156,
       157,
@@ -1585,7 +1585,7 @@
     "category_id": 1,
     "disable_duplicate_assign": true,
     "id": 76,
-    "name": "\u7A81\u30B9\u30AD\u30EB\u5A01\u529B\u4E0A\u6607",
+    "name": "突スキル威力上昇",
     "quality_group_ids": [
       161,
       162,
@@ -1606,7 +1606,7 @@
     "category_id": 1,
     "disable_duplicate_assign": true,
     "id": 77,
-    "name": "\u706B\u30B9\u30AD\u30EB\u5A01\u529B\u4E0A\u6607",
+    "name": "火スキル威力上昇",
     "quality_group_ids": [
       166,
       167,
@@ -1627,7 +1627,7 @@
     "category_id": 3,
     "disable_duplicate_assign": true,
     "id": 78,
-    "name": "\u5C5E\u6027\u8010\u6027\u30C0\u30A6\u30F3\u5F37\u5316\u3010\u65AC\u3011",
+    "name": "属性耐性ダウン強化【斬】",
     "quality_group_ids": [
       191,
       192,
@@ -1648,7 +1648,7 @@
     "category_id": 3,
     "disable_duplicate_assign": true,
     "id": 79,
-    "name": "\u5C5E\u6027\u8010\u6027\u30C0\u30A6\u30F3\u5F37\u5316\u3010\u6253\u3011",
+    "name": "属性耐性ダウン強化【打】",
     "quality_group_ids": [
       196,
       197,
@@ -1669,7 +1669,7 @@
     "category_id": 3,
     "disable_duplicate_assign": true,
     "id": 80,
-    "name": "\u5C5E\u6027\u8010\u6027\u30C0\u30A6\u30F3\u5F37\u5316\u3010\u98A8\u3011",
+    "name": "属性耐性ダウン強化【風】",
     "quality_group_ids": [
       216,
       217,

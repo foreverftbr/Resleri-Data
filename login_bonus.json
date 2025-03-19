@@ -20,7 +20,7 @@
     "id": 2,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 8229149353787583906,
-    "name": "\u30EA\u30EA\u30FC\u30B9\u8A18\u5FF5LOGIN BONUS",
+    "name": "リリース記念LOGIN BONUS",
     "priority": 100,
     "start_at": "2023-09-23T03:00:00.0000000Z",
     "type": 2
@@ -33,7 +33,7 @@
     "id": 3,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 4610852528131370030,
-    "name": "\u65C5\u7ACB\u3061\u306E\u30D7\u30EC\u30BC\u30F3\u30C8 LOGIN BONUS",
+    "name": "旅立ちのプレゼント LOGIN BONUS",
     "priority": 151,
     "start_at": "2024-08-30T03:00:00.0000000Z",
     "type": 2
@@ -46,7 +46,7 @@
     "id": 4,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 1608274183859736902,
-    "name": "\u6C7A\u6226\uFF01\u6226\u58EB\u306E\u5927\u93A7 \u958B\u50AC\u8A18\u5FF5LOGIN BONUS",
+    "name": "決戦！戦士の大鎧 開催記念LOGIN BONUS",
     "priority": 101,
     "start_at": "2023-10-02T03:00:00.0000000Z",
     "type": 2
@@ -59,7 +59,7 @@
     "id": 5,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 6602130356042436810,
-    "name": "\u30E1\u30A4\u30F34\u7AE0\u8FFD\u52A0\u8A18\u5FF5LOGIN BONUS",
+    "name": "メイン4章追加記念LOGIN BONUS",
     "priority": 102,
     "start_at": "2023-10-10T03:00:00.0000000Z",
     "type": 2
@@ -72,7 +72,7 @@
     "id": 6,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 4376426303215288007,
-    "name": "\u30B6\u30FC\u30EB\u30D6\u30EB\u30B0\u306E\u932C\u91D1\u8853\u58EB\u958B\u50AC\u8A18\u5FF5LOGIN BONUS",
+    "name": "ザールブルグの錬金術士開催記念LOGIN BONUS",
     "priority": 103,
     "start_at": "2023-10-17T03:00:00.0000000Z",
     "type": 2
@@ -85,7 +85,7 @@
     "id": 7,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 3982925692030516231,
-    "name": "300\u4E07DL\u8A18\u5FF5LOGIN BONUS",
+    "name": "300万DL記念LOGIN BONUS",
     "priority": 104,
     "start_at": "2023-10-24T03:00:00.0000000Z",
     "type": 2
@@ -111,7 +111,7 @@
     "id": 9,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 2239204460363734006,
-    "name": "\u30E1\u30A4\u30F35\u7AE0\u8FFD\u52A0\u8A18\u5FF5LOGIN BONUS",
+    "name": "メイン5章追加記念LOGIN BONUS",
     "priority": 106,
     "start_at": "2023-11-10T03:00:00.0000000Z",
     "type": 2
@@ -124,7 +124,7 @@
     "id": 10,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 2211719009181677049,
-    "name": "\u30EA\u30C7\u30A3\u30FC\uFF06\u30B9\u30FC\u30EB\u306E\u65E5\u5E38\u958B\u50AC\u8A18\u5FF5LOGIN BONUS",
+    "name": "リディー＆スールの日常開催記念LOGIN BONUS",
     "priority": 107,
     "start_at": "2023-11-21T03:00:00.0000000Z",
     "type": 2
@@ -137,7 +137,7 @@
     "id": 11,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 3708160095675338289,
-    "name": "\u3010\u30E9\u30A4\u30B6\u796D\u3011\u5FD8\u5374\u306E\u8CE2\u8005\u3068\u79D8\u5BC6\u306E\u697D\u5712\u958B\u50AC\u8A18\u5FF5LOGIN BONUS",
+    "name": "【ライザ祭】忘却の賢者と秘密の楽園開催記念LOGIN BONUS",
     "priority": 108,
     "start_at": "2023-11-30T03:00:00.0000000Z",
     "type": 2
@@ -150,7 +150,7 @@
     "id": 12,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 1935055653603029851,
-    "name": "\u30E9\u30A4\u30B6\u796D\u8A18\u5FF5LOGIN BONUS",
+    "name": "ライザ祭記念LOGIN BONUS",
     "priority": 109,
     "start_at": "2023-11-30T03:00:00.0000000Z",
     "type": 2
@@ -163,7 +163,7 @@
     "id": 13,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 5328354645272817689,
-    "name": "\u30E1\u30A4\u30F36\u7AE0\u8FFD\u52A0\u8A18\u5FF5LOGIN BONUS",
+    "name": "メイン6章追加記念LOGIN BONUS",
     "priority": 110,
     "start_at": "2023-12-11T03:00:00.0000000Z",
     "type": 2
@@ -176,7 +176,7 @@
     "id": 14,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 2066590371891453252,
-    "name": "\u661F\u964D\u308B\u591C\u306E\u8D08\u308A\u3082\u306E\u958B\u50AC\u8A18\u5FF5 LOGIN BONUS",
+    "name": "星降る夜の贈りもの開催記念 LOGIN BONUS",
     "priority": 107,
     "start_at": "2023-12-22T03:00:00.0000000Z",
     "type": 2
@@ -217,7 +217,7 @@
     "id": 17,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 4526793697038250725,
-    "name": "\u30E1\u30A4\u30F37\u7AE0\u8FFD\u52A0\u8A18\u5FF5LOGIN BONUS",
+    "name": "メイン7章追加記念LOGIN BONUS",
     "priority": 111,
     "start_at": "2024-01-11T03:00:00.0000000Z",
     "type": 2
@@ -230,7 +230,7 @@
     "id": 18,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 8913488328208678567,
-    "name": "\u4E8C\u4EBA\u306E\u30B7\u30E3\u30EA\u30FC\u3068\u6BCD\u306E\u9858\u3044\u958B\u50AC\u8A18\u5FF5LOGIN BONUS",
+    "name": "二人のシャリーと母の願い開催記念LOGIN BONUS",
     "priority": 112,
     "start_at": "2024-01-22T03:00:00.0000000Z",
     "type": 2
@@ -243,7 +243,7 @@
     "id": 19,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 1846802900130329135,
-    "name": "\u30E1\u30A4\u30F38\u7AE0\u8FFD\u52A0\u8A18\u5FF5LOGIN BONUS",
+    "name": "メイン8章追加記念LOGIN BONUS",
     "priority": 113,
     "start_at": "2024-01-31T03:00:00.0000000Z",
     "type": 2
@@ -256,7 +256,7 @@
     "id": 20,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 3197502002003555600,
-    "name": "\u4E59\u5973\u305F\u3061\u306E\u30C1\u30E7\u30B3\u30EC\u30FC\u30C8\u30DF\u30C3\u30AF\u30B9\u958B\u50AC\u8A18\u5FF5 LOGIN BONUS",
+    "name": "乙女たちのチョコレートミックス開催記念 LOGIN BONUS",
     "priority": 114,
     "start_at": "2024-02-09T03:00:00.0000000Z",
     "type": 2
@@ -284,7 +284,7 @@
     "id": 22,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 2897194740067578796,
-    "name": "\u30A2\u30FC\u30E9\u30F3\u30C9\u306E\u932C\u91D1\u8853\u58EB LOGIN BONUS",
+    "name": "アーランドの錬金術士 LOGIN BONUS",
     "priority": 116,
     "start_at": "2024-02-20T03:00:00.0000000Z",
     "type": 2
@@ -297,7 +297,7 @@
     "id": 23,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 7348222065352389152,
-    "name": "\u3010\u3042\u30685\u65E5\u3011\u534A\u5468\u5E74\u30AB\u30A6\u30F3\u30C8\u30C0\u30A6\u30F3 LOGIN BONUS",
+    "name": "【あと5日】半周年カウントダウン LOGIN BONUS",
     "priority": 117,
     "start_at": "2024-02-23T03:00:00.0000000Z",
     "type": 2
@@ -310,7 +310,7 @@
     "id": 24,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 7348222065352389152,
-    "name": "\u3010\u3042\u30684\u65E5\u3011\u534A\u5468\u5E74\u30AB\u30A6\u30F3\u30C8\u30C0\u30A6\u30F3 LOGIN BONUS",
+    "name": "【あと4日】半周年カウントダウン LOGIN BONUS",
     "priority": 118,
     "start_at": "2024-02-24T03:00:00.0000000Z",
     "type": 2
@@ -323,7 +323,7 @@
     "id": 25,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 7348222065352389152,
-    "name": "\u3010\u3042\u30683\u65E5\u3011\u534A\u5468\u5E74\u30AB\u30A6\u30F3\u30C8\u30C0\u30A6\u30F3 LOGIN BONUS",
+    "name": "【あと3日】半周年カウントダウン LOGIN BONUS",
     "priority": 119,
     "start_at": "2024-02-25T03:00:00.0000000Z",
     "type": 2
@@ -336,7 +336,7 @@
     "id": 26,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 7348222065352389152,
-    "name": "\u3010\u3042\u30682\u65E5\u3011\u534A\u5468\u5E74\u30AB\u30A6\u30F3\u30C8\u30C0\u30A6\u30F3 LOGIN BONUS",
+    "name": "【あと2日】半周年カウントダウン LOGIN BONUS",
     "priority": 120,
     "start_at": "2024-02-26T03:00:00.0000000Z",
     "type": 2
@@ -349,7 +349,7 @@
     "id": 27,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 7348222065352389152,
-    "name": "\u3010\u3042\u30681\u65E5\u3011\u534A\u5468\u5E74\u30AB\u30A6\u30F3\u30C8\u30C0\u30A6\u30F3 LOGIN BONUS",
+    "name": "【あと1日】半周年カウントダウン LOGIN BONUS",
     "priority": 121,
     "start_at": "2024-02-27T03:00:00.0000000Z",
     "type": 2
@@ -362,7 +362,7 @@
     "id": 28,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 3842338171662003817,
-    "name": "\u30E1\u30A4\u30F39\u7AE0\u8FFD\u52A0\u8A18\u5FF5LOGIN BONUS",
+    "name": "メイン9章追加記念LOGIN BONUS",
     "priority": 123,
     "start_at": "2024-02-28T08:00:00.0000000Z",
     "type": 2
@@ -375,7 +375,7 @@
     "id": 29,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 8690958238072041445,
-    "name": "\u534A\u5468\u5E74\u8A18\u5FF5 LOGIN BONUS",
+    "name": "半周年記念 LOGIN BONUS",
     "priority": 122,
     "start_at": "2024-02-28T08:00:00.0000000Z",
     "type": 2
@@ -388,7 +388,7 @@
     "id": 30,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 4992974599474184221,
-    "name": "\u30E1\u30A4\u30F310\u7AE0\u8FFD\u52A0\u8A18\u5FF5LOGIN BONUS",
+    "name": "メイン10章追加記念LOGIN BONUS",
     "priority": 124,
     "start_at": "2024-03-12T03:00:00.0000000Z",
     "type": 2
@@ -401,7 +401,7 @@
     "id": 31,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 7859687795087985200,
-    "name": "\u30E1\u30A4\u30F311\u7AE0\u8FFD\u52A0\u8A18\u5FF5LOGIN BONUS",
+    "name": "メイン11章追加記念LOGIN BONUS",
     "priority": 125,
     "start_at": "2024-03-22T03:00:00.0000000Z",
     "type": 2
@@ -414,7 +414,7 @@
     "id": 32,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 4953833424154408796,
-    "name": "\u795D\uFF013\u670823\u65E5\u3067\u534A\u5468\u5E74\uFF01 LOGIN BONUS",
+    "name": "祝！3月23日で半周年！ LOGIN BONUS",
     "priority": 126,
     "start_at": "2024-03-23T03:00:00.0000000Z",
     "type": 2
@@ -427,7 +427,7 @@
     "id": 33,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 6937811980072171246,
-    "name": "\u30EC\u30B9\u30EC\u30EA\u5B66\u5712 \uFF5E\u9000\u5B66\uFF01\uFF1F\u3000\u3044\u304D\u306A\u308A\u5927\u30D4\u30F3\u30C1\uFF5E\u958B\u50AC\u8A18\u5FF5LOGIN BONUS",
+    "name": "レスレリ学園 ～退学！？\u3000いきなり大ピンチ～開催記念LOGIN BONUS",
     "priority": 127,
     "start_at": "2024-04-01T12:00:00.0000000Z",
     "type": 2
@@ -440,7 +440,7 @@
     "id": 34,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 4775633622724588368,
-    "name": "\u30EC\u30B9\u30EC\u30EA\u5B66\u5712 \uFF5E\u6FC0\u95D8\u306E\u932C\u91D1\u796D\uFF01\uFF5E\u958B\u50AC\u8A18\u5FF5LOGIN BONUS",
+    "name": "レスレリ学園 ～激闘の錬金祭！～開催記念LOGIN BONUS",
     "priority": 128,
     "start_at": "2024-04-12T03:00:00.0000000Z",
     "type": 2
@@ -453,7 +453,7 @@
     "id": 35,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 6684045726011787371,
-    "name": "\u30EC\u30B9\u30EC\u30EA\u5B66\u5712 \uFF5E\u5F71\u3088\u308A\u898B\u5B88\u308A\u3057\u541B\u3078\uFF5E\u958B\u50AC\u8A18\u5FF5LOGIN BONUS",
+    "name": "レスレリ学園 ～影より見守りし君へ～開催記念LOGIN BONUS",
     "priority": 129,
     "start_at": "2024-04-22T03:00:00.0000000Z",
     "type": 2
@@ -466,7 +466,7 @@
     "id": 36,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 2556406123407939104,
-    "name": "\u6E29\u6CC9\u596A\u9084\u4F5C\u6226\uFF01 \uFF5E\u3068\u3068\u306E\u3044\u3068\u7652\u3057\u3092\u6C42\u3081\u3066\uFF5E\u958B\u50AC\u8A18\u5FF5LOGIN BONUS",
+    "name": "温泉奪還作戦！ ～ととのいと癒しを求めて～開催記念LOGIN BONUS",
     "priority": 130,
     "start_at": "2024-04-30T03:00:00.0000000Z",
     "type": 2
@@ -479,7 +479,7 @@
     "id": 37,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 4005853963489883543,
-    "name": "\u7B2C\u4E8C\u90E8\u958B\u59CB\u8A18\u5FF5LOGIN BONUS",
+    "name": "第二部開始記念LOGIN BONUS",
     "priority": 131,
     "start_at": "2024-05-10T03:00:00.0000000Z",
     "type": 2
@@ -492,7 +492,7 @@
     "id": 38,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 4070515072987748131,
-    "name": "\u30E9\u30F3\u30BF\u30FC\u30CA\u5EFA\u56FD\u8A18\u5FF5\u676F\u958B\u50AC\u8A18\u5FF5LOGIN BONUS",
+    "name": "ランターナ建国記念杯開催記念LOGIN BONUS",
     "priority": 132,
     "start_at": "2024-05-20T03:00:00.0000000Z",
     "type": 2
@@ -505,7 +505,7 @@
     "id": 39,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 8481291475950327471,
-    "name": "\u300C\u30A2\u30C8\u30EA\u30A8\u300D\u30B7\u30EA\u30FC\u30BA27\u5468\u5E74\u8A18\u5FF5\uFF01LOGIN BONUS",
+    "name": "「アトリエ」シリーズ27周年記念！LOGIN BONUS",
     "priority": 133,
     "start_at": "2024-05-23T03:00:00.0000000Z",
     "type": 2
@@ -518,7 +518,7 @@
     "id": 40,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 3720164539981080487,
-    "name": "\u30E1\u30A4\u30F313\u7AE0\u8FFD\u52A0\u8A18\u5FF5LOGIN BONUS",
+    "name": "メイン13章追加記念LOGIN BONUS",
     "priority": 134,
     "start_at": "2024-05-31T03:00:00.0000000Z",
     "type": 2
@@ -531,7 +531,7 @@
     "id": 41,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 6501899677908219429,
-    "name": "\u7ADC\u306E\u6D99\u306F\u82B1\u3068\u6563\u308B\u958B\u50AC\u8A18\u5FF5LOGIN BONUS",
+    "name": "竜の涙は花と散る開催記念LOGIN BONUS",
     "priority": 135,
     "start_at": "2024-06-10T03:00:00.0000000Z",
     "type": 2
@@ -544,7 +544,7 @@
     "id": 42,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 1639493514545293501,
-    "name": "\u4E8B\u4EF6\u767A\u751F\uFF01\u3000\u98DB\u3073\u51FA\u305B\u30AA\u30D5\u30A3\u30B9\uFF01\u958B\u50AC\u8A18\u5FF5LOGIN BONUS",
+    "name": "事件発生！\u3000飛び出せオフィス！開催記念LOGIN BONUS",
     "priority": 136,
     "start_at": "2024-06-21T03:00:00.0000000Z",
     "type": 2
@@ -557,7 +557,7 @@
     "id": 43,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 595693396283675546,
-    "name": "\u30E1\u30A4\u30F314\u7AE0\u8FFD\u52A0\u8A18\u5FF5LOGIN BONUS",
+    "name": "メイン14章追加記念LOGIN BONUS",
     "priority": 137,
     "start_at": "2024-06-28T03:00:00.0000000Z",
     "type": 2
@@ -570,7 +570,7 @@
     "id": 44,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 7520008367542289740,
-    "name": "\u6C34\u7740DE\u30EA\u30BE\u30FC\u30C8\uFF01 \u6D77\u306E\u5BB6\u3092\u76DB\u308A\u4E0A\u3052\u308D\uFF01\uFF1F\u958B\u50AC\u8A18\u5FF5LOGIN BONUS",
+    "name": "水着DEリゾート！ 海の家を盛り上げろ！？開催記念LOGIN BONUS",
     "priority": 138,
     "start_at": "2024-07-10T03:00:00.0000000Z",
     "type": 2
@@ -583,7 +583,7 @@
     "id": 45,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 2707412733246915784,
-    "name": "\u300E\u30E9\u30A4\u30B62\u300F\u30D5\u30A3\u30AE\u30E5\u30A2\u767A\u58F2\u6C7A\u5B9A\u8A18\u5FF5LOGIN BONUS",
+    "name": "『ライザ2』フィギュア発売決定記念LOGIN BONUS",
     "priority": 139,
     "start_at": "2024-07-10T03:00:00.0000000Z",
     "type": 2
@@ -596,7 +596,7 @@
     "id": 46,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 882174058535467436,
-    "name": "\u99C6\u3051\u629C\u3051\u308D\uFF01\u30D3\u30FC\u30C1\u30D5\u30E9\u30C3\u30B0\u306F\u8AB0\u306E\u624B\u306B\uFF1F\u958B\u50AC\u8A18\u5FF5LOGIN BONUS",
+    "name": "駆け抜けろ！ビーチフラッグは誰の手に？開催記念LOGIN BONUS",
     "priority": 140,
     "start_at": "2024-07-19T03:00:00.0000000Z",
     "type": 2
@@ -609,7 +609,7 @@
     "id": 47,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 9087581329042682712,
-    "name": "\u591C\u7A7A\u306B\u7B11\u9854\u304C\u54B2\u3044\u305F\u590F\u958B\u50AC\u8A18\u5FF5LOGIN BONUS",
+    "name": "夜空に笑顔が咲いた夏開催記念LOGIN BONUS",
     "priority": 141,
     "start_at": "2024-07-31T03:00:00.0000000Z",
     "type": 2
@@ -622,7 +622,7 @@
     "id": 48,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 9023844666207642203,
-    "name": "\u304A\u5B9D\u30C0\u30F3\u30B8\u30E7\u30F3\u958B\u50AC\u8A18\u5FF5LOGIN BONUS",
+    "name": "お宝ダンジョン開催記念LOGIN BONUS",
     "priority": 142,
     "start_at": "2024-08-09T03:00:00.0000000Z",
     "type": 2
@@ -635,7 +635,7 @@
     "id": 49,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 3527977280221717463,
-    "name": "1\u5468\u5E74\u524D\u591C\u796DLOGIN BONUS\u7B2C1\u5F3E",
+    "name": "1周年前夜祭LOGIN BONUS第1弾",
     "priority": 143,
     "start_at": "2024-08-13T03:00:00.0000000Z",
     "type": 2
@@ -648,7 +648,7 @@
     "id": 50,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 8227154270964150531,
-    "name": "1\u5468\u5E74\u524D\u591C\u796DLOGIN BONUS\u7B2C2\u5F3E",
+    "name": "1周年前夜祭LOGIN BONUS第2弾",
     "priority": 144,
     "start_at": "2024-08-21T03:00:00.0000000Z",
     "type": 2
@@ -663,7 +663,7 @@
       43201006
     ],
     "logo_image_path_hash": 4603381911626739855,
-    "name": "\u3010\u3042\u30683\u65E5\u30111\u5468\u5E74\u30AB\u30A6\u30F3\u30C8\u30C0\u30A6\u30F3LOGIN BONUS",
+    "name": "【あと3日】1周年カウントダウンLOGIN BONUS",
     "priority": 147,
     "start_at": "2024-08-27T03:00:00.0000000Z",
     "type": 2
@@ -678,7 +678,7 @@
       43599001
     ],
     "logo_image_path_hash": 4603381911626739855,
-    "name": "\u3010\u3042\u30682\u65E5\u30111\u5468\u5E74\u30AB\u30A6\u30F3\u30C8\u30C0\u30A6\u30F3LOGIN BONUS",
+    "name": "【あと2日】1周年カウントダウンLOGIN BONUS",
     "priority": 148,
     "start_at": "2024-08-28T03:00:00.0000000Z",
     "type": 2
@@ -693,7 +693,7 @@
       43101006
     ],
     "logo_image_path_hash": 4603381911626739855,
-    "name": "\u3010\u3042\u30681\u65E5\u30111\u5468\u5E74\u30AB\u30A6\u30F3\u30C8\u30C0\u30A6\u30F3LOGIN BONUS",
+    "name": "【あと1日】1周年カウントダウンLOGIN BONUS",
     "priority": 149,
     "start_at": "2024-08-29T03:00:00.0000000Z",
     "type": 2
@@ -706,7 +706,7 @@
     "id": 56,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 8522940650352146337,
-    "name": "1\u5468\u5E74LOGIN BONUS\u7B2C1\u5F3E",
+    "name": "1周年LOGIN BONUS第1弾",
     "priority": 150,
     "start_at": "2024-08-30T03:00:00.0000000Z",
     "type": 2
@@ -719,7 +719,7 @@
     "id": 58,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 1454229718309836616,
-    "name": "1\u5468\u5E74LOGIN BONUS\u7B2C2\u5F3E",
+    "name": "1周年LOGIN BONUS第2弾",
     "priority": 153,
     "start_at": "2024-09-11T03:00:00.0000000Z",
     "type": 2
@@ -732,7 +732,7 @@
     "id": 59,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 6476370278492608196,
-    "name": "\u300E\u30E6\u30DF\u30A2\u306E\u30A2\u30C8\u30EA\u30A8\u300F\u767A\u58F2\u6C7A\u5B9A\u8A18\u5FF5\uFF01LOGIN BONUS",
+    "name": "『ユミアのアトリエ』発売決定記念！LOGIN BONUS",
     "priority": 154,
     "start_at": "2024-09-11T03:00:00.0000000Z",
     "type": 2
@@ -745,7 +745,7 @@
     "id": 60,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 1364986407664052591,
-    "name": "1\u5468\u5E74LOGIN BONUS\u7B2C3\u5F3E",
+    "name": "1周年LOGIN BONUS第3弾",
     "priority": 155,
     "start_at": "2024-09-19T03:00:00.0000000Z",
     "type": 2
@@ -758,7 +758,7 @@
     "id": 61,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 6863382112122366179,
-    "name": "\u795D\uFF019\u670823\u65E5\u3067\uFF11\u5468\u5E74\uFF01 LOGIN BONUS",
+    "name": "祝！9月23日で１周年！ LOGIN BONUS",
     "priority": 156,
     "start_at": "2024-09-23T03:00:00.0000000Z",
     "type": 2
@@ -771,7 +771,7 @@
     "id": 62,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 7204787325467806285,
-    "name": "1\u5468\u5E74\u5F8C\u591C\u796DLOGIN BONUS\u7B2C1\u5F3E",
+    "name": "1周年後夜祭LOGIN BONUS第1弾",
     "priority": 157,
     "start_at": "2024-09-30T03:00:00.0000000Z",
     "type": 2
@@ -784,7 +784,7 @@
     "id": 63,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 5498639898793559670,
-    "name": "1\u5468\u5E74\u5F8C\u591C\u796DLOGIN BONUS\u7B2C2\u5F3E\u524D\u7DE8",
+    "name": "1周年後夜祭LOGIN BONUS第2弾前編",
     "priority": 158,
     "start_at": "2024-10-11T03:00:00.0000000Z",
     "type": 2
@@ -797,7 +797,7 @@
     "id": 64,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 6574103877167542142,
-    "name": "1\u5468\u5E74\u5F8C\u591C\u796DLOGIN BONUS\u7B2C2\u5F3E\u5F8C\u7DE8",
+    "name": "1周年後夜祭LOGIN BONUS第2弾後編",
     "priority": 159,
     "start_at": "2024-10-18T03:00:00.0000000Z",
     "type": 2
@@ -810,7 +810,7 @@
     "id": 65,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 6489382553034436714,
-    "name": "1\u5468\u5E74\u5F8C\u591C\u796DLOGIN BONUS\u7B2C3\u5F3E",
+    "name": "1周年後夜祭LOGIN BONUS第3弾",
     "priority": 161,
     "start_at": "2024-10-31T03:00:00.0000000Z",
     "type": 2
@@ -836,7 +836,7 @@
     "id": 67,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 3297858245182767229,
-    "name": "\u300E\u7D05\u306E\u932C\u91D1\u8853\u58EB\u3068\u767D\u306E\u5B88\u8B77\u8005\uFF5E\u30EC\u30B9\u30EC\u30EA\u30A2\u30FC\u30CA\u306E\u30A2\u30C8\u30EA\u30A8\uFF5E\u300F\u767A\u58F2\u6C7A\u5B9A\u8A18\u5FF5\uFF01LOGIN BONUS",
+    "name": "『紅の錬金術士と白の守護者～レスレリアーナのアトリエ～』発売決定記念！LOGIN BONUS",
     "priority": 162,
     "start_at": "2024-11-08T03:00:00.0000000Z",
     "type": 2
@@ -849,7 +849,7 @@
     "id": 68,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 8688737514203581005,
-    "name": "\u6E07\u304D\u306E\u4E2D\u3067\u54B2\u304F\u82B1\u305F\u3061\u958B\u50AC\u8A18\u5FF5 LOGIN BONUS",
+    "name": "渇きの中で咲く花たち開催記念 LOGIN BONUS",
     "priority": 163,
     "start_at": "2024-11-08T03:00:00.0000000Z",
     "type": 2
@@ -862,7 +862,7 @@
     "id": 69,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 7408554383925401915,
-    "name": "\u6DF7\u6C8C\u3068\u898F\u5F8B\u306E\u9082\u9005\u958B\u50AC\u8A18\u5FF5 LOGIN BONUS",
+    "name": "混沌と規律の邂逅開催記念 LOGIN BONUS",
     "priority": 164,
     "start_at": "2024-11-15T03:00:00.0000000Z",
     "type": 2
@@ -875,7 +875,7 @@
     "id": 70,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 3816946753557194190,
-    "name": "\u30D6\u30E9\u30C3\u30C9\u306E\u5B9F\u5730\u8ABF\u67FB\u958B\u50AC\u8A18\u5FF5 LOGIN BONUS",
+    "name": "ブラッドの実地調査開催記念 LOGIN BONUS",
     "priority": 165,
     "start_at": "2024-11-22T03:00:00.0000000Z",
     "type": 2
@@ -888,7 +888,7 @@
     "id": 71,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 7568288440111030834,
-    "name": "\u30E1\u30A4\u30F320\u7AE0\u8FFD\u52A0\u8A18\u5FF5 LOGIN BONUS",
+    "name": "メイン20章追加記念 LOGIN BONUS",
     "priority": 166,
     "start_at": "2024-11-29T03:00:00.0000000Z",
     "type": 2
@@ -901,7 +901,7 @@
     "id": 72,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 3365828727412640241,
-    "name": "\u30E1\u30A4\u30F321\u7AE0\u524D\u7DE8\u8FFD\u52A0\u8A18\u5FF5 LOGIN BONUS",
+    "name": "メイン21章前編追加記念 LOGIN BONUS",
     "priority": 167,
     "start_at": "2024-12-06T03:00:00.0000000Z",
     "type": 2
@@ -914,7 +914,7 @@
     "id": 73,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 1924146076110202472,
-    "name": "\u30AD\u30E9\u30AD\u30E9\u30BB\u30AD\u30E9\u30E9\u661F\u8A95\u796D\uFF01\u958B\u50AC\u8A18\u5FF5 LOGIN BONUS",
+    "name": "キラキラセキララ星誕祭！開催記念 LOGIN BONUS",
     "priority": 168,
     "start_at": "2024-12-13T03:00:00.0000000Z",
     "type": 2
@@ -927,7 +927,7 @@
     "id": 74,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 4846383249344331944,
-    "name": "\u30E1\u30A4\u30F321\u7AE0\u5F8C\u7DE8\u8FFD\u52A0\u8A18\u5FF5 LOGIN BONUS",
+    "name": "メイン21章後編追加記念 LOGIN BONUS",
     "priority": 169,
     "start_at": "2024-12-20T03:00:00.0000000Z",
     "type": 2
@@ -957,7 +957,7 @@
       43602006
     ],
     "logo_image_path_hash": 8158169921133911903,
-    "name": "\u3010\u3042\u30685\u65E5\u3011\u5E74\u672B\u5E74\u59CB\u30AB\u30A6\u30F3\u30C8\u30C0\u30A6\u30F3 LOGIN BONUS",
+    "name": "【あと5日】年末年始カウントダウン LOGIN BONUS",
     "priority": 171,
     "start_at": "2024-12-27T03:00:00.0000000Z",
     "type": 2
@@ -972,7 +972,7 @@
       43503006
     ],
     "logo_image_path_hash": 8158169921133911903,
-    "name": "\u3010\u3042\u30684\u65E5\u3011\u5E74\u672B\u5E74\u59CB\u30AB\u30A6\u30F3\u30C8\u30C0\u30A6\u30F3 LOGIN BONUS",
+    "name": "【あと4日】年末年始カウントダウン LOGIN BONUS",
     "priority": 172,
     "start_at": "2024-12-28T03:00:00.0000000Z",
     "type": 2
@@ -987,7 +987,7 @@
       43803006
     ],
     "logo_image_path_hash": 8158169921133911903,
-    "name": "\u3010\u3042\u30683\u65E5\u3011\u5E74\u672B\u5E74\u59CB\u30AB\u30A6\u30F3\u30C8\u30C0\u30A6\u30F3 LOGIN BONUS",
+    "name": "【あと3日】年末年始カウントダウン LOGIN BONUS",
     "priority": 173,
     "start_at": "2024-12-29T03:00:00.0000000Z",
     "type": 2
@@ -1002,7 +1002,7 @@
       43205006
     ],
     "logo_image_path_hash": 8158169921133911903,
-    "name": "\u3010\u3042\u30682\u65E5\u3011\u5E74\u672B\u5E74\u59CB\u30AB\u30A6\u30F3\u30C8\u30C0\u30A6\u30F3 LOGIN BONUS",
+    "name": "【あと2日】年末年始カウントダウン LOGIN BONUS",
     "priority": 174,
     "start_at": "2024-12-30T03:00:00.0000000Z",
     "type": 2
@@ -1017,7 +1017,7 @@
       43106006
     ],
     "logo_image_path_hash": 8158169921133911903,
-    "name": "\u3010\u3042\u30681\u65E5\u3011\u5E74\u672B\u5E74\u59CB\u30AB\u30A6\u30F3\u30C8\u30C0\u30A6\u30F3 LOGIN BONUS",
+    "name": "【あと1日】年末年始カウントダウン LOGIN BONUS",
     "priority": 175,
     "start_at": "2024-12-31T03:00:00.0000000Z",
     "type": 2
@@ -1043,7 +1043,7 @@
     "id": 82,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 95054930312934322,
-    "name": "\u8B39\u8CC0\u65B0\u5E74\uFF01\u3000\u304A\u5B9D\u30C0\u30F3\u30B8\u30E7\u30F3\uFF01\u958B\u50AC\u8A18\u5FF5 LOGIN BONUS",
+    "name": "謹賀新年！\u3000お宝ダンジョン！開催記念 LOGIN BONUS",
     "priority": 177,
     "start_at": "2025-01-10T03:00:00.0000000Z",
     "type": 2
@@ -1056,7 +1056,7 @@
     "id": 83,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 5521261108656878142,
-    "name": "\u306F\u3058\u307E\u308A\u306E\u7D46\u958B\u50AC\u8A18\u5FF5 LOGIN BONUS",
+    "name": "はじまりの絆開催記念 LOGIN BONUS",
     "priority": 178,
     "start_at": "2024-12-27T03:00:00.0000000Z",
     "type": 2
@@ -1069,7 +1069,7 @@
     "id": 84,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 3226823988164078971,
-    "name": "\u30E1\u30A4\u30F322\u7AE0\u524D\u7DE8\u8FFD\u52A0\u8A18\u5FF5 LOGIN BONUS",
+    "name": "メイン22章前編追加記念 LOGIN BONUS",
     "priority": 179,
     "start_at": "2025-01-17T03:00:00.0000000Z",
     "type": 2
@@ -1082,7 +1082,7 @@
     "id": 85,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 7993637010182105384,
-    "name": "\u89AA\u53CB\u3068\u6B69\u3080\u672A\u6765\u958B\u50AC\u8A18\u5FF5 LOGIN BONUS",
+    "name": "親友と歩む未来開催記念 LOGIN BONUS",
     "priority": 180,
     "start_at": "2025-01-24T03:00:00.0000000Z",
     "type": 2
@@ -1095,7 +1095,7 @@
     "id": 86,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 2105858890818606229,
-    "name": "\u30E9\u30A4\u30D0\u30EB\u3068\u7AF6\u3046\u672A\u6765\u958B\u50AC\u8A18\u5FF5 LOGIN BONUS",
+    "name": "ライバルと競う未来開催記念 LOGIN BONUS",
     "priority": 181,
     "start_at": "2025-01-31T03:00:00.0000000Z",
     "type": 2
@@ -1108,7 +1108,7 @@
     "id": 87,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 3375554659621995968,
-    "name": "\u3042\u306A\u305F\u3068\u5922\u898B\u308B\u30C8\u30AF\u30D9\u30C4\u958B\u50AC\u8A18\u5FF5 LOGIN BONUS",
+    "name": "あなたと夢見るトクベツ開催記念 LOGIN BONUS",
     "priority": 182,
     "start_at": "2025-02-14T03:00:00.0000000Z",
     "type": 2
@@ -1136,7 +1136,7 @@
     "id": 89,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 3910927105058262654,
-    "name": "1.5\u5468\u5E74 \u524D\u591C\u796D LOGIN BONUS",
+    "name": "1.5周年 前夜祭 LOGIN BONUS",
     "priority": 1000,
     "start_at": "2025-02-14T03:00:00.0000000Z",
     "type": 2
@@ -1149,7 +1149,7 @@
     "id": 90,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 2816188910159547986,
-    "name": "\u3042\u306A\u305F\u3068\u5192\u967A\u3059\u308B\u30C8\u30AF\u30D9\u30C4\u958B\u50AC\u8A18\u5FF5 LOGIN BONUS",
+    "name": "あなたと冒険するトクベツ開催記念 LOGIN BONUS",
     "priority": 184,
     "start_at": "2025-02-21T03:00:00.0000000Z",
     "type": 2
@@ -1162,7 +1162,7 @@
     "id": 91,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 7699988410335481822,
-    "name": "1.5\u5468\u5E74\u8A18\u5FF5 LOGIN BONUS",
+    "name": "1.5周年記念 LOGIN BONUS",
     "priority": 185,
     "start_at": "2025-02-21T03:00:00.0000000Z",
     "type": 2
@@ -1175,7 +1175,7 @@
     "id": 92,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 1859237551842040370,
-    "name": "\u30E1\u30A4\u30F323\u7AE0\u8FFD\u52A0\u8A18\u5FF5 LOGIN BONUS",
+    "name": "メイン23章追加記念 LOGIN BONUS",
     "priority": 186,
     "start_at": "2025-02-28T03:00:00.0000000Z",
     "type": 2
@@ -1188,7 +1188,7 @@
     "id": 93,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 4004755213986622329,
-    "name": "\u30E1\u30A4\u30F324\u7AE0\u8FFD\u52A0\u8A18\u5FF5 LOGIN BONUS",
+    "name": "メイン24章追加記念 LOGIN BONUS",
     "priority": 187,
     "start_at": "2025-03-06T03:00:00.0000000Z",
     "type": 2
@@ -1201,61 +1201,9 @@
     "id": 94,
     "login_bonus_text_ids": [],
     "logo_image_path_hash": 4909842159579984216,
-    "name": "\u30A2\u30A4\u30C6\u30E0\u5927\u6226\u958B\u50AC\u8A18\u5FF5 LOGIN BONUS",
+    "name": "アイテム大戦開催記念 LOGIN BONUS",
     "priority": 188,
     "start_at": "2025-03-12T03:00:00.0000000Z",
-    "type": 2
-  },
-  {
-    "background_image_path_hash": 5920755697070785098,
-    "base_image_path_hash": 75286823454653089,
-    "end_at": "2025-03-31T03:00:00.0000000Z",
-    "fixed_texts": [],
-    "id": 95,
-    "login_bonus_text_ids": [],
-    "logo_image_path_hash": 1219400976483585242,
-    "name": "\u30E4\u30F3\u30CD\u30FB\u30EA\u30F3\u30C7\u30DE\u30F3\u306E\u611B\u3068\u904E\u53BB\u958B\u50AC\u8A18\u5FF5 LOGIN BONUS",
-    "priority": 189,
-    "start_at": "2025-03-17T03:00:00.0000000Z",
-    "type": 2
-  },
-  {
-    "background_image_path_hash": 7071819592597891600,
-    "base_image_path_hash": 0,
-    "end_at": "2025-03-31T03:00:00.0000000Z",
-    "fixed_texts": [],
-    "id": 96,
-    "login_bonus_text_ids": [],
-    "logo_image_path_hash": 4125468313101726130,
-    "name": "\u30E1\u30A4\u30F325\u7AE0\u8FFD\u52A0\u8A18\u5FF5 LOGIN BONUS",
-    "priority": 190,
-    "start_at": "2025-03-21T03:00:00.0000000Z",
-    "type": 2
-  },
-  {
-    "background_image_path_hash": 1691772573831819484,
-    "base_image_path_hash": 4224755083522417248,
-    "end_at": "2025-03-31T03:00:00.0000000Z",
-    "fixed_texts": [],
-    "id": 97,
-    "login_bonus_text_ids": [],
-    "logo_image_path_hash": 6863382112122366179,
-    "name": "1.5\u5468\u5E74\u5F53\u65E5\u8A18\u5FF5 LOGIN BONUS",
-    "priority": 191,
-    "start_at": "2025-03-23T03:00:00.0000000Z",
-    "type": 2
-  },
-  {
-    "background_image_path_hash": 940871790715147070,
-    "base_image_path_hash": 1620884666667375460,
-    "end_at": "2025-04-30T03:00:00.0000000Z",
-    "fixed_texts": [],
-    "id": 98,
-    "login_bonus_text_ids": [],
-    "logo_image_path_hash": 2440561760303856144,
-    "name": "\u30E6\u30DF\u30A2\u306E\u30A2\u30C8\u30EA\u30A8\u767A\u58F2\u8A18\u5FF5 LOGIN BONUS",
-    "priority": 192,
-    "start_at": "2025-03-21T03:00:00.0000000Z",
     "type": 2
   }
 ]

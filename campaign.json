@@ -9,7 +9,7 @@
       8
     ],
     "id": 12,
-    "label": "\u8ABF\u5408\u7D20\u6750\u30C9\u30ED\u30C3\u30D72\u500D\uFF01",
+    "label": "調合素材ドロップ2倍！",
     "mission_rewards": [],
     "start_at": "2023-10-10T03:00:00.0000000Z",
     "target_resource": {
@@ -32,7 +32,7 @@
       8
     ],
     "id": 13,
-    "label": "\u8ABF\u5408\u7D20\u6750\u30C9\u30ED\u30C3\u30D72\u500D\uFF01",
+    "label": "調合素材ドロップ2倍！",
     "mission_rewards": [],
     "start_at": "2023-11-10T03:00:00.0000000Z",
     "target_resource": {
@@ -53,7 +53,7 @@
       5
     ],
     "id": 14,
-    "label": "\u30C9\u30ED\u30C3\u30D7\u91CF2\u500D\uFF01",
+    "label": "ドロップ量2倍！",
     "mission_rewards": [],
     "start_at": "2023-10-24T03:00:00.0000000Z",
     "target_resource": {
@@ -98,7 +98,7 @@
       5
     ],
     "id": 15,
-    "label": "\u30C9\u30ED\u30C3\u30D7\u91CF2\u500D\uFF01",
+    "label": "ドロップ量2倍！",
     "mission_rewards": [],
     "start_at": "2023-11-21T03:00:00.0000000Z",
     "target_resource": {
@@ -144,7 +144,7 @@
       8
     ],
     "id": 16,
-    "label": "\u8ABF\u5408\u7D20\u6750\u30C9\u30ED\u30C3\u30D72\u500D\uFF01",
+    "label": "調合素材ドロップ2倍！",
     "mission_rewards": [],
     "start_at": "2023-12-11T03:00:00.0000000Z",
     "target_resource": {
@@ -166,7 +166,7 @@
       8
     ],
     "id": 17,
-    "label": "\u8ABF\u5408\u7D20\u6750\u30C9\u30ED\u30C3\u30D72\u500D\uFF01",
+    "label": "調合素材ドロップ2倍！",
     "mission_rewards": [],
     "start_at": "2024-01-11T03:00:00.0000000Z",
     "target_resource": {
@@ -188,7 +188,7 @@
       8
     ],
     "id": 18,
-    "label": "\u8ABF\u5408\u7D20\u6750\u30C9\u30ED\u30C3\u30D72\u500D\uFF01",
+    "label": "調合素材ドロップ2倍！",
     "mission_rewards": [],
     "start_at": "2024-01-31T03:00:00.0000000Z",
     "target_resource": {
@@ -212,7 +212,7 @@
       2
     ],
     "id": 19,
-    "label": "\u30C9\u30ED\u30C3\u30D7\u91CF\u002B100%\uFF01",
+    "label": "ドロップ量+100%！",
     "mission_rewards": [],
     "start_at": "2024-02-28T08:00:00.0000000Z",
     "target_resource": {
@@ -278,7 +278,7 @@
       8
     ],
     "id": 20,
-    "label": "\u30C9\u30ED\u30C3\u30D7\u91CF\u002B100%\uFF01",
+    "label": "ドロップ量+100%！",
     "mission_rewards": [],
     "start_at": "2024-02-28T08:00:00.0000000Z",
     "target_resource": {
@@ -303,7 +303,7 @@
       8
     ],
     "id": 21,
-    "label": "\u8ABF\u5408\u7D20\u6750\u30C9\u30ED\u30C3\u30D72\u500D\uFF01",
+    "label": "調合素材ドロップ2倍！",
     "mission_rewards": [],
     "start_at": "2024-04-12T03:00:00.0000000Z",
     "target_resource": {
@@ -324,7 +324,7 @@
       5
     ],
     "id": 22,
-    "label": "\u30C9\u30ED\u30C3\u30D7\u91CF2\u500D\uFF01",
+    "label": "ドロップ量2倍！",
     "mission_rewards": [],
     "start_at": "2024-04-30T03:00:00.0000000Z",
     "target_resource": {
@@ -416,7 +416,7 @@
       7
     ],
     "id": 23,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2023-10-02T03:00:00.0000000Z",
     "target_resource": null
@@ -472,7 +472,7 @@
       7
     ],
     "id": 24,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2023-10-17T03:00:00.0000000Z",
     "target_resource": null
@@ -528,7 +528,7 @@
       7
     ],
     "id": 25,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2023-10-24T03:00:00.0000000Z",
     "target_resource": null
@@ -584,7 +584,7 @@
       7
     ],
     "id": 26,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2023-10-31T03:00:00.0000000Z",
     "target_resource": null
@@ -640,7 +640,7 @@
       7
     ],
     "id": 27,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2023-11-21T03:00:00.0000000Z",
     "target_resource": null
@@ -696,7 +696,7 @@
       7
     ],
     "id": 28,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2023-11-29T23:00:00.0000000Z",
     "target_resource": null
@@ -752,7 +752,7 @@
       7
     ],
     "id": 29,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2023-12-22T03:00:00.0000000Z",
     "target_resource": null
@@ -808,7 +808,7 @@
       7
     ],
     "id": 30,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2023-12-31T15:00:00.0000000Z",
     "target_resource": null
@@ -864,7 +864,7 @@
       7
     ],
     "id": 31,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2024-01-22T03:00:00.0000000Z",
     "target_resource": null
@@ -920,7 +920,7 @@
       7
     ],
     "id": 32,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2024-02-09T03:00:00.0000000Z",
     "target_resource": null
@@ -981,7 +981,7 @@
       7
     ],
     "id": 33,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2024-02-20T03:00:00.0000000Z",
     "target_resource": null
@@ -993,7 +993,7 @@
     "end_at": "2024-02-28T06:00:00.0000000Z",
     "episode_categories": [],
     "id": 34,
-    "label": "\u8ABF\u5408\u30DC\u30FC\u30CA\u30B9\u767A\u751F\u4E2D\uFF01",
+    "label": "調合ボーナス発生中！",
     "mission_rewards": [],
     "start_at": "2024-02-23T03:00:00.0000000Z",
     "target_resource": null
@@ -1056,7 +1056,7 @@
       13
     ],
     "id": 35,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2024-04-01T12:00:00.0000000Z",
     "target_resource": null
@@ -1119,7 +1119,7 @@
       13
     ],
     "id": 36,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2024-04-30T03:00:00.0000000Z",
     "target_resource": null
@@ -1134,7 +1134,7 @@
       8
     ],
     "id": 37,
-    "label": "\u8ABF\u5408\u7D20\u6750\u30C9\u30ED\u30C3\u30D72\u500D\uFF01",
+    "label": "調合素材ドロップ2倍！",
     "mission_rewards": [],
     "start_at": "2024-05-10T03:00:00.0000000Z",
     "target_resource": {
@@ -1205,7 +1205,7 @@
       11
     ],
     "id": 38,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2024-05-20T03:00:00.0000000Z",
     "target_resource": null
@@ -1220,7 +1220,7 @@
       8
     ],
     "id": 39,
-    "label": "\u8ABF\u5408\u7D20\u6750\u30C9\u30ED\u30C3\u30D72\u500D\uFF01",
+    "label": "調合素材ドロップ2倍！",
     "mission_rewards": [],
     "start_at": "2024-05-31T03:00:00.0000000Z",
     "target_resource": {
@@ -1291,7 +1291,7 @@
       11
     ],
     "id": 40,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2024-06-10T03:00:00.0000000Z",
     "target_resource": null
@@ -1306,7 +1306,7 @@
       8
     ],
     "id": 41,
-    "label": "\u8ABF\u5408\u7D20\u6750\u30C9\u30ED\u30C3\u30D72\u500D\uFF01",
+    "label": "調合素材ドロップ2倍！",
     "mission_rewards": [],
     "start_at": "2024-06-28T03:00:00.0000000Z",
     "target_resource": {
@@ -1377,7 +1377,7 @@
       11
     ],
     "id": 42,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2024-06-21T03:00:00.0000000Z",
     "target_resource": null
@@ -1394,7 +1394,7 @@
       2
     ],
     "id": 43,
-    "label": "\u30C9\u30ED\u30C3\u30D7\u91CF\uFF0B100%\uFF01",
+    "label": "ドロップ量＋100%！",
     "mission_rewards": [],
     "start_at": "2024-07-10T03:00:00.0000000Z",
     "target_resource": {
@@ -1457,7 +1457,7 @@
       8
     ],
     "id": 44,
-    "label": "\u30C9\u30ED\u30C3\u30D7\u91CF\uFF0B100%\uFF01",
+    "label": "ドロップ量＋100%！",
     "mission_rewards": [],
     "start_at": "2024-07-10T03:00:00.0000000Z",
     "target_resource": {
@@ -1531,7 +1531,7 @@
       11
     ],
     "id": 45,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2024-07-31T03:00:00.0000000Z",
     "target_resource": null
@@ -1595,7 +1595,7 @@
       11
     ],
     "id": 46,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2024-08-09T03:00:00.0000000Z",
     "target_resource": null
@@ -1659,7 +1659,7 @@
       11
     ],
     "id": 47,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2024-08-21T03:00:00.0000000Z",
     "target_resource": null
@@ -1676,7 +1676,7 @@
       2
     ],
     "id": 48,
-    "label": "\u30C9\u30ED\u30C3\u30D7\u91CF\uFF0B100%\uFF01",
+    "label": "ドロップ量＋100%！",
     "mission_rewards": [],
     "start_at": "2024-08-30T03:00:00.0000000Z",
     "target_resource": {
@@ -1740,7 +1740,7 @@
       8
     ],
     "id": 49,
-    "label": "\u30C9\u30ED\u30C3\u30D7\u91CF\uFF0B100%\uFF01",
+    "label": "ドロップ量＋100%！",
     "mission_rewards": [],
     "start_at": "2024-08-30T03:00:00.0000000Z",
     "target_resource": {
@@ -1814,7 +1814,7 @@
       11
     ],
     "id": 50,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2024-09-11T03:00:00.0000000Z",
     "target_resource": null
@@ -1883,7 +1883,7 @@
       11
     ],
     "id": 51,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2024-09-19T03:00:00.0000000Z",
     "target_resource": null
@@ -1898,7 +1898,7 @@
       8
     ],
     "id": 52,
-    "label": "\u8ABF\u5408\u7D20\u6750\u30C9\u30ED\u30C3\u30D72\u500D\uFF01",
+    "label": "調合素材ドロップ2倍！",
     "mission_rewards": [],
     "start_at": "2024-09-30T03:00:00.0000000Z",
     "target_resource": {
@@ -1974,7 +1974,7 @@
       11
     ],
     "id": 53,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2024-10-11T03:00:00.0000000Z",
     "target_resource": null
@@ -2043,7 +2043,7 @@
       11
     ],
     "id": 54,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2024-10-31T03:00:00.0000000Z",
     "target_resource": null
@@ -2112,7 +2112,7 @@
       11
     ],
     "id": 55,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2024-11-08T03:00:00.0000000Z",
     "target_resource": null
@@ -2181,7 +2181,7 @@
       11
     ],
     "id": 56,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2024-11-15T03:00:00.0000000Z",
     "target_resource": null
@@ -2250,7 +2250,7 @@
       11
     ],
     "id": 57,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2024-11-22T03:00:00.0000000Z",
     "target_resource": null
@@ -2265,7 +2265,7 @@
       8
     ],
     "id": 58,
-    "label": "\u8ABF\u5408\u7D20\u6750\u30C9\u30ED\u30C3\u30D72\u500D\uFF01",
+    "label": "調合素材ドロップ2倍！",
     "mission_rewards": [],
     "start_at": "2024-11-29T03:00:00.0000000Z",
     "target_resource": {
@@ -2341,7 +2341,7 @@
       11
     ],
     "id": 59,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2024-11-29T03:00:00.0000000Z",
     "target_resource": null
@@ -2410,7 +2410,7 @@
       11
     ],
     "id": 60,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2024-12-13T03:00:00.0000000Z",
     "target_resource": null
@@ -2479,7 +2479,7 @@
       11
     ],
     "id": 61,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2024-12-31T15:00:00.0000000Z",
     "target_resource": null
@@ -2496,7 +2496,7 @@
       2
     ],
     "id": 62,
-    "label": "\u30C9\u30ED\u30C3\u30D7\u91CF\uFF0B100%\uFF01",
+    "label": "ドロップ量＋100%！",
     "mission_rewards": [],
     "start_at": "2025-01-01T03:00:00.0000000Z",
     "target_resource": {
@@ -2560,7 +2560,7 @@
       8
     ],
     "id": 63,
-    "label": "\u30C9\u30ED\u30C3\u30D7\u91CF\uFF0B100%\uFF01",
+    "label": "ドロップ量＋100%！",
     "mission_rewards": [],
     "start_at": "2025-01-01T03:00:00.0000000Z",
     "target_resource": {
@@ -2639,7 +2639,7 @@
       11
     ],
     "id": 64,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2025-01-10T03:00:00.0000000Z",
     "target_resource": null
@@ -2651,7 +2651,7 @@
     "end_at": "2024-12-27T03:00:00.0000000Z",
     "episode_categories": [],
     "id": 65,
-    "label": "\u8ABF\u5408\u30DC\u30FC\u30CA\u30B9\u767A\u751F\u4E2D\uFF01",
+    "label": "調合ボーナス発生中！",
     "mission_rewards": [],
     "start_at": "2024-12-13T03:00:00.0000000Z",
     "target_resource": null
@@ -2720,7 +2720,7 @@
       11
     ],
     "id": 66,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2025-01-24T03:00:00.0000000Z",
     "target_resource": null
@@ -2734,7 +2734,7 @@
       7
     ],
     "id": 100001,
-    "label": "\u8ABF\u5408\u7D20\u6750\u30C9\u30ED\u30C3\u30D72\u500D\uFF01",
+    "label": "調合素材ドロップ2倍！",
     "mission_rewards": [],
     "start_at": "2025-01-17T03:00:00.0000000Z",
     "target_resource": {
@@ -2755,7 +2755,7 @@
       7
     ],
     "id": 100002,
-    "label": "\u8ABF\u5408\u7D20\u6750\u30C9\u30ED\u30C3\u30D72\u500D\uFF01",
+    "label": "調合素材ドロップ2倍！",
     "mission_rewards": [],
     "start_at": "2025-02-28T03:00:00.0000000Z",
     "target_resource": {
@@ -2779,7 +2779,7 @@
       2
     ],
     "id": 100003,
-    "label": "\u30C9\u30ED\u30C3\u30D7\u91CF\uFF0B100%\uFF01",
+    "label": "ドロップ量＋100%！",
     "mission_rewards": [],
     "start_at": "2025-03-06T03:00:00.0000000Z",
     "target_resource": {
@@ -2843,7 +2843,7 @@
       8
     ],
     "id": 100004,
-    "label": "\u30C9\u30ED\u30C3\u30D7\u91CF\uFF0B100%\uFF01",
+    "label": "ドロップ量＋100%！",
     "mission_rewards": [],
     "start_at": "2025-03-06T03:00:00.0000000Z",
     "target_resource": {
@@ -2922,7 +2922,7 @@
       11
     ],
     "id": 200001,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2025-01-31T03:00:00.0000000Z",
     "target_resource": null
@@ -2991,7 +2991,7 @@
       11
     ],
     "id": 200002,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2025-02-14T03:00:00.0000000Z",
     "target_resource": null
@@ -3060,7 +3060,7 @@
       11
     ],
     "id": 200003,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2025-02-21T03:00:00.0000000Z",
     "target_resource": null
@@ -3129,78 +3129,9 @@
       11
     ],
     "id": 200004,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
+    "label": "挑戦券ドロップ中！",
     "mission_rewards": [],
     "start_at": "2025-03-12T03:00:00.0000000Z",
-    "target_resource": null
-  },
-  {
-    "additional_reward": {
-      "id": 938,
-      "quantity": 0,
-      "quantity_per_mana": 0,
-      "quantity_table": [
-        {
-          "max_character_level": 1,
-          "quantity": 0,
-          "quantity_per_stamina": 0.2
-        },
-        {
-          "max_character_level": 21,
-          "quantity": 0,
-          "quantity_per_stamina": 0.3
-        },
-        {
-          "max_character_level": 31,
-          "quantity": 0,
-          "quantity_per_stamina": 0.4
-        },
-        {
-          "max_character_level": 41,
-          "quantity": 0,
-          "quantity_per_stamina": 0.5
-        },
-        {
-          "max_character_level": 51,
-          "quantity": 0,
-          "quantity_per_stamina": 0.6
-        },
-        {
-          "max_character_level": 61,
-          "quantity": 0,
-          "quantity_per_stamina": 0.7
-        },
-        {
-          "max_character_level": 71,
-          "quantity": 0,
-          "quantity_per_stamina": 0.8
-        },
-        {
-          "max_character_level": 81,
-          "quantity": 0,
-          "quantity_per_stamina": 0.9
-        }
-      ],
-      "type": 5
-    },
-    "bonus_rate": 0,
-    "category": 2,
-    "end_at": "2025-03-31T03:00:00.0000000Z",
-    "episode_categories": [
-      2,
-      3,
-      4,
-      5,
-      8,
-      7,
-      12,
-      13,
-      11
-    ],
-    "id": 200005,
-    "label": "\u6311\u6226\u5238\u30C9\u30ED\u30C3\u30D7\u4E2D\uFF01",
-    "mission_rewards": [],
-    "start_at": "2025-03-17T03:00:00.0000000Z",
     "target_resource": null
   }
 ]

@@ -1,23 +1,23 @@
 [
   {
     "background_image_path_hash": 0,
-    "description": "\u521D\u7D1A\u30DF\u30C3\u30B7\u30E7\u30F3",
+    "description": "初級ミッション",
     "id": 1,
-    "name": "\u521D\u7D1A\u30DF\u30C3\u30B7\u30E7\u30F3",
+    "name": "初級ミッション",
     "step_reward_set_id": 30052
   },
   {
     "background_image_path_hash": 0,
-    "description": "\u4E2D\u7D1A\u30DF\u30C3\u30B7\u30E7\u30F3",
+    "description": "中級ミッション",
     "id": 2,
-    "name": "\u4E2D\u7D1A\u30DF\u30C3\u30B7\u30E7\u30F3",
+    "name": "中級ミッション",
     "step_reward_set_id": 30049
   },
   {
     "background_image_path_hash": 0,
-    "description": "\u4E0A\u7D1A\u30DF\u30C3\u30B7\u30E7\u30F3",
+    "description": "上級ミッション",
     "id": 3,
-    "name": "\u4E0A\u7D1A\u30DF\u30C3\u30B7\u30E7\u30F3",
+    "name": "上級ミッション",
     "step_reward_set_id": 30050
   }
 ]

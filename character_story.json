@@ -7,7 +7,7 @@
     "key_quest_id": null,
     "key_stories": [],
     "key_tasks": [],
-    "name": "\u88C5\u98FE\u5C4B\u30DF\u30FC\u30B1\u306E\u4E00\u65E5",
+    "name": "装飾屋ミーケの一日",
     "rewards": [
       {
         "id": 1,
@@ -36,10 +36,10 @@
       {
         "condition_id": 1229,
         "count": 200,
-        "name": "\u30A4\u30D9\u30F3\u30C8\u30DD\u30A4\u30F3\u30C8\u3092200\u5165\u624B"
+        "name": "イベントポイントを200入手"
       }
     ],
-    "name": "\u5F79\u4EBA\u306E\u8A98\u3044",
+    "name": "役人の誘い",
     "rewards": [
       {
         "id": 1,
@@ -65,7 +65,7 @@
       }
     ],
     "key_tasks": [],
-    "name": "\u3010IF\u3011\u201C\u30DF\u30FC\u30B1\u201D",
+    "name": "【IF】“ミーケ”",
     "rewards": [],
     "start_at": "2024-11-08T03:00:00.0000000Z",
     "subsequent_branch": false,
@@ -87,10 +87,10 @@
       {
         "condition_id": 1229,
         "count": 400,
-        "name": "\u30A4\u30D9\u30F3\u30C8\u30DD\u30A4\u30F3\u30C8\u3092400\u5165\u624B"
+        "name": "イベントポイントを400入手"
       }
     ],
-    "name": "\u5D50",
+    "name": "嵐",
     "rewards": [
       {
         "id": 1,
@@ -119,10 +119,10 @@
       {
         "condition_id": 1229,
         "count": 600,
-        "name": "\u30A4\u30D9\u30F3\u30C8\u30DD\u30A4\u30F3\u30C8\u3092600\u5165\u624B"
+        "name": "イベントポイントを600入手"
       }
     ],
-    "name": "\u8CED\u3051",
+    "name": "賭け",
     "rewards": [
       {
         "id": 1,
@@ -148,7 +148,7 @@
       }
     ],
     "key_tasks": [],
-    "name": "\u3010IF\u3011\u3042\u308A\u3075\u308C\u305F\u65E5\u5E38",
+    "name": "【IF】ありふれた日常",
     "rewards": [],
     "start_at": "2024-11-08T03:00:00.0000000Z",
     "subsequent_branch": false,
@@ -162,7 +162,7 @@
     "key_quest_id": null,
     "key_stories": [],
     "key_tasks": [],
-    "name": "\u6B4C\u59EB\u30C7\u30A3\u30AA\u30FC\u30CA\u306E\u4E00\u65E5",
+    "name": "歌姫ディオーナの一日",
     "rewards": [
       {
         "id": 1,
@@ -191,10 +191,10 @@
       {
         "condition_id": 1229,
         "count": 700,
-        "name": "\u30A4\u30D9\u30F3\u30C8\u30DD\u30A4\u30F3\u30C8\u3092700\u5165\u624B"
+        "name": "イベントポイントを700入手"
       }
     ],
-    "name": "\u6E80\u305F\u3055\u308C\u306A\u3044\u65E5\u3005",
+    "name": "満たされない日々",
     "rewards": [
       {
         "id": 1,
@@ -223,10 +223,10 @@
       {
         "condition_id": 1229,
         "count": 900,
-        "name": "\u30A4\u30D9\u30F3\u30C8\u30DD\u30A4\u30F3\u30C8\u3092900\u5165\u624B"
+        "name": "イベントポイントを900入手"
       }
     ],
-    "name": "\u82BD\u5439\u3044\u305F\u8594\u8587",
+    "name": "芽吹いた薔薇",
     "rewards": [
       {
         "id": 1,
@@ -252,7 +252,7 @@
       }
     ],
     "key_tasks": [],
-    "name": "\u3010IF\u3011\u660E\u308B\u3044\u672A\u6765",
+    "name": "【IF】明るい未来",
     "rewards": [],
     "start_at": "2024-11-08T03:00:00.0000000Z",
     "subsequent_branch": false,
@@ -274,10 +274,10 @@
       {
         "condition_id": 1229,
         "count": 1100,
-        "name": "\u30A4\u30D9\u30F3\u30C8\u30DD\u30A4\u30F3\u30C8\u30921100\u5165\u624B"
+        "name": "イベントポイントを1100入手"
       }
     ],
-    "name": "\u3042\u306E\u4EBA\u306E\u6B63\u4F53",
+    "name": "あの人の正体",
     "rewards": [
       {
         "id": 1,
@@ -306,10 +306,10 @@
       {
         "condition_id": 1229,
         "count": 1300,
-        "name": "\u30A4\u30D9\u30F3\u30C8\u30DD\u30A4\u30F3\u30C8\u30921300\u5165\u624B"
+        "name": "イベントポイントを1300入手"
       }
     ],
-    "name": "\u6C7A\u65AD\u306E\u6642",
+    "name": "決断の時",
     "rewards": [
       {
         "id": 1,
@@ -335,7 +335,7 @@
       }
     ],
     "key_tasks": [],
-    "name": "\u3010IF\u3011\u30C9\u30E9\u30A4\u30D5\u30E9\u30EF\u30FC",
+    "name": "【IF】ドライフラワー",
     "rewards": [],
     "start_at": "2024-11-08T03:00:00.0000000Z",
     "subsequent_branch": false,
@@ -361,10 +361,10 @@
       {
         "condition_id": 1229,
         "count": 1600,
-        "name": "\u30A4\u30D9\u30F3\u30C8\u30DD\u30A4\u30F3\u30C8\u30921600\u5165\u624B"
+        "name": "イベントポイントを1600入手"
       }
     ],
-    "name": "\u65B0\u305F\u306A\u65E5\u5E38",
+    "name": "新たな日常",
     "rewards": [
       {
         "id": 1,
@@ -390,7 +390,7 @@
       }
     ],
     "key_tasks": [],
-    "name": "\u3010IF\u3011\u307E\u3060\u307E\u3060\u3053\u308C\u304B\u3089\uFF01",
+    "name": "【IF】まだまだこれから！",
     "rewards": [],
     "start_at": "2024-11-08T03:00:00.0000000Z",
     "subsequent_branch": false,
@@ -412,10 +412,10 @@
       {
         "condition_id": 1229,
         "count": 1700,
-        "name": "\u30A4\u30D9\u30F3\u30C8\u30DD\u30A4\u30F3\u30C8\u30921700\u5165\u624B"
+        "name": "イベントポイントを1700入手"
       }
     ],
-    "name": "\u6E07\u304D\u306E\u4E2D\u3067\u54B2\u304F\u82B1\u305F\u3061",
+    "name": "渇きの中で咲く花たち",
     "rewards": [
       {
         "id": 1,
@@ -444,10 +444,10 @@
       {
         "condition_id": 1229,
         "count": 1700,
-        "name": "\u30A4\u30D9\u30F3\u30C8\u30DD\u30A4\u30F3\u30C8\u30921700\u5165\u624B\n"
+        "name": "イベントポイントを1700入手\n"
       }
     ],
-    "name": "\u3010\u5C0F\u8A71\u3011\u30D3\u30FC\u30C3\u30B0\u306A\u4E21\u89AA",
+    "name": "【小話】ビーッグな両親",
     "rewards": [
       {
         "id": 1,
@@ -473,7 +473,7 @@
       }
     ],
     "key_tasks": [],
-    "name": "\u3010\u5C0F\u8A71\u3011\u3042\u308B\u8239\u4E57\u308A\u306E\u8A71",
+    "name": "【小話】ある船乗りの話",
     "rewards": [
       {
         "id": 1,
@@ -502,10 +502,10 @@
       {
         "condition_id": 1229,
         "count": 1700,
-        "name": "\u30A4\u30D9\u30F3\u30C8\u30DD\u30A4\u30F3\u30C8\u30921700\u5165\u624B\n"
+        "name": "イベントポイントを1700入手\n"
       }
     ],
-    "name": "\u3010\u5C0F\u8A71\u3011\u60C5\u71B1\u6D3E\u6B4C\u624B",
+    "name": "【小話】情熱派歌手",
     "rewards": [
       {
         "id": 1,
@@ -531,7 +531,7 @@
       }
     ],
     "key_tasks": [],
-    "name": "\u3010\u5C0F\u8A71\u3011\u3042\u308B\u9A0E\u58EB\u306E\u8A71",
+    "name": "【小話】ある騎士の話",
     "rewards": [
       {
         "id": 1,
@@ -552,7 +552,7 @@
     "key_quest_id": null,
     "key_stories": [],
     "key_tasks": [],
-    "name": "\u55A7\u5629\u5C4B\u30DE\u30AF\u30C0\u306E\u4E00\u65E5",
+    "name": "喧嘩屋マクダの一日",
     "rewards": [
       {
         "id": 1,
@@ -581,10 +581,10 @@
       {
         "condition_id": 1329,
         "count": 200,
-        "name": "\u30A4\u30D9\u30F3\u30C8\u30DD\u30A4\u30F3\u30C8\u3092200\u5165\u624B\n"
+        "name": "イベントポイントを200入手\n"
       }
     ],
-    "name": "\u30AA\u30EA\u30D0\u30FC\u306E\u6307\u4EE4",
+    "name": "オリバーの指令",
     "rewards": [
       {
         "id": 1,
@@ -610,7 +610,7 @@
       }
     ],
     "key_tasks": [],
-    "name": "\u3010IF\u3011\u6226\u3044\u305F\u304B\u3063\u305F\u305C\uFF01",
+    "name": "【IF】戦いたかったぜ！",
     "rewards": [],
     "start_at": "2024-11-15T03:00:00.0000000Z",
     "subsequent_branch": false,
@@ -632,10 +632,10 @@
       {
         "condition_id": 1329,
         "count": 400,
-        "name": "\u30A4\u30D9\u30F3\u30C8\u30DD\u30A4\u30F3\u30C8\u3092400\u5165\u624B\n"
+        "name": "イベントポイントを400入手\n"
       }
     ],
-    "name": "\u307F\u3093\u306A\u306F\u3069\u3053\u3060\uFF1F",
+    "name": "みんなはどこだ？",
     "rewards": [
       {
         "id": 1,
@@ -661,7 +661,7 @@
       }
     ],
     "key_tasks": [],
-    "name": "\u3010IF\u3011\u61F2\u3089\u3057\u3081\u3066\u3084\u3093\u3088\uFF01",
+    "name": "【IF】懲らしめてやんよ！",
     "rewards": [],
     "start_at": "2024-11-15T03:00:00.0000000Z",
     "subsequent_branch": false,
@@ -683,10 +683,10 @@
       {
         "condition_id": 1329,
         "count": 600,
-        "name": "\u30A4\u30D9\u30F3\u30C8\u30DD\u30A4\u30F3\u30C8\u3092600\u5165\u624B\n"
+        "name": "イベントポイントを600入手\n"
       }
     ],
-    "name": "\u602A\u3057\u3052\u306A\u6C17\u914D",
+    "name": "怪しげな気配",
     "rewards": [
       {
         "id": 1,
@@ -707,7 +707,7 @@
     "key_quest_id": null,
     "key_stories": [],
     "key_tasks": [],
-    "name": "\u932C\u91D1\u7235\u30D6\u30E9\u30C3\u30C9\u306E\u4E00\u65E5",
+    "name": "錬金爵ブラッドの一日",
     "rewards": [
       {
         "id": 1,
@@ -736,10 +736,10 @@
       {
         "condition_id": 1329,
         "count": 900,
-        "name": "\u30A4\u30D9\u30F3\u30C8\u30DD\u30A4\u30F3\u30C8\u3092900\u5165\u624B\n"
+        "name": "イベントポイントを900入手\n"
       }
     ],
-    "name": "\u5922\u7269\u8A9E",
+    "name": "夢物語",
     "rewards": [
       {
         "id": 1,
@@ -765,7 +765,7 @@
       }
     ],
     "key_tasks": [],
-    "name": "\u3010IF\u3011\u201C\u6C37\u306E\u30D6\u30E9\u30C3\u30C9\u201D",
+    "name": "【IF】“氷のブラッド”",
     "rewards": [],
     "start_at": "2024-11-15T03:00:00.0000000Z",
     "subsequent_branch": false,
@@ -787,10 +787,10 @@
       {
         "condition_id": 1329,
         "count": 1000,
-        "name": "\u30A4\u30D9\u30F3\u30C8\u30DD\u30A4\u30F3\u30C8\u30921000\u5165\u624B\n"
+        "name": "イベントポイントを1000入手\n"
       }
     ],
-    "name": "\u50B7\u8DE1\u6B8B\u308B\u6E7E\u5CB8\u5730\u533A",
+    "name": "傷跡残る湾岸地区",
     "rewards": [
       {
         "id": 1,
@@ -816,7 +816,7 @@
       }
     ],
     "key_tasks": [],
-    "name": "\u3010IF\u3011\u505C\u6EDE",
+    "name": "【IF】停滞",
     "rewards": [],
     "start_at": "2024-11-15T03:00:00.0000000Z",
     "subsequent_branch": false,
@@ -838,10 +838,10 @@
       {
         "condition_id": 1329,
         "count": 1100,
-        "name": "\u30A4\u30D9\u30F3\u30C8\u30DD\u30A4\u30F3\u30C8\u30921100\u5165\u624B\n"
+        "name": "イベントポイントを1100入手\n"
       }
     ],
-    "name": "\u8CB4\u91CD\u306A\u4EBA\u6750",
+    "name": "貴重な人材",
     "rewards": [
       {
         "id": 1,
@@ -874,10 +874,10 @@
       {
         "condition_id": 1329,
         "count": 1400,
-        "name": "\u30A4\u30D9\u30F3\u30C8\u30DD\u30A4\u30F3\u30C8\u30921400\u5165\u624B\n"
+        "name": "イベントポイントを1400入手\n"
       }
     ],
-    "name": "\u5171\u540C\u6226\u7DDA",
+    "name": "共同戦線",
     "rewards": [
       {
         "id": 1,
@@ -906,10 +906,10 @@
       {
         "condition_id": 1329,
         "count": 1500,
-        "name": "\u30A4\u30D9\u30F3\u30C8\u30DD\u30A4\u30F3\u30C8\u30921500\u5165\u624B\n"
+        "name": "イベントポイントを1500入手\n"
       }
     ],
-    "name": "\u8EAB\u8FBA\u8ABF\u67FB",
+    "name": "身辺調査",
     "rewards": [
       {
         "id": 1,
@@ -938,10 +938,10 @@
       {
         "condition_id": 1329,
         "count": 1600,
-        "name": "\u30A4\u30D9\u30F3\u30C8\u30DD\u30A4\u30F3\u30C8\u30921600\u5165\u624B\n"
+        "name": "イベントポイントを1600入手\n"
       }
     ],
-    "name": "\u98DF\u4E8B\u306E\u304A\u8A98\u3044",
+    "name": "食事のお誘い",
     "rewards": [
       {
         "id": 1,
@@ -967,7 +967,7 @@
       }
     ],
     "key_tasks": [],
-    "name": "\u3010IF\u3011\u4ED5\u4E8B\u4E0A\u306E\u4ED8\u304D\u5408\u3044",
+    "name": "【IF】仕事上の付き合い",
     "rewards": [],
     "start_at": "2024-11-15T03:00:00.0000000Z",
     "subsequent_branch": false,
@@ -989,10 +989,10 @@
       {
         "condition_id": 1329,
         "count": 1700,
-        "name": "\u30A4\u30D9\u30F3\u30C8\u30DD\u30A4\u30F3\u30C8\u30921700\u5165\u624B\n"
+        "name": "イベントポイントを1700入手\n"
       }
     ],
-    "name": "\u6DF7\u6C8C\u3068\u898F\u5F8B\u306E\u9082\u9005",
+    "name": "混沌と規律の邂逅",
     "rewards": [
       {
         "id": 1,
@@ -1021,10 +1021,10 @@
       {
         "condition_id": 1329,
         "count": 1700,
-        "name": "\u30A4\u30D9\u30F3\u30C8\u30DD\u30A4\u30F3\u30C8\u30921700\u5165\u624B\n"
+        "name": "イベントポイントを1700入手\n"
       }
     ],
-    "name": "\u3010\u5C0F\u8A71\u3011\u97F3\u697D\u3068\u4EBA\u751F",
+    "name": "【小話】音楽と人生",
     "rewards": [
       {
         "id": 1,
@@ -1050,7 +1050,7 @@
       }
     ],
     "key_tasks": [],
-    "name": "\u3010\u5C0F\u8A71\u3011\u610F\u5916\u3068\u5BB6\u5EAD\u7684\uFF1F",
+    "name": "【小話】意外と家庭的？",
     "rewards": [
       {
         "id": 1,
@@ -1079,10 +1079,10 @@
       {
         "condition_id": 1329,
         "count": 1700,
-        "name": "\u30A4\u30D9\u30F3\u30C8\u30DD\u30A4\u30F3\u30C8\u30921700\u5165\u624B\n"
+        "name": "イベントポイントを1700入手\n"
       }
     ],
-    "name": "\u3010\u5C0F\u8A71\u3011\u8CA0\u3051\u305A\u5ACC\u3044",
+    "name": "【小話】負けず嫌い",
     "rewards": [
       {
         "id": 1,
@@ -1108,7 +1108,7 @@
       }
     ],
     "key_tasks": [],
-    "name": "\u3010\u5C0F\u8A71\u3011\u4E00\u679A\u4E0A\u624B",
+    "name": "【小話】一枚上手",
     "rewards": [
       {
         "id": 1,
@@ -1134,7 +1134,7 @@
       }
     ],
     "key_tasks": [],
-    "name": "\u3010\u5C0F\u8A71\u3011\u5F8C\u59CB\u672B",
+    "name": "【小話】後始末",
     "rewards": [
       {
         "id": 1,

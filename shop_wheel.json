@@ -1,7 +1,7 @@
 [
   {
     "daily_count_limit": 6,
-    "description": "1\u56DE\u306E\u52D5\u753B\u5E83\u544A\u8996\u8074\u306B\u3064\u304D\n\u30E9\u30F3\u30C0\u30E0\u3067\u7121\u511F\u661F\u5C0E\u77F3\n10\u301C300\u500B\u7372\u5F97",
+    "description": "1回の動画広告視聴につき\nランダムで無償星導石\n10〜300個獲得",
     "end_at": null,
     "id": 1,
     "platforms": [
@@ -15,7 +15,7 @@
   },
   {
     "daily_count_limit": 3,
-    "description": "1\u56DE\u306E\u52D5\u753B\u5E83\u544A\u8996\u8074\u306B\u3064\u304D\n\u30E9\u30F3\u30C0\u30E0\u3067\u624B\u5305\u307F\u30DF\u30CB\u30AF\u30C3\u30AD\u30FC\n1\u301C30\u500B\u7372\u5F97",
+    "description": "1回の動画広告視聴につき\nランダムで手包みミニクッキー\n1〜30個獲得",
     "end_at": "2023-12-31T15:00:00.0000000Z",
     "id": 2,
     "platforms": [
@@ -29,7 +29,7 @@
   },
   {
     "daily_count_limit": 3,
-    "description": "1\u56DE\u306E\u52D5\u753B\u5E83\u544A\u8996\u8074\u306B\u3064\u304D\n\u30E9\u30F3\u30C0\u30E0\u3067\u624B\u5305\u307F\u30DF\u30CB\u30AF\u30C3\u30AD\u30FC\n1\u301C30\u500B\u7372\u5F97",
+    "description": "1回の動画広告視聴につき\nランダムで手包みミニクッキー\n1〜30個獲得",
     "end_at": null,
     "id": 3,
     "platforms": [

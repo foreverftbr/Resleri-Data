@@ -3,7 +3,7 @@
     "episode_id": 101001,
     "id": 1,
     "key_quest_id": 101001001,
-    "name": "\u5E8F\u7AE0\u3000\u5148\u8F29\u3001\u304A\u521D\u306B\u304A\u76EE\u306B\u304B\u304B\u308A\u307E\u3059",
+    "name": "序章\u3000先輩、お初にお目にかかります",
     "priority": 1,
     "recollection_season_id": 1,
     "still_path_hash_list": [
@@ -15,7 +15,7 @@
     "episode_id": 101002,
     "id": 2,
     "key_quest_id": 101002001,
-    "name": "\u7B2C\uFF11\u7AE0\u3000\u738B\u90FD\u306B\u3066",
+    "name": "第１章\u3000王都にて",
     "priority": 2,
     "recollection_season_id": 1,
     "still_path_hash_list": [
@@ -27,7 +27,7 @@
     "episode_id": 101003,
     "id": 3,
     "key_quest_id": 101003001,
-    "name": "\u7B2C\uFF12\u7AE0\u3000\u6708\u5F71\u306E\u4F1A",
+    "name": "第２章\u3000月影の会",
     "priority": 3,
     "recollection_season_id": 1,
     "still_path_hash_list": [
@@ -39,7 +39,7 @@
     "episode_id": 101004,
     "id": 4,
     "key_quest_id": 101004001,
-    "name": "\u7B2C\uFF13\u7AE0\u3000\u30EC\u30B9\u30CA\u3068\u30F4\u30A1\u30EC\u30EA\u30A2",
+    "name": "第３章\u3000レスナとヴァレリア",
     "priority": 4,
     "recollection_season_id": 1,
     "still_path_hash_list": [
@@ -51,7 +51,7 @@
     "episode_id": 101005,
     "id": 5,
     "key_quest_id": 101005001,
-    "name": "\u7B2C\uFF14\u7AE0\u3000\u30F4\u30A1\u30EC\u30EA\u30A2\u306E\u9858\u3044",
+    "name": "第４章\u3000ヴァレリアの願い",
     "priority": 5,
     "recollection_season_id": 1,
     "still_path_hash_list": [
@@ -63,7 +63,7 @@
     "episode_id": 101006,
     "id": 6,
     "key_quest_id": 101006001,
-    "name": "\u7B2C\uFF15\u7AE0\u3000\u5916\u306E\u4E16\u754C",
+    "name": "第５章\u3000外の世界",
     "priority": 6,
     "recollection_season_id": 1,
     "still_path_hash_list": [
@@ -75,7 +75,7 @@
     "episode_id": 101007,
     "id": 7,
     "key_quest_id": 101007001,
-    "name": "\u7B2C\uFF16\u7AE0\u3000\u79C1\u306E\u3068\u306A\u308A",
+    "name": "第６章\u3000私のとなり",
     "priority": 7,
     "recollection_season_id": 1,
     "still_path_hash_list": [
@@ -87,7 +87,7 @@
     "episode_id": 101008,
     "id": 8,
     "key_quest_id": 101008001,
-    "name": "\u7B2C\uFF17\u7AE0\u3000\u6D6A\u6F2B\u306E\u679C\u3066\u306B",
+    "name": "第７章\u3000浪漫の果てに",
     "priority": 8,
     "recollection_season_id": 1,
     "still_path_hash_list": [
@@ -99,7 +99,7 @@
     "episode_id": 101009,
     "id": 9,
     "key_quest_id": 101009001,
-    "name": "\u7B2C\uFF18\u7AE0\u3000\u9A0E\u58EB\u305F\u3061",
+    "name": "第８章\u3000騎士たち",
     "priority": 9,
     "recollection_season_id": 1,
     "still_path_hash_list": [
@@ -111,7 +111,7 @@
     "episode_id": 101010,
     "id": 10,
     "key_quest_id": 101010001,
-    "name": "\u7B2C\uFF19\u7AE0\u3000\u76EE\u899A\u3081\u305F\u707D\u5384",
+    "name": "第９章\u3000目覚めた災厄",
     "priority": 10,
     "recollection_season_id": 1,
     "still_path_hash_list": [
@@ -123,7 +123,7 @@
     "episode_id": 101011,
     "id": 11,
     "key_quest_id": 101011001,
-    "name": "\u7B2C\uFF11\uFF10\u7AE0\u3000\u305D\u308C\u305E\u308C\u306E\u899A\u609F",
+    "name": "第１０章\u3000それぞれの覚悟",
     "priority": 11,
     "recollection_season_id": 1,
     "still_path_hash_list": [
@@ -135,7 +135,7 @@
     "episode_id": 101012,
     "id": 12,
     "key_quest_id": 101012001,
-    "name": "\u7B2C\uFF11\uFF11\u7AE0\u3000\u30E9\u30F3\u30BF\u30FC\u30CA\u6700\u5F8C\u306E\u65E5",
+    "name": "第１１章\u3000ランターナ最後の日",
     "priority": 12,
     "recollection_season_id": 1,
     "still_path_hash_list": [
@@ -147,7 +147,7 @@
     "episode_id": 101014,
     "id": 13,
     "key_quest_id": 101014001,
-    "name": "\u7B2C\uFF11\uFF12\u7AE0\u3000\u89AA\u3068\u5B50\u3068",
+    "name": "第１２章\u3000親と子と",
     "priority": 13,
     "recollection_season_id": 1,
     "still_path_hash_list": [
@@ -159,7 +159,7 @@
     "episode_id": 101015,
     "id": 14,
     "key_quest_id": 101015001,
-    "name": "\u7B2C\uFF11\uFF13\u7AE0\u3000\u4E09\u3064\u5DF4",
+    "name": "第１３章\u3000三つ巴",
     "priority": 14,
     "recollection_season_id": 1,
     "still_path_hash_list": [
@@ -171,7 +171,7 @@
     "episode_id": 101016,
     "id": 15,
     "key_quest_id": 101016001,
-    "name": "\u7B2C\uFF11\uFF14\u7AE0\u3000\u5815\u3061\u305F\u7FBD",
+    "name": "第１４章\u3000堕ちた羽",
     "priority": 15,
     "recollection_season_id": 1,
     "still_path_hash_list": [
@@ -183,7 +183,7 @@
     "episode_id": 101017,
     "id": 16,
     "key_quest_id": 101017001,
-    "name": "\u7B2C\uFF11\uFF15\u7AE0\u3000\u541B\u304C\u751F\u307E\u308C\u305F\u65E5",
+    "name": "第１５章\u3000君が生まれた日",
     "priority": 16,
     "recollection_season_id": 1,
     "still_path_hash_list": [
@@ -195,7 +195,7 @@
     "episode_id": 101018,
     "id": 17,
     "key_quest_id": 101018001,
-    "name": "\u7B2C\uFF11\uFF16\u7AE0\u3000\u932C\u91D1\u8853\u58EB\u305F\u3061\u306E\u6669\u9910",
+    "name": "第１６章\u3000錬金術士たちの晩餐",
     "priority": 17,
     "recollection_season_id": 1,
     "still_path_hash_list": [
@@ -207,7 +207,7 @@
     "episode_id": 101019,
     "id": 18,
     "key_quest_id": 101019001,
-    "name": "\u7B2C\uFF11\uFF17\u7AE0\u3000\u9032\u8ECD\u9802\u7363\u5175\u56E3",
+    "name": "第１７章\u3000進軍頂獣兵団",
     "priority": 18,
     "recollection_season_id": 1,
     "still_path_hash_list": [
@@ -219,7 +219,7 @@
     "episode_id": 101020,
     "id": 19,
     "key_quest_id": 101020001,
-    "name": "\u7B2C\uFF11\uFF18\u7AE0\u3000\u4EA4\u932F\u3059\u308B\u904B\u547D",
+    "name": "第１８章\u3000交錯する運命",
     "priority": 19,
     "recollection_season_id": 1,
     "still_path_hash_list": [
@@ -231,7 +231,7 @@
     "episode_id": 101021,
     "id": 20,
     "key_quest_id": 101021001,
-    "name": "\u7B2C\uFF11\uFF19\u7AE0\u3000\u8A31\u3055\u308C\u305F\u3082\u306E",
+    "name": "第１９章\u3000許されたもの",
     "priority": 20,
     "recollection_season_id": 1,
     "still_path_hash_list": [
@@ -243,7 +243,7 @@
     "episode_id": 101022,
     "id": 21,
     "key_quest_id": 101022001,
-    "name": "\u7B2C\uFF12\uFF10\u7AE0\u3000\u7D04\u675F",
+    "name": "第２０章\u3000約束",
     "priority": 21,
     "recollection_season_id": 1,
     "still_path_hash_list": [
@@ -255,7 +255,7 @@
     "episode_id": 101023,
     "id": 22,
     "key_quest_id": 101023001,
-    "name": "\u7B2C\uFF12\uFF11\u7AE0\u3000\u30F4\u30A1\u30EC\u30EA\u30A2",
+    "name": "第２１章\u3000ヴァレリア",
     "priority": 22,
     "recollection_season_id": 1,
     "still_path_hash_list": [
@@ -267,7 +267,7 @@
     "episode_id": 101024,
     "id": 23,
     "key_quest_id": 101024001,
-    "name": "\u7B2C\uFF12\uFF12\u7AE0\u3000\u6297\u3046\u8005\u305F\u3061",
+    "name": "第２２章\u3000抗う者たち",
     "priority": 23,
     "recollection_season_id": 1,
     "still_path_hash_list": [
@@ -279,7 +279,7 @@
     "episode_id": 101025,
     "id": 24,
     "key_quest_id": 101025001,
-    "name": "\u7B2C\uFF12\uFF13\u7AE0\u3000\u65B0\u5929\u5730\u3078",
+    "name": "第２３章\u3000新天地へ",
     "priority": 24,
     "recollection_season_id": 1,
     "still_path_hash_list": [
@@ -291,20 +291,8 @@
     "episode_id": 101026,
     "id": 25,
     "key_quest_id": 101026001,
-    "name": "\u7B2C\uFF12\uFF14\u7AE0\u3000\u30A2\u30EB\u30D3\u30FC\u30CA\u306E\u30A2\u30C8\u30EA\u30A8",
+    "name": "第２４章\u3000アルビーナのアトリエ",
     "priority": 25,
-    "recollection_season_id": 1,
-    "still_path_hash_list": [
-      6898783142334157360
-    ],
-    "still_transition_key_quest_id": null
-  },
-  {
-    "episode_id": 101027,
-    "id": 26,
-    "key_quest_id": 101027001,
-    "name": "\u7B2C\uFF12\uFF15\u7AE0\u3000\u30EC\u30B9\u30CA\u3068\u30F4\u30A1\u30EC\u30EA\u30A2\u306E\u7E01",
-    "priority": 26,
     "recollection_season_id": 1,
     "still_path_hash_list": [
       6898783142334157360

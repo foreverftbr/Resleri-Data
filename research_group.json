@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "name": "\u6226\u95D8\u7814\u7A76",
+    "name": "戦闘研究",
     "priority": 1
   },
   {
     "id": 2,
-    "name": "\u932C\u91D1\u7814\u7A76",
+    "name": "錬金研究",
     "priority": 2
   },
   {
     "id": 3,
-    "name": "\u80B2\u6210\u7814\u7A76",
+    "name": "育成研究",
     "priority": 3
   }
 ]

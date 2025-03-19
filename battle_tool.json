@@ -1,11 +1,11 @@
 [
   {
     "attack_attributes": [],
-    "description": "HP\u304C\u6700\u3082\u6E1B\u3063\u3066\u3044\u308B\u5473\u65B91\u4EBA\u306EHP\u3092\u56DE\u5FA9",
+    "description": "HPが最も減っている味方1人のHPを回復",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 1,
     "large_still_path_hash": 3034299152807780982,
-    "name": "\u30D2\u30FC\u30EA\u30F3\u30B0\u30B5\u30EB\u30F4",
+    "name": "ヒーリングサルヴ",
     "quality_group_id": 8,
     "rarity": 1,
     "roles": [
@@ -23,11 +23,11 @@
     "attack_attributes": [
       5
     ],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u706B\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "現在HPが最も高い敵1体に火属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 2,
     "large_still_path_hash": 3572367564393938284,
-    "name": "\u30D5\u30E9\u30E0",
+    "name": "フラム",
     "quality_group_id": 4,
     "rarity": 1,
     "roles": [],
@@ -43,11 +43,11 @@
     "attack_attributes": [
       3
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u7A81\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "敵全体に突属性ダメージ",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 3,
     "large_still_path_hash": 7908019951420038454,
-    "name": "\u3046\u306B\u888B",
+    "name": "うに袋",
     "quality_group_id": 3,
     "rarity": 1,
     "roles": [],
@@ -61,11 +61,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306EHP\u3092\u56DE\u5FA9",
+    "description": "味方全員のHPを回復",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 4,
     "large_still_path_hash": 7756330180834304555,
-    "name": "\u30C9\u30E9\u30A4\u30D3\u30B9\u30AF",
+    "name": "ドライビスク",
     "quality_group_id": 9,
     "rarity": 2,
     "roles": [
@@ -86,11 +86,11 @@
       7,
       8
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u706B\u6C37\u96F7\u98A8\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に「火氷雷風属性耐性-{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 9,
     "id": 5,
     "large_still_path_hash": 4001855450449511029,
-    "name": "\u9B54\u5973\u306E\u79D8\u85AC",
+    "name": "魔女の秘薬",
     "quality_group_id": 12,
     "rarity": 1,
     "roles": [
@@ -112,11 +112,11 @@
       7,
       8
     ],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u706B\u6C37\u96F7\u98A8\u5C5E\u6027\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "味方全員に「火氷雷風属性スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 5,
     "id": 6,
     "large_still_path_hash": 3170837654370688361,
-    "name": "\u30CA\u30F3\u30C8\u30AB\u306E\u79D8\u85AC",
+    "name": "ナントカの秘薬",
     "quality_group_id": 20,
     "rarity": 1,
     "roles": [
@@ -134,11 +134,11 @@
     "attack_attributes": [
       3
     ],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u7A81\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "現在HPが最も高い敵1体に突属性ダメージ",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 7,
     "large_still_path_hash": 8082944745908124983,
-    "name": "\u30AF\u30E9\u30D5\u30C8",
+    "name": "クラフト",
     "quality_group_id": 3,
     "rarity": 2,
     "roles": [],
@@ -154,11 +154,11 @@
     "attack_attributes": [
       7
     ],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u96F7\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "現在HPが最も高い敵1体に雷属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 8,
     "large_still_path_hash": 2320693140322214743,
-    "name": "\u30C9\u30CA\u30FC\u30B9\u30C8\u30FC\u30F3",
+    "name": "ドナーストーン",
     "quality_group_id": 7,
     "rarity": 2,
     "roles": [],
@@ -172,11 +172,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306EHP\u309215%\u56DE\u5FA9",
+    "description": "味方全員のHPを15%回復",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 9,
     "large_still_path_hash": 8942378086386844425,
-    "name": "\u30D2\u30FC\u30EA\u30F3\u30B0\u30D9\u30EB",
+    "name": "ヒーリングベル",
     "quality_group_id": 9,
     "rarity": 3,
     "roles": [
@@ -192,11 +192,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306EHP\u309210%\u56DE\u5FA9",
+    "description": "味方全員のHPを10%回復",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 10,
     "large_still_path_hash": 8942378086386844425,
-    "name": "\u30D2\u30FC\u30EA\u30F3\u30B0\u30D9\u30EB",
+    "name": "ヒーリングベル",
     "quality_group_id": 9,
     "rarity": 2,
     "roles": [
@@ -217,11 +217,11 @@
       7,
       8
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u53D7\u3051\u308B\u9B54\u6CD5\u653B\u6483\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に「受ける魔法攻撃スキルダメージ+{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 9,
     "id": 11,
     "large_still_path_hash": 1707529736184800750,
-    "name": "\u6697\u9ED2\u6C34",
+    "name": "暗黒水",
     "quality_group_id": 12,
     "rarity": 3,
     "roles": [
@@ -242,11 +242,11 @@
       7,
       8
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u53D7\u3051\u308B\u9B54\u6CD5\u653B\u6483\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に「受ける魔法攻撃スキルダメージ+{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 9,
     "id": 12,
     "large_still_path_hash": 1707529736184800750,
-    "name": "\u6697\u9ED2\u6C34",
+    "name": "暗黒水",
     "quality_group_id": 12,
     "rarity": 2,
     "roles": [
@@ -266,11 +266,11 @@
       2,
       3
     ],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u53D7\u3051\u308B\u7269\u7406\u653B\u6483\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8-{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "味方全員に「受ける物理攻撃スキルダメージ-{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 4,
     "id": 13,
     "large_still_path_hash": 5449120664796661168,
-    "name": "\u7D20\u6734\u306A\u713C\u304D\u83D3\u5B50",
+    "name": "素朴な焼き菓子",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [],
@@ -289,11 +289,11 @@
       7,
       8
     ],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u53D7\u3051\u308B\u9B54\u6CD5\u653B\u6483\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8-{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "味方全員に「受ける魔法攻撃スキルダメージ-{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 5,
     "id": 14,
     "large_still_path_hash": 5771165010663414446,
-    "name": "\u795E\u79D8\u306E\u7FBD\u8863",
+    "name": "神秘の羽衣",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [],
@@ -307,11 +307,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u78BA\u7387\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "味方全員に「クリティカル確率+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 15,
     "large_still_path_hash": 881081961194830580,
-    "name": "\u30A6\u30A9\u30FC\u30D1\u30A6\u30C0\u30FC",
+    "name": "ウォーパウダー",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -327,11 +327,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u78BA\u7387\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "味方全員に「クリティカル確率+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 16,
     "large_still_path_hash": 881081961194830580,
-    "name": "\u30A6\u30A9\u30FC\u30D1\u30A6\u30C0\u30FC",
+    "name": "ウォーパウダー",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -349,11 +349,11 @@
     "attack_attributes": [
       1
     ],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u4F4E\u3044\u65751\u4F53\u306B\u65AC\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "現在HPが最も低い敵1体に斬属性ダメージ",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 17,
     "large_still_path_hash": 729812298005693933,
-    "name": "\u305F\u305F\u304B\u3046\u9B54\u5263",
+    "name": "たたかう魔剣",
     "quality_group_id": 1,
     "rarity": 3,
     "roles": [],
@@ -369,11 +369,11 @@
     "attack_attributes": [
       1
     ],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u4F4E\u3044\u65751\u4F53\u306B\u65AC\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "現在HPが最も低い敵1体に斬属性ダメージ",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 18,
     "large_still_path_hash": 729812298005693933,
-    "name": "\u305F\u305F\u304B\u3046\u9B54\u5263",
+    "name": "たたかう魔剣",
     "quality_group_id": 1,
     "rarity": 2,
     "roles": [],
@@ -389,11 +389,11 @@
     "attack_attributes": [
       5
     ],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u706B\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "現在HPが最も高い敵1体に火属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 19,
     "large_still_path_hash": 6200795928259159475,
-    "name": "\u30ED\u30FC\u30BC\u30D5\u30E9\u30E0",
+    "name": "ローゼフラム",
     "quality_group_id": 4,
     "rarity": 3,
     "roles": [],
@@ -409,11 +409,11 @@
     "attack_attributes": [
       5
     ],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u706B\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "現在HPが最も高い敵1体に火属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 20,
     "large_still_path_hash": 6200795928259159475,
-    "name": "\u30ED\u30FC\u30BC\u30D5\u30E9\u30E0",
+    "name": "ローゼフラム",
     "quality_group_id": 4,
     "rarity": 2,
     "roles": [],
@@ -427,11 +427,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u30BF\u30FC\u30F3\u958B\u59CB\u6642HP{0}%\u56DE\u5FA9\u300D\u30922\u56DE\u884C\u52D5\u958B\u59CB\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い味方1人に「ターン開始時HP{0}%回復」を2回行動開始するまで付与",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 21,
     "large_still_path_hash": 5586083481745685167,
-    "name": "\u30A8\u30CD\u30EB\u30B8\u30A2\u30CB\u30AB",
+    "name": "エネルジアニカ",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -447,11 +447,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u30BF\u30FC\u30F3\u958B\u59CB\u6642HP{0}%\u56DE\u5FA9\u300D\u30922\u56DE\u884C\u52D5\u958B\u59CB\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い味方1人に「ターン開始時HP{0}%回復」を2回行動開始するまで付与",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 22,
     "large_still_path_hash": 5586083481745685167,
-    "name": "\u30A8\u30CD\u30EB\u30B8\u30A2\u30CB\u30AB",
+    "name": "エネルジアニカ",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -469,11 +469,11 @@
     "attack_attributes": [
       1
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u65AC\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に「斬属性耐性-{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 8,
     "id": 23,
     "large_still_path_hash": 1272467232355834609,
-    "name": "\u4E0D\u5E78\u306E\u74F6\u8A70\u3081",
+    "name": "不幸の瓶詰め",
     "quality_group_id": 13,
     "rarity": 3,
     "roles": [
@@ -492,11 +492,11 @@
     "attack_attributes": [
       1
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u65AC\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に「斬属性耐性-{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 8,
     "id": 24,
     "large_still_path_hash": 1272467232355834609,
-    "name": "\u4E0D\u5E78\u306E\u74F6\u8A70\u3081",
+    "name": "不幸の瓶詰め",
     "quality_group_id": 13,
     "rarity": 2,
     "roles": [
@@ -515,11 +515,11 @@
     "attack_attributes": [
       5
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u706B\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に「火属性耐性-{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 9,
     "id": 25,
     "large_still_path_hash": 4733308784485926033,
-    "name": "\u71C3\u3048\u308B\u6C34",
+    "name": "燃える水",
     "quality_group_id": 16,
     "rarity": 3,
     "roles": [
@@ -538,11 +538,11 @@
     "attack_attributes": [
       5
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u706B\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に「火属性耐性-{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 9,
     "id": 26,
     "large_still_path_hash": 4733308784485926033,
-    "name": "\u71C3\u3048\u308B\u6C34",
+    "name": "燃える水",
     "quality_group_id": 16,
     "rarity": 2,
     "roles": [
@@ -559,11 +559,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u9B54\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u30D0\u30FC\u30B9\u30C8\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "魔攻が最も高い味方1人に「バーストスキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 5,
     "id": 27,
     "large_still_path_hash": 2133967501149676751,
-    "name": "\u5999\u85AC\u30C9\u30E9\u30C3\u30D8\u30F3",
+    "name": "妙薬ドラッヘン",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -579,11 +579,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u9B54\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u30D0\u30FC\u30B9\u30C8\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "魔攻が最も高い味方1人に「バーストスキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 5,
     "id": 28,
     "large_still_path_hash": 2133967501149676751,
-    "name": "\u5999\u85AC\u30C9\u30E9\u30C3\u30D8\u30F3",
+    "name": "妙薬ドラッヘン",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -599,11 +599,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u78BA\u7387\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "味方全員に「クリティカル確率+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 29,
     "large_still_path_hash": 5386548291921998428,
-    "name": "\u9EC4\u91D1\u30A8\u30AD\u30B9\u30B9\u30FC\u30D7",
+    "name": "黄金エキススープ",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -619,11 +619,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u78BA\u7387\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "味方全員に「クリティカル確率+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 30,
     "large_still_path_hash": 5386548291921998428,
-    "name": "\u9EC4\u91D1\u30A8\u30AD\u30B9\u30B9\u30FC\u30D7",
+    "name": "黄金エキススープ",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -643,11 +643,11 @@
       2,
       3
     ],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u7269\u7406\u653B\u6483\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "味方全員に「物理攻撃スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 4,
     "id": 31,
     "large_still_path_hash": 1652163837999927814,
-    "name": "\u30B9\u30E2\u30FC\u30AF\u30DF\u30FC\u30C8",
+    "name": "スモークミート",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -667,11 +667,11 @@
       2,
       3
     ],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u7269\u7406\u653B\u6483\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "味方全員に「物理攻撃スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 4,
     "id": 32,
     "large_still_path_hash": 1652163837999927814,
-    "name": "\u30B9\u30E2\u30FC\u30AF\u30DF\u30FC\u30C8",
+    "name": "スモークミート",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -692,11 +692,11 @@
       7,
       8
     ],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u9B54\u6CD5\u653B\u6483\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "味方全員に「魔法攻撃スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 5,
     "id": 33,
     "large_still_path_hash": 965402126392544536,
-    "name": "\u932C\u91D1\u30AD\u30E3\u30F3\u30C7\u30A3",
+    "name": "錬金キャンディ",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -717,11 +717,11 @@
       7,
       8
     ],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u9B54\u6CD5\u653B\u6483\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "味方全員に「魔法攻撃スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 5,
     "id": 34,
     "large_still_path_hash": 965402126392544536,
-    "name": "\u932C\u91D1\u30AD\u30E3\u30F3\u30C7\u30A3",
+    "name": "錬金キャンディ",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -739,11 +739,11 @@
     "attack_attributes": [
       2
     ],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u6253\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "現在HPが最も高い敵1体に打属性ダメージ",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 35,
     "large_still_path_hash": 5857137466490547526,
-    "name": "\u5275\u4E16\u306E\u69CC",
+    "name": "創世の槌",
     "quality_group_id": 2,
     "rarity": 3,
     "roles": [],
@@ -759,11 +759,11 @@
     "attack_attributes": [
       2
     ],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u6253\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "現在HPが最も高い敵1体に打属性ダメージ",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 36,
     "large_still_path_hash": 5857137466490547526,
-    "name": "\u5275\u4E16\u306E\u69CC",
+    "name": "創世の槌",
     "quality_group_id": 2,
     "rarity": 2,
     "roles": [],
@@ -779,11 +779,11 @@
     "attack_attributes": [
       3
     ],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u4F4E\u3044\u65751\u4F53\u306B\u7A81\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "現在HPが最も低い敵1体に突属性ダメージ",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 37,
     "large_still_path_hash": 6292180094955688537,
-    "name": "\u30EA\u30E5\u30DF\u30A8\u30FC\u30EB\u30E9\u30F3\u30B9",
+    "name": "リュミエールランス",
     "quality_group_id": 3,
     "rarity": 3,
     "roles": [],
@@ -799,11 +799,11 @@
     "attack_attributes": [
       3
     ],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u4F4E\u3044\u65751\u4F53\u306B\u7A81\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "現在HPが最も低い敵1体に突属性ダメージ",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 38,
     "large_still_path_hash": 6292180094955688537,
-    "name": "\u30EA\u30E5\u30DF\u30A8\u30FC\u30EB\u30E9\u30F3\u30B9",
+    "name": "リュミエールランス",
     "quality_group_id": 3,
     "rarity": 2,
     "roles": [],
@@ -819,11 +819,11 @@
     "attack_attributes": [
       8
     ],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u98A8\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "現在HPが最も高い敵1体に風属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 39,
     "large_still_path_hash": 1222517613811838235,
-    "name": "\u30EC\u30FC\u30C4\u30A7\u30EB\u30D5\u30C8",
+    "name": "レーツェルフト",
     "quality_group_id": 6,
     "rarity": 3,
     "roles": [],
@@ -839,11 +839,11 @@
     "attack_attributes": [
       8
     ],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u98A8\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "現在HPが最も高い敵1体に風属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 40,
     "large_still_path_hash": 1222517613811838235,
-    "name": "\u30EC\u30FC\u30C4\u30A7\u30EB\u30D5\u30C8",
+    "name": "レーツェルフト",
     "quality_group_id": 6,
     "rarity": 2,
     "roles": [],
@@ -859,11 +859,11 @@
     "attack_attributes": [
       6
     ],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u4F4E\u3044\u65751\u4F53\u306B\u6C37\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "現在HPが最も低い敵1体に氷属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 41,
     "large_still_path_hash": 2072385202324001573,
-    "name": "\u30AF\u30E9\u30A4\u30C8\u30EC\u30D8\u30EB\u30F3",
+    "name": "クライトレヘルン",
     "quality_group_id": 5,
     "rarity": 3,
     "roles": [],
@@ -879,11 +879,11 @@
     "attack_attributes": [
       6
     ],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u4F4E\u3044\u65751\u4F53\u306B\u6C37\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "現在HPが最も低い敵1体に氷属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 42,
     "large_still_path_hash": 2072385202324001573,
-    "name": "\u30AF\u30E9\u30A4\u30C8\u30EC\u30D8\u30EB\u30F3",
+    "name": "クライトレヘルン",
     "quality_group_id": 5,
     "rarity": 2,
     "roles": [],
@@ -899,11 +899,11 @@
     "attack_attributes": [
       7
     ],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u4F4E\u3044\u65751\u4F53\u306B\u96F7\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "現在HPが最も低い敵1体に雷属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 43,
     "large_still_path_hash": 3117626181779527070,
-    "name": "\u30B7\u30E5\u30C8\u30E9\u30D7\u30E9\u30B8\u30B0",
+    "name": "シュトラプラジグ",
     "quality_group_id": 7,
     "rarity": 3,
     "roles": [],
@@ -919,11 +919,11 @@
     "attack_attributes": [
       7
     ],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u4F4E\u3044\u65751\u4F53\u306B\u96F7\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "現在HPが最も低い敵1体に雷属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 44,
     "large_still_path_hash": 3117626181779527070,
-    "name": "\u30B7\u30E5\u30C8\u30E9\u30D7\u30E9\u30B8\u30B0",
+    "name": "シュトラプラジグ",
     "quality_group_id": 7,
     "rarity": 2,
     "roles": [],
@@ -939,11 +939,11 @@
     "attack_attributes": [
       2
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u6253\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に「打属性耐性-{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 8,
     "id": 45,
     "large_still_path_hash": 8604548332589233604,
-    "name": "\u751F\u304D\u3066\u308B\u30B4\u30DF\u7BB1",
+    "name": "生きてるゴミ箱",
     "quality_group_id": 14,
     "rarity": 3,
     "roles": [
@@ -962,11 +962,11 @@
     "attack_attributes": [
       2
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u6253\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に「打属性耐性-{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 8,
     "id": 46,
     "large_still_path_hash": 8604548332589233604,
-    "name": "\u751F\u304D\u3066\u308B\u30B4\u30DF\u7BB1",
+    "name": "生きてるゴミ箱",
     "quality_group_id": 14,
     "rarity": 2,
     "roles": [
@@ -985,11 +985,11 @@
     "attack_attributes": [
       3
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u7A81\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に「突属性耐性-{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 8,
     "id": 47,
     "large_still_path_hash": 7845579793005980382,
-    "name": "\u304B\u307C\u3061\u3083\u30C9\u30FC\u30EB",
+    "name": "かぼちゃドール",
     "quality_group_id": 15,
     "rarity": 3,
     "roles": [
@@ -1008,11 +1008,11 @@
     "attack_attributes": [
       3
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u7A81\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に「突属性耐性-{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 8,
     "id": 48,
     "large_still_path_hash": 7845579793005980382,
-    "name": "\u304B\u307C\u3061\u3083\u30C9\u30FC\u30EB",
+    "name": "かぼちゃドール",
     "quality_group_id": 15,
     "rarity": 2,
     "roles": [
@@ -1031,11 +1031,11 @@
     "attack_attributes": [
       8
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u98A8\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に「風属性耐性-{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 9,
     "id": 49,
     "large_still_path_hash": 3516306498036599424,
-    "name": "\u30A4\u30D0\u30E9\u306E\u62B1\u64C1",
+    "name": "イバラの抱擁",
     "quality_group_id": 18,
     "rarity": 3,
     "roles": [
@@ -1054,11 +1054,11 @@
     "attack_attributes": [
       8
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u98A8\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に「風属性耐性-{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 9,
     "id": 50,
     "large_still_path_hash": 3516306498036599424,
-    "name": "\u30A4\u30D0\u30E9\u306E\u62B1\u64C1",
+    "name": "イバラの抱擁",
     "quality_group_id": 18,
     "rarity": 2,
     "roles": [
@@ -1077,11 +1077,11 @@
     "attack_attributes": [
       6
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u6C37\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に「氷属性耐性-{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 9,
     "id": 51,
     "large_still_path_hash": 3951492138709841311,
-    "name": "\u6C37\u3073\u3057",
+    "name": "氷びし",
     "quality_group_id": 17,
     "rarity": 3,
     "roles": [
@@ -1100,11 +1100,11 @@
     "attack_attributes": [
       6
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u6C37\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に「氷属性耐性-{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 9,
     "id": 52,
     "large_still_path_hash": 3951492138709841311,
-    "name": "\u6C37\u3073\u3057",
+    "name": "氷びし",
     "quality_group_id": 17,
     "rarity": 2,
     "roles": [
@@ -1123,11 +1123,11 @@
     "attack_attributes": [
       7
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u96F7\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に「雷属性耐性-{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 9,
     "id": 53,
     "large_still_path_hash": 7709021587877942721,
-    "name": "\u30D6\u30EA\u30C3\u30C4\u30B3\u30A2",
+    "name": "ブリッツコア",
     "quality_group_id": 19,
     "rarity": 3,
     "roles": [
@@ -1146,11 +1146,11 @@
     "attack_attributes": [
       7
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u96F7\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に「雷属性耐性-{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 9,
     "id": 54,
     "large_still_path_hash": 7709021587877942721,
-    "name": "\u30D6\u30EA\u30C3\u30C4\u30B3\u30A2",
+    "name": "ブリッツコア",
     "quality_group_id": 19,
     "rarity": 2,
     "roles": [
@@ -1169,11 +1169,11 @@
     "attack_attributes": [
       1
     ],
-    "description": "\u7269\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u65AC\u5C5E\u6027\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "物攻が最も高い味方1人に「斬属性スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 4,
     "id": 55,
     "large_still_path_hash": 8175040569022335709,
-    "name": "\u8089\u4F53\u6D3B\u6027\u306E\u7C89\u672B",
+    "name": "肉体活性の粉末",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -1191,11 +1191,11 @@
     "attack_attributes": [
       1
     ],
-    "description": "\u7269\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u65AC\u5C5E\u6027\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "物攻が最も高い味方1人に「斬属性スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 4,
     "id": 56,
     "large_still_path_hash": 8175040569022335709,
-    "name": "\u8089\u4F53\u6D3B\u6027\u306E\u7C89\u672B",
+    "name": "肉体活性の粉末",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -1213,11 +1213,11 @@
     "attack_attributes": [
       2
     ],
-    "description": "\u7269\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u6253\u5C5E\u6027\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "物攻が最も高い味方1人に「打属性スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 4,
     "id": 57,
     "large_still_path_hash": 3269300473974221443,
-    "name": "\u525B\u529B\u306E\u5857\u308A\u85AC",
+    "name": "剛力の塗り薬",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -1235,11 +1235,11 @@
     "attack_attributes": [
       2
     ],
-    "description": "\u7269\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u6253\u5C5E\u6027\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "物攻が最も高い味方1人に「打属性スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 4,
     "id": 58,
     "large_still_path_hash": 3269300473974221443,
-    "name": "\u525B\u529B\u306E\u5857\u308A\u85AC",
+    "name": "剛力の塗り薬",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -1257,11 +1257,11 @@
     "attack_attributes": [
       3
     ],
-    "description": "\u7269\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u7A81\u5C5E\u6027\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "物攻が最も高い味方1人に「突属性スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 4,
     "id": 59,
     "large_still_path_hash": 9026975087997105379,
-    "name": "\u30C8\u30EA\u30C8\u30F3\u306E\u307B\u3089\u8C9D",
+    "name": "トリトンのほら貝",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -1279,11 +1279,11 @@
     "attack_attributes": [
       3
     ],
-    "description": "\u7269\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u7A81\u5C5E\u6027\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "物攻が最も高い味方1人に「突属性スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 4,
     "id": 60,
     "large_still_path_hash": 9026975087997105379,
-    "name": "\u30C8\u30EA\u30C8\u30F3\u306E\u307B\u3089\u8C9D",
+    "name": "トリトンのほら貝",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -1301,11 +1301,11 @@
     "attack_attributes": [
       8
     ],
-    "description": "\u9B54\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u98A8\u5C5E\u6027\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "魔攻が最も高い味方1人に「風属性スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 5,
     "id": 61,
     "large_still_path_hash": 2408077128560678077,
-    "name": "\u98A8\u7E70\u308A\u8ECA",
+    "name": "風繰り車",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -1323,11 +1323,11 @@
     "attack_attributes": [
       8
     ],
-    "description": "\u9B54\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u98A8\u5C5E\u6027\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "魔攻が最も高い味方1人に「風属性スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 5,
     "id": 62,
     "large_still_path_hash": 2408077128560678077,
-    "name": "\u98A8\u7E70\u308A\u8ECA",
+    "name": "風繰り車",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -1345,11 +1345,11 @@
     "attack_attributes": [
       6
     ],
-    "description": "\u9B54\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u6C37\u5C5E\u6027\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "魔攻が最も高い味方1人に「氷属性スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 5,
     "id": 63,
     "large_still_path_hash": 7132982963727483829,
-    "name": "\u30B7\u30E5\u30CD\u30FC\u30B7\u30E5\u30C8\u30EB\u30E0",
+    "name": "シュネーシュトルム",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -1367,11 +1367,11 @@
     "attack_attributes": [
       6
     ],
-    "description": "\u9B54\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u6C37\u5C5E\u6027\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "魔攻が最も高い味方1人に「氷属性スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 5,
     "id": 64,
     "large_still_path_hash": 7132982963727483829,
-    "name": "\u30B7\u30E5\u30CD\u30FC\u30B7\u30E5\u30C8\u30EB\u30E0",
+    "name": "シュネーシュトルム",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -1389,11 +1389,11 @@
     "attack_attributes": [
       7
     ],
-    "description": "\u9B54\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u96F7\u5C5E\u6027\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "魔攻が最も高い味方1人に「雷属性スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 5,
     "id": 65,
     "large_still_path_hash": 4526123495354524651,
-    "name": "\u96F7\u306E\u547C\u3073\u9234",
+    "name": "雷の呼び鈴",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -1411,11 +1411,11 @@
     "attack_attributes": [
       7
     ],
-    "description": "\u9B54\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u96F7\u5C5E\u6027\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "魔攻が最も高い味方1人に「雷属性スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 5,
     "id": 66,
     "large_still_path_hash": 4526123495354524651,
-    "name": "\u96F7\u306E\u547C\u3073\u9234",
+    "name": "雷の呼び鈴",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -1433,11 +1433,11 @@
     "attack_attributes": [
       5
     ],
-    "description": "\u9B54\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u706B\u5C5E\u6027\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "魔攻が最も高い味方1人に「火属性スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 5,
     "id": 67,
     "large_still_path_hash": 2691009667753344247,
-    "name": "\u30EC\u30C3\u30C9\u30A6\u30A9\u30FC\u30D1\u30A6\u30C0\u30FC",
+    "name": "レッドウォーパウダー",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -1455,11 +1455,11 @@
     "attack_attributes": [
       5
     ],
-    "description": "\u9B54\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u706B\u5C5E\u6027\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "魔攻が最も高い味方1人に「火属性スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 5,
     "id": 68,
     "large_still_path_hash": 2691009667753344247,
-    "name": "\u30EC\u30C3\u30C9\u30A6\u30A9\u30FC\u30D1\u30A6\u30C0\u30FC",
+    "name": "レッドウォーパウダー",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -1475,11 +1475,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "HP\u304C\u6700\u3082\u6E1B\u3063\u3066\u3044\u308B\u5473\u65B91\u4EBA\u306EHP\u309250%\u56DE\u5FA9",
+    "description": "HPが最も減っている味方1人のHPを50%回復",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 69,
     "large_still_path_hash": 8751923892979784873,
-    "name": "\u30EA\u30B9\u30C8\u30EC\u30A2\u85AC\u74F6",
+    "name": "リストレア薬瓶",
     "quality_group_id": 8,
     "rarity": 3,
     "roles": [
@@ -1495,11 +1495,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "HP\u304C\u6700\u3082\u6E1B\u3063\u3066\u3044\u308B\u5473\u65B91\u4EBA\u306EHP\u309230%\u56DE\u5FA9",
+    "description": "HPが最も減っている味方1人のHPを30%回復",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 70,
     "large_still_path_hash": 8751923892979784873,
-    "name": "\u30EA\u30B9\u30C8\u30EC\u30A2\u85AC\u74F6",
+    "name": "リストレア薬瓶",
     "quality_group_id": 8,
     "rarity": 2,
     "roles": [
@@ -1515,11 +1515,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "HP\u304C\u6700\u3082\u6E1B\u3063\u3066\u3044\u308B\u5473\u65B91\u4EBA\u306EHP\u309230%\u56DE\u5FA9\u003Cbr\u003E\u56DE\u5FA9\u5F8C\u3001\u5BFE\u8C61\u306E\u72B6\u614B\u7570\u5E38\u3092\u89E3\u9664\u3059\u308B",
+    "description": "HPが最も減っている味方1人のHPを30%回復<br>回復後、対象の状態異常を解除する",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 71,
     "large_still_path_hash": 4092345297210252532,
-    "name": "\u30A8\u30EA\u30AD\u30B7\u30EB\u5264",
+    "name": "エリキシル剤",
     "quality_group_id": 8,
     "rarity": 3,
     "roles": [
@@ -1535,11 +1535,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "HP\u304C\u6700\u3082\u6E1B\u3063\u3066\u3044\u308B\u5473\u65B91\u4EBA\u306EHP\u309220%\u56DE\u5FA9\u003Cbr\u003E\u56DE\u5FA9\u5F8C\u3001\u5BFE\u8C61\u306E\u72B6\u614B\u7570\u5E38\u3092\u89E3\u9664\u3059\u308B",
+    "description": "HPが最も減っている味方1人のHPを20%回復<br>回復後、対象の状態異常を解除する",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 72,
     "large_still_path_hash": 4092345297210252532,
-    "name": "\u30A8\u30EA\u30AD\u30B7\u30EB\u5264",
+    "name": "エリキシル剤",
     "quality_group_id": 8,
     "rarity": 2,
     "roles": [
@@ -1559,11 +1559,11 @@
       2,
       3
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u7269\u7406\u653B\u6483\u30C0\u30E1\u30FC\u30B8-{0}%\u300D\u3068\u300C\u53D7\u3051\u308B\u7269\u7406\u653B\u6483\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30922\u56DE\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に「物理攻撃ダメージ-{0}%」と「受ける物理攻撃ダメージ+{1}%」を2回付与",
     "easy_synthesis_trait_lottery_id": 8,
     "id": 73,
     "large_still_path_hash": 2540742682796786666,
-    "name": "\u4E07\u7269\u306E\u5199\u672C",
+    "name": "万物の写本",
     "quality_group_id": 11,
     "rarity": 3,
     "roles": [
@@ -1584,11 +1584,11 @@
       2,
       3
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u7269\u7406\u653B\u6483\u30C0\u30E1\u30FC\u30B8-{0}%\u300D\u3068\u300C\u53D7\u3051\u308B\u7269\u7406\u653B\u6483\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30922\u56DE\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に「物理攻撃ダメージ-{0}%」と「受ける物理攻撃ダメージ+{1}%」を2回付与",
     "easy_synthesis_trait_lottery_id": 8,
     "id": 74,
     "large_still_path_hash": 2540742682796786666,
-    "name": "\u4E07\u7269\u306E\u5199\u672C",
+    "name": "万物の写本",
     "quality_group_id": 11,
     "rarity": 2,
     "roles": [
@@ -1605,11 +1605,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u53D7\u3051\u308B\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に「受けるブレイクダメージ+{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 7,
     "id": 75,
     "large_still_path_hash": 9182838961637335992,
-    "name": "\u30D2\u30ED\u30A4\u30C3\u30AF\u30AC\u30A4\u30B9\u30C8",
+    "name": "ヒロイックガイスト",
     "quality_group_id": 10,
     "rarity": 3,
     "roles": [
@@ -1625,11 +1625,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u53D7\u3051\u308B\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に「受けるブレイクダメージ+{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 7,
     "id": 76,
     "large_still_path_hash": 9182838961637335992,
-    "name": "\u30D2\u30ED\u30A4\u30C3\u30AF\u30AC\u30A4\u30B9\u30C8",
+    "name": "ヒロイックガイスト",
     "quality_group_id": 10,
     "rarity": 2,
     "roles": [
@@ -1645,11 +1645,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u81EA\u8EAB\u304C\u30A2\u30BF\u30C3\u30AB\u30FC\u306E\u6642\u3001\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "味方全員に「自身がアタッカーの時、スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 77,
     "large_still_path_hash": 7553186574395294356,
-    "name": "\u5996\u85AC\u30A8\u30DC\u30CB\u30A2\u30EB",
+    "name": "妖薬エボニアル",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -1665,11 +1665,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u81EA\u8EAB\u304C\u30A2\u30BF\u30C3\u30AB\u30FC\u306E\u6642\u3001\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "味方全員に「自身がアタッカーの時、スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 78,
     "large_still_path_hash": 7553186574395294356,
-    "name": "\u5996\u85AC\u30A8\u30DC\u30CB\u30A2\u30EB",
+    "name": "妖薬エボニアル",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -1687,11 +1687,11 @@
     "attack_attributes": [
       1
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u65AC\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "敵全体に斬属性ダメージ",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 79,
     "large_still_path_hash": 7270948613531974826,
-    "name": "\u5EFB\u308B\u9B54\u5263",
+    "name": "廻る魔剣",
     "quality_group_id": 1,
     "rarity": 3,
     "roles": [],
@@ -1707,11 +1707,11 @@
     "attack_attributes": [
       1
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u65AC\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "敵全体に斬属性ダメージ",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 80,
     "large_still_path_hash": 7270948613531974826,
-    "name": "\u5EFB\u308B\u9B54\u5263",
+    "name": "廻る魔剣",
     "quality_group_id": 1,
     "rarity": 2,
     "roles": [],
@@ -1725,11 +1725,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "HP\u304C\u6700\u3082\u6E1B\u3063\u3066\u3044\u308B\u5473\u65B91\u4EBA\u306EHP\u309230%\u56DE\u5FA9\u003Cbr\u003E\u56DE\u5FA9\u5F8C\u3001\u5BFE\u8C61\u306E\u30DE\u30A4\u30CA\u30B9\u52B9\u679C\u3092\u89E3\u9664\u3059\u308B",
+    "description": "HPが最も減っている味方1人のHPを30%回復<br>回復後、対象のマイナス効果を解除する",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 81,
     "large_still_path_hash": 6869344072414626861,
-    "name": "\u30C8\u30E9\u30F3\u30D2\u30FC\u30EB\u30B5\u30EB\u30F4",
+    "name": "トランヒールサルヴ",
     "quality_group_id": 8,
     "rarity": 3,
     "roles": [
@@ -1745,11 +1745,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "HP\u304C\u6700\u3082\u6E1B\u3063\u3066\u3044\u308B\u5473\u65B91\u4EBA\u306EHP\u309220%\u56DE\u5FA9\u003Cbr\u003E\u56DE\u5FA9\u5F8C\u3001\u5BFE\u8C61\u306E\u30DE\u30A4\u30CA\u30B9\u52B9\u679C\u3092\u89E3\u9664\u3059\u308B",
+    "description": "HPが最も減っている味方1人のHPを20%回復<br>回復後、対象のマイナス効果を解除する",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 82,
     "large_still_path_hash": 6869344072414626861,
-    "name": "\u30C8\u30E9\u30F3\u30D2\u30FC\u30EB\u30B5\u30EB\u30F4",
+    "name": "トランヒールサルヴ",
     "quality_group_id": 8,
     "rarity": 2,
     "roles": [
@@ -1767,11 +1767,11 @@
     "attack_attributes": [
       7
     ],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u96F7\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u3092\u4E0E\u3048\u3001\u003Cbr\u003E\u5BFE\u8C61\u306B\u300C\u9EBB\u75FA\u300D\u30922\u56DE\u884C\u52D5\u958B\u59CB\u3059\u308B\u307E\u3067\u4E2D\u78BA\u7387\u3067\u4ED8\u4E0E",
+    "description": "現在HPが最も高い敵1体に雷属性ダメージを与え、<br>対象に「麻痺」を2回行動開始するまで中確率で付与",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 83,
     "large_still_path_hash": 3818832907880948426,
-    "name": "\u30C9\u30CA\u30FC\u30AF\u30EA\u30B9\u30BF\u30EB",
+    "name": "ドナークリスタル",
     "quality_group_id": 7,
     "rarity": 3,
     "roles": [],
@@ -1787,11 +1787,11 @@
     "attack_attributes": [
       7
     ],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u96F7\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u3092\u4E0E\u3048\u3001\u003Cbr\u003E\u5BFE\u8C61\u306B\u300C\u9EBB\u75FA\u300D\u30922\u56DE\u884C\u52D5\u958B\u59CB\u3059\u308B\u307E\u3067\u4F4E\u78BA\u7387\u3067\u4ED8\u4E0E",
+    "description": "現在HPが最も高い敵1体に雷属性ダメージを与え、<br>対象に「麻痺」を2回行動開始するまで低確率で付与",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 84,
     "large_still_path_hash": 3818832907880948426,
-    "name": "\u30C9\u30CA\u30FC\u30AF\u30EA\u30B9\u30BF\u30EB",
+    "name": "ドナークリスタル",
     "quality_group_id": 7,
     "rarity": 2,
     "roles": [],
@@ -1805,11 +1805,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u81EA\u8EAB\u304C\u30D6\u30EC\u30A4\u30AB\u30FC\u306E\u6642\u3001\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "味方全員に「自身がブレイカーの時、ブレイクダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 85,
     "large_still_path_hash": 250415327734768755,
-    "name": "\u7834\u58CA\u306E\u79D8\u85AC",
+    "name": "破壊の秘薬",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -1825,11 +1825,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u81EA\u8EAB\u304C\u30D6\u30EC\u30A4\u30AB\u30FC\u306E\u6642\u3001\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "味方全員に「自身がブレイカーの時、ブレイクダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 86,
     "large_still_path_hash": 250415327734768755,
-    "name": "\u7834\u58CA\u306E\u79D8\u85AC",
+    "name": "破壊の秘薬",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -1845,11 +1845,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u53D7\u3051\u308B\u30C0\u30E1\u30FC\u30B8-{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い味方1人に「受けるダメージ-{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 87,
     "large_still_path_hash": 4962041371944164145,
-    "name": "\u30D7\u30ED\u30C6\u30AF\u30C8\u30D1\u30A6\u30C0\u30FC",
+    "name": "プロテクトパウダー",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -1865,11 +1865,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u53D7\u3051\u308B\u30C0\u30E1\u30FC\u30B8-{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い味方1人に「受けるダメージ-{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 88,
     "large_still_path_hash": 4962041371944164145,
-    "name": "\u30D7\u30ED\u30C6\u30AF\u30C8\u30D1\u30A6\u30C0\u30FC",
+    "name": "プロテクトパウダー",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -1887,11 +1887,11 @@
     "attack_attributes": [
       5
     ],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u4F4E\u3044\u65751\u4F53\u306B\u706B\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "現在HPが最も低い敵1体に火属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 89,
     "large_still_path_hash": 1797430165115124591,
-    "name": "\u30E9\u30FC\u30F4\u30A1\u30AD\u30E5\u30FC\u30D6",
+    "name": "ラーヴァキューブ",
     "quality_group_id": 4,
     "rarity": 3,
     "roles": [],
@@ -1907,11 +1907,11 @@
     "attack_attributes": [
       5
     ],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u4F4E\u3044\u65751\u4F53\u306B\u706B\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "現在HPが最も低い敵1体に火属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 90,
     "large_still_path_hash": 1797430165115124591,
-    "name": "\u30E9\u30FC\u30F4\u30A1\u30AD\u30E5\u30FC\u30D6",
+    "name": "ラーヴァキューブ",
     "quality_group_id": 4,
     "rarity": 2,
     "roles": [],
@@ -1925,11 +1925,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306EHP\u309230%\u56DE\u5FA9\u003Cbr\u003E\u56DE\u5FA9\u5F8C\u3001\u5BFE\u8C61\u306B\u300C\u30BF\u30FC\u30F3\u958B\u59CB\u6642HP{0}%\u56DE\u5FA9\u300D\u30922\u56DE\u884C\u52D5\u958B\u59CB\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い味方1人のHPを30%回復<br>回復後、対象に「ターン開始時HP{0}%回復」を2回行動開始するまで付与",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 91,
     "large_still_path_hash": 2227920884026360946,
-    "name": "\u30AB\u30AF\u30C6\u30EB\u30EC\u30FC\u30D7",
+    "name": "カクテルレープ",
     "quality_group_id": 8,
     "rarity": 3,
     "roles": [
@@ -1945,11 +1945,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306EHP\u309215%\u56DE\u5FA9\u003Cbr\u003E\u56DE\u5FA9\u5F8C\u3001\u5BFE\u8C61\u306B\u300C\u30BF\u30FC\u30F3\u958B\u59CB\u6642HP{0}%\u56DE\u5FA9\u300D\u30922\u56DE\u884C\u52D5\u958B\u59CB\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い味方1人のHPを15%回復<br>回復後、対象に「ターン開始時HP{0}%回復」を2回行動開始するまで付与",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 92,
     "large_still_path_hash": 2227920884026360946,
-    "name": "\u30AB\u30AF\u30C6\u30EB\u30EC\u30FC\u30D7",
+    "name": "カクテルレープ",
     "quality_group_id": 8,
     "rarity": 2,
     "roles": [
@@ -1967,11 +1967,11 @@
     "attack_attributes": [
       6
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u6C37\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "敵全体に氷属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 93,
     "large_still_path_hash": 4811635907043320880,
-    "name": "\u30B7\u30E5\u30BF\u30EB\u30EC\u30D8\u30EB\u30F3",
+    "name": "シュタルレヘルン",
     "quality_group_id": 5,
     "rarity": 3,
     "roles": [],
@@ -1987,11 +1987,11 @@
     "attack_attributes": [
       6
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u6C37\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "敵全体に氷属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 94,
     "large_still_path_hash": 4811635907043320880,
-    "name": "\u30B7\u30E5\u30BF\u30EB\u30EC\u30D8\u30EB\u30F3",
+    "name": "シュタルレヘルン",
     "quality_group_id": 5,
     "rarity": 2,
     "roles": [],
@@ -2005,11 +2005,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u81EA\u8EAB\u304C\u30B5\u30DD\u30FC\u30BF\u30FC\u306E\u6642\u3001\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "味方全員に「自身がサポーターの時、スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 95,
     "large_still_path_hash": 6435145801234086706,
-    "name": "\u8A70\u3081\u5408\u308F\u305B\u30AD\u30E3\u30F3\u30C7\u30A3",
+    "name": "詰め合わせキャンディ",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -2025,11 +2025,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u81EA\u8EAB\u304C\u30B5\u30DD\u30FC\u30BF\u30FC\u306E\u6642\u3001\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "味方全員に「自身がサポーターの時、スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 96,
     "large_still_path_hash": 6435145801234086706,
-    "name": "\u8A70\u3081\u5408\u308F\u305B\u30AD\u30E3\u30F3\u30C7\u30A3",
+    "name": "詰め合わせキャンディ",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -2047,11 +2047,11 @@
     "attack_attributes": [
       2
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u4F4E\u3044\u65751\u4F53\u306B\u6253\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u3092\u4E0E\u3048\u3001\u003Cbr\u003E\u5BFE\u8C61\u304C\u6C34\u68F2\u7A2E\u65CF\u306E\u6642\u3001\u30BF\u30FC\u30F3\u3092{0}\u30BF\u30FC\u30F3\u9045\u3089\u305B\u308B",
+    "description": "最大HPが最も低い敵1体に打属性ダメージを与え、<br>対象が水棲種族の時、ターンを{0}ターン遅らせる",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 97,
     "large_still_path_hash": 6346078185883045082,
-    "name": "\u3055\u3059\u3089\u3046\u5730\u7403\u5100",
+    "name": "さすらう地球儀",
     "quality_group_id": 2,
     "rarity": 3,
     "roles": [],
@@ -2067,11 +2067,11 @@
     "attack_attributes": [
       2
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u4F4E\u3044\u65751\u4F53\u306B\u6253\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u3092\u4E0E\u3048\u3001\u003Cbr\u003E\u5BFE\u8C61\u304C\u6C34\u68F2\u7A2E\u65CF\u306E\u6642\u3001\u30BF\u30FC\u30F3\u3092{0}\u30BF\u30FC\u30F3\u9045\u3089\u305B\u308B",
+    "description": "最大HPが最も低い敵1体に打属性ダメージを与え、<br>対象が水棲種族の時、ターンを{0}ターン遅らせる",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 98,
     "large_still_path_hash": 6346078185883045082,
-    "name": "\u3055\u3059\u3089\u3046\u5730\u7403\u5100",
+    "name": "さすらう地球儀",
     "quality_group_id": 2,
     "rarity": 2,
     "roles": [],
@@ -2085,11 +2085,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "HP\u304C\u6700\u3082\u6E1B\u3063\u3066\u3044\u308B\u5473\u65B91\u4EBA\u306E\u30DE\u30A4\u30CA\u30B9\u52B9\u679C\u3092\u89E3\u9664\u3057\u3001HP\u309215%\u56DE\u5FA9",
+    "description": "HPが最も減っている味方1人のマイナス効果を解除し、HPを15%回復",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 99,
     "large_still_path_hash": 5008918851384732891,
-    "name": "\u30B0\u30E9\u30B9\u30D3\u30FC\u30F3\u30BA",
+    "name": "グラスビーンズ",
     "quality_group_id": 8,
     "rarity": 2,
     "roles": [
@@ -2107,11 +2107,11 @@
     "attack_attributes": [
       1
     ],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u4F4E\u3044\u65751\u4F53\u306B\u65AC\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "現在HPが最も低い敵1体に斬属性ダメージ",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 100,
     "large_still_path_hash": 1850476180269911173,
-    "name": "\u7206\u7C89\u3046\u306B",
+    "name": "爆粉うに",
     "quality_group_id": 1,
     "rarity": 2,
     "roles": [],
@@ -2127,11 +2127,11 @@
     "attack_attributes": [
       3
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u7A81\u5C5E\u6027\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8",
+    "description": "最大HPが最も高い敵1体に突属性ブレイクダメージ",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 101,
     "large_still_path_hash": 305324605863505032,
-    "name": "\u30AF\u30E9\u30D5\u30C8\u30EA\u30AA",
+    "name": "クラフトリオ",
     "quality_group_id": 10,
     "rarity": 3,
     "roles": [],
@@ -2145,11 +2145,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u6BD2\u8010\u6027-{0}%\u300D\u3068\u300C\u6BD2\u300D2\u3064\u30922\u56DE\u884C\u52D5\u3059\u308B\u307E\u3067\u305D\u308C\u305E\u308C\u8D85\u9AD8\u78BA\u7387\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に「毒耐性-{0}%」と「毒」2つを2回行動するまでそれぞれ超高確率で付与",
     "easy_synthesis_trait_lottery_id": 7,
     "id": 102,
     "large_still_path_hash": 4871111539712168900,
-    "name": "\u3086\u3089\u304E\u306E\u6BD2\u7159",
+    "name": "ゆらぎの毒煙",
     "quality_group_id": 10,
     "rarity": 3,
     "roles": [],
@@ -2163,11 +2163,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u653B\u6483\u5BFE\u8C61\u304C\u30D6\u30EC\u30A4\u30AF\u72B6\u614B\u306E\u6642\u3001\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30921\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E                                                                                                                                                                                                                                              ",
+    "description": "味方全員に「攻撃対象がブレイク状態の時、スキルダメージ+{0}%」を1回行動終了するまで付与                                                                                                                                                                                                                                              ",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 103,
     "large_still_path_hash": 2284694191522821018,
-    "name": "\u30A2\u30B9\u30E9\u30C9\u30FC\u30CA\u30C4",
+    "name": "アスラドーナツ",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -2183,11 +2183,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u9B54\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "魔攻が最も高い味方1人に「クリティカルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 5,
     "id": 104,
     "large_still_path_hash": 388237980359416684,
-    "name": "\u6804\u990A\u5264",
+    "name": "栄養剤",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -2203,11 +2203,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u9B54\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "魔攻が最も高い味方1人に「クリティカルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 5,
     "id": 105,
     "large_still_path_hash": 388237980359416684,
-    "name": "\u6804\u990A\u5264",
+    "name": "栄養剤",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -2223,11 +2223,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u72B6\u614B\u7570\u5E38\u8010\u6027-{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "現在HPが最も高い敵1体に「状態異常耐性-{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 7,
     "id": 106,
     "large_still_path_hash": 6159777587674645772,
-    "name": "\u7981\u3058\u3089\u308C\u305F\u79D8\u85AC",
+    "name": "禁じられた秘薬",
     "quality_group_id": 10,
     "rarity": 3,
     "roles": [],
@@ -2241,11 +2241,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u72B6\u614B\u7570\u5E38\u8010\u6027-{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "現在HPが最も高い敵1体に「状態異常耐性-{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 7,
     "id": 107,
     "large_still_path_hash": 6159777587674645772,
-    "name": "\u7981\u3058\u3089\u308C\u305F\u79D8\u85AC",
+    "name": "禁じられた秘薬",
     "quality_group_id": 10,
     "rarity": 2,
     "roles": [],
@@ -2259,11 +2259,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "HP\u304C\u6700\u3082\u6E1B\u3063\u3066\u3044\u308B\u5473\u65B91\u4EBA\u306EHP\u309240%\u56DE\u5FA9\u003Cbr\u003E\u56DE\u5FA9\u5F8C\u3001\u5BFE\u8C61\u306B\u300C\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30921\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "HPが最も減っている味方1人のHPを40%回復<br>回復後、対象に「ブレイクダメージ+{0}%」を1回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 108,
     "large_still_path_hash": 672895020348908882,
-    "name": "\u30EA\u30D5\u30E5\u30FC\u30EB\u30DC\u30C8\u30EB",
+    "name": "リフュールボトル",
     "quality_group_id": 8,
     "rarity": 3,
     "roles": [
@@ -2280,11 +2280,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "HP\u304C\u6700\u3082\u6E1B\u3063\u3066\u3044\u308B\u5473\u65B91\u4EBA\u306EHP\u309230%\u56DE\u5FA9\u003Cbr\u003E\u56DE\u5FA9\u5F8C\u3001\u5BFE\u8C61\u306B\u300C\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30921\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "HPが最も減っている味方1人のHPを30%回復<br>回復後、対象に「ブレイクダメージ+{0}%」を1回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 109,
     "large_still_path_hash": 672895020348908882,
-    "name": "\u30EA\u30D5\u30E5\u30FC\u30EB\u30DC\u30C8\u30EB",
+    "name": "リフュールボトル",
     "quality_group_id": 8,
     "rarity": 2,
     "roles": [
@@ -2303,11 +2303,11 @@
     "attack_attributes": [
       7
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u96F7\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30923\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E\u3057\u3001\u96F7\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "敵全体に「雷属性耐性-{0}%」を3回攻撃を受けるまで付与し、雷属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 110,
     "large_still_path_hash": 6776553458615514055,
-    "name": "\u653E\u96FB\u7BA1",
+    "name": "放電管",
     "quality_group_id": 7,
     "rarity": 3,
     "roles": [
@@ -2326,11 +2326,11 @@
     "attack_attributes": [
       7
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u96F7\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30923\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E\u3057\u3001\u96F7\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "敵全体に「雷属性耐性-{0}%」を3回攻撃を受けるまで付与し、雷属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 111,
     "large_still_path_hash": 6776553458615514055,
-    "name": "\u653E\u96FB\u7BA1",
+    "name": "放電管",
     "quality_group_id": 7,
     "rarity": 2,
     "roles": [
@@ -2347,11 +2347,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u304B\u3070\u3046\u300D\u3068\u300C\u53D7\u3051\u308B\u30C0\u30E1\u30FC\u30B8-{0}%\u300D\u30921\u56DE\u4ED8\u4E0E",
+    "description": "最大HPが最も高い味方1人に「かばう」と「受けるダメージ-{0}%」を1回付与",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 112,
     "large_still_path_hash": 154899299958576025,
-    "name": "\u5B88\u8B77\u5973\u795E\u306E\u76FE",
+    "name": "守護女神の盾",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -2367,11 +2367,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u304B\u3070\u3046\u300D\u3068\u300C\u53D7\u3051\u308B\u30C0\u30E1\u30FC\u30B8-{0}%\u300D\u30921\u56DE\u4ED8\u4E0E",
+    "description": "最大HPが最も高い味方1人に「かばう」と「受けるダメージ-{0}%」を1回付与",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 113,
     "large_still_path_hash": 154899299958576025,
-    "name": "\u5B88\u8B77\u5973\u795E\u306E\u76FE",
+    "name": "守護女神の盾",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -2387,11 +2387,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "HP\u304C\u6700\u3082\u6E1B\u3063\u3066\u3044\u308B\u5473\u65B91\u4EBA\u306B\u300C\u6700\u5927HP\u002B{0}%\u300D\u3092\u4ED8\u4E0E(\u4E0A\u965030%)\u3057\u3001HP\u309250%\u56DE\u5FA9",
+    "description": "HPが最も減っている味方1人に「最大HP+{0}%」を付与(上限30%)し、HPを50%回復",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 114,
     "large_still_path_hash": 9092776565490570332,
-    "name": "\u4F1D\u627F\u306E\u30A8\u30EA\u30AD\u30B7\u30EB\u5264",
+    "name": "伝承のエリキシル剤",
     "quality_group_id": 8,
     "rarity": 3,
     "roles": [
@@ -2407,11 +2407,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "HP\u304C\u6700\u3082\u6E1B\u3063\u3066\u3044\u308B\u5473\u65B91\u4EBA\u306B\u300C\u6700\u5927HP\u002B{0}%\u300D\u3092\u4ED8\u4E0E(\u4E0A\u965021%)\u3057\u3001HP\u309230%\u56DE\u5FA9",
+    "description": "HPが最も減っている味方1人に「最大HP+{0}%」を付与(上限21%)し、HPを30%回復",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 115,
     "large_still_path_hash": 9092776565490570332,
-    "name": "\u4F1D\u627F\u306E\u30A8\u30EA\u30AD\u30B7\u30EB\u5264",
+    "name": "伝承のエリキシル剤",
     "quality_group_id": 8,
     "rarity": 2,
     "roles": [
@@ -2427,11 +2427,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u7269\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300CHP\u304C50%\u4EE5\u4E0A\u306E\u6642\u3001\u30D0\u30FC\u30B9\u30C8\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "物攻が最も高い味方1人に「HPが50%以上の時、バーストスキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 4,
     "id": 116,
     "large_still_path_hash": 7329729631676549954,
-    "name": "\u4F1D\u627F\u306E\u6559\u5178",
+    "name": "伝承の教典",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -2447,11 +2447,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u7269\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300CHP\u304C50%\u4EE5\u4E0A\u306E\u6642\u3001\u30D0\u30FC\u30B9\u30C8\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "物攻が最も高い味方1人に「HPが50%以上の時、バーストスキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 4,
     "id": 117,
     "large_still_path_hash": 7329729631676549954,
-    "name": "\u4F1D\u627F\u306E\u6559\u5178",
+    "name": "伝承の教典",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -2475,11 +2475,11 @@
       7,
       8
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u5168\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に「全属性耐性-{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 7,
     "id": 118,
     "large_still_path_hash": 4149250273035447072,
-    "name": "\u4F1D\u627F\u306E\u546A\u8853\u66F8",
+    "name": "伝承の呪術書",
     "quality_group_id": 10,
     "rarity": 3,
     "roles": [
@@ -2504,11 +2504,11 @@
       7,
       8
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u5168\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に「全属性耐性-{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 7,
     "id": 119,
     "large_still_path_hash": 4149250273035447072,
-    "name": "\u4F1D\u627F\u306E\u546A\u8853\u66F8",
+    "name": "伝承の呪術書",
     "quality_group_id": 10,
     "rarity": 2,
     "roles": [
@@ -2527,11 +2527,11 @@
     "attack_attributes": [
       5
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u706B\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u300C\u706B\u5C5E\u6027\u8010\u6027-{0}%\u300D\u3068\u5473\u65B9\u5168\u54E1\u306B\u300C\u706B\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30922\u56DE\u4ED8\u4E0E",
+    "description": "敵全体に火属性ダメージ後、「火属性耐性-{0}%」と味方全員に「火属性ダメージ+{1}%」を2回付与",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 120,
     "large_still_path_hash": 579113920720786106,
-    "name": "\u30D5\u30EC\u30A2\u30CE\u30F4\u30A1\u30D5\u30E9\u30E0",
+    "name": "フレアノヴァフラム",
     "quality_group_id": 4,
     "rarity": 3,
     "roles": [
@@ -2550,11 +2550,11 @@
     "attack_attributes": [
       5
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u706B\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u300C\u706B\u5C5E\u6027\u8010\u6027-{0}%\u300D\u3068\u5473\u65B9\u5168\u54E1\u306B\u300C\u706B\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30922\u56DE\u4ED8\u4E0E",
+    "description": "敵全体に火属性ダメージ後、「火属性耐性-{0}%」と味方全員に「火属性ダメージ+{1}%」を2回付与",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 121,
     "large_still_path_hash": 579113920720786106,
-    "name": "\u30D5\u30EC\u30A2\u30CE\u30F4\u30A1\u30D5\u30E9\u30E0",
+    "name": "フレアノヴァフラム",
     "quality_group_id": 4,
     "rarity": 2,
     "roles": [
@@ -2573,11 +2573,11 @@
     "attack_attributes": [
       6
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u6C37\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u300C\u6C37\u5C5E\u6027\u8010\u6027-{0}%\u300D\u3068\u5473\u65B9\u5168\u54E1\u306B\u300C\u6C37\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30922\u56DE\u4ED8\u4E0E",
+    "description": "敵全体に氷属性ダメージ後、「氷属性耐性-{0}%」と味方全員に「氷属性ダメージ+{1}%」を2回付与",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 122,
     "large_still_path_hash": 6063000044587447016,
-    "name": "\u30D6\u30EA\u30B6\u30FC\u30C9\u30EC\u30D8\u30EB\u30F3",
+    "name": "ブリザードレヘルン",
     "quality_group_id": 5,
     "rarity": 3,
     "roles": [
@@ -2596,11 +2596,11 @@
     "attack_attributes": [
       6
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u6C37\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u300C\u6C37\u5C5E\u6027\u8010\u6027-{0}%\u300D\u3068\u5473\u65B9\u5168\u54E1\u306B\u300C\u6C37\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30922\u56DE\u4ED8\u4E0E",
+    "description": "敵全体に氷属性ダメージ後、「氷属性耐性-{0}%」と味方全員に「氷属性ダメージ+{1}%」を2回付与",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 123,
     "large_still_path_hash": 6063000044587447016,
-    "name": "\u30D6\u30EA\u30B6\u30FC\u30C9\u30EC\u30D8\u30EB\u30F3",
+    "name": "ブリザードレヘルン",
     "quality_group_id": 5,
     "rarity": 2,
     "roles": [
@@ -2619,11 +2619,11 @@
     "attack_attributes": [
       7
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u96F7\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u300C\u96F7\u5C5E\u6027\u8010\u6027-{0}%\u300D\u3068\u5473\u65B9\u5168\u54E1\u306B\u300C\u96F7\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30922\u56DE\u4ED8\u4E0E",
+    "description": "敵全体に雷属性ダメージ後、「雷属性耐性-{0}%」と味方全員に「雷属性ダメージ+{1}%」を2回付与",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 124,
     "large_still_path_hash": 4580145603768128513,
-    "name": "\u30B0\u30F3\u30B0\u30CB\u30EB\u30D7\u30E9\u30B8\u30B0",
+    "name": "グングニルプラジグ",
     "quality_group_id": 7,
     "rarity": 3,
     "roles": [
@@ -2642,11 +2642,11 @@
     "attack_attributes": [
       7
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u96F7\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u300C\u96F7\u5C5E\u6027\u8010\u6027-{0}%\u300D\u3068\u5473\u65B9\u5168\u54E1\u306B\u300C\u96F7\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30922\u56DE\u4ED8\u4E0E",
+    "description": "敵全体に雷属性ダメージ後、「雷属性耐性-{0}%」と味方全員に「雷属性ダメージ+{1}%」を2回付与",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 125,
     "large_still_path_hash": 4580145603768128513,
-    "name": "\u30B0\u30F3\u30B0\u30CB\u30EB\u30D7\u30E9\u30B8\u30B0",
+    "name": "グングニルプラジグ",
     "quality_group_id": 7,
     "rarity": 2,
     "roles": [
@@ -2665,11 +2665,11 @@
     "attack_attributes": [
       8
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u98A8\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u300C\u98A8\u5C5E\u6027\u8010\u6027-{0}%\u300D\u3068\u5473\u65B9\u5168\u54E1\u306B\u300C\u98A8\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30922\u56DE\u4ED8\u4E0E",
+    "description": "敵全体に風属性ダメージ後、「風属性耐性-{0}%」と味方全員に「風属性ダメージ+{1}%」を2回付与",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 126,
     "large_still_path_hash": 7179447303620441183,
-    "name": "\u30C8\u30EB\u30CD\u30FC\u30C9\u30EB\u30D5\u30C8",
+    "name": "トルネードルフト",
     "quality_group_id": 6,
     "rarity": 3,
     "roles": [
@@ -2688,11 +2688,11 @@
     "attack_attributes": [
       8
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u98A8\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u300C\u98A8\u5C5E\u6027\u8010\u6027-{0}%\u300D\u3068\u5473\u65B9\u5168\u54E1\u306B\u300C\u98A8\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30922\u56DE\u4ED8\u4E0E",
+    "description": "敵全体に風属性ダメージ後、「風属性耐性-{0}%」と味方全員に「風属性ダメージ+{1}%」を2回付与",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 127,
     "large_still_path_hash": 7179447303620441183,
-    "name": "\u30C8\u30EB\u30CD\u30FC\u30C9\u30EB\u30D5\u30C8",
+    "name": "トルネードルフト",
     "quality_group_id": 6,
     "rarity": 2,
     "roles": [
@@ -2711,11 +2711,11 @@
     "attack_attributes": [
       1
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u65AC\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u300C\u65AC\u5C5E\u6027\u8010\u6027-{0}%\u300D\u3068\u5473\u65B9\u5168\u54E1\u306B\u300C\u65AC\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30922\u56DE\u4ED8\u4E0E",
+    "description": "敵全体に斬属性ダメージ後、「斬属性耐性-{0}%」と味方全員に「斬属性ダメージ+{1}%」を2回付与",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 128,
     "large_still_path_hash": 8658982923314998083,
-    "name": "\u30B7\u30E5\u30EC\u30C3\u30C9\u30C7\u30A3\u30B6\u30B9\u30BF\u30FC",
+    "name": "シュレッドディザスター",
     "quality_group_id": 1,
     "rarity": 3,
     "roles": [
@@ -2734,11 +2734,11 @@
     "attack_attributes": [
       1
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u65AC\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u300C\u65AC\u5C5E\u6027\u8010\u6027-{0}%\u300D\u3068\u5473\u65B9\u5168\u54E1\u306B\u300C\u65AC\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30922\u56DE\u4ED8\u4E0E",
+    "description": "敵全体に斬属性ダメージ後、「斬属性耐性-{0}%」と味方全員に「斬属性ダメージ+{1}%」を2回付与",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 129,
     "large_still_path_hash": 8658982923314998083,
-    "name": "\u30B7\u30E5\u30EC\u30C3\u30C9\u30C7\u30A3\u30B6\u30B9\u30BF\u30FC",
+    "name": "シュレッドディザスター",
     "quality_group_id": 1,
     "rarity": 2,
     "roles": [
@@ -2757,11 +2757,11 @@
     "attack_attributes": [
       2
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u6253\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u300C\u6253\u5C5E\u6027\u8010\u6027-{0}%\u300D\u3068\u5473\u65B9\u5168\u54E1\u306B\u300C\u6253\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30922\u56DE\u4ED8\u4E0E",
+    "description": "敵全体に打属性ダメージ後、「打属性耐性-{0}%」と味方全員に「打属性ダメージ+{1}%」を2回付与",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 130,
     "large_still_path_hash": 2596206950628264733,
-    "name": "\u30C7\u30A3\u30B9\u30DA\u30A2\u30AB\u30CE\u30F3",
+    "name": "ディスペアカノン",
     "quality_group_id": 2,
     "rarity": 3,
     "roles": [
@@ -2780,11 +2780,11 @@
     "attack_attributes": [
       2
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u6253\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u300C\u6253\u5C5E\u6027\u8010\u6027-{0}%\u300D\u3068\u5473\u65B9\u5168\u54E1\u306B\u300C\u6253\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30922\u56DE\u4ED8\u4E0E",
+    "description": "敵全体に打属性ダメージ後、「打属性耐性-{0}%」と味方全員に「打属性ダメージ+{1}%」を2回付与",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 131,
     "large_still_path_hash": 2596206950628264733,
-    "name": "\u30C7\u30A3\u30B9\u30DA\u30A2\u30AB\u30CE\u30F3",
+    "name": "ディスペアカノン",
     "quality_group_id": 2,
     "rarity": 2,
     "roles": [
@@ -2803,11 +2803,11 @@
     "attack_attributes": [
       3
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u7A81\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u300C\u7A81\u5C5E\u6027\u8010\u6027-{0}%\u300D\u3068\u5473\u65B9\u5168\u54E1\u306B\u300C\u7A81\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30922\u56DE\u4ED8\u4E0E",
+    "description": "敵全体に突属性ダメージ後、「突属性耐性-{0}%」と味方全員に「突属性ダメージ+{1}%」を2回付与",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 132,
     "large_still_path_hash": 2458261143975359490,
-    "name": "\u30AB\u30BF\u30B9\u30C8\u30AF\u30E9\u30D5\u30C8",
+    "name": "カタストクラフト",
     "quality_group_id": 3,
     "rarity": 3,
     "roles": [
@@ -2826,11 +2826,11 @@
     "attack_attributes": [
       3
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u7A81\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u300C\u7A81\u5C5E\u6027\u8010\u6027-{0}%\u300D\u3068\u5473\u65B9\u5168\u54E1\u306B\u300C\u7A81\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30922\u56DE\u4ED8\u4E0E",
+    "description": "敵全体に突属性ダメージ後、「突属性耐性-{0}%」と味方全員に「突属性ダメージ+{1}%」を2回付与",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 133,
     "large_still_path_hash": 2458261143975359490,
-    "name": "\u30AB\u30BF\u30B9\u30C8\u30AF\u30E9\u30D5\u30C8",
+    "name": "カタストクラフト",
     "quality_group_id": 3,
     "rarity": 2,
     "roles": [
@@ -2849,11 +2849,11 @@
     "attack_attributes": [
       3
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u7A81\u5C5E\u6027\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8",
+    "description": "最大HPが最も高い敵1体に突属性ブレイクダメージ",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 134,
     "large_still_path_hash": 305324605863505032,
-    "name": "\u30AF\u30E9\u30D5\u30C8\u30EA\u30AA",
+    "name": "クラフトリオ",
     "quality_group_id": 10,
     "rarity": 2,
     "roles": [],
@@ -2867,11 +2867,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u6BD2\u8010\u6027-{0}%\u300D\u3068\u300C\u6BD2\u300D2\u3064\u30922\u56DE\u884C\u52D5\u3059\u308B\u307E\u3067\u305D\u308C\u305E\u308C\u8D85\u9AD8\u78BA\u7387\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に「毒耐性-{0}%」と「毒」2つを2回行動するまでそれぞれ超高確率で付与",
     "easy_synthesis_trait_lottery_id": 7,
     "id": 135,
     "large_still_path_hash": 4871111539712168900,
-    "name": "\u3086\u3089\u304E\u306E\u6BD2\u7159",
+    "name": "ゆらぎの毒煙",
     "quality_group_id": 10,
     "rarity": 2,
     "roles": [],
@@ -2885,11 +2885,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u653B\u6483\u5BFE\u8C61\u304C\u30D6\u30EC\u30A4\u30AF\u72B6\u614B\u306E\u6642\u3001\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30921\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E                                                                                                                                                                                                                                              ",
+    "description": "味方全員に「攻撃対象がブレイク状態の時、スキルダメージ+{0}%」を1回行動終了するまで付与                                                                                                                                                                                                                                              ",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 136,
     "large_still_path_hash": 2284694191522821018,
-    "name": "\u30A2\u30B9\u30E9\u30C9\u30FC\u30CA\u30C4",
+    "name": "アスラドーナツ",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -2909,11 +2909,11 @@
       2,
       3
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u53D7\u3051\u308B\u7269\u7406\u653B\u6483\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に「受ける物理攻撃スキルダメージ+{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 8,
     "id": 137,
     "large_still_path_hash": 7605938023512520064,
-    "name": "\u5C0F\u60AA\u9B54\u306E\u3044\u305F\u305A\u3089",
+    "name": "小悪魔のいたずら",
     "quality_group_id": 11,
     "rarity": 3,
     "roles": [
@@ -2933,11 +2933,11 @@
       2,
       3
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u53D7\u3051\u308B\u7269\u7406\u653B\u6483\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に「受ける物理攻撃スキルダメージ+{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 8,
     "id": 138,
     "large_still_path_hash": 7605938023512520064,
-    "name": "\u5C0F\u60AA\u9B54\u306E\u3044\u305F\u305A\u3089",
+    "name": "小悪魔のいたずら",
     "quality_group_id": 11,
     "rarity": 2,
     "roles": [
@@ -2955,11 +2955,11 @@
     "attack_attributes": [
       8
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u98A8\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30923\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E\u3057\u3001\u98A8\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "敵全体に「風属性耐性-{0}%」を3回攻撃を受けるまで付与し、風属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 139,
     "large_still_path_hash": 3864316309657195810,
-    "name": "\u30AA\u30FC\u30AB\u30F3\u30EB\u30D5\u30A7\u30F3",
+    "name": "オーカンルフェン",
     "quality_group_id": 6,
     "rarity": 3,
     "roles": [
@@ -2978,11 +2978,11 @@
     "attack_attributes": [
       8
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u98A8\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30923\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E\u3057\u3001\u98A8\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "敵全体に「風属性耐性-{0}%」を3回攻撃を受けるまで付与し、風属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 140,
     "large_still_path_hash": 3864316309657195810,
-    "name": "\u30AA\u30FC\u30AB\u30F3\u30EB\u30D5\u30A7\u30F3",
+    "name": "オーカンルフェン",
     "quality_group_id": 6,
     "rarity": 2,
     "roles": [
@@ -3004,11 +3004,11 @@
       7,
       8
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u9B54\u6CD5\u653B\u6483\u30C0\u30E1\u30FC\u30B8-{0}%\u300D\u3068\u300C\u53D7\u3051\u308B\u9B54\u6CD5\u653B\u6483\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30922\u56DE\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に「魔法攻撃ダメージ-{0}%」と「受ける魔法攻撃ダメージ+{1}%」を2回付与",
     "easy_synthesis_trait_lottery_id": 9,
     "id": 141,
     "large_still_path_hash": 6890926121343992082,
-    "name": "\u5438\u9B42\u3072\u3087\u3046\u305F\u3093",
+    "name": "吸魂ひょうたん",
     "quality_group_id": 12,
     "rarity": 3,
     "roles": [
@@ -3029,11 +3029,11 @@
       7,
       8
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u9B54\u6CD5\u653B\u6483\u30C0\u30E1\u30FC\u30B8-{0}%\u300D\u3068\u300C\u53D7\u3051\u308B\u9B54\u6CD5\u653B\u6483\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30922\u56DE\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に「魔法攻撃ダメージ-{0}%」と「受ける魔法攻撃ダメージ+{1}%」を2回付与",
     "easy_synthesis_trait_lottery_id": 9,
     "id": 142,
     "large_still_path_hash": 6890926121343992082,
-    "name": "\u5438\u9B42\u3072\u3087\u3046\u305F\u3093",
+    "name": "吸魂ひょうたん",
     "quality_group_id": 12,
     "rarity": 2,
     "roles": [
@@ -3051,11 +3051,11 @@
     "attack_attributes": [
       6
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u6C37\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30923\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E\u3057\u3001\u6C37\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "敵全体に「氷属性耐性-{0}%」を3回攻撃を受けるまで付与し、氷属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 143,
     "large_still_path_hash": 255592112348684620,
-    "name": "\u30AC\u30E9\u30B9\u306E\u30D0\u30E9",
+    "name": "ガラスのバラ",
     "quality_group_id": 5,
     "rarity": 3,
     "roles": [
@@ -3074,11 +3074,11 @@
     "attack_attributes": [
       6
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u6C37\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30923\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E\u3057\u3001\u6C37\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "敵全体に「氷属性耐性-{0}%」を3回攻撃を受けるまで付与し、氷属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 144,
     "large_still_path_hash": 255592112348684620,
-    "name": "\u30AC\u30E9\u30B9\u306E\u30D0\u30E9",
+    "name": "ガラスのバラ",
     "quality_group_id": 5,
     "rarity": 2,
     "roles": [
@@ -3095,11 +3095,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "HP\u304C\u6700\u3082\u6E1B\u3063\u3066\u3044\u308B\u5473\u65B91\u4EBA\u306E\u56DE\u5FA9\u7121\u52B9\u3092\u89E3\u9664\u3057\u3001HP\u309230%\u56DE\u5FA9",
+    "description": "HPが最も減っている味方1人の回復無効を解除し、HPを30%回復",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 145,
     "large_still_path_hash": 1730629050153369170,
-    "name": "\u30B9\u30C8\u30E9\u30D1\u30FC\u30EB",
+    "name": "ストラパール",
     "quality_group_id": 8,
     "rarity": 3,
     "roles": [
@@ -3115,11 +3115,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "HP\u304C\u6700\u3082\u6E1B\u3063\u3066\u3044\u308B\u5473\u65B91\u4EBA\u306E\u56DE\u5FA9\u7121\u52B9\u3092\u89E3\u9664\u3057\u3001HP\u309220%\u56DE\u5FA9",
+    "description": "HPが最も減っている味方1人の回復無効を解除し、HPを20%回復",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 146,
     "large_still_path_hash": 1730629050153369170,
-    "name": "\u30B9\u30C8\u30E9\u30D1\u30FC\u30EB",
+    "name": "ストラパール",
     "quality_group_id": 8,
     "rarity": 2,
     "roles": [
@@ -3135,11 +3135,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u30BF\u30FC\u30F3\u958B\u59CB\u6642HP10%\u56DE\u5FA9\u300D\u30922\u56DE\u884C\u52D5\u958B\u59CB\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "味方全員に「ターン開始時HP10%回復」を2回行動開始するまで付与",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 147,
     "large_still_path_hash": 694458902910623853,
-    "name": "\u307F\u306A\u304E\u308B\u30C9\u30EA\u30F3\u30AF",
+    "name": "みなぎるドリンク",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -3155,11 +3155,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u30BF\u30FC\u30F3\u958B\u59CB\u6642HP7%\u56DE\u5FA9\u300D\u30922\u56DE\u884C\u52D5\u958B\u59CB\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "味方全員に「ターン開始時HP7%回復」を2回行動開始するまで付与",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 148,
     "large_still_path_hash": 694458902910623853,
-    "name": "\u307F\u306A\u304E\u308B\u30C9\u30EA\u30F3\u30AF",
+    "name": "みなぎるドリンク",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -3177,11 +3177,11 @@
     "attack_attributes": [
       3
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u7A81\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30923\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E\u3057\u3001\u7A81\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "敵全体に「突属性耐性-{0}%」を3回攻撃を受けるまで付与し、突属性ダメージ",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 149,
     "large_still_path_hash": 4770422068334960913,
-    "name": "\u30C6\u30CD\u30D6\u30EB\u30E9\u30F3\u30B9",
+    "name": "テネブルランス",
     "quality_group_id": 3,
     "rarity": 3,
     "roles": [
@@ -3200,11 +3200,11 @@
     "attack_attributes": [
       3
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u7A81\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30923\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E\u3057\u3001\u7A81\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "敵全体に「突属性耐性-{0}%」を3回攻撃を受けるまで付与し、突属性ダメージ",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 150,
     "large_still_path_hash": 4770422068334960913,
-    "name": "\u30C6\u30CD\u30D6\u30EB\u30E9\u30F3\u30B9",
+    "name": "テネブルランス",
     "quality_group_id": 3,
     "rarity": 2,
     "roles": [
@@ -3221,11 +3221,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u7269\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u653B\u6483\u5BFE\u8C61\u306EHP\u304C50%\u672A\u6E80\u306E\u6642\u3001\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "物攻が最も高い味方1人に「攻撃対象のHPが50%未満の時、スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 4,
     "id": 151,
     "large_still_path_hash": 2170320472700223823,
-    "name": "\u5922\u5E7B\u306E\u7FBD\u8863",
+    "name": "夢幻の羽衣",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -3241,11 +3241,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u7269\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u653B\u6483\u5BFE\u8C61\u306EHP\u304C50%\u672A\u6E80\u306E\u6642\u3001\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "物攻が最も高い味方1人に「攻撃対象のHPが50%未満の時、スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 4,
     "id": 152,
     "large_still_path_hash": 2170320472700223823,
-    "name": "\u5922\u5E7B\u306E\u7FBD\u8863",
+    "name": "夢幻の羽衣",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -3261,11 +3261,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u706B\u50B7\u8010\u6027-{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E\u3057\u3001\u300C\u706B\u50B7\u300D\u3092\u8D85\u9AD8\u78BA\u7387\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に「火傷耐性-{0}%」を2回行動終了するまで付与し、「火傷」を超高確率で付与",
     "easy_synthesis_trait_lottery_id": 7,
     "id": 153,
     "large_still_path_hash": 402756225428463187,
-    "name": "\u9178\u306E\u9727\u96F2",
+    "name": "酸の霧雲",
     "quality_group_id": 10,
     "rarity": 3,
     "roles": [],
@@ -3279,11 +3279,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u706B\u50B7\u8010\u6027-{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E\u3057\u3001\u300C\u706B\u50B7\u300D\u3092\u8D85\u9AD8\u78BA\u7387\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に「火傷耐性-{0}%」を2回行動終了するまで付与し、「火傷」を超高確率で付与",
     "easy_synthesis_trait_lottery_id": 7,
     "id": 154,
     "large_still_path_hash": 402756225428463187,
-    "name": "\u9178\u306E\u9727\u96F2",
+    "name": "酸の霧雲",
     "quality_group_id": 10,
     "rarity": 2,
     "roles": [],
@@ -3297,11 +3297,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u5168\u4F53\u653B\u6483\u304B\u3089\u53D7\u3051\u308B\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に「全体攻撃から受けるブレイクダメージ+{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 7,
     "id": 155,
     "large_still_path_hash": 6465928570982743565,
-    "name": "\u30D4\u30E5\u30A2\u30A2\u30ED\u30DE",
+    "name": "ピュアアロマ",
     "quality_group_id": 10,
     "rarity": 3,
     "roles": [
@@ -3317,11 +3317,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u5168\u4F53\u653B\u6483\u304B\u3089\u53D7\u3051\u308B\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に「全体攻撃から受けるブレイクダメージ+{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 7,
     "id": 156,
     "large_still_path_hash": 6465928570982743565,
-    "name": "\u30D4\u30E5\u30A2\u30A2\u30ED\u30DE",
+    "name": "ピュアアロマ",
     "quality_group_id": 10,
     "rarity": 2,
     "roles": [
@@ -3337,11 +3337,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u30A2\u30BF\u30C3\u30AB\u30FC\u306E\u6642\u3001\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u3068\u300C\u30D6\u30EC\u30A4\u30AB\u30FC\u306E\u6642\u3001\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30922\u56DE\u4ED8\u4E0E",
+    "description": "味方全員に「アタッカーの時、スキルダメージ+{0}%」と「ブレイカーの時、ブレイクダメージ+{1}%」を2回付与",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 157,
     "large_still_path_hash": 4911486089964346896,
-    "name": "\u307E\u3054\u3053\u308D\u30C1\u30E7\u30B3\u30EC\u30FC\u30C8",
+    "name": "まごころチョコレート",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -3358,11 +3358,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u30A2\u30BF\u30C3\u30AB\u30FC\u306E\u6642\u3001\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u3068\u300C\u30D6\u30EC\u30A4\u30AB\u30FC\u306E\u6642\u3001\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30922\u56DE\u4ED8\u4E0E",
+    "description": "味方全員に「アタッカーの時、スキルダメージ+{0}%」と「ブレイカーの時、ブレイクダメージ+{1}%」を2回付与",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 158,
     "large_still_path_hash": 4911486089964346896,
-    "name": "\u307E\u3054\u3053\u308D\u30C1\u30E7\u30B3\u30EC\u30FC\u30C8",
+    "name": "まごころチョコレート",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -3381,11 +3381,11 @@
     "attack_attributes": [
       2
     ],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u4F4E\u3044\u65751\u4F53\u306B\u6253\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "現在HPが最も低い敵1体に打属性ダメージ",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 159,
     "large_still_path_hash": 6164937307580022835,
-    "name": "\u9AD8\u706B\u529B\u932C\u91D1\u5927\u7832",
+    "name": "高火力錬金大砲",
     "quality_group_id": 2,
     "rarity": 3,
     "roles": [],
@@ -3401,11 +3401,11 @@
     "attack_attributes": [
       2
     ],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u4F4E\u3044\u65751\u4F53\u306B\u6253\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "現在HPが最も低い敵1体に打属性ダメージ",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 160,
     "large_still_path_hash": 6164937307580022835,
-    "name": "\u9AD8\u706B\u529B\u932C\u91D1\u5927\u7832",
+    "name": "高火力錬金大砲",
     "quality_group_id": 2,
     "rarity": 2,
     "roles": [],
@@ -3421,11 +3421,11 @@
     "attack_attributes": [
       6
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u6C37\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u3092\u4E0E\u3048\u3001\u5BFE\u8C61\u306B\u300C\u53D7\u3051\u308B\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に氷属性ダメージを与え、対象に「受けるブレイクダメージ+{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 161,
     "large_still_path_hash": 4478171854493263572,
-    "name": "\u51CD\u7D50\u7834\u58CA\u7206\u5F3E",
+    "name": "凍結破壊爆弾",
     "quality_group_id": 5,
     "rarity": 3,
     "roles": [
@@ -3443,11 +3443,11 @@
     "attack_attributes": [
       6
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u6C37\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u3092\u4E0E\u3048\u3001\u5BFE\u8C61\u306B\u300C\u53D7\u3051\u308B\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に氷属性ダメージを与え、対象に「受けるブレイクダメージ+{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 162,
     "large_still_path_hash": 4478171854493263572,
-    "name": "\u51CD\u7D50\u7834\u58CA\u7206\u5F3E",
+    "name": "凍結破壊爆弾",
     "quality_group_id": 5,
     "rarity": 2,
     "roles": [
@@ -3463,11 +3463,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u7269\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E ",
+    "description": "物攻が最も高い味方1人に「クリティカルダメージ+{0}%」を2回行動終了するまで付与 ",
     "easy_synthesis_trait_lottery_id": 4,
     "id": 163,
     "large_still_path_hash": 7064141152768558730,
-    "name": "\u529B\u306E\u30C8\u30FC\u30C6\u30E0",
+    "name": "力のトーテム",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -3483,11 +3483,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u7269\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E ",
+    "description": "物攻が最も高い味方1人に「クリティカルダメージ+{0}%」を2回行動終了するまで付与 ",
     "easy_synthesis_trait_lottery_id": 4,
     "id": 164,
     "large_still_path_hash": 7064141152768558730,
-    "name": "\u529B\u306E\u30C8\u30FC\u30C6\u30E0",
+    "name": "力のトーテム",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -3503,11 +3503,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u3001\u300C\u53D7\u3051\u308B\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30923\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に、「受けるクリティカルダメージ+{0}%」を3回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 7,
     "id": 165,
     "large_still_path_hash": 8755200728211823000,
-    "name": "\u51F6\u5146\u6C34",
+    "name": "凶兆水",
     "quality_group_id": 10,
     "rarity": 3,
     "roles": [
@@ -3523,11 +3523,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u3001\u300C\u53D7\u3051\u308B\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30923\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に、「受けるクリティカルダメージ+{0}%」を3回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 7,
     "id": 166,
     "large_still_path_hash": 8755200728211823000,
-    "name": "\u51F6\u5146\u6C34",
+    "name": "凶兆水",
     "quality_group_id": 10,
     "rarity": 2,
     "roles": [
@@ -3543,11 +3543,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306EHP\u309210%\u56DE\u5FA9\u3057\u3001\u300C\u706B\u50B7\u72B6\u614B\u300D\u3068\u300C\u6BD2\u72B6\u614B\u300D\u3092\u89E3\u9664",
+    "description": "味方全員のHPを10%回復し、「火傷状態」と「毒状態」を解除",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 167,
     "large_still_path_hash": 2715054629439846858,
-    "name": "\u30D4\u30ED\u30BD\u30C6\u30A3\u30FC",
+    "name": "ピロソティー",
     "quality_group_id": 9,
     "rarity": 3,
     "roles": [
@@ -3563,11 +3563,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306EHP\u30925%\u56DE\u5FA9\u3057\u3001\u300C\u706B\u50B7\u72B6\u614B\u300D\u3068\u300C\u6BD2\u72B6\u614B\u300D\u3092\u89E3\u9664",
+    "description": "味方全員のHPを5%回復し、「火傷状態」と「毒状態」を解除",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 168,
     "large_still_path_hash": 2715054629439846858,
-    "name": "\u30D4\u30ED\u30BD\u30C6\u30A3\u30FC",
+    "name": "ピロソティー",
     "quality_group_id": 9,
     "rarity": 2,
     "roles": [
@@ -3585,11 +3585,11 @@
     "attack_attributes": [
       2
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u6253\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u3002\u5BFE\u8C61\u304C\u30D6\u30EC\u30A4\u30AF\u72B6\u614B\u306E\u6642\u3001\u3053\u306E\u30A2\u30A4\u30C6\u30E0\u306E\u30C0\u30E1\u30FC\u30B8\u002B{0}%",
+    "description": "敵全体に打属性ダメージ。対象がブレイク状態の時、このアイテムのダメージ+{0}%",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 169,
     "large_still_path_hash": 2573566152837449431,
-    "name": "\u3064\u3051\u3082\u306E\u77F3",
+    "name": "つけもの石",
     "quality_group_id": 2,
     "rarity": 3,
     "roles": [],
@@ -3605,11 +3605,11 @@
     "attack_attributes": [
       2
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u6253\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u3002\u5BFE\u8C61\u304C\u30D6\u30EC\u30A4\u30AF\u72B6\u614B\u306E\u6642\u3001\u3053\u306E\u30A2\u30A4\u30C6\u30E0\u306E\u30C0\u30E1\u30FC\u30B8\u002B{0}%",
+    "description": "敵全体に打属性ダメージ。対象がブレイク状態の時、このアイテムのダメージ+{0}%",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 170,
     "large_still_path_hash": 2573566152837449431,
-    "name": "\u3064\u3051\u3082\u306E\u77F3",
+    "name": "つけもの石",
     "quality_group_id": 2,
     "rarity": 2,
     "roles": [],
@@ -3627,11 +3627,11 @@
       2,
       3
     ],
-    "description": "\u7269\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u7269\u7406\u653B\u6483\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30921\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E(\u91CD\u8907\u4E0D\u53EF)",
+    "description": "物攻が最も高い味方1人に「物理攻撃スキルダメージ+{0}%」を1回行動終了するまで付与(重複不可)",
     "easy_synthesis_trait_lottery_id": 4,
     "id": 171,
     "large_still_path_hash": 9194753569882662537,
-    "name": "\u539F\u521D\u306E\u529B\u8089",
+    "name": "原初の力肉",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -3651,11 +3651,11 @@
       2,
       3
     ],
-    "description": "\u7269\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u7269\u7406\u653B\u6483\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30921\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E(\u91CD\u8907\u4E0D\u53EF)",
+    "description": "物攻が最も高い味方1人に「物理攻撃スキルダメージ+{0}%」を1回行動終了するまで付与(重複不可)",
     "easy_synthesis_trait_lottery_id": 4,
     "id": 172,
     "large_still_path_hash": 9194753569882662537,
-    "name": "\u539F\u521D\u306E\u529B\u8089",
+    "name": "原初の力肉",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -3671,11 +3671,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u53D7\u3051\u308B\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E(\u91CD\u8907\u4E0D\u53EF)",
+    "description": "敵全体に「受けるブレイクダメージ+{0}%」を2回攻撃を受けるまで付与(重複不可)",
     "easy_synthesis_trait_lottery_id": 7,
     "id": 173,
     "large_still_path_hash": 7210885293743798677,
-    "name": "\u9B54\u6CD5\u306E\u9396",
+    "name": "魔法の鎖",
     "quality_group_id": 10,
     "rarity": 3,
     "roles": [
@@ -3691,11 +3691,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u53D7\u3051\u308B\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E(\u91CD\u8907\u4E0D\u53EF)",
+    "description": "敵全体に「受けるブレイクダメージ+{0}%」を2回攻撃を受けるまで付与(重複不可)",
     "easy_synthesis_trait_lottery_id": 7,
     "id": 174,
     "large_still_path_hash": 7210885293743798677,
-    "name": "\u9B54\u6CD5\u306E\u9396",
+    "name": "魔法の鎖",
     "quality_group_id": 10,
     "rarity": 2,
     "roles": [
@@ -3711,11 +3711,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u653B\u6483\u6642\u3001\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u3068\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30921\u56DE\u4ED8\u4E0E",
+    "description": "味方全員に「クリティカル攻撃時、クリティカルダメージ+{0}%とブレイクダメージ+{1}%」を1回付与",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 175,
     "large_still_path_hash": 4053031412178868683,
-    "name": "\u30B7\u30A7\u30EB\u30DA\u30EB\u30DB\u30EB\u30F3",
+    "name": "シェルペルホルン",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -3732,11 +3732,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u653B\u6483\u6642\u3001\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u3068\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30921\u56DE\u4ED8\u4E0E",
+    "description": "味方全員に「クリティカル攻撃時、クリティカルダメージ+{0}%とブレイクダメージ+{1}%」を1回付与",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 176,
     "large_still_path_hash": 4053031412178868683,
-    "name": "\u30B7\u30A7\u30EB\u30DA\u30EB\u30DB\u30EB\u30F3",
+    "name": "シェルペルホルン",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -3755,11 +3755,11 @@
     "attack_attributes": [
       1
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u65AC\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30923\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E\u3057\u3001\u65AC\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "敵全体に「斬属性耐性-{0}%」を3回攻撃を受けるまで付与し、斬属性ダメージ",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 177,
     "large_still_path_hash": 7505217916066465707,
-    "name": "\u30A2\u30B8\u30EB\u30C1\u30E3\u30AF\u30E9\u30E0",
+    "name": "アジルチャクラム",
     "quality_group_id": 1,
     "rarity": 3,
     "roles": [
@@ -3778,11 +3778,11 @@
     "attack_attributes": [
       1
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u65AC\u5C5E\u6027\u8010\u6027-{0}%\u300D\u30923\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E\u3057\u3001\u65AC\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "敵全体に「斬属性耐性-{0}%」を3回攻撃を受けるまで付与し、斬属性ダメージ",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 178,
     "large_still_path_hash": 7505217916066465707,
-    "name": "\u30A2\u30B8\u30EB\u30C1\u30E3\u30AF\u30E9\u30E0",
+    "name": "アジルチャクラム",
     "quality_group_id": 1,
     "rarity": 2,
     "roles": [
@@ -3801,11 +3801,11 @@
     "attack_attributes": [
       3
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u7A81\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "敵全体に突属性ダメージ",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 179,
     "large_still_path_hash": 3749972977795344373,
-    "name": "\u8A66\u4F5C\u54C1\u3046\u306B\u888B",
+    "name": "試作品うに袋",
     "quality_group_id": 3,
     "rarity": 3,
     "roles": [],
@@ -3821,11 +3821,11 @@
     "attack_attributes": [
       3
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u7A81\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "敵全体に突属性ダメージ",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 180,
     "large_still_path_hash": 3749972977795344373,
-    "name": "\u8A66\u4F5C\u54C1\u3046\u306B\u888B",
+    "name": "試作品うに袋",
     "quality_group_id": 3,
     "rarity": 2,
     "roles": [],
@@ -3839,11 +3839,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30921\u56DE\u4ED8\u4E0E\u3057\u3001\u6B21\u306E\u30D1\u30CD\u30EB{1}\u3064\u3092\u5F37\u5316\u30D1\u30CD\u30EB\u306B\u5909\u63DB\u3082\u3057\u304F\u306F\u751F\u6210",
+    "description": "味方全員に「スキルダメージ+{0}%」を1回付与し、次のパネル{1}つを強化パネルに変換もしくは生成",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 181,
     "large_still_path_hash": 6114064452454000324,
-    "name": "\u5B66\u751F\u5FDC\u63F4\u30EC\u30C3\u30C9\u30BC\u30EA\u30FC",
+    "name": "学生応援レッドゼリー",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [],
@@ -3857,11 +3857,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30921\u56DE\u4ED8\u4E0E\u3057\u3001\u6B21\u306E\u30D1\u30CD\u30EB{1}\u3064\u3092\u5F37\u5316\u30D1\u30CD\u30EB\u306B\u5909\u63DB\u3082\u3057\u304F\u306F\u751F\u6210",
+    "description": "味方全員に「スキルダメージ+{0}%」を1回付与し、次のパネル{1}つを強化パネルに変換もしくは生成",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 182,
     "large_still_path_hash": 6114064452454000324,
-    "name": "\u5B66\u751F\u5FDC\u63F4\u30EC\u30C3\u30C9\u30BC\u30EA\u30FC",
+    "name": "学生応援レッドゼリー",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [],
@@ -3875,11 +3875,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306EHP\u309210%\u56DE\u5FA9\u003Cbr\u003E\u56DE\u5FA9\u5F8C\u3001\u5BFE\u8C61\u306B\u300C\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30921\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "味方全員のHPを10%回復<br>回復後、対象に「スキルダメージ+{0}%」を1回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 183,
     "large_still_path_hash": 645407114941499034,
-    "name": "\u5B66\u751F\u5FDC\u63F4\u5927\u76DB\u5B9A\u98DF",
+    "name": "学生応援大盛定食",
     "quality_group_id": 9,
     "rarity": 3,
     "roles": [
@@ -3896,11 +3896,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306EHP\u30925%\u56DE\u5FA9\u003Cbr\u003E\u56DE\u5FA9\u5F8C\u3001\u5BFE\u8C61\u306B\u300C\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30921\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "味方全員のHPを5%回復<br>回復後、対象に「スキルダメージ+{0}%」を1回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 184,
     "large_still_path_hash": 645407114941499034,
-    "name": "\u5B66\u751F\u5FDC\u63F4\u5927\u76DB\u5B9A\u98DF",
+    "name": "学生応援大盛定食",
     "quality_group_id": 9,
     "rarity": 2,
     "roles": [
@@ -3917,11 +3917,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u6697\u95C7\u300D\u30921\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u8D85\u9AD8\u78BA\u7387\u3067\u4ED8\u4E0E",
+    "description": "敵全体に「暗闇」を1回行動終了するまで超高確率で付与",
     "easy_synthesis_trait_lottery_id": 7,
     "id": 185,
     "large_still_path_hash": 1404159938769099144,
-    "name": "\u9B54\u7269\u9664\u3051\u30B9\u30D7\u30EC\u30FC",
+    "name": "魔物除けスプレー",
     "quality_group_id": 10,
     "rarity": 3,
     "roles": [],
@@ -3935,11 +3935,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u6697\u95C7\u300D\u30921\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u9AD8\u78BA\u7387\u3067\u4ED8\u4E0E",
+    "description": "敵全体に「暗闇」を1回行動終了するまで高確率で付与",
     "easy_synthesis_trait_lottery_id": 7,
     "id": 186,
     "large_still_path_hash": 1404159938769099144,
-    "name": "\u9B54\u7269\u9664\u3051\u30B9\u30D7\u30EC\u30FC",
+    "name": "魔物除けスプレー",
     "quality_group_id": 10,
     "rarity": 2,
     "roles": [],
@@ -3955,11 +3955,11 @@
     "attack_attributes": [
       8
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u98A8\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "敵全体に風属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 187,
     "large_still_path_hash": 5715599431046183386,
-    "name": "\u8A66\u4F5C\u54C1\u30EB\u30D5\u30C8",
+    "name": "試作品ルフト",
     "quality_group_id": 6,
     "rarity": 3,
     "roles": [],
@@ -3975,11 +3975,11 @@
     "attack_attributes": [
       8
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u98A8\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "敵全体に風属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 188,
     "large_still_path_hash": 5715599431046183386,
-    "name": "\u8A66\u4F5C\u54C1\u30EB\u30D5\u30C8",
+    "name": "試作品ルフト",
     "quality_group_id": 6,
     "rarity": 2,
     "roles": [],
@@ -3993,11 +3993,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30921\u56DE\u4ED8\u4E0E\u3057\u3001\u6B21\u306E\u30D1\u30CD\u30EB{1}\u3064\u3092\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30D1\u30CD\u30EB\u306B\u5909\u63DB\u3082\u3057\u304F\u306F\u751F\u6210",
+    "description": "味方全員に「スキルダメージ+{0}%」を1回付与し、次のパネル{1}つをクリティカルパネルに変換もしくは生成",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 189,
     "large_still_path_hash": 5281324253637789383,
-    "name": "\u5B66\u751F\u5FDC\u63F4\u30D6\u30EB\u30FC\u30BC\u30EA\u30FC",
+    "name": "学生応援ブルーゼリー",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [],
@@ -4011,11 +4011,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30921\u56DE\u4ED8\u4E0E\u3057\u3001\u6B21\u306E\u30D1\u30CD\u30EB{1}\u3064\u3092\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30D1\u30CD\u30EB\u306B\u5909\u63DB\u3082\u3057\u304F\u306F\u751F\u6210",
+    "description": "味方全員に「スキルダメージ+{0}%」を1回付与し、次のパネル{1}つをクリティカルパネルに変換もしくは生成",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 190,
     "large_still_path_hash": 5281324253637789383,
-    "name": "\u5B66\u751F\u5FDC\u63F4\u30D6\u30EB\u30FC\u30BC\u30EA\u30FC",
+    "name": "学生応援ブルーゼリー",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [],
@@ -4029,11 +4029,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306EHP\u309210%\u56DE\u5FA9\u3002\u56DE\u5FA9\u5F8C\u3001HP\u304C\u6700\u3082\u6E1B\u3063\u3066\u3044\u308B\u5473\u65B91\u4EBA\u306EHP\u3092\u3055\u3089\u306B{0}%\u56DE\u5FA9",
+    "description": "味方全員のHPを10%回復。回復後、HPが最も減っている味方1人のHPをさらに{0}%回復",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 191,
     "large_still_path_hash": 1542059617884333721,
-    "name": "\u5B66\u751F\u5FDC\u63F4\u5065\u5EB7\u5B9A\u98DF",
+    "name": "学生応援健康定食",
     "quality_group_id": 9,
     "rarity": 3,
     "roles": [
@@ -4049,11 +4049,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306EHP\u30925%\u56DE\u5FA9\u3002\u56DE\u5FA9\u5F8C\u3001HP\u304C\u6700\u3082\u6E1B\u3063\u3066\u3044\u308B\u5473\u65B91\u4EBA\u306EHP\u3092\u3055\u3089\u306B{0}%\u56DE\u5FA9",
+    "description": "味方全員のHPを5%回復。回復後、HPが最も減っている味方1人のHPをさらに{0}%回復",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 192,
     "large_still_path_hash": 1542059617884333721,
-    "name": "\u5B66\u751F\u5FDC\u63F4\u5065\u5EB7\u5B9A\u98DF",
+    "name": "学生応援健康定食",
     "quality_group_id": 9,
     "rarity": 2,
     "roles": [
@@ -4069,11 +4069,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u9EBB\u75FA\u300D\u3068\u300C\u6BD2\u300D\u30921\u56DE\u884C\u52D5\u958B\u59CB\u3059\u308B\u307E\u3067\u8D85\u9AD8\u78BA\u7387\u3067\u4ED8\u4E0E",
+    "description": "現在HPが最も高い敵1体に「麻痺」と「毒」を1回行動開始するまで超高確率で付与",
     "easy_synthesis_trait_lottery_id": 7,
     "id": 193,
     "large_still_path_hash": 1075825204351728005,
-    "name": "\u9B54\u7269\u96C6\u3081\u30C8\u30E9\u30C3\u30D7",
+    "name": "魔物集めトラップ",
     "quality_group_id": 10,
     "rarity": 3,
     "roles": [],
@@ -4087,11 +4087,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u73FE\u5728HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u300C\u9EBB\u75FA\u300D\u3068\u300C\u6BD2\u300D\u30921\u56DE\u884C\u52D5\u958B\u59CB\u3059\u308B\u307E\u3067\u9AD8\u78BA\u7387\u3067\u4ED8\u4E0E",
+    "description": "現在HPが最も高い敵1体に「麻痺」と「毒」を1回行動開始するまで高確率で付与",
     "easy_synthesis_trait_lottery_id": 7,
     "id": 194,
     "large_still_path_hash": 1075825204351728005,
-    "name": "\u9B54\u7269\u96C6\u3081\u30C8\u30E9\u30C3\u30D7",
+    "name": "魔物集めトラップ",
     "quality_group_id": 10,
     "rarity": 2,
     "roles": [],
@@ -4109,11 +4109,11 @@
       2,
       3
     ],
-    "description": "\u7269\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u30D0\u30FC\u30B9\u30C8\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "物攻が最も高い味方1人に「バーストスキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 4,
     "id": 195,
     "large_still_path_hash": 5963731496791431643,
-    "name": "\u86EE\u52C7\u306E\u89D2\u7B1B",
+    "name": "蛮勇の角笛",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -4133,11 +4133,11 @@
       2,
       3
     ],
-    "description": "\u7269\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u30D0\u30FC\u30B9\u30C8\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "物攻が最も高い味方1人に「バーストスキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 4,
     "id": 196,
     "large_still_path_hash": 5963731496791431643,
-    "name": "\u86EE\u52C7\u306E\u89D2\u7B1B",
+    "name": "蛮勇の角笛",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -4155,11 +4155,11 @@
     "attack_attributes": [
       1
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u65AC\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "敵全体に斬属性ダメージ",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 197,
     "large_still_path_hash": 205986101648558011,
-    "name": "\u30D5\u30A7\u30FC\u30C0\u30AF\u30CA\u30A4",
+    "name": "フェーダクナイ",
     "quality_group_id": 1,
     "rarity": 3,
     "roles": [],
@@ -4175,11 +4175,11 @@
     "attack_attributes": [
       1
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u65AC\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "敵全体に斬属性ダメージ",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 198,
     "large_still_path_hash": 205986101648558011,
-    "name": "\u30D5\u30A7\u30FC\u30C0\u30AF\u30CA\u30A4",
+    "name": "フェーダクナイ",
     "quality_group_id": 1,
     "rarity": 2,
     "roles": [],
@@ -4193,11 +4193,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u81EA\u8EAB\u304C\u30A2\u30BF\u30C3\u30AB\u30FC\u306E\u6642\u3001\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "味方全員に「自身がアタッカーの時、スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 199,
     "large_still_path_hash": 6842859151055005669,
-    "name": "\u9B54\u9664\u3051\u306E\u9727\u5439\u304D",
+    "name": "魔除けの霧吹き",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -4213,11 +4213,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u81EA\u8EAB\u304C\u30A2\u30BF\u30C3\u30AB\u30FC\u306E\u6642\u3001\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "味方全員に「自身がアタッカーの時、スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 200,
     "large_still_path_hash": 6842859151055005669,
-    "name": "\u9B54\u9664\u3051\u306E\u9727\u5439\u304D",
+    "name": "魔除けの霧吹き",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -4235,11 +4235,11 @@
     "attack_attributes": [
       1
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u53D7\u3051\u308B\u65AC\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に「受ける斬属性ダメージ+{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 8,
     "id": 201,
     "large_still_path_hash": 3845318059020468482,
-    "name": "\u56E0\u679C\u306E\u9396",
+    "name": "因果の鎖",
     "quality_group_id": 13,
     "rarity": 3,
     "roles": [
@@ -4258,11 +4258,11 @@
     "attack_attributes": [
       1
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u53D7\u3051\u308B\u65AC\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に「受ける斬属性ダメージ+{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 8,
     "id": 202,
     "large_still_path_hash": 3845318059020468482,
-    "name": "\u56E0\u679C\u306E\u9396",
+    "name": "因果の鎖",
     "quality_group_id": 13,
     "rarity": 2,
     "roles": [
@@ -4281,11 +4281,11 @@
     "attack_attributes": [
       5
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u706B\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "敵全体に火属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 203,
     "large_still_path_hash": 7597615480505590108,
-    "name": "\u30A8\u30AF\u30B5\u30DC\u30E0",
+    "name": "エクサボム",
     "quality_group_id": 4,
     "rarity": 3,
     "roles": [],
@@ -4301,11 +4301,11 @@
     "attack_attributes": [
       5
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u706B\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "敵全体に火属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 204,
     "large_still_path_hash": 7597615480505590108,
-    "name": "\u30A8\u30AF\u30B5\u30DC\u30E0",
+    "name": "エクサボム",
     "quality_group_id": 4,
     "rarity": 2,
     "roles": [],
@@ -4321,11 +4321,11 @@
     "attack_attributes": [
       5
     ],
-    "description": "\u9B54\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u706B\u5C5E\u6027\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "魔攻が最も高い味方1人に「火属性スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 5,
     "id": 205,
     "large_still_path_hash": 8284443365663637058,
-    "name": "\u731B\u706B\u306E\u5857\u308A\u85AC",
+    "name": "猛火の塗り薬",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -4343,11 +4343,11 @@
     "attack_attributes": [
       5
     ],
-    "description": "\u9B54\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u706B\u5C5E\u6027\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "魔攻が最も高い味方1人に「火属性スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 5,
     "id": 206,
     "large_still_path_hash": 8284443365663637058,
-    "name": "\u731B\u706B\u306E\u5857\u308A\u85AC",
+    "name": "猛火の塗り薬",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -4363,11 +4363,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u6BD2\u300D\u30921\u56DE\u884C\u52D5\u958B\u59CB\u3059\u308B\u307E\u3067\u8D85\u9AD8\u78BA\u7387\u3067\u4ED8\u4E0E",
+    "description": "敵全体に「毒」を1回行動開始するまで超高確率で付与",
     "easy_synthesis_trait_lottery_id": 7,
     "id": 207,
     "large_still_path_hash": 3374663114627538464,
-    "name": "\u30E1\u30C7\u30A3\u30A2\u306E\u79D8\u6BD2",
+    "name": "メディアの秘毒",
     "quality_group_id": 10,
     "rarity": 3,
     "roles": [],
@@ -4381,11 +4381,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u6BD2\u300D\u30921\u56DE\u884C\u52D5\u958B\u59CB\u3059\u308B\u307E\u3067\u9AD8\u78BA\u7387\u3067\u4ED8\u4E0E",
+    "description": "敵全体に「毒」を1回行動開始するまで高確率で付与",
     "easy_synthesis_trait_lottery_id": 7,
     "id": 208,
     "large_still_path_hash": 3374663114627538464,
-    "name": "\u30E1\u30C7\u30A3\u30A2\u306E\u79D8\u6BD2",
+    "name": "メディアの秘毒",
     "quality_group_id": 10,
     "rarity": 2,
     "roles": [],
@@ -4399,11 +4399,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u9EBB\u75FA\u300D\u30921\u56DE\u884C\u52D5\u958B\u59CB\u3059\u308B\u307E\u3067\u8D85\u9AD8\u78BA\u7387\u3067\u4ED8\u4E0E",
+    "description": "敵全体に「麻痺」を1回行動開始するまで超高確率で付与",
     "easy_synthesis_trait_lottery_id": 7,
     "id": 209,
     "large_still_path_hash": 2940812289112940801,
-    "name": "\u3057\u3073\u308C\u6BD2\u6DB2",
+    "name": "しびれ毒液",
     "quality_group_id": 10,
     "rarity": 3,
     "roles": [],
@@ -4417,11 +4417,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u9EBB\u75FA\u300D\u30921\u56DE\u884C\u52D5\u958B\u59CB\u3059\u308B\u307E\u3067\u9AD8\u78BA\u7387\u3067\u4ED8\u4E0E",
+    "description": "敵全体に「麻痺」を1回行動開始するまで高確率で付与",
     "easy_synthesis_trait_lottery_id": 7,
     "id": 210,
     "large_still_path_hash": 2940812289112940801,
-    "name": "\u3057\u3073\u308C\u6BD2\u6DB2",
+    "name": "しびれ毒液",
     "quality_group_id": 10,
     "rarity": 2,
     "roles": [],
@@ -4437,11 +4437,11 @@
     "attack_attributes": [
       6
     ],
-    "description": "\u9B54\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u6C37\u5C5E\u6027\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "魔攻が最も高い味方1人に「氷属性スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 5,
     "id": 211,
     "large_still_path_hash": 8422481522575671647,
-    "name": "\u6C37\u7D50\u306E\u5857\u308A\u85AC",
+    "name": "氷結の塗り薬",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -4459,11 +4459,11 @@
     "attack_attributes": [
       6
     ],
-    "description": "\u9B54\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u6C37\u5C5E\u6027\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "魔攻が最も高い味方1人に「氷属性スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 5,
     "id": 212,
     "large_still_path_hash": 8422481522575671647,
-    "name": "\u6C37\u7D50\u306E\u5857\u308A\u85AC",
+    "name": "氷結の塗り薬",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -4481,11 +4481,11 @@
     "attack_attributes": [
       7
     ],
-    "description": "\u9B54\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u96F7\u5C5E\u6027\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "魔攻が最も高い味方1人に「雷属性スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 5,
     "id": 213,
     "large_still_path_hash": 8028453645099572803,
-    "name": "\u5E2F\u96FB\u306E\u5857\u308A\u85AC",
+    "name": "帯電の塗り薬",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -4503,11 +4503,11 @@
     "attack_attributes": [
       7
     ],
-    "description": "\u9B54\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u96F7\u5C5E\u6027\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "魔攻が最も高い味方1人に「雷属性スキルダメージ+{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 5,
     "id": 214,
     "large_still_path_hash": 8028453645099572803,
-    "name": "\u5E2F\u96FB\u306E\u5857\u308A\u85AC",
+    "name": "帯電の塗り薬",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -4525,11 +4525,11 @@
     "attack_attributes": [
       7
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u96F7\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "敵全体に雷属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 215,
     "large_still_path_hash": 3695128098390261277,
-    "name": "\u30C9\u30CA\u30FC\u30B7\u30E5\u30C6\u30EB\u30F3",
+    "name": "ドナーシュテルン",
     "quality_group_id": 7,
     "rarity": 3,
     "roles": [],
@@ -4545,11 +4545,11 @@
     "attack_attributes": [
       7
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u96F7\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "敵全体に雷属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 216,
     "large_still_path_hash": 3695128098390261277,
-    "name": "\u30C9\u30CA\u30FC\u30B7\u30E5\u30C6\u30EB\u30F3",
+    "name": "ドナーシュテルン",
     "quality_group_id": 7,
     "rarity": 2,
     "roles": [],
@@ -4565,11 +4565,11 @@
     "attack_attributes": [
       7
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u53D7\u3051\u308B\u96F7\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に「受ける雷属性ダメージ+{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 9,
     "id": 217,
     "large_still_path_hash": 7160470639356960893,
-    "name": "\u30A8\u30FC\u30C6\u30EB\u30A4\u30F3\u30AD",
+    "name": "エーテルインキ",
     "quality_group_id": 19,
     "rarity": 3,
     "roles": [
@@ -4588,11 +4588,11 @@
     "attack_attributes": [
       7
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u53D7\u3051\u308B\u96F7\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に「受ける雷属性ダメージ+{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 9,
     "id": 218,
     "large_still_path_hash": 7160470639356960893,
-    "name": "\u30A8\u30FC\u30C6\u30EB\u30A4\u30F3\u30AD",
+    "name": "エーテルインキ",
     "quality_group_id": 19,
     "rarity": 2,
     "roles": [
@@ -4611,11 +4611,11 @@
     "attack_attributes": [
       6
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u6C37\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "敵全体に氷属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 219,
     "large_still_path_hash": 4571836950553051171,
-    "name": "\u6D77\u306E\u5BB6\u7279\u88FD\u304B\u304D\u6C37",
+    "name": "海の家特製かき氷",
     "quality_group_id": 5,
     "rarity": 3,
     "roles": [],
@@ -4631,11 +4631,11 @@
     "attack_attributes": [
       6
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u6C37\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "敵全体に氷属性ダメージ",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 220,
     "large_still_path_hash": 4571836950553051171,
-    "name": "\u6D77\u306E\u5BB6\u7279\u88FD\u304B\u304D\u6C37",
+    "name": "海の家特製かき氷",
     "quality_group_id": 5,
     "rarity": 2,
     "roles": [],
@@ -4649,11 +4649,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u30A2\u30BF\u30C3\u30AB\u30FC\u306E\u6642\u3001\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u3068\u300C\u30D6\u30EC\u30A4\u30AB\u30FC\u306E\u6642\u3001\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30921\u56DE\u4ED8\u4E0E",
+    "description": "味方全員に「アタッカーの時、スキルダメージ+{0}%」と「ブレイカーの時、ブレイクダメージ+{1}%」を1回付与",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 221,
     "large_still_path_hash": 7507448321246893752,
-    "name": "\u6D77\u306E\u5BB6\u7279\u88FD\u30AA\u30A4\u30EB",
+    "name": "海の家特製オイル",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -4670,11 +4670,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u30A2\u30BF\u30C3\u30AB\u30FC\u306E\u6642\u3001\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u3068\u300C\u30D6\u30EC\u30A4\u30AB\u30FC\u306E\u6642\u3001\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30921\u56DE\u4ED8\u4E0E",
+    "description": "味方全員に「アタッカーの時、スキルダメージ+{0}%」と「ブレイカーの時、ブレイクダメージ+{1}%」を1回付与",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 222,
     "large_still_path_hash": 7507448321246893752,
-    "name": "\u6D77\u306E\u5BB6\u7279\u88FD\u30AA\u30A4\u30EB",
+    "name": "海の家特製オイル",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -4691,11 +4691,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306E\u56DE\u5FA9\u7121\u52B9\u3092\u89E3\u9664\u3057\u3001HP\u30925%\u56DE\u5FA9",
+    "description": "味方全員の回復無効を解除し、HPを5%回復",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 223,
     "large_still_path_hash": 3747741565309826794,
-    "name": "\u6D77\u306E\u5BB6\u7279\u88FD\u713C\u304D\u305D\u3070",
+    "name": "海の家特製焼きそば",
     "quality_group_id": 9,
     "rarity": 3,
     "roles": [
@@ -4711,11 +4711,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306E\u56DE\u5FA9\u7121\u52B9\u3092\u89E3\u9664\u3057\u3001HP\u30923%\u56DE\u5FA9",
+    "description": "味方全員の回復無効を解除し、HPを3%回復",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 224,
     "large_still_path_hash": 3747741565309826794,
-    "name": "\u6D77\u306E\u5BB6\u7279\u88FD\u713C\u304D\u305D\u3070",
+    "name": "海の家特製焼きそば",
     "quality_group_id": 9,
     "rarity": 2,
     "roles": [
@@ -4733,11 +4733,11 @@
     "attack_attributes": [
       6
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u53D7\u3051\u308B\u6C37\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に「受ける氷属性ダメージ+{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 9,
     "id": 225,
     "large_still_path_hash": 3425762978563205620,
-    "name": "\u6D77\u306E\u5BB6\u7279\u88FD\u30C8\u30E9\u30C3\u30D7",
+    "name": "海の家特製トラップ",
     "quality_group_id": 17,
     "rarity": 3,
     "roles": [
@@ -4756,11 +4756,11 @@
     "attack_attributes": [
       6
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u53D7\u3051\u308B\u6C37\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に「受ける氷属性ダメージ+{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 9,
     "id": 226,
     "large_still_path_hash": 3425762978563205620,
-    "name": "\u6D77\u306E\u5BB6\u7279\u88FD\u30C8\u30E9\u30C3\u30D7",
+    "name": "海の家特製トラップ",
     "quality_group_id": 17,
     "rarity": 2,
     "roles": [
@@ -4777,11 +4777,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u53D7\u3051\u308B\u30C0\u30E1\u30FC\u30B8-{0}%\u300D\u30921\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "味方全員に「受けるダメージ-{0}%」を1回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 227,
     "large_still_path_hash": 8333829916209809834,
-    "name": "\u30D5\u30EF\u30C3\u30C8\u30B1\u30FC\u30AD",
+    "name": "フワットケーキ",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -4797,11 +4797,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u53D7\u3051\u308B\u30C0\u30E1\u30FC\u30B8-{0}%\u300D\u30921\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "味方全員に「受けるダメージ-{0}%」を1回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 3,
     "id": 228,
     "large_still_path_hash": 8333829916209809834,
-    "name": "\u30D5\u30EF\u30C3\u30C8\u30B1\u30FC\u30AD",
+    "name": "フワットケーキ",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -4819,11 +4819,11 @@
     "attack_attributes": [
       5
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u4F4E\u3044\u65751\u4F53\u306B\u706B\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u3092\u4E0E\u3048\u3001\u003Cbr\u003E\u30BF\u30FC\u30F3\u3092{0}\u30BF\u30FC\u30F3\u9045\u3089\u305B\u308B",
+    "description": "最大HPが最も低い敵1体に火属性ダメージを与え、<br>ターンを{0}ターン遅らせる",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 229,
     "large_still_path_hash": 8484039717844121269,
-    "name": "\u30AF\u30A4\u30FC\u30F3\u30BA\u30AF\u30EC\u30A4\u30D6",
+    "name": "クイーンズクレイブ",
     "quality_group_id": 4,
     "rarity": 3,
     "roles": [],
@@ -4839,11 +4839,11 @@
     "attack_attributes": [
       5
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u4F4E\u3044\u65751\u4F53\u306B\u706B\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u3092\u4E0E\u3048\u3001\u003Cbr\u003E\u30BF\u30FC\u30F3\u3092{0}\u30BF\u30FC\u30F3\u9045\u3089\u305B\u308B",
+    "description": "最大HPが最も低い敵1体に火属性ダメージを与え、<br>ターンを{0}ターン遅らせる",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 230,
     "large_still_path_hash": 8484039717844121269,
-    "name": "\u30AF\u30A4\u30FC\u30F3\u30BA\u30AF\u30EC\u30A4\u30D6",
+    "name": "クイーンズクレイブ",
     "quality_group_id": 4,
     "rarity": 2,
     "roles": [],
@@ -4861,11 +4861,11 @@
       2,
       3
     ],
-    "description": "\u7269\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u3001\u300C\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u78BA\u7387\u002B{0}%\u300D\u3068\u300C\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "物攻が最も高い味方1人に、「クリティカル確率+{0}%」と「クリティカルダメージ+{1}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 4,
     "id": 231,
     "large_still_path_hash": 2994940260148008683,
-    "name": "\u53F7\u4EE4\u306E\u30DB\u30A4\u30C3\u30B9\u30EB",
+    "name": "号令のホイッスル",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -4885,11 +4885,11 @@
       2,
       3
     ],
-    "description": "\u7269\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u3001\u300C\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u78BA\u7387\u002B{0}%\u300D\u3068\u300C\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "物攻が最も高い味方1人に、「クリティカル確率+{0}%」と「クリティカルダメージ+{1}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 4,
     "id": 232,
     "large_still_path_hash": 2994940260148008683,
-    "name": "\u53F7\u4EE4\u306E\u30DB\u30A4\u30C3\u30B9\u30EB",
+    "name": "号令のホイッスル",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -4905,11 +4905,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "HP\u304C\u6700\u3082\u6E1B\u3063\u3066\u3044\u308B\u5473\u65B91\u4EBA\u306EHP\u309240%\u56DE\u5FA9\u5F8C\u3001\u300C\u53D7\u3051\u308B\u30C0\u30E1\u30FC\u30B8-{0}%\u300D\u30921\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "HPが最も減っている味方1人のHPを40%回復後、「受けるダメージ-{0}%」を1回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 233,
     "large_still_path_hash": 3609718749349857783,
-    "name": "\u30D6\u30E9\u30F3\u30AF\u30B7\u30C1\u30E5\u30FC",
+    "name": "ブランクシチュー",
     "quality_group_id": 8,
     "rarity": 3,
     "roles": [
@@ -4925,11 +4925,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "HP\u304C\u6700\u3082\u6E1B\u3063\u3066\u3044\u308B\u5473\u65B91\u4EBA\u306EHP\u309240%\u56DE\u5FA9\u5F8C\u3001\u300C\u53D7\u3051\u308B\u30C0\u30E1\u30FC\u30B8-{0}%\u300D\u30921\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "HPが最も減っている味方1人のHPを40%回復後、「受けるダメージ-{0}%」を1回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 234,
     "large_still_path_hash": 3609718749349857783,
-    "name": "\u30D6\u30E9\u30F3\u30AF\u30B7\u30C1\u30E5\u30FC",
+    "name": "ブランクシチュー",
     "quality_group_id": 8,
     "rarity": 2,
     "roles": [
@@ -4945,11 +4945,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "HP\u304C\u6700\u3082\u6E1B\u3063\u3066\u3044\u308B\u5473\u65B9\u306EHP\u309225%\u56DE\u5FA9\u5F8C\u3001\u5BFE\u8C61\u306E\u30DE\u30A4\u30CA\u30B9\u52B9\u679C\u3092\u89E3\u9664\u3059\u308B",
+    "description": "HPが最も減っている味方のHPを25%回復後、対象のマイナス効果を解除する",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 235,
     "large_still_path_hash": 4480406553701464009,
-    "name": "\u30D7\u30EC\u30FC\u30F3\u30EF\u30C3\u30D5\u30EB",
+    "name": "プレーンワッフル",
     "quality_group_id": 8,
     "rarity": 3,
     "roles": [
@@ -4965,11 +4965,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "HP\u304C\u6700\u3082\u6E1B\u3063\u3066\u3044\u308B\u5473\u65B9\u306EHP\u309215%\u56DE\u5FA9\u5F8C\u3001\u5BFE\u8C61\u306E\u30DE\u30A4\u30CA\u30B9\u52B9\u679C\u3092\u89E3\u9664\u3059\u308B",
+    "description": "HPが最も減っている味方のHPを15%回復後、対象のマイナス効果を解除する",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 236,
     "large_still_path_hash": 4480406553701464009,
-    "name": "\u30D7\u30EC\u30FC\u30F3\u30EF\u30C3\u30D5\u30EB",
+    "name": "プレーンワッフル",
     "quality_group_id": 8,
     "rarity": 2,
     "roles": [
@@ -4985,11 +4985,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u3001\u300C\u72B6\u614B\u7570\u5E38\u8010\u6027-{0}%\u300D\u3068\u300C\u53D7\u3051\u308B\u7269\u7406\u653B\u6483\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30922\u56DE\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に、「状態異常耐性-{0}%」と「受ける物理攻撃ダメージ+{1}%」を2回付与",
     "easy_synthesis_trait_lottery_id": 8,
     "id": 237,
     "large_still_path_hash": 7941318886833842601,
-    "name": "\u7981\u65AD\u306E\u888B",
+    "name": "禁断の袋",
     "quality_group_id": 11,
     "rarity": 3,
     "roles": [
@@ -5005,11 +5005,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u3001\u300C\u72B6\u614B\u7570\u5E38\u8010\u6027-{0}%\u300D\u3068\u300C\u53D7\u3051\u308B\u7269\u7406\u653B\u6483\u30C0\u30E1\u30FC\u30B8\u002B{1}%\u300D\u30922\u56DE\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に、「状態異常耐性-{0}%」と「受ける物理攻撃ダメージ+{1}%」を2回付与",
     "easy_synthesis_trait_lottery_id": 8,
     "id": 238,
     "large_still_path_hash": 7941318886833842601,
-    "name": "\u7981\u65AD\u306E\u888B",
+    "name": "禁断の袋",
     "quality_group_id": 11,
     "rarity": 2,
     "roles": [
@@ -5025,11 +5025,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u3001\u300C\u53D7\u3051\u308B\u9B54\u6CD5\u653B\u6483\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E\u3057\u3001\u300C\u6BD2\u300D\u30921\u56DE\u884C\u52D5\u958B\u59CB\u3059\u308B\u307E\u3067\u8D85\u9AD8\u78BA\u7387\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に、「受ける魔法攻撃ダメージ+{0}%」を2回攻撃を受けるまで付与し、「毒」を1回行動開始するまで超高確率で付与",
     "easy_synthesis_trait_lottery_id": 9,
     "id": 239,
     "large_still_path_hash": 7061905236070307735,
-    "name": "\u5606\u304D\u306E\u6BD2\u7159\u74F6",
+    "name": "嘆きの毒煙瓶",
     "quality_group_id": 12,
     "rarity": 3,
     "roles": [
@@ -5045,11 +5045,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u3001\u300C\u53D7\u3051\u308B\u9B54\u6CD5\u653B\u6483\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E\u3057\u3001\u300C\u6BD2\u300D\u30921\u56DE\u884C\u52D5\u958B\u59CB\u3059\u308B\u307E\u3067\u8D85\u9AD8\u78BA\u7387\u3067\u4ED8\u4E0E",
+    "description": "最大HPが最も高い敵1体に、「受ける魔法攻撃ダメージ+{0}%」を2回攻撃を受けるまで付与し、「毒」を1回行動開始するまで超高確率で付与",
     "easy_synthesis_trait_lottery_id": 9,
     "id": 240,
     "large_still_path_hash": 7061905236070307735,
-    "name": "\u5606\u304D\u306E\u6BD2\u7159\u74F6",
+    "name": "嘆きの毒煙瓶",
     "quality_group_id": 12,
     "rarity": 2,
     "roles": [
@@ -5070,11 +5070,11 @@
       7,
       8
     ],
-    "description": "\u9B54\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u9B54\u6CD5\u653B\u6483\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30921\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E(\u91CD\u8907\u4E0D\u53EF)",
+    "description": "魔攻が最も高い味方1人に「魔法攻撃スキルダメージ+{0}%」を1回行動終了するまで付与(重複不可)",
     "easy_synthesis_trait_lottery_id": 5,
     "id": 241,
     "large_still_path_hash": 6162738791859638576,
-    "name": "\u30B9\u30DA\u30B7\u30E3\u30EB\u30DF\u30FC\u30C8",
+    "name": "スペシャルミート",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -5095,11 +5095,11 @@
       7,
       8
     ],
-    "description": "\u9B54\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u9B54\u6CD5\u653B\u6483\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30921\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E(\u91CD\u8907\u4E0D\u53EF)",
+    "description": "魔攻が最も高い味方1人に「魔法攻撃スキルダメージ+{0}%」を1回行動終了するまで付与(重複不可)",
     "easy_synthesis_trait_lottery_id": 5,
     "id": 242,
     "large_still_path_hash": 6162738791859638576,
-    "name": "\u30B9\u30DA\u30B7\u30E3\u30EB\u30DF\u30FC\u30C8",
+    "name": "スペシャルミート",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -5117,11 +5117,11 @@
     "attack_attributes": [
       7
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u96F7\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u3092\u4E0E\u3048\u3001\u5BFE\u8C61\u306B\u300C\u53D7\u3051\u308B\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に雷属性ダメージを与え、対象に「受けるブレイクダメージ+{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 243,
     "large_still_path_hash": 696656235232260466,
-    "name": "\u30D5\u30A7\u30A2\u30CB\u30D2\u30BF\u30FC\u30E1\u30C6\u30AA\u30FC\u30EB",
+    "name": "フェアニヒターメテオール",
     "quality_group_id": 7,
     "rarity": 3,
     "roles": [
@@ -5139,11 +5139,11 @@
     "attack_attributes": [
       7
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u96F7\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u3092\u4E0E\u3048\u3001\u5BFE\u8C61\u306B\u300C\u53D7\u3051\u308B\u30D6\u30EC\u30A4\u30AF\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に雷属性ダメージを与え、対象に「受けるブレイクダメージ+{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 244,
     "large_still_path_hash": 696656235232260466,
-    "name": "\u30D5\u30A7\u30A2\u30CB\u30D2\u30BF\u30FC\u30E1\u30C6\u30AA\u30FC\u30EB",
+    "name": "フェアニヒターメテオール",
     "quality_group_id": 7,
     "rarity": 2,
     "roles": [
@@ -5161,11 +5161,11 @@
     "attack_attributes": [
       6
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u6C37\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u3092\u4E0E\u3048\u3001\u300C\u7D20\u65E9\u3055-{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に氷属性ダメージを与え、「素早さ-{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 245,
     "large_still_path_hash": 5624455079015992882,
-    "name": "\u5927\u5DE8\u4EBA\u306E\u9244\u69CC",
+    "name": "大巨人の鉄槌",
     "quality_group_id": 5,
     "rarity": 3,
     "roles": [],
@@ -5181,11 +5181,11 @@
     "attack_attributes": [
       6
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u6C37\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u3092\u4E0E\u3048\u3001\u300C\u7D20\u65E9\u3055-{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に氷属性ダメージを与え、「素早さ-{0}%」を2回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 246,
     "large_still_path_hash": 5624455079015992882,
-    "name": "\u5927\u5DE8\u4EBA\u306E\u9244\u69CC",
+    "name": "大巨人の鉄槌",
     "quality_group_id": 5,
     "rarity": 2,
     "roles": [],
@@ -5204,11 +5204,11 @@
       7,
       8
     ],
-    "description": "\u9B54\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u653B\u6483\u5BFE\u8C61\u304C\u30D6\u30EC\u30A4\u30AF\u72B6\u614B\u306E\u6642\u3001\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30921\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "魔攻が最も高い味方1人に「攻撃対象がブレイク状態の時、スキルダメージ+{0}%」を1回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 5,
     "id": 247,
     "large_still_path_hash": 1306997684118744684,
-    "name": "\u5B89\u3089\u304E\u306E\u706F\u706B",
+    "name": "安らぎの灯火",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -5229,11 +5229,11 @@
       7,
       8
     ],
-    "description": "\u9B54\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u653B\u6483\u5BFE\u8C61\u304C\u30D6\u30EC\u30A4\u30AF\u72B6\u614B\u306E\u6642\u3001\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30921\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "魔攻が最も高い味方1人に「攻撃対象がブレイク状態の時、スキルダメージ+{0}%」を1回行動終了するまで付与",
     "easy_synthesis_trait_lottery_id": 5,
     "id": 248,
     "large_still_path_hash": 1306997684118744684,
-    "name": "\u5B89\u3089\u304E\u306E\u706F\u706B",
+    "name": "安らぎの灯火",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -5249,11 +5249,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u53D7\u3051\u308BHP\u56DE\u5FA9\u91CF\u002B{0}%\u300D\u30921\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E\u3057\u3001HP\u309210%\u56DE\u5FA9",
+    "description": "味方全員に「受けるHP回復量+{0}%」を1回行動終了するまで付与し、HPを10%回復",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 249,
     "large_still_path_hash": 1457345982880878963,
-    "name": "\u304D\u305A\u306A\u30C1\u30E7\u30B3\u30EC\u30FC\u30C8",
+    "name": "きずなチョコレート",
     "quality_group_id": 9,
     "rarity": 3,
     "roles": [],
@@ -5267,11 +5267,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u5473\u65B9\u5168\u54E1\u306B\u300C\u53D7\u3051\u308BHP\u56DE\u5FA9\u91CF\u002B{0}%\u300D\u30921\u56DE\u884C\u52D5\u7D42\u4E86\u3059\u308B\u307E\u3067\u4ED8\u4E0E\u3057\u3001HP\u30925%\u56DE\u5FA9",
+    "description": "味方全員に「受けるHP回復量+{0}%」を1回行動終了するまで付与し、HPを5%回復",
     "easy_synthesis_trait_lottery_id": 6,
     "id": 250,
     "large_still_path_hash": 1457345982880878963,
-    "name": "\u304D\u305A\u306A\u30C1\u30E7\u30B3\u30EC\u30FC\u30C8",
+    "name": "きずなチョコレート",
     "quality_group_id": 9,
     "rarity": 2,
     "roles": [],
@@ -5287,11 +5287,11 @@
     "attack_attributes": [
       5
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u706B\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u5BFE\u8C61\u306B\u300C\u53D7\u3051\u308B\u706B\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に火属性ダメージ後、対象に「受ける火属性ダメージ+{0}%」を2回行動終了まで付与",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 251,
     "large_still_path_hash": 6024858955895975473,
-    "name": "\u30AB\u30F3\u30BF\u30E0\u30D5\u30E9\u30E0",
+    "name": "カンタムフラム",
     "quality_group_id": 4,
     "rarity": 3,
     "roles": [
@@ -5309,11 +5309,11 @@
     "attack_attributes": [
       5
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u706B\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u5BFE\u8C61\u306B\u300C\u53D7\u3051\u308B\u706B\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に火属性ダメージ後、対象に「受ける火属性ダメージ+{0}%」を2回行動終了まで付与",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 252,
     "large_still_path_hash": 6024858955895975473,
-    "name": "\u30AB\u30F3\u30BF\u30E0\u30D5\u30E9\u30E0",
+    "name": "カンタムフラム",
     "quality_group_id": 4,
     "rarity": 2,
     "roles": [
@@ -5331,11 +5331,11 @@
     "attack_attributes": [
       6
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u6C37\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u5BFE\u8C61\u306B\u300C\u53D7\u3051\u308B\u6C37\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に氷属性ダメージ後、対象に「受ける氷属性ダメージ+{0}%」を2回行動終了まで付与",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 253,
     "large_still_path_hash": 1130946856671940207,
-    "name": "\u30A2\u30A4\u30B9\u30A8\u30A4\u30B8\u30EC\u30D8\u30EB\u30F3",
+    "name": "アイスエイジレヘルン",
     "quality_group_id": 5,
     "rarity": 3,
     "roles": [
@@ -5353,11 +5353,11 @@
     "attack_attributes": [
       6
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u6C37\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u5BFE\u8C61\u306B\u300C\u53D7\u3051\u308B\u6C37\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に氷属性ダメージ後、対象に「受ける氷属性ダメージ+{0}%」を2回行動終了まで付与",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 254,
     "large_still_path_hash": 1130946856671940207,
-    "name": "\u30A2\u30A4\u30B9\u30A8\u30A4\u30B8\u30EC\u30D8\u30EB\u30F3",
+    "name": "アイスエイジレヘルン",
     "quality_group_id": 5,
     "rarity": 2,
     "roles": [
@@ -5375,11 +5375,11 @@
     "attack_attributes": [
       7
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u96F7\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u5BFE\u8C61\u306B\u300C\u53D7\u3051\u308B\u96F7\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に雷属性ダメージ後、対象に「受ける雷属性ダメージ+{0}%」を2回行動終了まで付与",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 255,
     "large_still_path_hash": 6893127955999313935,
-    "name": "\u30B1\u30E9\u30A6\u30CE\u30B9\u30D7\u30E9\u30B8\u30B0",
+    "name": "ケラウノスプラジグ",
     "quality_group_id": 7,
     "rarity": 3,
     "roles": [
@@ -5397,11 +5397,11 @@
     "attack_attributes": [
       7
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u96F7\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u5BFE\u8C61\u306B\u300C\u53D7\u3051\u308B\u96F7\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に雷属性ダメージ後、対象に「受ける雷属性ダメージ+{0}%」を2回行動終了まで付与",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 256,
     "large_still_path_hash": 6893127955999313935,
-    "name": "\u30B1\u30E9\u30A6\u30CE\u30B9\u30D7\u30E9\u30B8\u30B0",
+    "name": "ケラウノスプラジグ",
     "quality_group_id": 7,
     "rarity": 2,
     "roles": [
@@ -5419,11 +5419,11 @@
     "attack_attributes": [
       8
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u98A8\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u5BFE\u8C61\u306B\u300C\u53D7\u3051\u308B\u98A8\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に風属性ダメージ後、対象に「受ける風属性ダメージ+{0}%」を2回行動終了まで付与",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 257,
     "large_still_path_hash": 253389305016447057,
-    "name": "\u30B2\u30EA\u30E9\u30B9\u30C8\u30FC\u30E0\u30EB\u30D5\u30C8",
+    "name": "ゲリラストームルフト",
     "quality_group_id": 6,
     "rarity": 3,
     "roles": [
@@ -5441,11 +5441,11 @@
     "attack_attributes": [
       8
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u98A8\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u5BFE\u8C61\u306B\u300C\u53D7\u3051\u308B\u98A8\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に風属性ダメージ後、対象に「受ける風属性ダメージ+{0}%」を2回行動終了まで付与",
     "easy_synthesis_trait_lottery_id": 2,
     "id": 258,
     "large_still_path_hash": 253389305016447057,
-    "name": "\u30B2\u30EA\u30E9\u30B9\u30C8\u30FC\u30E0\u30EB\u30D5\u30C8",
+    "name": "ゲリラストームルフト",
     "quality_group_id": 6,
     "rarity": 2,
     "roles": [
@@ -5463,11 +5463,11 @@
     "attack_attributes": [
       1
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u65AC\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u5BFE\u8C61\u306B\u300C\u53D7\u3051\u308B\u65AC\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に斬属性ダメージ後、対象に「受ける斬属性ダメージ+{0}%」を2回行動終了まで付与",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 259,
     "large_still_path_hash": 4616892685563373401,
-    "name": "\u81EA\u8D70\u3059\u308B\u9396\u938C",
+    "name": "自走する鎖鎌",
     "quality_group_id": 1,
     "rarity": 3,
     "roles": [
@@ -5485,11 +5485,11 @@
     "attack_attributes": [
       1
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u65AC\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u5BFE\u8C61\u306B\u300C\u53D7\u3051\u308B\u65AC\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に斬属性ダメージ後、対象に「受ける斬属性ダメージ+{0}%」を2回行動終了まで付与",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 260,
     "large_still_path_hash": 4616892685563373401,
-    "name": "\u81EA\u8D70\u3059\u308B\u9396\u938C",
+    "name": "自走する鎖鎌",
     "quality_group_id": 1,
     "rarity": 2,
     "roles": [
@@ -5507,11 +5507,11 @@
     "attack_attributes": [
       2
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u6253\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u5BFE\u8C61\u306B\u300C\u53D7\u3051\u308B\u6253\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に打属性ダメージ後、対象に「受ける打属性ダメージ+{0}%」を2回行動終了まで付与",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 261,
     "large_still_path_hash": 2035354419710560007,
-    "name": "\u81EA\u7ACB\u99C6\u52D5\u578B\u30E1\u30C6\u30AA\u30FC\u30EB",
+    "name": "自立駆動型メテオール",
     "quality_group_id": 2,
     "rarity": 3,
     "roles": [
@@ -5529,11 +5529,11 @@
     "attack_attributes": [
       2
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u6253\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u5BFE\u8C61\u306B\u300C\u53D7\u3051\u308B\u6253\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に打属性ダメージ後、対象に「受ける打属性ダメージ+{0}%」を2回行動終了まで付与",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 262,
     "large_still_path_hash": 2035354419710560007,
-    "name": "\u81EA\u7ACB\u99C6\u52D5\u578B\u30E1\u30C6\u30AA\u30FC\u30EB",
+    "name": "自立駆動型メテオール",
     "quality_group_id": 2,
     "rarity": 2,
     "roles": [
@@ -5551,11 +5551,11 @@
     "attack_attributes": [
       3
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u7A81\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u5BFE\u8C61\u306B\u300C\u53D7\u3051\u308B\u7A81\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に突属性ダメージ後、対象に「受ける突属性ダメージ+{0}%」を2回行動終了まで付与",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 263,
     "large_still_path_hash": 556034369709217819,
-    "name": "\u7D61\u7E70\uFF1A\u91DD\u5343\u672C",
+    "name": "絡繰：針千本",
     "quality_group_id": 3,
     "rarity": 3,
     "roles": [
@@ -5573,11 +5573,11 @@
     "attack_attributes": [
       3
     ],
-    "description": "\u6575\u5168\u4F53\u306B\u7A81\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u5F8C\u3001\u5BFE\u8C61\u306B\u300C\u53D7\u3051\u308B\u7A81\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u884C\u52D5\u7D42\u4E86\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に突属性ダメージ後、対象に「受ける突属性ダメージ+{0}%」を2回行動終了まで付与",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 264,
     "large_still_path_hash": 556034369709217819,
-    "name": "\u7D61\u7E70\uFF1A\u91DD\u5343\u672C",
+    "name": "絡繰：針千本",
     "quality_group_id": 3,
     "rarity": 2,
     "roles": [
@@ -5597,11 +5597,11 @@
       2,
       3
     ],
-    "description": "\u7269\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u7269\u7406\u653B\u6483\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u3068\u300C\u53D7\u3051\u308B\u30C0\u30E1\u30FC\u30B8-{1}%\u300D\u30921\u56DE\u4ED8\u4E0E",
+    "description": "物攻が最も高い味方1人に「物理攻撃スキルダメージ+{0}%」と「受けるダメージ-{1}%」を1回付与",
     "easy_synthesis_trait_lottery_id": 4,
     "id": 265,
     "large_still_path_hash": 5194056727530647853,
-    "name": "\u6C88\u9ED9\u306E\u4E38\u85AC",
+    "name": "沈黙の丸薬",
     "quality_group_id": 20,
     "rarity": 3,
     "roles": [
@@ -5621,11 +5621,11 @@
       2,
       3
     ],
-    "description": "\u7269\u653B\u304C\u6700\u3082\u9AD8\u3044\u5473\u65B91\u4EBA\u306B\u300C\u7269\u7406\u653B\u6483\u30B9\u30AD\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u3068\u300C\u53D7\u3051\u308B\u30C0\u30E1\u30FC\u30B8-{1}%\u300D\u30921\u56DE\u4ED8\u4E0E",
+    "description": "物攻が最も高い味方1人に「物理攻撃スキルダメージ+{0}%」と「受けるダメージ-{1}%」を1回付与",
     "easy_synthesis_trait_lottery_id": 4,
     "id": 266,
     "large_still_path_hash": 5194056727530647853,
-    "name": "\u6C88\u9ED9\u306E\u4E38\u85AC",
+    "name": "沈黙の丸薬",
     "quality_group_id": 20,
     "rarity": 2,
     "roles": [
@@ -5643,11 +5643,11 @@
     "attack_attributes": [
       3
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u7A81\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "最大HPが最も高い敵1体に突属性ダメージ",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 267,
     "large_still_path_hash": 6600615897858652229,
-    "name": "\u3046\u306B\u888B\u30CF\u30A4\u30D1\u30FC",
+    "name": "うに袋ハイパー",
     "quality_group_id": 3,
     "rarity": 3,
     "roles": [
@@ -5665,11 +5665,11 @@
     "attack_attributes": [
       3
     ],
-    "description": "\u6700\u5927HP\u304C\u6700\u3082\u9AD8\u3044\u65751\u4F53\u306B\u7A81\u5C5E\u6027\u30C0\u30E1\u30FC\u30B8",
+    "description": "最大HPが最も高い敵1体に突属性ダメージ",
     "easy_synthesis_trait_lottery_id": 1,
     "id": 268,
     "large_still_path_hash": 6600615897858652229,
-    "name": "\u3046\u306B\u888B\u30CF\u30A4\u30D1\u30FC",
+    "name": "うに袋ハイパー",
     "quality_group_id": 3,
     "rarity": 2,
     "roles": [
@@ -5685,11 +5685,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u53D7\u3051\u308B\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に「受けるクリティカルダメージ+{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 7,
     "id": 269,
     "large_still_path_hash": 6737651378685724508,
-    "name": "\u8831\u60D1\u306E\u9999\u7089",
+    "name": "蠱惑の香炉",
     "quality_group_id": 10,
     "rarity": 3,
     "roles": [
@@ -5705,11 +5705,11 @@
   },
   {
     "attack_attributes": [],
-    "description": "\u6575\u5168\u4F53\u306B\u300C\u53D7\u3051\u308B\u30AF\u30EA\u30C6\u30A3\u30AB\u30EB\u30C0\u30E1\u30FC\u30B8\u002B{0}%\u300D\u30922\u56DE\u653B\u6483\u3092\u53D7\u3051\u308B\u307E\u3067\u4ED8\u4E0E",
+    "description": "敵全体に「受けるクリティカルダメージ+{0}%」を2回攻撃を受けるまで付与",
     "easy_synthesis_trait_lottery_id": 7,
     "id": 270,
     "large_still_path_hash": 6737651378685724508,
-    "name": "\u8831\u60D1\u306E\u9999\u7089",
+    "name": "蠱惑の香炉",
     "quality_group_id": 10,
     "rarity": 2,
     "roles": [

@@ -9,7 +9,7 @@
     "quest_id": 101002023,
     "talks": [
       {
-        "name": "\u5148\u8F29\u76F4\u4F1D\u306E\u5192\u967A\u306E\u79D8\u8A23",
+        "name": "先輩直伝の冒険の秘訣",
         "timeline_path_hash": 6511718681651189040
       }
     ]
@@ -59,7 +59,7 @@
     "quest_id": 101002023,
     "talks": [
       {
-        "name": "\u9811\u5F35\u308A\u3059\u304E\u306B\u306F\u6CE8\u610F",
+        "name": "頑張りすぎには注意",
         "timeline_path_hash": 700807802731131142
       }
     ]
@@ -109,7 +109,7 @@
     "quest_id": 101002023,
     "talks": [
       {
-        "name": "\u690D\u7269\u306E\u58F0",
+        "name": "植物の声",
         "timeline_path_hash": 2366621094859723521
       }
     ]
@@ -159,7 +159,7 @@
     "quest_id": 101002053,
     "talks": [
       {
-        "name": "\u5947\u5999\u306A\u9759\u3051\u3055",
+        "name": "奇妙な静けさ",
         "timeline_path_hash": 1940531156467962024
       }
     ]
@@ -209,7 +209,7 @@
     "quest_id": 101002053,
     "talks": [
       {
-        "name": "\u30A4\u30B6\u30CA\u306E\u60A9\u307F\uFF1F",
+        "name": "イザナの悩み？",
         "timeline_path_hash": 3710983054656467631
       }
     ]
@@ -259,7 +259,7 @@
     "quest_id": 101002053,
     "talks": [
       {
-        "name": "\u3082\u3046\u3061\u3087\u3063\u3068\u3060\u3051\u2026\u2026\uFF01",
+        "name": "もうちょっとだけ……！",
         "timeline_path_hash": 6946677308741555865
       }
     ]
@@ -309,7 +309,7 @@
     "quest_id": 101003016,
     "talks": [
       {
-        "name": "\u8155\u306E\u7ACB\u3064\u4E0D\u5BE9\u8005 \u30ED\u30DE\u30F3",
+        "name": "腕の立つ不審者 ロマン",
         "timeline_path_hash": 7358300697460249303
       }
     ]
@@ -359,7 +359,7 @@
     "quest_id": 101003016,
     "talks": [
       {
-        "name": "\u540C\u5FD7\u8A8D\u5B9A\uFF01",
+        "name": "同志認定！",
         "timeline_path_hash": 1442388283324048393
       }
     ]
@@ -444,7 +444,7 @@
     "quest_id": 101003050,
     "talks": [
       {
-        "name": "\u3061\u3083\u3093\u3068\u77E5\u308A\u305F\u3044",
+        "name": "ちゃんと知りたい",
         "timeline_path_hash": 6873473770238358069
       }
     ]
@@ -494,7 +494,7 @@
     "quest_id": 101003050,
     "talks": [
       {
-        "name": "\u4F4F\u3081\u3070\u90FD\uFF1F",
+        "name": "住めば都？",
         "timeline_path_hash": 1765971363749692019
       }
     ]
@@ -544,7 +544,7 @@
     "quest_id": 101003050,
     "talks": [
       {
-        "name": "\u30F4\u30A1\u30EC\u30EA\u30A2\u305F\u3061\u306E\u76EE\u7684",
+        "name": "ヴァレリアたちの目的",
         "timeline_path_hash": 902121399752185347
       }
     ]
@@ -594,7 +594,7 @@
     "quest_id": 101004013,
     "talks": [
       {
-        "name": "\u601D\u308F\u306C\u518D\u4F1A",
+        "name": "思わぬ再会",
         "timeline_path_hash": 5348677651689422248
       }
     ]
@@ -644,7 +644,7 @@
     "quest_id": 101004013,
     "talks": [
       {
-        "name": "\u6D77\u3068\u3044\u3048\u3070\u2026\u2026",
+        "name": "海といえば……",
         "timeline_path_hash": 4750503673069039106
       }
     ]
@@ -694,7 +694,7 @@
     "quest_id": 101004013,
     "talks": [
       {
-        "name": "\u30ED\u30B8\u30FC\u3055\u3093\u306B\u805E\u3044\u3066\u307F\u3088\u3046",
+        "name": "ロジーさんに聞いてみよう",
         "timeline_path_hash": 1300041330905549364
       }
     ]
@@ -744,7 +744,7 @@
     "quest_id": 101004035,
     "talks": [
       {
-        "name": "\u30DE\u30EB\u30ED\u30FC\u30CD\u306E\u601D\u3044\u51FA",
+        "name": "マルローネの思い出",
         "timeline_path_hash": 8688491989967228642
       }
     ]
@@ -794,7 +794,7 @@
     "quest_id": 101004035,
     "talks": [
       {
-        "name": "\u5207\u308A\u958B\u304F\u529B",
+        "name": "切り開く力",
         "timeline_path_hash": 759475088046520384
       }
     ]
@@ -844,7 +844,7 @@
     "quest_id": 101004035,
     "talks": [
       {
-        "name": "\u30ED\u30B8\u30FC\u5148\u751F\uFF01",
+        "name": "ロジー先生！",
         "timeline_path_hash": 6444004320630348810
       }
     ]
@@ -894,7 +894,7 @@
     "quest_id": 101005033,
     "talks": [
       {
-        "name": "\u8A18\u61B6\u3092\u8FBF\u3063\u3066",
+        "name": "記憶を辿って",
         "timeline_path_hash": 754410981514369561
       }
     ]
@@ -944,7 +944,7 @@
     "quest_id": 101005033,
     "talks": [
       {
-        "name": "\u4E8C\u4EBA\u306E\u7D46",
+        "name": "二人の絆",
         "timeline_path_hash": 6458080030941855279
       }
     ]
@@ -994,7 +994,7 @@
     "quest_id": 101005033,
     "talks": [
       {
-        "name": "\u8ABF\u5B50\u306F\u3069\u3046\uFF1F",
+        "name": "調子はどう？",
         "timeline_path_hash": 3136262831306082545
       }
     ]
@@ -1044,7 +1044,7 @@
     "quest_id": 101005043,
     "talks": [
       {
-        "name": "\u304A\u60A9\u307F\u76F8\u8AC7",
+        "name": "お悩み相談",
         "timeline_path_hash": 5841052815167180482
       }
     ]
@@ -1094,7 +1094,7 @@
     "quest_id": 101005043,
     "talks": [
       {
-        "name": "\u898B\u3064\u304B\u3089\u306A\u3044\u306D",
+        "name": "見つからないね",
         "timeline_path_hash": 209443559069297400
       }
     ]
@@ -1144,7 +1144,7 @@
     "quest_id": 101005043,
     "talks": [
       {
-        "name": "\u97F3\u306E\u3057\u305F\u65B9\u3078",
+        "name": "音のした方へ",
         "timeline_path_hash": 275781501951642320
       }
     ]
@@ -1194,7 +1194,7 @@
     "quest_id": 101006031,
     "talks": [
       {
-        "name": "\u7121\u7406\u306F\u3057\u306A\u3044\u3067",
+        "name": "無理はしないで",
         "timeline_path_hash": 8940764612061806985
       }
     ]
@@ -1244,7 +1244,7 @@
     "quest_id": 101006031,
     "talks": [
       {
-        "name": "\u30F4\u30A1\u30EC\u30EA\u30A2\u306E\u63D0\u6848",
+        "name": "ヴァレリアの提案",
         "timeline_path_hash": 8630170244324823597
       }
     ]
@@ -1294,7 +1294,7 @@
     "quest_id": 101006031,
     "talks": [
       {
-        "name": "\u706B\u5C71\u306E\u4F1D\u627F",
+        "name": "火山の伝承",
         "timeline_path_hash": 2603933002159683099
       }
     ]
@@ -1344,7 +1344,7 @@
     "quest_id": 101006045,
     "talks": [
       {
-        "name": "\u767A\u6398\u5C4B",
+        "name": "発掘屋",
         "timeline_path_hash": 3281143212395603660
       }
     ]
@@ -1394,7 +1394,7 @@
     "quest_id": 101006045,
     "talks": [
       {
-        "name": "\u60A9\u3081\u308B\u30F4\u30A1\u30EC\u30EA\u30A2",
+        "name": "悩めるヴァレリア",
         "timeline_path_hash": 353215898860192971
       }
     ]
@@ -1444,7 +1444,7 @@
     "quest_id": 101006045,
     "talks": [
       {
-        "name": "\u5C71\u306B\u7720\u308B\u75D5\u8DE1",
+        "name": "山に眠る痕跡",
         "timeline_path_hash": 6269396219778392317
       }
     ]
@@ -1494,7 +1494,7 @@
     "quest_id": 101007008,
     "talks": [
       {
-        "name": "\u4FE1\u983C\u611F",
+        "name": "信頼感",
         "timeline_path_hash": 5782883543166043275
       }
     ]
@@ -1544,7 +1544,7 @@
     "quest_id": 101007008,
     "talks": [
       {
-        "name": "\u30C7\u30AD\u308B\u304A\u59C9\u3055\u3093",
+        "name": "デキるお姉さん",
         "timeline_path_hash": 263298579540025533
       }
     ]
@@ -1594,7 +1594,7 @@
     "quest_id": 101007008,
     "talks": [
       {
-        "name": "\u6C17\u5408\u3092\u5165\u308C\u3066",
+        "name": "気合を入れて",
         "timeline_path_hash": 188234980029825157
       }
     ]
@@ -1644,7 +1644,7 @@
     "quest_id": 101007025,
     "talks": [
       {
-        "name": "\u8ABF\u67FB\u306F\u9806\u8ABF\uFF1F",
+        "name": "調査は順調？",
         "timeline_path_hash": 808202264502718548
       }
     ]
@@ -1694,7 +1694,7 @@
     "quest_id": 101007025,
     "talks": [
       {
-        "name": "\u4FEE\u884C",
+        "name": "修行",
         "timeline_path_hash": 6399842623411827814
       }
     ]
@@ -1744,7 +1744,7 @@
     "quest_id": 101007025,
     "talks": [
       {
-        "name": "\u9B5A\u306E\u7E01",
+        "name": "魚の縁",
         "timeline_path_hash": 4151939796623663894
       }
     ]
@@ -1794,7 +1794,7 @@
     "quest_id": 101008010,
     "talks": [
       {
-        "name": "\u306A\u3093\u306E\u63A1\u6398\u5834\uFF1F",
+        "name": "なんの採掘場？",
         "timeline_path_hash": 6744520690741459220
       }
     ]
@@ -1844,7 +1844,7 @@
     "quest_id": 101008010,
     "talks": [
       {
-        "name": "\u5FC3\u914D\u30A2\u30FC\u30B7\u30E3",
+        "name": "心配アーシャ",
         "timeline_path_hash": 1044510266776018214
       }
     ]
@@ -1894,7 +1894,7 @@
     "quest_id": 101008010,
     "talks": [
       {
-        "name": "\u7518\u515A\u306A\u4EBA\u5F62",
+        "name": "甘党な人形",
         "timeline_path_hash": 1100297312700005662
       }
     ]
@@ -1944,7 +1944,7 @@
     "quest_id": 101008031,
     "talks": [
       {
-        "name": "\u738B\u56FD\u306E\u6B74\u53F2",
+        "name": "王国の歴史",
         "timeline_path_hash": 7815977726162987295
       }
     ]
@@ -1994,7 +1994,7 @@
     "quest_id": 101008031,
     "talks": [
       {
-        "name": "\u8FFD\u8DE1",
+        "name": "追跡",
         "timeline_path_hash": 4580282922607250729
       }
     ]
@@ -2079,7 +2079,7 @@
     "quest_id": 101009012,
     "talks": [
       {
-        "name": "\u6C11\u306E\u305F\u3081",
+        "name": "民のため",
         "timeline_path_hash": 1397002192987129133
       }
     ]
@@ -2129,7 +2129,7 @@
     "quest_id": 101009012,
     "talks": [
       {
-        "name": "\u305D\u306E\u7269\u8A9E\u306E\u524D\u65E5\u8B5A",
+        "name": "その物語の前日譚",
         "timeline_path_hash": 7024117781694460915
       }
     ]
@@ -2214,7 +2214,7 @@
     "quest_id": 101009033,
     "talks": [
       {
-        "name": "\u8DB3\u308A\u308B\u304B\u306A\uFF1F",
+        "name": "足りるかな？",
         "timeline_path_hash": 781491271383668511
       }
     ]
@@ -2264,7 +2264,7 @@
     "quest_id": 101009033,
     "talks": [
       {
-        "name": "\u30EA\u30F3\u30AB\u306E\u8155\u3084\u3044\u304B\u306B",
+        "name": "リンカの腕やいかに",
         "timeline_path_hash": 76304165903991995
       }
     ]
@@ -2314,7 +2314,7 @@
     "quest_id": 101009033,
     "talks": [
       {
-        "name": "\u30EA\u30F3\u30AB\u306E\u4EFB\u52D9",
+        "name": "リンカの任務",
         "timeline_path_hash": 5974191362383503501
       }
     ]
@@ -2364,7 +2364,7 @@
     "quest_id": 101010015,
     "talks": [
       {
-        "name": "\u8A66\u9A13\u5BFE\u7B56",
+        "name": "試験対策",
         "timeline_path_hash": 7828128942309559916
       }
     ]
@@ -2414,7 +2414,7 @@
     "quest_id": 101010015,
     "talks": [
       {
-        "name": "\u529B\u306E\u4F7F\u3044\u9053",
+        "name": "力の使い道",
         "timeline_path_hash": 4558936484342966878
       }
     ]
@@ -2499,7 +2499,7 @@
     "quest_id": 101010031,
     "talks": [
       {
-        "name": "\u4E0D\u601D\u8B70\u306A\u4EBA",
+        "name": "不思議な人",
         "timeline_path_hash": 3346165369306908801
       }
     ]
@@ -2549,7 +2549,7 @@
     "quest_id": 101010031,
     "talks": [
       {
-        "name": "\u3068\u3063\u3066\u304A\u304D\u306E\u3054\u8912\u7F8E",
+        "name": "とっておきのご褒美",
         "timeline_path_hash": 9045610644296232119
       }
     ]
@@ -2634,7 +2634,7 @@
     "quest_id": 101012002,
     "talks": [
       {
-        "name": "\u63FA\u308B\u304E\u306A\u3044\u6C17\u6301\u3061",
+        "name": "揺るぎない気持ち",
         "timeline_path_hash": 6665239387388807144
       }
     ]
@@ -2684,7 +2684,7 @@
     "quest_id": 101012002,
     "talks": [
       {
-        "name": "\u5FC3\u5F53\u305F\u308A",
+        "name": "心当たり",
         "timeline_path_hash": 1123699442973991890
       }
     ]
@@ -2734,7 +2734,7 @@
     "quest_id": 101012002,
     "talks": [
       {
-        "name": "\u4EBA\u4E8B\u3092\u5C3D\u304F\u3057\u3066",
+        "name": "人事を尽くして",
         "timeline_path_hash": 2807439198319526359
       }
     ]
@@ -2784,7 +2784,7 @@
     "quest_id": 101014017,
     "talks": [
       {
-        "name": "\u884C\u5546\u4EBA\u306E\u60C5\u71B1",
+        "name": "行商人の情熱",
         "timeline_path_hash": 4881482662452810140
       }
     ]
@@ -2904,7 +2904,7 @@
     "quest_id": 101014040,
     "talks": [
       {
-        "name": "\u5E7B\u304B\u73FE\u304B",
+        "name": "幻か現か",
         "timeline_path_hash": 2965505197802722638
       }
     ]
@@ -3024,7 +3024,7 @@
     "quest_id": 101015020,
     "talks": [
       {
-        "name": "\u601D\u308F\u306C\u304A\u5B9D",
+        "name": "思わぬお宝",
         "timeline_path_hash": 5649544431134419971
       }
     ]
@@ -3074,7 +3074,7 @@
     "quest_id": 101015020,
     "talks": [
       {
-        "name": "\u6587\u6B66\u4E21\u9053",
+        "name": "文武両道",
         "timeline_path_hash": 2125901207423273013
       }
     ]
@@ -3124,7 +3124,7 @@
     "quest_id": 101015020,
     "talks": [
       {
-        "name": "\u5E78\u305B\u306A\u82E6\u3057\u307F",
+        "name": "幸せな苦しみ",
         "timeline_path_hash": 3814159938529978932
       }
     ]
@@ -3174,7 +3174,7 @@
     "quest_id": 101015032,
     "talks": [
       {
-        "name": "\u5F37\u3055\u306E\u79D8\u8A23",
+        "name": "強さの秘訣",
         "timeline_path_hash": 6866961950792322782
       }
     ]
@@ -3294,7 +3294,7 @@
     "quest_id": 101016012,
     "talks": [
       {
-        "name": "\u9A0E\u58EB\u306E\u3084\u304D\u3082\u3061",
+        "name": "騎士のやきもち",
         "timeline_path_hash": 4990635956658429312
       }
     ]
@@ -3344,7 +3344,7 @@
     "quest_id": 101016012,
     "talks": [
       {
-        "name": "\u4E00\u62B9\u306E\u5BC2\u3057\u3055\u3068",
+        "name": "一抹の寂しさと",
         "timeline_path_hash": 3989000740579142494
       }
     ]
@@ -3534,7 +3534,7 @@
     "quest_id": 101017003,
     "talks": [
       {
-        "name": "\u9AD8\u5730\u306E\u96E3\u3057\u3055",
+        "name": "高地の難しさ",
         "timeline_path_hash": 4106999326622553526
       }
     ]
@@ -3584,7 +3584,7 @@
     "quest_id": 101017003,
     "talks": [
       {
-        "name": "\u672C\u5F53\u306B\u3084\u308A\u305F\u3044\u3053\u3068",
+        "name": "本当にやりたいこと",
         "timeline_path_hash": 1265748455893514163
       }
     ]
@@ -3634,7 +3634,7 @@
     "quest_id": 101017003,
     "talks": [
       {
-        "name": "\u91CE\u55B6\u98EF\u306E\u3044\u308D\u306F",
+        "name": "野営飯のいろは",
         "timeline_path_hash": 4789392229612147589
       }
     ]
@@ -3684,7 +3684,7 @@
     "quest_id": 101017027,
     "talks": [
       {
-        "name": "\u751F\u7269\u306E\u672C\u8CEA",
+        "name": "生物の本質",
         "timeline_path_hash": 2341414422199527358
       }
     ]
@@ -3734,7 +3734,7 @@
     "quest_id": 101017027,
     "talks": [
       {
-        "name": "\u5358\u72EC\u884C\u52D5",
+        "name": "単独行動",
         "timeline_path_hash": 8329936765744415624
       }
     ]
@@ -3819,7 +3819,7 @@
     "quest_id": 101018013,
     "talks": [
       {
-        "name": "\u932C\u91D1\u8853\u306E\u6E90",
+        "name": "錬金術の源",
         "timeline_path_hash": 943123580030370436
       }
     ]
@@ -3869,7 +3869,7 @@
     "quest_id": 101018013,
     "talks": [
       {
-        "name": "\u30CF\u30A4\u30C7\u30A3\u306E\u51FA\u81EA",
+        "name": "ハイディの出自",
         "timeline_path_hash": 6841289707809482418
       }
     ]
@@ -3919,7 +3919,7 @@
     "quest_id": 101018013,
     "talks": [
       {
-        "name": "\u30F4\u30A1\u30EC\u30EA\u30A2\u3068\u8B0E\u306E\u77F3",
+        "name": "ヴァレリアと謎の石",
         "timeline_path_hash": 3236029029841801324
       }
     ]
@@ -3969,7 +3969,7 @@
     "quest_id": 101018015,
     "talks": [
       {
-        "name": "\u4E8C\u4EBA\u306E\u9A0E\u58EB",
+        "name": "二人の騎士",
         "timeline_path_hash": 8419569725203654656
       }
     ]
@@ -4019,7 +4019,7 @@
     "quest_id": 101018015,
     "talks": [
       {
-        "name": "\u30EC\u30B9\u30CA\u3068\u8B0E\u306E\u77F3",
+        "name": "レスナと謎の石",
         "timeline_path_hash": 2828211458689582026
       }
     ]
@@ -4104,7 +4104,7 @@
     "quest_id": 101019019,
     "talks": [
       {
-        "name": "\u5144\u3068\u59C9\u306E\u30B7\u30F3\u30D1\u30B7\u30FC",
+        "name": "兄と姉のシンパシー",
         "timeline_path_hash": 8719503423245015655
       }
     ]
@@ -4154,7 +4154,7 @@
     "quest_id": 101019019,
     "talks": [
       {
-        "name": "\u738B\u76F4\u3005\u306E\u52E7\u8A98",
+        "name": "王直々の勧誘",
         "timeline_path_hash": 3091271935050792529
       }
     ]
@@ -4239,7 +4239,7 @@
     "quest_id": 101019029,
     "talks": [
       {
-        "name": "\u9A0E\u58EB\u306E\u5728\u308A\u65B9",
+        "name": "騎士の在り方",
         "timeline_path_hash": 4309109536331013260
       }
     ]
@@ -4289,7 +4289,7 @@
     "quest_id": 101019029,
     "talks": [
       {
-        "name": "\u30CF\u30A4\u30C7\u30A3\u306E\u55C5\u899A",
+        "name": "ハイディの嗅覚",
         "timeline_path_hash": 7505962442921769146
       }
     ]
@@ -4374,7 +4374,7 @@
     "quest_id": 101020018,
     "talks": [
       {
-        "name": "\u30E9\u30A4\u30B6\u5148\u8F29\u306B\u3088\u308B\u5192\u967A\u6307\u5357",
+        "name": "ライザ先輩による冒険指南",
         "timeline_path_hash": 3945236793936987746
       }
     ]
@@ -4424,7 +4424,7 @@
     "quest_id": 101020018,
     "talks": [
       {
-        "name": "\u304A\u56E3\u5B50",
+        "name": "お団子",
         "timeline_path_hash": 7289017371164811864
       }
     ]
@@ -4474,7 +4474,7 @@
     "quest_id": 101020018,
     "talks": [
       {
-        "name": "\u30A4\u30B6\u30CA\u306E\u899A\u609F",
+        "name": "イザナの覚悟",
         "timeline_path_hash": 5497174465785430097
       }
     ]
@@ -4524,7 +4524,7 @@
     "quest_id": 101020036,
     "talks": [
       {
-        "name": "\u8FD1\u6CC1\u5831\u544A",
+        "name": "近況報告",
         "timeline_path_hash": 1046257253162501818
       }
     ]
@@ -4574,7 +4574,7 @@
     "quest_id": 101020036,
     "talks": [
       {
-        "name": "\u5CE1\u8C37\u306E\u5642",
+        "name": "峡谷の噂",
         "timeline_path_hash": 6729094955037958796
       }
     ]
@@ -4659,7 +4659,7 @@
     "quest_id": 101021018,
     "talks": [
       {
-        "name": "\u65C5",
+        "name": "旅",
         "timeline_path_hash": 3516893243959601245
       }
     ]
@@ -4709,7 +4709,7 @@
     "quest_id": 101021018,
     "talks": [
       {
-        "name": "\u5E2B\u5F1F\u3067\u53CB\u9054\u3067\u5BB6\u65CF",
+        "name": "師弟で友達で家族",
         "timeline_path_hash": 4258716200355085305
       }
     ]
@@ -4759,7 +4759,7 @@
     "quest_id": 101021018,
     "talks": [
       {
-        "name": "\u305D\u308C\u305E\u308C\u306E\u6226\u3044\u65B9",
+        "name": "それぞれの戦い方",
         "timeline_path_hash": 7565623555901743055
       }
     ]
@@ -4809,7 +4809,7 @@
     "quest_id": 101021029,
     "talks": [
       {
-        "name": "\u30DE\u30AF\u30C0\u3068\u30D6\u30E9\u30C3\u30C9",
+        "name": "マクダとブラッド",
         "timeline_path_hash": 3040652035856374052
       }
     ]
@@ -4929,7 +4929,7 @@
     "quest_id": 101022015,
     "talks": [
       {
-        "name": "\u5927\u9678\u306E\u5411\u3053\u3046\u3001\u6D77\u306E\u5148",
+        "name": "大陸の向こう、海の先",
         "timeline_path_hash": 1125303149419695264
       }
     ]
@@ -4979,7 +4979,7 @@
     "quest_id": 101022015,
     "talks": [
       {
-        "name": "\u53CB\u9054\u5207\u308A\u8FBC\u307F\u968A\u9577",
+        "name": "友達切り込み隊長",
         "timeline_path_hash": 9044471321930349122
       }
     ]
@@ -5029,7 +5029,7 @@
     "quest_id": 101022015,
     "talks": [
       {
-        "name": "\u30E8\u30CF\u30CA\u306E\u4E2D\u306E\u5149",
+        "name": "ヨハナの中の光",
         "timeline_path_hash": 3342774727358406264
       }
     ]
@@ -5079,7 +5079,7 @@
     "quest_id": 101022033,
     "talks": [
       {
-        "name": "\u304A\u4F3C\u5408\u3044\u306E\u5C45\u5834\u6240",
+        "name": "お似合いの居場所",
         "timeline_path_hash": 7831484358011230365
       }
     ]
@@ -5199,7 +5199,7 @@
     "quest_id": 101023023,
     "talks": [
       {
-        "name": "\u6069\u8FD4\u3057\u306E\u7D04\u675F",
+        "name": "恩返しの約束",
         "timeline_path_hash": 780378791489634794
       }
     ]
@@ -5284,7 +5284,7 @@
     "quest_id": 101023023,
     "talks": [
       {
-        "name": "\u738B\u305F\u308B\u3082\u306E",
+        "name": "王たるもの",
         "timeline_path_hash": 6427752914830845408
       }
     ]
@@ -5334,7 +5334,7 @@
     "quest_id": 101023035,
     "talks": [
       {
-        "name": "\u30D6\u30EC\u306A\u3044\u9B45\u529B",
+        "name": "ブレない魅力",
         "timeline_path_hash": 7022995986318255364
       }
     ]
@@ -5384,7 +5384,7 @@
     "quest_id": 101023035,
     "talks": [
       {
-        "name": "\u5FC3\u5F37\u3044\u63F4\u8ECD",
+        "name": "心強い援軍",
         "timeline_path_hash": 5195069299629049603
       }
     ]
@@ -5469,7 +5469,7 @@
     "quest_id": 101024018,
     "talks": [
       {
-        "name": "\u7518\u3044\u5473\u899A\u3068\u82E6\u3044\u904E\u53BB",
+        "name": "甘い味覚と苦い過去",
         "timeline_path_hash": 4939981789873713361
       }
     ]
@@ -5535,7 +5535,7 @@
     "quest_id": 101024018,
     "talks": [
       {
-        "name": "\u843D\u3061\u7740\u3044\u3066\u3044\u308B\u4E8C\u4EBA",
+        "name": "落ち着いている二人",
         "timeline_path_hash": 1687114951154881767
       }
     ]
@@ -5585,7 +5585,7 @@
     "quest_id": 101024026,
     "talks": [
       {
-        "name": "\u5354\u529B\u306E\u610F\u5FD7",
+        "name": "協力の意志",
         "timeline_path_hash": 2664983742092806041
       }
     ]
@@ -5635,7 +5635,7 @@
     "quest_id": 101024026,
     "talks": [
       {
-        "name": "\u5C0F\u4F11\u6B62",
+        "name": "小休止",
         "timeline_path_hash": 8582855729028162479
       }
     ]
@@ -5682,7 +5682,7 @@
     "quest_id": 101024026,
     "talks": [
       {
-        "name": "\u738B\u56FD\u4E00\u306E\u932C\u91D1\u8853\u58EB",
+        "name": "王国一の錬金術士",
         "timeline_path_hash": 6805577220840833448
       }
     ]
@@ -5716,7 +5716,7 @@
     "quest_id": 101025021,
     "talks": [
       {
-        "name": "\u30C8\u30C8\u30EA\u3068\u30DF\u30DF",
+        "name": "トトリとミミ",
         "timeline_path_hash": 1923145067751647614
       }
     ]
@@ -5766,7 +5766,7 @@
     "quest_id": 101025021,
     "talks": [
       {
-        "name": "\u6291\u3048\u3089\u308C\u306A\u3044\u597D\u5947\u5FC3",
+        "name": "抑えられない好奇心",
         "timeline_path_hash": 1254004179476871900
       }
     ]
@@ -5886,7 +5886,7 @@
     "quest_id": 101026030,
     "talks": [
       {
-        "name": "\u652F\u3048\u5408\u3044\u59C9\u59B9",
+        "name": "支え合い姉妹",
         "timeline_path_hash": 286304411773393259
       }
     ]
@@ -5959,107 +5959,6 @@
     "is_event_gathering": false,
     "number": 12,
     "quest_id": 101026030,
-    "talks": []
-  },
-  {
-    "battles": [],
-    "floor_index": 0,
-    "gatherings": [
-      {
-        "gathering_type": 1,
-        "point_count": 1,
-        "weight": 1
-      }
-    ],
-    "id": 371,
-    "is_event_gathering": false,
-    "number": 2,
-    "quest_id": 101027004,
-    "talks": []
-  },
-  {
-    "battles": [
-      {
-        "battle_id": 11000497,
-        "character_exp": 2510,
-        "cole": 0,
-        "is_boss": false,
-        "symbol_enemy_id": 10120011,
-        "weight": 1
-      }
-    ],
-    "floor_index": 0,
-    "gatherings": [],
-    "id": 372,
-    "is_event_gathering": false,
-    "number": 4,
-    "quest_id": 101027004,
-    "talks": []
-  },
-  {
-    "battles": [],
-    "floor_index": 0,
-    "gatherings": [],
-    "id": 373,
-    "is_event_gathering": false,
-    "number": 6,
-    "quest_id": 101027004,
-    "talks": [
-      {
-        "name": "\u9B42\u306E\u8A18\u61B6",
-        "timeline_path_hash": 4992102773872145102
-      }
-    ]
-  },
-  {
-    "battles": [],
-    "floor_index": 0,
-    "gatherings": [
-      {
-        "gathering_type": 3,
-        "point_count": 1,
-        "weight": 1
-      }
-    ],
-    "id": 374,
-    "is_event_gathering": false,
-    "number": 8,
-    "quest_id": 101027004,
-    "talks": []
-  },
-  {
-    "battles": [],
-    "floor_index": 0,
-    "gatherings": [
-      {
-        "gathering_type": 2,
-        "point_count": 1,
-        "weight": 1
-      }
-    ],
-    "id": 375,
-    "is_event_gathering": false,
-    "number": 10,
-    "quest_id": 101027004,
-    "talks": []
-  },
-  {
-    "battles": [
-      {
-        "battle_id": 11000498,
-        "character_exp": 2510,
-        "cole": 0,
-        "is_boss": true,
-        "symbol_enemy_id": 10161001,
-        "weight": 1
-      }
-    ],
-    "floor_index": 0,
-    "gatherings": [],
-    "id": 376,
-    "is_event_gathering": false,
-    "number": 12,
-    "quest_id": 101027004,
     "talks": []
   },
   {

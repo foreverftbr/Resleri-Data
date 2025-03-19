@@ -6,7 +6,7 @@
       }
     ],
     "id": 201,
-    "name": "\u30AF\u30FC\u30EB",
+    "name": "クール",
     "roles": [],
     "tools": [
       {
@@ -24,7 +24,7 @@
       }
     ],
     "id": 202,
-    "name": "\u30D3\u30EA\u30D3\u30EA",
+    "name": "ビリビリ",
     "roles": [],
     "tools": [
       {
@@ -38,7 +38,7 @@
   {
     "attack_attributes": [],
     "id": 203,
-    "name": "\u30EA\u30D5\u30EC\u30C3\u30B7\u30E5",
+    "name": "リフレッシュ",
     "roles": [],
     "tools": [
       {

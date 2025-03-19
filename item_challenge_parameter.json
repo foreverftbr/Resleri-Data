@@ -25,7 +25,7 @@
       "slot3": 0
     },
     "id": 1,
-    "name": "\u71C3\u8CBB",
+    "name": "燃費",
     "rarities": [
       {
         "coefficient": 100,
@@ -42,10 +42,6 @@
       {
         "coefficient": 130,
         "tool_rarity_id": 4
-      },
-      {
-        "coefficient": 130,
-        "tool_rarity_id": 5
       }
     ],
     "traits": [
@@ -93,7 +89,7 @@
       "slot3": 0
     },
     "id": 2,
-    "name": "\u706B\u529B",
+    "name": "火力",
     "rarities": [
       {
         "coefficient": 100,
@@ -110,10 +106,6 @@
       {
         "coefficient": 130,
         "tool_rarity_id": 4
-      },
-      {
-        "coefficient": 130,
-        "tool_rarity_id": 5
       }
     ],
     "traits": [
@@ -161,7 +153,7 @@
       "slot3": 120
     },
     "id": 3,
-    "name": "\u6ED1\u7A7A\u6027\u80FD",
+    "name": "滑空性能",
     "rarities": [
       {
         "coefficient": 100,
@@ -178,10 +170,6 @@
       {
         "coefficient": 130,
         "tool_rarity_id": 4
-      },
-      {
-        "coefficient": 130,
-        "tool_rarity_id": 5
       }
     ],
     "traits": [
@@ -229,7 +217,7 @@
       "slot3": 0
     },
     "id": 4,
-    "name": "\u7206\u767A\u529B",
+    "name": "爆発力",
     "rarities": [
       {
         "coefficient": 100,
@@ -246,10 +234,6 @@
       {
         "coefficient": 130,
         "tool_rarity_id": 4
-      },
-      {
-        "coefficient": 130,
-        "tool_rarity_id": 5
       }
     ],
     "traits": [
@@ -297,7 +281,7 @@
       "slot3": 0
     },
     "id": 5,
-    "name": "\u5BC6\u5EA6",
+    "name": "密度",
     "rarities": [
       {
         "coefficient": 100,
@@ -314,10 +298,6 @@
       {
         "coefficient": 130,
         "tool_rarity_id": 4
-      },
-      {
-        "coefficient": 130,
-        "tool_rarity_id": 5
       }
     ],
     "traits": [
@@ -365,7 +345,7 @@
       "slot3": 120
     },
     "id": 6,
-    "name": "\u8272",
+    "name": "色",
     "rarities": [
       {
         "coefficient": 100,
@@ -382,10 +362,6 @@
       {
         "coefficient": 130,
         "tool_rarity_id": 4
-      },
-      {
-        "coefficient": 130,
-        "tool_rarity_id": 5
       }
     ],
     "traits": [
@@ -433,7 +409,7 @@
       "slot3": 0
     },
     "id": 7,
-    "name": "\u611B\u60C5",
+    "name": "愛情",
     "rarities": [
       {
         "coefficient": 100,
@@ -450,10 +426,6 @@
       {
         "coefficient": 130,
         "tool_rarity_id": 4
-      },
-      {
-        "coefficient": 130,
-        "tool_rarity_id": 5
       }
     ],
     "traits": [
@@ -501,7 +473,7 @@
       "slot3": 0
     },
     "id": 8,
-    "name": "\u30C6\u30AF\u30CB\u30AB\u30EB\u5EA6",
+    "name": "テクニカル度",
     "rarities": [
       {
         "coefficient": 100,
@@ -518,10 +490,6 @@
       {
         "coefficient": 130,
         "tool_rarity_id": 4
-      },
-      {
-        "coefficient": 130,
-        "tool_rarity_id": 5
       }
     ],
     "traits": [
@@ -569,7 +537,7 @@
       "slot3": 120
     },
     "id": 9,
-    "name": "\u6804\u990A\u4FA1",
+    "name": "栄養価",
     "rarities": [
       {
         "coefficient": 100,
@@ -586,10 +554,6 @@
       {
         "coefficient": 130,
         "tool_rarity_id": 4
-      },
-      {
-        "coefficient": 130,
-        "tool_rarity_id": 5
       }
     ],
     "traits": [
@@ -637,7 +601,7 @@
       "slot3": 40
     },
     "id": 10,
-    "name": "\u91D1\u92AD\u4FA1\u5024",
+    "name": "金銭価値",
     "rarities": [
       {
         "coefficient": 100,
@@ -654,10 +618,6 @@
       {
         "coefficient": 130,
         "tool_rarity_id": 4
-      },
-      {
-        "coefficient": 130,
-        "tool_rarity_id": 5
       }
     ],
     "traits": [
@@ -705,7 +665,7 @@
       "slot3": 40
     },
     "id": 11,
-    "name": "\u6620\u3048",
+    "name": "映え",
     "rarities": [
       {
         "coefficient": 100,
@@ -722,10 +682,6 @@
       {
         "coefficient": 130,
         "tool_rarity_id": 4
-      },
-      {
-        "coefficient": 130,
-        "tool_rarity_id": 5
       }
     ],
     "traits": [
@@ -773,7 +729,7 @@
       "slot3": 40
     },
     "id": 12,
-    "name": "\u30D3\u30D3\u30C3\u5EA6",
+    "name": "ビビッ度",
     "rarities": [
       {
         "coefficient": 100,
@@ -790,10 +746,6 @@
       {
         "coefficient": 130,
         "tool_rarity_id": 4
-      },
-      {
-        "coefficient": 130,
-        "tool_rarity_id": 5
       }
     ],
     "traits": [
@@ -841,7 +793,7 @@
       "slot3": 0
     },
     "id": 13,
-    "name": "\u3046\u307E\u307F",
+    "name": "うまみ",
     "rarities": [
       {
         "coefficient": 100,
@@ -858,10 +810,6 @@
       {
         "coefficient": 130,
         "tool_rarity_id": 4
-      },
-      {
-        "coefficient": 130,
-        "tool_rarity_id": 5
       }
     ],
     "traits": [
@@ -909,7 +857,7 @@
       "slot3": 0
     },
     "id": 14,
-    "name": "\u7C98\u308A",
+    "name": "粘り",
     "rarities": [
       {
         "coefficient": 100,
@@ -926,10 +874,6 @@
       {
         "coefficient": 130,
         "tool_rarity_id": 4
-      },
-      {
-        "coefficient": 130,
-        "tool_rarity_id": 5
       }
     ],
     "traits": [
@@ -977,7 +921,7 @@
       "slot3": 120
     },
     "id": 15,
-    "name": "\u53E3\u5F53\u305F\u308A",
+    "name": "口当たり",
     "rarities": [
       {
         "coefficient": 100,
@@ -994,10 +938,6 @@
       {
         "coefficient": 130,
         "tool_rarity_id": 4
-      },
-      {
-        "coefficient": 130,
-        "tool_rarity_id": 5
       }
     ],
     "traits": [
@@ -1045,7 +985,7 @@
       "slot3": 0
     },
     "id": 16,
-    "name": "\u885D\u6483\u529B",
+    "name": "衝撃力",
     "rarities": [
       {
         "coefficient": 100,
@@ -1062,10 +1002,6 @@
       {
         "coefficient": 130,
         "tool_rarity_id": 4
-      },
-      {
-        "coefficient": 130,
-        "tool_rarity_id": 5
       }
     ],
     "traits": [
@@ -1113,7 +1049,7 @@
       "slot3": 0
     },
     "id": 17,
-    "name": "\u7BC4\u56F2",
+    "name": "範囲",
     "rarities": [
       {
         "coefficient": 100,
@@ -1130,10 +1066,6 @@
       {
         "coefficient": 130,
         "tool_rarity_id": 4
-      },
-      {
-        "coefficient": 130,
-        "tool_rarity_id": 5
       }
     ],
     "traits": [
@@ -1181,7 +1113,7 @@
       "slot3": 120
     },
     "id": 18,
-    "name": "\u97FF\u304D",
+    "name": "響き",
     "rarities": [
       {
         "coefficient": 100,
@@ -1198,10 +1130,6 @@
       {
         "coefficient": 130,
         "tool_rarity_id": 4
-      },
-      {
-        "coefficient": 130,
-        "tool_rarity_id": 5
       }
     ],
     "traits": [

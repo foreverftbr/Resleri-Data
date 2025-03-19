@@ -39,7 +39,7 @@
     "enemy_weak_level_max": 2,
     "equipment_preset_count": 30,
     "equipment_preset_initial_name_i18n": {
-      "ja": "\u88C5\u5099\u30D7\u30EA\u30BB\u30C3\u30C8{}"
+      "ja": "装備プリセット{}"
     },
     "equipment_preset_max_name_length": 11,
     "equipment_tool_trait_count": 2,
@@ -142,8 +142,8 @@
     ],
     "shop_first_purchase_bonus_memoria_id": 30018,
     "skill_evolve_enable_rarity": 8,
-    "skill_target_mode_suffix_random": "[\u30E9\u30F3\u30C0\u30E0]",
-    "skill_target_mode_suffix_sniping": "[\u72D9\u3044\u6483\u3061]",
+    "skill_target_mode_suffix_random": "[ランダム]",
+    "skill_target_mode_suffix_sniping": "[狙い撃ち]",
     "spare_stamina_recovery_interval_seconds": 900,
     "stamina_per_purchase": 80,
     "stamina_recovery_interval_seconds": 300,

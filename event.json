@@ -10,7 +10,7 @@
     "id": 1,
     "is_remind": true,
     "logo_path_hash": 4405332230874830319,
-    "name": "\u6C7A\u6226\uFF01\u6226\u58EB\u306E\u5927\u93A7",
+    "name": "決戦！戦士の大鎧",
     "patterns": [
       {
         "ids": [
@@ -22,7 +22,7 @@
     "priority": 101,
     "revival_start_at": "2024-04-22T03:00:00.0000000Z",
     "reward_end_at": "2023-10-11T03:00:00.0000000Z",
-    "sort_name": "\u3051\u3063\u305B\u3093\u305B\u3093\u3057\u306E\u304A\u304A\u3088\u308D\u3044",
+    "sort_name": "けっせんせんしのおおよろい",
     "start_at": "2023-10-02T03:00:00.0000000Z"
   },
   {
@@ -36,7 +36,7 @@
     "id": 2,
     "is_remind": true,
     "logo_path_hash": 2104125854068598115,
-    "name": "\u30B6\u30FC\u30EB\u30D6\u30EB\u30B0\u306E\u932C\u91D1\u8853\u58EB \uFF5E\u53D7\u3051\u7D99\u304C\u308C\u308B\u601D\u3044\uFF5E",
+    "name": "ザールブルグの錬金術士 ～受け継がれる思い～",
     "patterns": [
       {
         "ids": [
@@ -48,7 +48,7 @@
     "priority": 103,
     "revival_start_at": "2024-04-22T03:00:00.0000000Z",
     "reward_end_at": "2023-10-25T03:00:00.0000000Z",
-    "sort_name": "\u3056\u30FC\u308B\u3076\u308B\u3050\u306E\u308C\u3093\u304D\u3093\u3058\u3085\u3064\u3057\u3046\u3051\u3064\u304C\u308C\u308B\u304A\u3082\u3044",
+    "sort_name": "ざーるぶるぐのれんきんじゅつしうけつがれるおもい",
     "start_at": "2023-10-17T03:00:00.0000000Z"
   },
   {
@@ -62,7 +62,7 @@
     "id": 3,
     "is_remind": true,
     "logo_path_hash": 3873519333006300703,
-    "name": "300\u4E07DL\u8A18\u5FF5",
+    "name": "300万DL記念",
     "patterns": [
       {
         "ids": [
@@ -74,7 +74,7 @@
     "priority": 104,
     "revival_start_at": "2024-05-23T03:00:00.0000000Z",
     "reward_end_at": "2023-11-01T03:00:00.0000000Z",
-    "sort_name": "300\u307E\u3093dl\u304D\u306D\u3093",
+    "sort_name": "300まんdlきねん",
     "start_at": "2023-10-24T03:00:00.0000000Z"
   },
   {
@@ -88,7 +88,7 @@
     "id": 4,
     "is_remind": true,
     "logo_path_hash": 7324686549137735959,
-    "name": "\u6C7A\u6226\uFF01\u30CF\u30ED\u30A6\u30A3\u30F3\u3077\u306B",
+    "name": "決戦！ハロウィンぷに",
     "patterns": [
       {
         "ids": [
@@ -100,7 +100,7 @@
     "priority": 105,
     "revival_start_at": "2024-05-23T03:00:00.0000000Z",
     "reward_end_at": "2023-11-11T03:00:00.0000000Z",
-    "sort_name": "\u3051\u3063\u305B\u3093\u306F\u308D\u3046\u3043\u3093\u3077\u306B",
+    "sort_name": "けっせんはろうぃんぷに",
     "start_at": "2023-10-31T03:00:00.0000000Z"
   },
   {
@@ -114,7 +114,7 @@
     "id": 5,
     "is_remind": true,
     "logo_path_hash": 6799486893161025830,
-    "name": "\u30EA\u30C7\u30A3\u30FC\uFF06\u30B9\u30FC\u30EB\u306E\u65E5\u5E38 \u301C\u3075\u305F\u308A\u304C\u63CF\u304F\u5BB6\u65CF\u306E\u601D\u3044\u51FA\u301C",
+    "name": "リディー＆スールの日常 〜ふたりが描く家族の思い出〜",
     "patterns": [
       {
         "ids": [
@@ -126,7 +126,7 @@
     "priority": 106,
     "revival_start_at": "2024-06-24T03:00:00.0000000Z",
     "reward_end_at": "2023-12-01T03:00:00.0000000Z",
-    "sort_name": "\u308A\u3067\u3043\u30FC\u3059\u30FC\u308B\u306E\u306B\u3061\u3058\u3087\u3046\u3075\u305F\u308A\u304C\u3048\u304C\u304F\u304B\u305E\u304F\u306E\u304A\u3082\u3044\u3067",
+    "sort_name": "りでぃーすーるのにちじょうふたりがえがくかぞくのおもいで",
     "start_at": "2023-11-21T03:00:00.0000000Z"
   },
   {
@@ -140,7 +140,7 @@
     "id": 6,
     "is_remind": true,
     "logo_path_hash": 2279227649137121240,
-    "name": "\u5FD8\u5374\u306E\u8CE2\u8005\u3068\u79D8\u5BC6\u306E\u697D\u5712",
+    "name": "忘却の賢者と秘密の楽園",
     "patterns": [
       {
         "ids": [
@@ -152,7 +152,7 @@
     "priority": 107,
     "revival_start_at": "2024-07-22T03:00:00.0000000Z",
     "reward_end_at": "2023-12-12T03:00:00.0000000Z",
-    "sort_name": "\u307C\u3046\u304D\u3083\u304F\u306E\u3051\u3093\u3058\u3083\u3068\u3072\u307F\u3064\u306E\u3089\u304F\u3048\u3093",
+    "sort_name": "ぼうきゃくのけんじゃとひみつのらくえん",
     "start_at": "2023-11-30T03:00:00.0000000Z"
   },
   {
@@ -166,12 +166,12 @@
     "id": 7,
     "is_remind": true,
     "logo_path_hash": 943452394607300,
-    "name": "\u30E9\u30A4\u30B6\u304B\u3089\u306E\u6311\u6226\u72B6",
+    "name": "ライザからの挑戦状",
     "patterns": [],
     "priority": 108,
     "revival_start_at": null,
     "reward_end_at": null,
-    "sort_name": "\u3089\u3044\u3056\u304B\u3089\u306E\u3061\u3087\u3046\u305B\u3093\u3058\u3087\u3046",
+    "sort_name": "らいざからのちょうせんじょう",
     "start_at": "2023-11-30T03:00:00.0000000Z"
   },
   {
@@ -185,7 +185,7 @@
     "id": 8,
     "is_remind": true,
     "logo_path_hash": 1371051278295652165,
-    "name": "\u661F\u964D\u308B\u591C\u306E\u8D08\u308A\u3082\u306E",
+    "name": "星降る夜の贈りもの",
     "patterns": [
       {
         "ids": [
@@ -197,7 +197,7 @@
     "priority": 109,
     "revival_start_at": "2024-07-22T03:00:00.0000000Z",
     "reward_end_at": "2024-01-02T03:00:00.0000000Z",
-    "sort_name": "\u307B\u3057\u3075\u308B\u3088\u308B\u306E\u304A\u304F\u308A\u3082\u306E",
+    "sort_name": "ほしふるよるのおくりもの",
     "start_at": "2023-12-22T03:00:00.0000000Z"
   },
   {
@@ -211,7 +211,7 @@
     "id": 9,
     "is_remind": true,
     "logo_path_hash": 6856437671048172540,
-    "name": "\u30DE\u30EA\u30FC\u306E\u62DB\u798F\u5927\u4F5C\u6226\uFF01",
+    "name": "マリーの招福大作戦！",
     "patterns": [
       {
         "ids": [
@@ -223,7 +223,7 @@
     "priority": 110,
     "revival_start_at": "2024-08-16T03:00:00.0000000Z",
     "reward_end_at": "2024-01-16T03:00:00.0000000Z",
-    "sort_name": "\u307E\u308A\u30FC\u306E\u3057\u3087\u3046\u3075\u304F\u3060\u3044\u3055\u304F\u305B\u3093",
+    "sort_name": "まりーのしょうふくだいさくせん",
     "start_at": "2023-12-31T15:00:00.0000000Z"
   },
   {
@@ -237,12 +237,12 @@
     "id": 10,
     "is_remind": true,
     "logo_path_hash": 5328381161142974929,
-    "name": "\u5927\u91CF\u30B3\u30FC\u30EB\u3092\u624B\u306B\u5165\u308C\u308D\uFF01\u30B4\u30FC\u30EB\u30C9\u3077\u306B\u30C1\u30E3\u30EC\u30F3\u30B8",
+    "name": "大量コールを手に入れろ！ゴールドぷにチャレンジ",
     "patterns": [],
     "priority": 111,
     "revival_start_at": null,
     "reward_end_at": null,
-    "sort_name": "\u305F\u3044\u308A\u3087\u3046\u3053\u30FC\u308B\u3092\u3066\u306B\u3044\u308C\u308D\u3054\u30FC\u308B\u3069\u3077\u306B\u3061\u3083\u308C\u3093\u3058",
+    "sort_name": "たいりょうこーるをてにいれろごーるどぷにちゃれんじ",
     "start_at": "2024-01-06T03:00:00.0000000Z"
   },
   {
@@ -256,7 +256,7 @@
     "id": 11,
     "is_remind": true,
     "logo_path_hash": 6689661793652089231,
-    "name": "\u4E8C\u4EBA\u306E\u30B7\u30E3\u30EA\u30FC\u3068\u6BCD\u306E\u9858\u3044",
+    "name": "二人のシャリーと母の願い",
     "patterns": [
       {
         "ids": [
@@ -268,7 +268,7 @@
     "priority": 112,
     "revival_start_at": "2024-08-16T03:00:00.0000000Z",
     "reward_end_at": "2024-02-01T03:00:00.0000000Z",
-    "sort_name": "\u3075\u305F\u308A\u306E\u3057\u3083\u308A\u30FC\u3068\u306F\u306F\u306E\u306D\u304C\u3044",
+    "sort_name": "ふたりのしゃりーとははのねがい",
     "start_at": "2024-01-22T03:00:00.0000000Z"
   },
   {
@@ -282,7 +282,7 @@
     "id": 12,
     "is_remind": true,
     "logo_path_hash": 1231557035147399130,
-    "name": "\u9031\u672B\uFF01\u30AF\u30C3\u30AD\u30FC\u30DF\u30C3\u30B7\u30E7\u30F3",
+    "name": "週末！クッキーミッション",
     "patterns": [
       {
         "ids": [
@@ -300,7 +300,7 @@
     "priority": 113,
     "revival_start_at": null,
     "reward_end_at": "2024-02-01T03:00:00.0000000Z",
-    "sort_name": "\u3057\u3085\u3046\u307E\u3064\u304F\u3063\u304D\u30FC\u307F\u3063\u3057\u3087\u3093",
+    "sort_name": "しゅうまつくっきーみっしょん",
     "start_at": "2024-01-26T03:00:00.0000000Z"
   },
   {
@@ -314,7 +314,7 @@
     "id": 13,
     "is_remind": true,
     "logo_path_hash": 1636032119314438930,
-    "name": "\u4E59\u5973\u305F\u3061\u306E\u30C1\u30E7\u30B3\u30EC\u30FC\u30C8\u30DF\u30C3\u30AF\u30B9",
+    "name": "乙女たちのチョコレートミックス",
     "patterns": [
       {
         "ids": [
@@ -326,7 +326,7 @@
     "priority": 114,
     "revival_start_at": "2024-10-22T03:00:00.0000000Z",
     "reward_end_at": "2024-02-21T03:00:00.0000000Z",
-    "sort_name": "\u304A\u3068\u3081\u305F\u3061\u306E\u3061\u3087\u3053\u308C\u30FC\u3068\u307F\u3063\u304F\u3059",
+    "sort_name": "おとめたちのちょこれーとみっくす",
     "start_at": "2024-02-09T03:00:00.0000000Z"
   },
   {
@@ -340,7 +340,7 @@
     "id": 14,
     "is_remind": true,
     "logo_path_hash": 896349683054703754,
-    "name": "\u30A2\u30FC\u30E9\u30F3\u30C9\u306E\u932C\u91D1\u8853\u58EB \u301C\u8FF7\u5B50\u306E\u5C11\u5973\u3068\u96EA\u306E\u5E30\u308A\u9053\u301C",
+    "name": "アーランドの錬金術士 〜迷子の少女と雪の帰り道〜",
     "patterns": [
       {
         "ids": [
@@ -352,7 +352,7 @@
     "priority": 115,
     "revival_start_at": "2024-10-22T03:00:00.0000000Z",
     "reward_end_at": "2024-03-01T03:00:00.0000000Z",
-    "sort_name": "\u3042\u30FC\u3089\u3093\u3069\u306E\u308C\u3093\u304D\u3093\u3058\u3085\u3064\u3057\u307E\u3044\u3054\u306E\u3057\u3087\u3046\u3058\u3087\u3068\u3086\u304D\u306E\u304B\u3048\u308A\u307F\u3061",
+    "sort_name": "あーらんどのれんきんじゅつしまいごのしょうじょとゆきのかえりみち",
     "start_at": "2024-02-20T03:00:00.0000000Z"
   },
   {
@@ -366,7 +366,7 @@
     "id": 15,
     "is_remind": true,
     "logo_path_hash": 1428294335946076562,
-    "name": "\u534A\u5468\u5E74\u524D\u591C\u796D\uFF01\u8ABF\u5408\u30DC\u30FC\u30CA\u30B9\u30AD\u30E3\u30F3\u30DA\u30FC\u30F3",
+    "name": "半周年前夜祭！調合ボーナスキャンペーン",
     "patterns": [
       {
         "ids": [
@@ -378,7 +378,7 @@
     "priority": 116,
     "revival_start_at": null,
     "reward_end_at": "2024-03-01T03:00:00.0000000Z",
-    "sort_name": "\u306F\u3093\u3057\u3085\u3046\u306D\u3093\u305C\u3093\u3084\u3055\u3044\u3061\u3087\u3046\u3054\u3046\u307C\u30FC\u306A\u3059\u304D\u3083\u3093\u307A\u30FC\u3093",
+    "sort_name": "はんしゅうねんぜんやさいちょうごうぼーなすきゃんぺーん",
     "start_at": "2024-02-23T03:00:00.0000000Z"
   },
   {
@@ -392,12 +392,12 @@
     "id": 16,
     "is_remind": true,
     "logo_path_hash": 5356601462654264890,
-    "name": "\u30A2\u30A4\u30C6\u30E0\u5927\u6226 \u7B2C1\u5F3E",
+    "name": "アイテム大戦 第1弾",
     "patterns": [],
     "priority": 117,
     "revival_start_at": null,
     "reward_end_at": null,
-    "sort_name": "\u3042\u3044\u3066\u3080\u305F\u3044\u305B\u3093\u3060\u30441\u3060\u3093",
+    "sort_name": "あいてむたいせんだい1だん",
     "start_at": "2024-02-28T08:00:00.0000000Z"
   },
   {
@@ -411,7 +411,7 @@
     "id": 17,
     "is_remind": true,
     "logo_path_hash": 6193667533600367394,
-    "name": "\u534A\u5468\u5E74\u8A18\u5FF5\u30D7\u30EC\u30BC\u30F3\u30C8\u30D0\u30C8\u30EB",
+    "name": "半周年記念プレゼントバトル",
     "patterns": [
       {
         "ids": [
@@ -423,7 +423,7 @@
     "priority": 124,
     "revival_start_at": null,
     "reward_end_at": "2024-04-03T03:00:00.0000000Z",
-    "sort_name": "\u306F\u3093\u3057\u3085\u3046\u306D\u3093\u304D\u306D\u3093\u3077\u308C\u305C\u3093\u3068\u3070\u3068\u308B",
+    "sort_name": "はんしゅうねんきねんぷれぜんとばとる",
     "start_at": "2024-02-28T08:00:00.0000000Z"
   },
   {
@@ -437,7 +437,7 @@
     "id": 18,
     "is_remind": true,
     "logo_path_hash": 7469155735048513628,
-    "name": "\u30C1\u30E3\u30EC\u30F3\u30B8\u30D0\u30C8\u30EB \u30B8\u30A7\u30ED\u30F3",
+    "name": "チャレンジバトル ジェロン",
     "patterns": [
       {
         "ids": [
@@ -449,7 +449,7 @@
     "priority": 118,
     "revival_start_at": null,
     "reward_end_at": "2024-04-03T03:00:00.0000000Z",
-    "sort_name": "\u3061\u3083\u308C\u3093\u3058\u3070\u3068\u308B\u3058\u3047\u308D\u3093",
+    "sort_name": "ちゃれんじばとるじぇろん",
     "start_at": "2024-03-06T03:00:00.0000000Z"
   },
   {
@@ -463,7 +463,7 @@
     "id": 20,
     "is_remind": true,
     "logo_path_hash": 7178354319168609132,
-    "name": "\u30C1\u30E3\u30EC\u30F3\u30B8\u30D0\u30C8\u30EB \u30E9\u30E9",
+    "name": "チャレンジバトル ララ",
     "patterns": [
       {
         "ids": [
@@ -475,7 +475,7 @@
     "priority": 120,
     "revival_start_at": null,
     "reward_end_at": "2024-04-03T03:00:00.0000000Z",
-    "sort_name": "\u3061\u3083\u308C\u3093\u3058\u3070\u3068\u308B\u3089\u3089",
+    "sort_name": "ちゃれんじばとるらら",
     "start_at": "2024-03-17T03:00:00.0000000Z"
   },
   {
@@ -489,12 +489,12 @@
     "id": 21,
     "is_remind": true,
     "logo_path_hash": 8952180039507074680,
-    "name": "\u30A2\u30A4\u30C6\u30E0\u5927\u6226 \u7B2C2\u5F3E",
+    "name": "アイテム大戦 第2弾",
     "patterns": [],
     "priority": 119,
     "revival_start_at": null,
     "reward_end_at": null,
-    "sort_name": "\u3042\u3044\u3066\u3080\u305F\u3044\u305B\u3093\u3060\u30442\u3060\u3093",
+    "sort_name": "あいてむたいせんだい2だん",
     "start_at": "2024-03-12T03:00:00.0000000Z"
   },
   {
@@ -508,7 +508,7 @@
     "id": 22,
     "is_remind": true,
     "logo_path_hash": 5271584164050859553,
-    "name": "\u30C1\u30E3\u30EC\u30F3\u30B8\u30D0\u30C8\u30EB \u9D09",
+    "name": "チャレンジバトル 鴉",
     "patterns": [
       {
         "ids": [
@@ -520,7 +520,7 @@
     "priority": 122,
     "revival_start_at": null,
     "reward_end_at": "2024-04-03T03:00:00.0000000Z",
-    "sort_name": "\u3061\u3083\u308C\u3093\u3058\u3070\u3068\u308B\u304B\u3089\u3059",
+    "sort_name": "ちゃれんじばとるからす",
     "start_at": "2024-03-27T03:00:00.0000000Z"
   },
   {
@@ -534,12 +534,12 @@
     "id": 23,
     "is_remind": true,
     "logo_path_hash": 6235874380607763259,
-    "name": "\u30A2\u30A4\u30C6\u30E0\u5927\u6226 \u7B2C3\u5F3E",
+    "name": "アイテム大戦 第3弾",
     "patterns": [],
     "priority": 121,
     "revival_start_at": null,
     "reward_end_at": null,
-    "sort_name": "\u3042\u3044\u3066\u3080\u305F\u3044\u305B\u3093\u3060\u30443\u3060\u3093",
+    "sort_name": "あいてむたいせんだい3だん",
     "start_at": "2024-03-22T03:00:00.0000000Z"
   },
   {
@@ -553,7 +553,7 @@
     "id": 24,
     "is_remind": true,
     "logo_path_hash": 4082320437372563978,
-    "name": "\u534A\u5468\u5E74\u8A18\u5FF5 \u76EE\u6307\u305B100\u56DE\uFF01\u8ABF\u5408\u30C1\u30E3\u30EC\u30F3\u30B8",
+    "name": "半周年記念 目指せ100回！調合チャレンジ",
     "patterns": [
       {
         "ids": [
@@ -571,7 +571,7 @@
     "priority": 123,
     "revival_start_at": null,
     "reward_end_at": "2024-03-23T03:00:00.0000000Z",
-    "sort_name": "\u306F\u3093\u3057\u3085\u3046\u306D\u3093\u304D\u306D\u3093\u3081\u3056\u305B100\u304B\u3044\u3061\u3087\u3046\u3054\u3046\u3061\u3083\u308C\u3093\u3058",
+    "sort_name": "はんしゅうねんきねんめざせ100かいちょうごうちゃれんじ",
     "start_at": "2024-03-12T03:00:00.0000000Z"
   },
   {
@@ -585,12 +585,12 @@
     "id": 25,
     "is_remind": true,
     "logo_path_hash": 887946133508108465,
-    "name": "\u5168\u54E1\u5FC5\u4FEE\uFF01\u30DE\u30EA\u30AA\u30F3\u5148\u751F\u306E\u7279\u5225\u8A66\u9A13\uFF01",
+    "name": "全員必修！マリオン先生の特別試験！",
     "patterns": [],
     "priority": 130,
     "revival_start_at": null,
     "reward_end_at": "2024-04-30T03:00:00.0000000Z",
-    "sort_name": "\u305C\u3093\u3044\u3093\u3072\u3063\u3057\u3085\u3046\u307E\u308A\u304A\u3093\u305B\u3093\u305B\u3044\u306E\u3068\u304F\u3079\u3064\u3057\u3051\u3093",
+    "sort_name": "ぜんいんひっしゅうまりおんせんせいのとくべつしけん",
     "start_at": "2024-04-01T12:00:00.0000000Z"
   },
   {
@@ -604,7 +604,7 @@
     "id": 26,
     "is_remind": true,
     "logo_path_hash": 4725317391676088040,
-    "name": "\u30EC\u30B9\u30EC\u30EA\u5B66\u5712 \uFF5E\u9000\u5B66\uFF01\uFF1F\u3000\u3044\u304D\u306A\u308A\u5927\u30D4\u30F3\u30C1\uFF5E",
+    "name": "レスレリ学園 ～退学！？\u3000いきなり大ピンチ～",
     "patterns": [
       {
         "ids": [
@@ -622,7 +622,7 @@
     "priority": 139,
     "revival_start_at": null,
     "reward_end_at": "2024-05-01T03:00:00.0000000Z",
-    "sort_name": "\u308C\u3059\u308C\u308A\u304C\u304F\u3048\u3093\u305F\u3044\u304C\u304F\u3044\u304D\u306A\u308A\u3060\u3044\u3074\u3093\u3061",
+    "sort_name": "れすれりがくえんたいがくいきなりだいぴんち",
     "start_at": "2024-04-01T12:00:00.0000000Z"
   },
   {
@@ -636,7 +636,7 @@
     "id": 27,
     "is_remind": true,
     "logo_path_hash": 6787373556751850492,
-    "name": "\u30DE\u30EA\u30FC\u5148\u751F\u306E\u653E\u8AB2\u5F8C\u30DF\u30C3\u30B7\u30E7\u30F3\uFF01",
+    "name": "マリー先生の放課後ミッション！",
     "patterns": [
       {
         "ids": [
@@ -654,7 +654,7 @@
     "priority": 131,
     "revival_start_at": null,
     "reward_end_at": "2024-04-13T03:00:00.0000000Z",
-    "sort_name": "\u307E\u308A\u3044\u305B\u3093\u305B\u3044\u306E\u307B\u3046\u304B\u3054\u307F\u3063\u3057\u3087\u3093",
+    "sort_name": "まりいせんせいのほうかごみっしょん",
     "start_at": "2024-04-08T03:00:00.0000000Z"
   },
   {
@@ -668,7 +668,7 @@
     "id": 28,
     "is_remind": true,
     "logo_path_hash": 7809820194866401410,
-    "name": "\u30B6\u30B9\u30AD\u30A2\u5148\u751F\u306E\u65B0\u5165\u751F\u6B53\u8FCE\u30DF\u30C3\u30B7\u30E7\u30F3\uFF01",
+    "name": "ザスキア先生の新入生歓迎ミッション！",
     "patterns": [
       {
         "ids": [
@@ -680,7 +680,7 @@
     "priority": 140,
     "revival_start_at": null,
     "reward_end_at": null,
-    "sort_name": "\u3056\u3059\u304D\u3042\u305B\u3093\u305B\u3044\u306E\u3057\u3093\u306B\u3085\u3046\u305B\u3044\u304B\u3093\u3052\u3044\u307F\u3063\u3057\u3087\u3093",
+    "sort_name": "ざすきあせんせいのしんにゅうせいかんげいみっしょん",
     "start_at": "2024-04-01T12:00:00.0000000Z"
   },
   {
@@ -694,12 +694,12 @@
     "id": 29,
     "is_remind": true,
     "logo_path_hash": 959073025142979995,
-    "name": "\u30A2\u30A4\u30C6\u30E0\u5927\u6226 \u301C\u5B66\u5712\u932C\u91D1\u796D\u7DE8\u301C",
+    "name": "アイテム大戦 〜学園錬金祭編〜",
     "patterns": [],
     "priority": 135,
     "revival_start_at": null,
     "reward_end_at": "2024-04-30T03:00:00.0000000Z",
-    "sort_name": "\u3042\u3044\u3066\u3080\u305F\u3044\u305B\u3093\u304C\u304F\u3048\u3093\u308C\u3093\u304D\u3093\u3055\u3044\u3078\u3093",
+    "sort_name": "あいてむたいせんがくえんれんきんさいへん",
     "start_at": "2024-04-15T03:00:00.0000000Z"
   },
   {
@@ -713,12 +713,12 @@
     "id": 30,
     "is_remind": true,
     "logo_path_hash": 1989337621032064952,
-    "name": "\u3010\u521D\u7D1A\u3011\u7A7A\u307E\u3067\u5C4A\u3051\uFF01\u30ED\u30B1\u30C3\u30C8\u30B3\u30F3\u30C6\u30B9\u30C8\uFF01",
+    "name": "【初級】空まで届け！ロケットコンテスト！",
     "patterns": [],
     "priority": 134,
     "revival_start_at": null,
     "reward_end_at": null,
-    "sort_name": "\u3057\u3087\u304D\u3085\u3046\u305D\u3089\u307E\u3067\u3068\u3069\u3051\u308D\u3051\u3063\u3068\u3053\u3093\u3066\u3059\u3068",
+    "sort_name": "しょきゅうそらまでとどけろけっとこんてすと",
     "start_at": "2024-04-12T03:00:00.0000000Z"
   },
   {
@@ -732,12 +732,12 @@
     "id": 31,
     "is_remind": true,
     "logo_path_hash": 304458543030407852,
-    "name": "\u3010\u4E2D\u7D1A\u3011\u5929\u307E\u3067\u5C4A\u3051\uFF01\u30ED\u30B1\u30C3\u30C8\u30B3\u30F3\u30C6\u30B9\u30C8\uFF01",
+    "name": "【中級】天まで届け！ロケットコンテスト！",
     "patterns": [],
     "priority": 133,
     "revival_start_at": null,
     "reward_end_at": null,
-    "sort_name": "\u3061\u3085\u3046\u304D\u3085\u3046\u3066\u3093\u307E\u3067\u3068\u3069\u3051\u308D\u3051\u3063\u3068\u3053\u3093\u3066\u3059\u3068",
+    "sort_name": "ちゅうきゅうてんまでとどけろけっとこんてすと",
     "start_at": "2024-04-12T03:00:00.0000000Z"
   },
   {
@@ -751,12 +751,12 @@
     "id": 32,
     "is_remind": true,
     "logo_path_hash": 5330161902411824379,
-    "name": "\u3010\u4E0A\u7D1A\u3011\u706B\u5C71\u307E\u3067\u5C4A\u3051\uFF01\u30ED\u30B1\u30C3\u30C8\u30B3\u30F3\u30C6\u30B9\u30C8\uFF01",
+    "name": "【上級】火山まで届け！ロケットコンテスト！",
     "patterns": [],
     "priority": 132,
     "revival_start_at": null,
     "reward_end_at": null,
-    "sort_name": "\u3058\u3087\u3046\u304D\u3085\u3046\u304B\u3056\u3093\u307E\u3067\u3068\u3069\u3051\u308D\u3051\u3063\u3068\u3053\u3093\u3066\u3059\u3068",
+    "sort_name": "じょうきゅうかざんまでとどけろけっとこんてすと",
     "start_at": "2024-04-12T03:00:00.0000000Z"
   },
   {
@@ -770,12 +770,12 @@
     "id": 33,
     "is_remind": true,
     "logo_path_hash": 7586387701322205119,
-    "name": "\u3010\u8D85\u7D1A\u3011\u5B87\u5B99\u307E\u3067\u5C4A\u3051\uFF01\u30ED\u30B1\u30C3\u30C8\u30B3\u30F3\u30C6\u30B9\u30C8\uFF01",
+    "name": "【超級】宇宙まで届け！ロケットコンテスト！",
     "patterns": [],
     "priority": 136,
     "revival_start_at": null,
     "reward_end_at": null,
-    "sort_name": "\u3061\u3087\u3046\u304D\u3085\u3046\u3046\u3061\u3085\u3046\u307E\u3067\u3068\u3069\u3051\u308D\u3051\u3063\u3068\u3053\u3093\u3066\u3059\u3068",
+    "sort_name": "ちょうきゅううちゅうまでとどけろけっとこんてすと",
     "start_at": "2024-04-22T03:00:00.0000000Z"
   },
   {
@@ -789,7 +789,7 @@
     "id": 34,
     "is_remind": true,
     "logo_path_hash": 4657425638639599314,
-    "name": "\u30EC\u30B9\u30EC\u30EA\u5B66\u5712 \uFF5E\u6FC0\u95D8\u306E\u932C\u91D1\u796D\uFF01\uFF5E",
+    "name": "レスレリ学園 ～激闘の錬金祭！～",
     "patterns": [
       {
         "ids": [
@@ -807,7 +807,7 @@
     "priority": 138,
     "revival_start_at": null,
     "reward_end_at": "2024-05-01T03:00:00.0000000Z",
-    "sort_name": "\u308C\u3059\u308C\u308A\u304C\u304F\u3048\u3093\u3052\u304D\u3068\u3046\u306E\u308C\u3093\u304D\u3093\u3055\u3044",
+    "sort_name": "れすれりがくえんげきとうのれんきんさい",
     "start_at": "2024-04-12T03:00:00.0000000Z"
   },
   {
@@ -821,7 +821,7 @@
     "id": 35,
     "is_remind": true,
     "logo_path_hash": 6922796342041937304,
-    "name": "\u30EC\u30B9\u30EC\u30EA\u5B66\u5712 \uFF5E\u5F71\u3088\u308A\u898B\u5B88\u308A\u3057\u541B\u3078\uFF5E",
+    "name": "レスレリ学園 ～影より見守りし君へ～",
     "patterns": [
       {
         "ids": [
@@ -839,7 +839,7 @@
     "priority": 137,
     "revival_start_at": null,
     "reward_end_at": "2024-05-01T03:00:00.0000000Z",
-    "sort_name": "\u308C\u3059\u308C\u308A\u304C\u304F\u3048\u3093\u304B\u3052\u3088\u308A\u307F\u307E\u3082\u308A\u3057\u304D\u307F\u3078",
+    "sort_name": "れすれりがくえんかげよりみまもりしきみへ",
     "start_at": "2024-04-22T03:00:00.0000000Z"
   },
   {
@@ -853,7 +853,7 @@
     "id": 36,
     "is_remind": true,
     "logo_path_hash": 8475141269447199920,
-    "name": "\u6E29\u6CC9\u596A\u9084\u4F5C\u6226\uFF01 \uFF5E\u3068\u3068\u306E\u3044\u3068\u7652\u3057\u3092\u6C42\u3081\u3066\uFF5E",
+    "name": "温泉奪還作戦！ ～ととのいと癒しを求めて～",
     "patterns": [
       {
         "ids": [
@@ -865,7 +865,7 @@
     "priority": 116,
     "revival_start_at": "2024-12-18T03:00:00.0000000Z",
     "reward_end_at": "2024-05-14T03:00:00.0000000Z",
-    "sort_name": "\u304A\u3093\u305B\u3093\u3060\u3063\u304B\u3093\u3055\u304F\u305B\u3093\u3068\u3068\u306E\u3044\u3068\u3044\u3084\u3057\u3092\u3082\u3068\u3081\u3066",
+    "sort_name": "おんせんだっかんさくせんととのいといやしをもとめて",
     "start_at": "2024-04-30T03:00:00.0000000Z"
   },
   {
@@ -879,7 +879,7 @@
     "id": 37,
     "is_remind": true,
     "logo_path_hash": 6205424207015529941,
-    "name": "\u30E9\u30F3\u30BF\u30FC\u30CA\u5EFA\u56FD\u8A18\u5FF5\u676F",
+    "name": "ランターナ建国記念杯",
     "patterns": [
       {
         "ids": [
@@ -891,7 +891,7 @@
     "priority": 117,
     "revival_start_at": "2024-12-27T03:00:00.0000000Z",
     "reward_end_at": "2024-06-01T03:00:00.0000000Z",
-    "sort_name": "\u3089\u3093\u305F\u30FC\u306A\u3051\u3093\u3053\u304F\u304D\u306D\u3093\u306F\u3044",
+    "sort_name": "らんたーなけんこくきねんはい",
     "start_at": "2024-05-20T03:00:00.0000000Z"
   },
   {
@@ -905,7 +905,7 @@
     "id": 38,
     "is_remind": true,
     "logo_path_hash": 7227589311552063145,
-    "name": "\u300C\u30A2\u30C8\u30EA\u30A8\u300D\u30B7\u30EA\u30FC\u30BA27\u5468\u5E74\u8A18\u5FF5\uFF01\u30AF\u30C3\u30AD\u30FC\u30DF\u30C3\u30B7\u30E7\u30F3",
+    "name": "「アトリエ」シリーズ27周年記念！クッキーミッション",
     "patterns": [
       {
         "ids": [
@@ -917,7 +917,7 @@
     "priority": 143,
     "revival_start_at": null,
     "reward_end_at": null,
-    "sort_name": "\u3042\u3068\u308A\u3048\u3057\u308A\u30FC\u305A27\u3057\u3085\u3046\u306D\u3093\u304D\u306D\u3093\u304F\u3063\u304D\u30FC\u307F\u3063\u3057\u3087\u3093",
+    "sort_name": "あとりえしりーず27しゅうねんきねんくっきーみっしょん",
     "start_at": "2024-05-23T03:00:00.0000000Z"
   },
   {
@@ -931,7 +931,7 @@
     "id": 39,
     "is_remind": true,
     "logo_path_hash": 7200844849501524579,
-    "name": "\u7ADC\u306E\u6D99\u306F\u82B1\u3068\u6563\u308B",
+    "name": "竜の涙は花と散る",
     "patterns": [
       {
         "ids": [
@@ -943,7 +943,7 @@
     "priority": 145,
     "revival_start_at": "2025-02-07T03:00:00.0000000Z",
     "reward_end_at": "2024-06-22T03:00:00.0000000Z",
-    "sort_name": "\u308A\u3085\u3046\u306E\u306A\u307F\u3060\u306F\u306F\u306A\u3068\u3061\u308B",
+    "sort_name": "りゅうのなみだははなとちる",
     "start_at": "2024-06-10T03:00:00.0000000Z"
   },
   {
@@ -957,7 +957,7 @@
     "id": 40,
     "is_remind": true,
     "logo_path_hash": 7352257309217770656,
-    "name": "\u82B1\u5AC1\u4FEE\u884C\u30DF\u30C3\u30B7\u30E7\u30F3\uFF01",
+    "name": "花嫁修行ミッション！",
     "patterns": [
       {
         "ids": [
@@ -969,7 +969,7 @@
     "priority": 144,
     "revival_start_at": null,
     "reward_end_at": null,
-    "sort_name": "\u306F\u306A\u3088\u3081\u3057\u3085\u304E\u3087\u3046\u307F\u3063\u3057\u3087\u3093",
+    "sort_name": "はなよめしゅぎょうみっしょん",
     "start_at": "2024-06-10T03:00:00.0000000Z"
   },
   {
@@ -983,7 +983,7 @@
     "id": 41,
     "is_remind": true,
     "logo_path_hash": 1353921856086145088,
-    "name": "\u4E8B\u4EF6\u767A\u751F\uFF01\u3000\u98DB\u3073\u51FA\u305B\u30AA\u30D5\u30A3\u30B9\uFF01",
+    "name": "事件発生！\u3000飛び出せオフィス！",
     "patterns": [
       {
         "ids": [
@@ -1001,7 +1001,7 @@
     "priority": 146,
     "revival_start_at": null,
     "reward_end_at": "2024-07-02T03:00:00.0000000Z",
-    "sort_name": "\u3058\u3051\u3093\u306F\u3063\u305B\u3044\u3068\u3073\u3060\u305B\u304A\u3075\u3043\u3059",
+    "sort_name": "じけんはっせいとびだせおふぃす",
     "start_at": "2024-06-21T03:00:00.0000000Z"
   },
   {
@@ -1015,7 +1015,7 @@
     "id": 43,
     "is_remind": true,
     "logo_path_hash": 2976653031729919962,
-    "name": "\u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC2024 \u6C34\u7740DE\u30EA\u30BE\u30FC\u30C8\uFF01",
+    "name": "アトリエサマー2024 水着DEリゾート！",
     "patterns": [
       {
         "ids": [
@@ -1051,7 +1051,7 @@
     "priority": 148,
     "revival_start_at": null,
     "reward_end_at": "2024-08-22T03:00:00.0000000Z",
-    "sort_name": "\u3042\u3068\u308A\u3048\u3055\u307E\u30FC2024\u307F\u305A\u304Ede\u308A\u305E\u30FC\u3068",
+    "sort_name": "あとりえさまー2024みずぎdeりぞーと",
     "start_at": "2024-07-10T03:00:00.0000000Z"
   },
   {
@@ -1065,7 +1065,7 @@
     "id": 44,
     "is_remind": true,
     "logo_path_hash": 8875526335475588247,
-    "name": "\u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC2024 \u30DF\u30C3\u30B7\u30E7\u30F3",
+    "name": "アトリエサマー2024 ミッション",
     "patterns": [
       {
         "ids": [
@@ -1077,7 +1077,7 @@
     "priority": 147,
     "revival_start_at": null,
     "reward_end_at": null,
-    "sort_name": "\u3042\u3068\u308A\u3048\u3055\u307E\u30FC2024\u307F\u3063\u3057\u3087\u3093",
+    "sort_name": "あとりえさまー2024みっしょん",
     "start_at": "2024-07-10T03:00:00.0000000Z"
   },
   {
@@ -1091,12 +1091,12 @@
     "id": 45,
     "is_remind": true,
     "logo_path_hash": 4065692082531394725,
-    "name": "\u3010\u521D\u7D1A\u3011\u591C\u7A7A\u3092\u5F69\u308C\uFF01\u82B1\u706B\u5927\u4F1A\uFF01",
+    "name": "【初級】夜空を彩れ！花火大会！",
     "patterns": [],
     "priority": 146,
     "revival_start_at": null,
     "reward_end_at": null,
-    "sort_name": "\u3057\u3087\u304D\u3085\u3046\u3088\u305E\u3089\u3092\u3044\u308D\u3069\u308C\u306F\u306A\u3073\u305F\u3044\u304B\u3044",
+    "sort_name": "しょきゅうよぞらをいろどれはなびたいかい",
     "start_at": "2024-07-31T03:00:00.0000000Z"
   },
   {
@@ -1110,12 +1110,12 @@
     "id": 46,
     "is_remind": true,
     "logo_path_hash": 8479451284785351410,
-    "name": "\u3010\u4E2D\u7D1A\u3011\u591C\u7A7A\u3092\u98FE\u308C\uFF01\u82B1\u706B\u5927\u4F1A\uFF01",
+    "name": "【中級】夜空を飾れ！花火大会！",
     "patterns": [],
     "priority": 145,
     "revival_start_at": null,
     "reward_end_at": null,
-    "sort_name": "\u3061\u3085\u3046\u304D\u3085\u3046\u3088\u305E\u3089\u3092\u304B\u3056\u308C\u306F\u306A\u3073\u305F\u3044\u304B\u3044",
+    "sort_name": "ちゅうきゅうよぞらをかざれはなびたいかい",
     "start_at": "2024-07-31T03:00:00.0000000Z"
   },
   {
@@ -1129,12 +1129,12 @@
     "id": 47,
     "is_remind": true,
     "logo_path_hash": 7642392428822564842,
-    "name": "\u3010\u4E0A\u7D1A\u3011\u591C\u7A7A\u306B\u8F1D\u3051\uFF01\u82B1\u706B\u5927\u4F1A\uFF01",
+    "name": "【上級】夜空に輝け！花火大会！",
     "patterns": [],
     "priority": 144,
     "revival_start_at": null,
     "reward_end_at": null,
-    "sort_name": "\u3058\u3087\u3046\u304D\u3085\u3046\u3088\u305E\u3089\u306B\u304B\u304C\u3084\u3051\u306F\u306A\u3073\u305F\u3044\u304B\u3044",
+    "sort_name": "じょうきゅうよぞらにかがやけはなびたいかい",
     "start_at": "2024-07-31T03:00:00.0000000Z"
   },
   {
@@ -1148,12 +1148,12 @@
     "id": 48,
     "is_remind": true,
     "logo_path_hash": 6367154409774204052,
-    "name": "\u3010\u8D85\u7D1A\u3011\u591C\u7A7A\u306B\u54B2\u304D\u8A87\u308C\uFF01\u82B1\u706B\u5927\u4F1A\uFF01",
+    "name": "【超級】夜空に咲き誇れ！花火大会！",
     "patterns": [],
     "priority": 143,
     "revival_start_at": null,
     "reward_end_at": null,
-    "sort_name": "\u3061\u3087\u3046\u304D\u3085\u3046\u3088\u305E\u3089\u306B\u3055\u304D\u307B\u3053\u308C\u306F\u306A\u3073\u305F\u3044\u304B\u3044",
+    "sort_name": "ちょうきゅうよぞらにさきほこれはなびたいかい",
     "start_at": "2024-07-31T03:00:00.0000000Z"
   },
   {
@@ -1167,7 +1167,7 @@
     "id": 49,
     "is_remind": true,
     "logo_path_hash": 2910443691510635196,
-    "name": "\u30C1\u30E3\u30EC\u30F3\u30B8\u30D0\u30C8\u30EB \u30E8\u30CF\u30CA",
+    "name": "チャレンジバトル ヨハナ",
     "patterns": [
       {
         "ids": [
@@ -1179,7 +1179,7 @@
     "priority": 149,
     "revival_start_at": null,
     "reward_end_at": "2024-08-31T03:00:00.0000000Z",
-    "sort_name": "\u3061\u3083\u308C\u3093\u3058\u3070\u3068\u308B\u3088\u306F\u306A",
+    "sort_name": "ちゃれんじばとるよはな",
     "start_at": "2024-08-13T03:00:00.0000000Z"
   },
   {
@@ -1193,7 +1193,7 @@
     "id": 50,
     "is_remind": true,
     "logo_path_hash": 4519145405344460951,
-    "name": "\u30A2\u30C8\u30EA\u30A8\u30B5\u30DE\u30FC2024 \u30B6\u30AF\u30B6\u30AF\uFF01\u3000\u30D3\u30FC\u30C1\u3067\u5B9D\u63A2\u3057\uFF01",
+    "name": "アトリエサマー2024 ザクザク！\u3000ビーチで宝探し！",
     "patterns": [
       {
         "ids": [
@@ -1211,7 +1211,7 @@
     "priority": 150,
     "revival_start_at": null,
     "reward_end_at": "2024-08-22T03:00:00.0000000Z",
-    "sort_name": "\u3042\u3068\u308A\u3048\u3055\u307E\u30FC2024\u3056\u304F\u3056\u304F\u3073\u30FC\u3061\u3067\u305F\u304B\u3089\u3055\u304C\u3057",
+    "sort_name": "あとりえさまー2024ざくざくびーちでたからさがし",
     "start_at": "2024-08-09T03:00:00.0000000Z"
   },
   {
@@ -1225,7 +1225,7 @@
     "id": 51,
     "is_remind": true,
     "logo_path_hash": 467821405614971525,
-    "name": "\uFF11\u5468\u5E74\u524D\u591C\u796D\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8",
+    "name": "１周年前夜祭ボスチャレンジ",
     "patterns": [
       {
         "ids": [
@@ -1243,7 +1243,7 @@
     "priority": 151,
     "revival_start_at": null,
     "reward_end_at": "2024-08-31T03:00:00.0000000Z",
-    "sort_name": "1\u3057\u3085\u3046\u306D\u3093\u305C\u3093\u3084\u3055\u3044\u307C\u3059\u3061\u3083\u308C\u3093\u3058",
+    "sort_name": "1しゅうねんぜんやさいぼすちゃれんじ",
     "start_at": "2024-08-21T03:00:00.0000000Z"
   },
   {
@@ -1257,7 +1257,7 @@
     "id": 52,
     "is_remind": true,
     "logo_path_hash": 7178354319168609132,
-    "name": "\u30C1\u30E3\u30EC\u30F3\u30B8\u30D0\u30C8\u30EB \u30E9\u30E9",
+    "name": "チャレンジバトル ララ",
     "patterns": [
       {
         "ids": [
@@ -1269,7 +1269,7 @@
     "priority": 152,
     "revival_start_at": null,
     "reward_end_at": "2024-10-01T03:00:00.0000000Z",
-    "sort_name": "\u3061\u3083\u308C\u3093\u3058\u3070\u3068\u308B\u3089\u3089",
+    "sort_name": "ちゃれんじばとるらら",
     "start_at": "2024-08-30T03:00:00.0000000Z"
   },
   {
@@ -1283,7 +1283,7 @@
     "id": 53,
     "is_remind": true,
     "logo_path_hash": 6350623355739003235,
-    "name": "\u30C1\u30E3\u30EC\u30F3\u30B8\u30D0\u30C8\u30EB \u30A2\u30F3\u30C1\u30E5\uFF06\u30EF\u30EB\u30BF\u30FC",
+    "name": "チャレンジバトル アンチュ＆ワルター",
     "patterns": [
       {
         "ids": [
@@ -1295,7 +1295,7 @@
     "priority": 153,
     "revival_start_at": null,
     "reward_end_at": "2024-10-01T03:00:00.0000000Z",
-    "sort_name": "\u3061\u3083\u308C\u3093\u3058\u3070\u3068\u308B\u3042\u3093\u3061\u3085\u3042\u3093\u3069\u308F\u308B\u305F\u30FC",
+    "sort_name": "ちゃれんじばとるあんちゅあんどわるたー",
     "start_at": "2024-09-05T03:00:00.0000000Z"
   },
   {
@@ -1309,12 +1309,12 @@
     "id": 54,
     "is_remind": true,
     "logo_path_hash": 5681621676813639248,
-    "name": "\u5320\u306E\u9038\u54C1\uFF01\u3000\u30E9\u30E9\u306E\u54C1\u8A55\u4F1A\uFF01",
+    "name": "匠の逸品！\u3000ララの品評会！",
     "patterns": [],
     "priority": 155,
     "revival_start_at": null,
     "reward_end_at": null,
-    "sort_name": "\u305F\u304F\u307F\u306E\u3044\u3063\u3074\u3093\u3089\u3089\u306E\u3072\u3093\u3074\u3087\u3046\u304B\u3044",
+    "sort_name": "たくみのいっぴんららのひんぴょうかい",
     "start_at": "2024-08-30T03:00:00.0000000Z"
   },
   {
@@ -1328,12 +1328,12 @@
     "id": 55,
     "is_remind": true,
     "logo_path_hash": 5871295026992257868,
-    "name": "\u81F3\u9AD8\u306E\u9038\u54C1\uFF01\u3000\u30E9\u30E9\u306E\u54C1\u8A55\u4F1A\uFF01",
+    "name": "至高の逸品！\u3000ララの品評会！",
     "patterns": [],
     "priority": 154,
     "revival_start_at": null,
     "reward_end_at": null,
-    "sort_name": "\u3057\u3053\u3046\u306E\u3044\u3063\u3074\u3093\u3089\u3089\u306E\u3072\u3093\u3074\u3087\u3046\u304B\u3044",
+    "sort_name": "しこうのいっぴんららのひんぴょうかい",
     "start_at": "2024-09-05T03:00:00.0000000Z"
   },
   {
@@ -1347,7 +1347,7 @@
     "id": 56,
     "is_remind": true,
     "logo_path_hash": 2070014069722494237,
-    "name": "1\u5468\u5E74\u8A18\u5FF5\u30D7\u30EC\u30BC\u30F3\u30C8\u30D0\u30C8\u30EB \u7B2C1\u5F3E",
+    "name": "1周年記念プレゼントバトル 第1弾",
     "patterns": [
       {
         "ids": [
@@ -1359,7 +1359,7 @@
     "priority": 155,
     "revival_start_at": null,
     "reward_end_at": "2024-09-12T03:00:00.0000000Z",
-    "sort_name": "\u3044\u3063\u3057\u3085\u3046\u306D\u3093\u304D\u306D\u3093\u3077\u308C\u305C\u3093\u3068\u3070\u3068\u308B\u3060\u3044\u3044\u3061\u3060\u3093",
+    "sort_name": "いっしゅうねんきねんぷれぜんとばとるだいいちだん",
     "start_at": "2024-08-30T03:00:00.0000000Z"
   },
   {
@@ -1373,7 +1373,7 @@
     "id": 57,
     "is_remind": true,
     "logo_path_hash": 222930088723247111,
-    "name": "1\u5468\u5E74\u8A18\u5FF5 \u30DF\u30C3\u30B7\u30E7\u30F3",
+    "name": "1周年記念 ミッション",
     "patterns": [
       {
         "ids": [
@@ -1385,7 +1385,7 @@
     "priority": 156,
     "revival_start_at": null,
     "reward_end_at": null,
-    "sort_name": "\u3044\u3063\u3057\u3085\u3046\u306D\u3093\u304D\u306D\u3093\u307F\u3063\u3057\u3087\u3093",
+    "sort_name": "いっしゅうねんきねんみっしょん",
     "start_at": "2024-08-30T03:00:00.0000000Z"
   },
   {
@@ -1399,7 +1399,7 @@
     "id": 58,
     "is_remind": true,
     "logo_path_hash": 7469155735048513628,
-    "name": "\u30C1\u30E3\u30EC\u30F3\u30B8\u30D0\u30C8\u30EB \u30B8\u30A7\u30ED\u30F3",
+    "name": "チャレンジバトル ジェロン",
     "patterns": [
       {
         "ids": [
@@ -1411,7 +1411,7 @@
     "priority": 157,
     "revival_start_at": null,
     "reward_end_at": "2024-10-01T03:00:00.0000000Z",
-    "sort_name": "\u3061\u3083\u308C\u3093\u3058\u3070\u3068\u308B\u3058\u3047\u308D\u3093",
+    "sort_name": "ちゃれんじばとるじぇろん",
     "start_at": "2024-09-11T03:00:00.0000000Z"
   },
   {
@@ -1425,7 +1425,7 @@
     "id": 59,
     "is_remind": true,
     "logo_path_hash": 5418794889712382563,
-    "name": "\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8 \u30A6\u30A7\u30EB\u30C6\u30C3\u30AF\u30B9",
+    "name": "ボスチャレンジ ウェルテックス",
     "patterns": [
       {
         "ids": [
@@ -1437,7 +1437,7 @@
     "priority": 158,
     "revival_start_at": null,
     "reward_end_at": "2024-09-20T03:00:00.0000000Z",
-    "sort_name": "\u307C\u3059\u3061\u3083\u308C\u3093\u3058\u3046\u3047\u308B\u3066\u3063\u304F\u3059",
+    "sort_name": "ぼすちゃれんじうぇるてっくす",
     "start_at": "2024-09-11T03:00:00.0000000Z"
   },
   {
@@ -1451,7 +1451,7 @@
     "id": 60,
     "is_remind": true,
     "logo_path_hash": 458503025618443966,
-    "name": "1\u5468\u5E74\u8A18\u5FF5\u30D7\u30EC\u30BC\u30F3\u30C8\u30D0\u30C8\u30EB \u7B2C2\u5F3E",
+    "name": "1周年記念プレゼントバトル 第2弾",
     "patterns": [
       {
         "ids": [
@@ -1463,7 +1463,7 @@
     "priority": 159,
     "revival_start_at": null,
     "reward_end_at": "2024-09-20T03:00:00.0000000Z",
-    "sort_name": "\u3044\u3063\u3057\u3085\u3046\u306D\u3093\u304D\u306D\u3093\u3077\u308C\u305C\u3093\u3068\u3070\u3068\u308B\u3060\u3044\u306B\u3060\u3093",
+    "sort_name": "いっしゅうねんきねんぷれぜんとばとるだいにだん",
     "start_at": "2024-09-11T03:00:00.0000000Z"
   },
   {
@@ -1477,7 +1477,7 @@
     "id": 61,
     "is_remind": true,
     "logo_path_hash": 8299000084891829548,
-    "name": "\u7206\u88C2\uFF01\uFF01 \u30DE\u30EA\u30FC\u304B\u3089\u306E\u8A66\u7DF4",
+    "name": "爆裂！！ マリーからの試練",
     "patterns": [
       {
         "ids": [
@@ -1495,7 +1495,7 @@
     "priority": 160,
     "revival_start_at": null,
     "reward_end_at": "2024-10-01T03:00:00.0000000Z",
-    "sort_name": "\u3070\u304F\u308C\u3064\u307E\u308A\u30FC\u304B\u3089\u306E\u3057\u308C\u3093",
+    "sort_name": "ばくれつまりーからのしれん",
     "start_at": "2024-09-19T03:00:00.0000000Z"
   },
   {
@@ -1509,7 +1509,7 @@
     "id": 62,
     "is_remind": true,
     "logo_path_hash": 4533671233821125499,
-    "name": "1\u5468\u5E74\u8A18\u5FF5\u30D7\u30EC\u30BC\u30F3\u30C8\u30D0\u30C8\u30EB \u7B2C3\u5F3E",
+    "name": "1周年記念プレゼントバトル 第3弾",
     "patterns": [
       {
         "ids": [
@@ -1521,7 +1521,7 @@
     "priority": 161,
     "revival_start_at": null,
     "reward_end_at": "2024-10-01T03:00:00.0000000Z",
-    "sort_name": "\u3044\u3063\u3057\u3085\u3046\u306D\u3093\u304D\u306D\u3093\u3077\u308C\u305C\u3093\u3068\u3070\u3068\u308B\u3060\u3044\u3055\u3093\u3060\u3093",
+    "sort_name": "いっしゅうねんきねんぷれぜんとばとるだいさんだん",
     "start_at": "2024-09-19T03:00:00.0000000Z"
   },
   {
@@ -1535,7 +1535,7 @@
     "id": 63,
     "is_remind": true,
     "logo_path_hash": 2398446761662639713,
-    "name": "\u30C1\u30E3\u30EC\u30F3\u30B8\u30D0\u30C8\u30EB \u932C\u91D1\u515A",
+    "name": "チャレンジバトル 錬金党",
     "patterns": [
       {
         "ids": [
@@ -1547,7 +1547,7 @@
     "priority": 162,
     "revival_start_at": null,
     "reward_end_at": "2024-10-01T03:00:00.0000000Z",
-    "sort_name": "\u3061\u3083\u308C\u3093\u3058\u3070\u3068\u308B\u308C\u3093\u304D\u3093\u3068\u3046",
+    "sort_name": "ちゃれんじばとるれんきんとう",
     "start_at": "2024-09-23T03:00:00.0000000Z"
   },
   {
@@ -1561,7 +1561,7 @@
     "id": 64,
     "is_remind": true,
     "logo_path_hash": 4195564868253331189,
-    "name": "\u56DB\u5143\u306E\u5854\u30AF\u30EA\u30A2\u5FDC\u63F4\u30DF\u30C3\u30B7\u30E7\u30F3",
+    "name": "四元の塔クリア応援ミッション",
     "patterns": [
       {
         "ids": [
@@ -1573,7 +1573,7 @@
     "priority": 163,
     "revival_start_at": null,
     "reward_end_at": null,
-    "sort_name": "\u3057\u3052\u3093\u306E\u3068\u3046\u304F\u308A\u3042\u304A\u3046\u3048\u3093\u307F\u3063\u3057\u3087\u3093",
+    "sort_name": "しげんのとうくりあおうえんみっしょん",
     "start_at": "2024-09-30T03:00:00.0000000Z"
   },
   {
@@ -1587,7 +1587,7 @@
     "id": 65,
     "is_remind": true,
     "logo_path_hash": 2272892892060850606,
-    "name": "\u65CB\u98A8\uFF01\uFF01\u30E6\u30FC\u30C7\u30A3\u30FC\u304B\u3089\u306E\u8A66\u7DF4",
+    "name": "旋風！！ユーディーからの試練",
     "patterns": [
       {
         "ids": [
@@ -1605,7 +1605,7 @@
     "priority": 164,
     "revival_start_at": null,
     "reward_end_at": "2024-11-01T03:00:00.0000000Z",
-    "sort_name": "\u305B\u3093\u3077\u3046\u3086\u30FC\u3067\u3043\u30FC\u304B\u3089\u306E\u3057\u308C\u3093",
+    "sort_name": "せんぷうゆーでぃーからのしれん",
     "start_at": "2024-10-11T03:00:00.0000000Z"
   },
   {
@@ -1619,7 +1619,7 @@
     "id": 66,
     "is_remind": true,
     "logo_path_hash": 6451313610418524459,
-    "name": "HALLOWEEN2024\u30DF\u30C3\u30B7\u30E7\u30F3",
+    "name": "HALLOWEEN2024ミッション",
     "patterns": [
       {
         "ids": [
@@ -1631,7 +1631,7 @@
     "priority": 165,
     "revival_start_at": null,
     "reward_end_at": null,
-    "sort_name": "\u306F\u308D\u3046\u3043\u30932024\u307F\u3063\u3057\u3087\u3093",
+    "sort_name": "はろうぃん2024みっしょん",
     "start_at": "2024-10-25T03:00:00.0000000Z"
   },
   {
@@ -1645,7 +1645,7 @@
     "id": 67,
     "is_remind": true,
     "logo_path_hash": 5346379505733920431,
-    "name": "\u30DC\u30B9\u30C1\u30E3\u30EC\u30F3\u30B8 \u30B3\u30BA\u30DF\u30C3\u30AF\u30B7\u30A7\u30EB",
+    "name": "ボスチャレンジ コズミックシェル",
     "patterns": [
       {
         "ids": [
@@ -1663,7 +1663,7 @@
     "priority": 166,
     "revival_start_at": null,
     "reward_end_at": "2024-11-09T03:00:00.0000000Z",
-    "sort_name": "\u307C\u3059\u3061\u3083\u308C\u3093\u3058\u3053\u305A\u307F\u3063\u304F\u3057\u3047\u308B",
+    "sort_name": "ぼすちゃれんじこずみっくしぇる",
     "start_at": "2024-10-31T03:00:00.0000000Z"
   },
   {
@@ -1677,7 +1677,7 @@
     "id": 68,
     "is_remind": true,
     "logo_path_hash": 3546395659125666366,
-    "name": "\u6E07\u304D\u306E\u4E2D\u3067\u54B2\u304F\u82B1\u305F\u3061",
+    "name": "渇きの中で咲く花たち",
     "patterns": [
       {
         "ids": [
@@ -1701,7 +1701,7 @@
     "priority": 167,
     "revival_start_at": null,
     "reward_end_at": "2024-11-30T03:00:00.0000000Z",
-    "sort_name": "\u304B\u308F\u304D\u306E\u306A\u304B\u3067\u3055\u304F\u306F\u306A\u305F\u3061",
+    "sort_name": "かわきのなかでさくはなたち",
     "start_at": "2024-11-08T03:00:00.0000000Z"
   },
   {
@@ -1715,7 +1715,7 @@
     "id": 69,
     "is_remind": true,
     "logo_path_hash": 158207899865005824,
-    "name": "\u6DF7\u6C8C\u3068\u898F\u5F8B\u306E\u9082\u9005",
+    "name": "混沌と規律の邂逅",
     "patterns": [
       {
         "ids": [
@@ -1739,7 +1739,7 @@
     "priority": 168,
     "revival_start_at": null,
     "reward_end_at": "2024-11-30T03:00:00.0000000Z",
-    "sort_name": "\u3053\u3093\u3068\u3093\u3068\u304D\u308A\u3064\u306E\u304B\u3044\u3053\u3046",
+    "sort_name": "こんとんときりつのかいこう",
     "start_at": "2024-11-15T03:00:00.0000000Z"
   },
   {
@@ -1753,7 +1753,7 @@
     "id": 70,
     "is_remind": true,
     "logo_path_hash": 5399107764344459991,
-    "name": "\u30D6\u30E9\u30C3\u30C9\u306E\u5B9F\u5730\u8ABF\u67FB",
+    "name": "ブラッドの実地調査",
     "patterns": [
       {
         "ids": [
@@ -1777,7 +1777,7 @@
     "priority": 169,
     "revival_start_at": null,
     "reward_end_at": "2024-11-30T03:00:00.0000000Z",
-    "sort_name": "\u3076\u3089\u3063\u3069\u306E\u3058\u3063\u3061\u3061\u3087\u3046\u3055",
+    "sort_name": "ぶらっどのじっちちょうさ",
     "start_at": "2024-11-22T03:00:00.0000000Z"
   },
   {
@@ -1791,7 +1791,7 @@
     "id": 71,
     "is_remind": true,
     "logo_path_hash": 4583095890239670597,
-    "name": "\u76EE\u6307\u305B\u30CF\u30A4\u30B9\u30B3\u30A2\uFF01\u30E9\u30E0\u30ED\u30FC\u30B9\u30C8\u304F\u3093\u30D0\u30C8\u30EB",
+    "name": "目指せハイスコア！ラムローストくんバトル",
     "patterns": [
       {
         "ids": [
@@ -1803,7 +1803,7 @@
     "priority": 170,
     "revival_start_at": null,
     "reward_end_at": "2024-12-14T03:00:00.0000000Z",
-    "sort_name": "\u3081\u3056\u305B\u306F\u3044\u3059\u3053\u3042\u3089\u3080\u308D\u30FC\u3059\u3068\u304F\u3093\u3070\u3068\u308B",
+    "sort_name": "めざせはいすこあらむろーすとくんばとる",
     "start_at": "2024-11-29T03:00:00.0000000Z"
   },
   {
@@ -1817,7 +1817,7 @@
     "id": 72,
     "is_remind": true,
     "logo_path_hash": 7809406325683570784,
-    "name": "\u30AD\u30E9\u30AD\u30E9\u30BB\u30AD\u30E9\u30E9\u661F\u8A95\u796D\uFF01",
+    "name": "キラキラセキララ星誕祭！",
     "patterns": [
       {
         "ids": [
@@ -1841,7 +1841,7 @@
     "priority": 171,
     "revival_start_at": null,
     "reward_end_at": "2024-12-28T03:00:00.0000000Z",
-    "sort_name": "\u304D\u3089\u304D\u3089\u305B\u304D\u3089\u3089\u305B\u3044\u305F\u3093\u3055\u3044",
+    "sort_name": "きらきらせきららせいたんさい",
     "start_at": "2024-12-13T03:00:00.0000000Z"
   },
   {
@@ -1855,12 +1855,12 @@
     "id": 73,
     "is_remind": true,
     "logo_path_hash": 4055035451442283098,
-    "name": "\u30D7\u30EC\u30BC\u30F3\u30C8\u596A\u9084\uFF01\u3000\u661F\u8A95\u796D\u30D0\u30C8\u30EB\uFF01",
+    "name": "プレゼント奪還！\u3000星誕祭バトル！",
     "patterns": [],
     "priority": 172,
     "revival_start_at": null,
     "reward_end_at": null,
-    "sort_name": "\u3077\u308C\u305C\u3093\u3068\u3060\u3063\u304B\u3093\u305B\u3044\u305F\u3093\u3055\u3044\u3070\u3068\u308B",
+    "sort_name": "ぷれぜんとだっかんせいたんさいばとる",
     "start_at": "2024-12-25T03:00:00.0000000Z"
   },
   {
@@ -1874,7 +1874,7 @@
     "id": 74,
     "is_remind": true,
     "logo_path_hash": 8570601025872699932,
-    "name": "\u7E01\u7D50\u3076\u8005\u3000\u661F\u7167\u3089\u3059\u9053",
+    "name": "縁結ぶ者\u3000星照らす道",
     "patterns": [
       {
         "ids": [
@@ -1898,7 +1898,7 @@
     "priority": 173,
     "revival_start_at": null,
     "reward_end_at": "2025-01-18T03:00:00.0000000Z",
-    "sort_name": "\u3048\u3093\u3080\u3059\u3076\u3082\u306E\u307B\u3057\u3066\u3089\u3059\u307F\u3061",
+    "sort_name": "えんむすぶものほしてらすみち",
     "start_at": "2024-12-31T15:00:00.0000000Z"
   },
   {
@@ -1912,7 +1912,7 @@
     "id": 75,
     "is_remind": true,
     "logo_path_hash": 6919845298621654313,
-    "name": "\u8B39\u8CC0\u65B0\u5E74\uFF01\u3000\u304A\u5B9D\u30C0\u30F3\u30B8\u30E7\u30F3\uFF01",
+    "name": "謹賀新年！\u3000お宝ダンジョン！",
     "patterns": [
       {
         "ids": [
@@ -1924,7 +1924,7 @@
     "priority": 174,
     "revival_start_at": null,
     "reward_end_at": "2025-01-25T03:00:00.0000000Z",
-    "sort_name": "\u304D\u3093\u304C\u3057\u3093\u306D\u3093\u304A\u305F\u304B\u3089\u3060\u3093\u3058\u3087\u3093",
+    "sort_name": "きんがしんねんおたからだんじょん",
     "start_at": "2025-01-10T03:00:00.0000000Z"
   },
   {
@@ -1938,12 +1938,12 @@
     "id": 76,
     "is_remind": true,
     "logo_path_hash": 2635698960202844503,
-    "name": "\u5E74\u8D8A\u3057\uFF01\u7169\u60A9\u6483\u9000\u30D0\u30C8\u30EB\uFF01",
+    "name": "年越し！煩悩撃退バトル！",
     "patterns": [],
     "priority": 175,
     "revival_start_at": null,
     "reward_end_at": null,
-    "sort_name": "\u3068\u3057\u3053\u3057\u307C\u3093\u306E\u3046\u3052\u304D\u305F\u3044\u3070\u3068\u308B",
+    "sort_name": "としこしぼんのうげきたいばとる",
     "start_at": "2024-12-27T03:00:00.0000000Z"
   },
   {
@@ -1957,7 +1957,7 @@
     "id": 77,
     "is_remind": true,
     "logo_path_hash": 6965785059406539482,
-    "name": "\u89AA\u53CB\u3068\u6B69\u3080\u672A\u6765",
+    "name": "親友と歩む未来",
     "patterns": [
       {
         "ids": [
@@ -1981,7 +1981,7 @@
     "priority": 176,
     "revival_start_at": null,
     "reward_end_at": "2025-02-15T03:00:00.0000000Z",
-    "sort_name": "\u3068\u3082\u3068\u3042\u3086\u3080\u307F\u3089\u3044",
+    "sort_name": "ともとあゆむみらい",
     "start_at": "2025-01-24T03:00:00.0000000Z"
   },
   {
@@ -1995,7 +1995,7 @@
     "id": 78,
     "is_remind": true,
     "logo_path_hash": 3626757341029824242,
-    "name": "\u30E9\u30A4\u30D0\u30EB\u3068\u7AF6\u3046\u672A\u6765",
+    "name": "ライバルと競う未来",
     "patterns": [
       {
         "ids": [
@@ -2019,7 +2019,7 @@
     "priority": 177,
     "revival_start_at": null,
     "reward_end_at": "2025-02-15T03:00:00.0000000Z",
-    "sort_name": "\u3089\u3044\u3070\u308B\u3068\u304D\u305D\u3046\u307F\u3089\u3044",
+    "sort_name": "らいばるときそうみらい",
     "start_at": "2025-01-31T03:00:00.0000000Z"
   },
   {
@@ -2033,7 +2033,7 @@
     "id": 79,
     "is_remind": true,
     "logo_path_hash": 4484360850052711656,
-    "name": "\u3042\u306A\u305F\u3068\u5922\u898B\u308B\u30C8\u30AF\u30D9\u30C4",
+    "name": "あなたと夢見るトクベツ",
     "patterns": [
       {
         "ids": [
@@ -2057,7 +2057,7 @@
     "priority": 180,
     "revival_start_at": null,
     "reward_end_at": "2025-03-01T03:00:00.0000000Z",
-    "sort_name": "\u3042\u306A\u305F\u3068\u3086\u3081\u307F\u308B\u3068\u304F\u3079\u3064",
+    "sort_name": "あなたとゆめみるとくべつ",
     "start_at": "2025-02-14T03:00:00.0000000Z"
   },
   {
@@ -2071,12 +2071,12 @@
     "id": 80,
     "is_remind": true,
     "logo_path_hash": 971904350142633746,
-    "name": "\u30D5\u30CA\u3092\u91E3\u308A\u4E0A\u3052\u308D\uFF01\u30A2\u30C8\u30EA\u30A8\u91E3\u308A\u5927\u4F1A\uFF01",
+    "name": "フナを釣り上げろ！アトリエ釣り大会！",
     "patterns": [],
     "priority": 179,
     "revival_start_at": null,
     "reward_end_at": null,
-    "sort_name": "\u3075\u306A\u3092\u3064\u308A\u3042\u3052\u308D\u3042\u3068\u308A\u3048\u3064\u308A\u305F\u3044\u304B\u3044",
+    "sort_name": "ふなをつりあげろあとりえつりたいかい",
     "start_at": "2025-02-07T03:00:00.0000000Z"
   },
   {
@@ -2090,12 +2090,12 @@
     "id": 81,
     "is_remind": true,
     "logo_path_hash": 1359751407253475850,
-    "name": "\u30C4\u30CA\u3092\u91E3\u308A\u4E0A\u3052\u308D\uFF01\u30A2\u30C8\u30EA\u30A8\u91E3\u308A\u5927\u4F1A\uFF01",
+    "name": "ツナを釣り上げろ！アトリエ釣り大会！",
     "patterns": [],
     "priority": 178,
     "revival_start_at": null,
     "reward_end_at": null,
-    "sort_name": "\u3064\u306A\u3092\u3064\u308A\u3042\u3052\u308D\u3042\u3068\u308A\u3048\u3064\u308A\u305F\u3044\u304B\u3044",
+    "sort_name": "つなをつりあげろあとりえつりたいかい",
     "start_at": "2025-02-07T03:00:00.0000000Z"
   },
   {
@@ -2109,7 +2109,7 @@
     "id": 82,
     "is_remind": true,
     "logo_path_hash": 7041510539320798479,
-    "name": "\u3042\u306A\u305F\u3068\u5192\u967A\u3059\u308B\u30C8\u30AF\u30D9\u30C4",
+    "name": "あなたと冒険するトクベツ",
     "patterns": [
       {
         "ids": [
@@ -2133,7 +2133,7 @@
     "priority": 181,
     "revival_start_at": null,
     "reward_end_at": "2025-03-08T03:00:00.0000000Z",
-    "sort_name": "\u3042\u306A\u305F\u3068\u307C\u3046\u3051\u3093\u3059\u308B\u3068\u304F\u3079\u3064",
+    "sort_name": "あなたとぼうけんするとくべつ",
     "start_at": "2025-02-21T03:00:00.0000000Z"
   },
   {
@@ -2147,7 +2147,7 @@
     "id": 83,
     "is_remind": true,
     "logo_path_hash": 937854715330414791,
-    "name": "\u30C1\u30E3\u30EC\u30F3\u30B8\u30D0\u30C8\u30EB\u30AF\u30F4\u30A1\u30EC\u30EB\u30AC",
+    "name": "チャレンジバトルクヴァレルガ",
     "patterns": [
       {
         "ids": [
@@ -2165,7 +2165,7 @@
     "priority": 182,
     "revival_start_at": null,
     "reward_end_at": "2025-03-15T03:00:00.0000000Z",
-    "sort_name": "\u3061\u3083\u308C\u3093\u3058\u3070\u3068\u308B\u304F\u3070\u308C\u308B\u304C",
+    "sort_name": "ちゃれんじばとるくばれるが",
     "start_at": "2025-02-28T03:00:00.0000000Z"
   },
   {
@@ -2179,7 +2179,7 @@
     "id": 84,
     "is_remind": true,
     "logo_path_hash": 3163283044900184866,
-    "name": "\u30A2\u30A4\u30C6\u30E0\u5927\u6226 \u306A\u3093\u3067\u3082\u5C4B\u30B7\u30C8\u30EA\u30F3\u306E\u6311\u6226\u72B6",
+    "name": "アイテム大戦 なんでも屋シトリンの挑戦状",
     "patterns": [
       {
         "ids": [
@@ -2197,7 +2197,7 @@
     "priority": 183,
     "revival_start_at": null,
     "reward_end_at": "2025-04-01T03:00:00.0000000Z",
-    "sort_name": "\u3042\u3044\u3066\u3080\u305F\u3044\u305B\u3093\u306A\u3093\u3067\u3082\u3084\u3057\u3068\u308A\u3093\u306E\u3061\u3087\u3046\u305B\u3093\u3058\u3087\u3046",
+    "sort_name": "あいてむたいせんなんでもやしとりんのちょうせんじょう",
     "start_at": "2025-03-12T03:00:00.0000000Z"
   },
   {
@@ -2211,7 +2211,7 @@
     "id": 85,
     "is_remind": true,
     "logo_path_hash": 3766159666792130106,
-    "name": "\u8E0F\u7834\u305B\u3088\uFF01\u9023\u7D9A\u30D0\u30C8\u30EB \u03B2\u3070\uFF5E\u3058\u3087\u3093",
+    "name": "踏破せよ！連続バトル βば～じょん",
     "patterns": [
       {
         "ids": [
@@ -2223,7 +2223,7 @@
     "priority": 184,
     "revival_start_at": null,
     "reward_end_at": null,
-    "sort_name": "\u3068\u3046\u306F\u305B\u3088\u308C\u3093\u305E\u304F\u3070\u3068\u308B\u3079\u30FC\u305F\u3070\u30FC\u3058\u3087\u3093",
+    "sort_name": "とうはせよれんぞくばとるべーたばーじょん",
     "start_at": "2025-03-06T03:00:00.0000000Z"
   },
   {
@@ -2237,7 +2237,7 @@
     "id": 86,
     "is_remind": true,
     "logo_path_hash": 8756470125088393325,
-    "name": "1.5\u5468\u5E74\u8A18\u5FF5\u30D7\u30EC\u30BC\u30F3\u30C8\u30D0\u30C8\u30EB",
+    "name": "1.5周年記念プレゼントバトル",
     "patterns": [
       {
         "ids": [
@@ -2249,45 +2249,7 @@
     "priority": 185,
     "revival_start_at": null,
     "reward_end_at": "2025-04-01T03:00:00.0000000Z",
-    "sort_name": "\u3044\u3063\u3066\u3093\u3054\u3057\u3085\u3046\u306D\u3093\u304D\u306D\u3093\u3077\u308C\u305C\u3093\u3068\u3070\u3068\u308B",
+    "sort_name": "いってんごしゅうねんきねんぷれぜんとばとる",
     "start_at": "2025-03-06T03:00:00.0000000Z"
-  },
-  {
-    "album_background_image_path_hash": 0,
-    "background_image_path_hash": 4255601253962153336,
-    "banner_path_hash": 119314064334366707,
-    "bgm_path_hash": 5971992358011089693,
-    "end_at": "2025-03-31T03:00:00.0000000Z",
-    "event_type": 1,
-    "home_logo_path_hash": 0,
-    "id": 87,
-    "is_remind": true,
-    "logo_path_hash": 6002451629131135735,
-    "name": "\u30E4\u30F3\u30CD\u30FB\u30EA\u30F3\u30C7\u30DE\u30F3\u306E\u611B\u3068\u904E\u53BB",
-    "patterns": [
-      {
-        "ids": [
-          100072
-        ],
-        "type": 1
-      },
-      {
-        "ids": [
-          78
-        ],
-        "type": 4
-      },
-      {
-        "ids": [
-          112
-        ],
-        "type": 2
-      }
-    ],
-    "priority": 186,
-    "revival_start_at": null,
-    "reward_end_at": "2025-04-01T03:00:00.0000000Z",
-    "sort_name": "\u3084\u3093\u306D\u3059\u3068\u30FC\u308A\u30FC\u3044\u3079\u3093\u3068",
-    "start_at": "2025-03-17T03:00:00.0000000Z"
   }
 ]

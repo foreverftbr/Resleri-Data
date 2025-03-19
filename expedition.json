@@ -71,7 +71,7 @@
       }
     ],
     "key_quest_id": 101002023,
-    "name": "\u98A8\u85AB\u308B\u6C34\u8FBA",
+    "name": "風薫る水辺",
     "score_battle_quest_ids": [
       204101001,
       204101002,
@@ -156,7 +156,7 @@
       }
     ],
     "key_quest_id": 101002053,
-    "name": "\u6D6E\u82B1\u306E\u5712",
+    "name": "浮花の園",
     "score_battle_quest_ids": [
       204101005,
       204101006,
@@ -238,7 +238,7 @@
       }
     ],
     "key_quest_id": 101003016,
-    "name": "\u304D\u3089\u3081\u304F\u88C2\u3051\u76EE",
+    "name": "きらめく裂け目",
     "score_battle_quest_ids": [
       204102001,
       204102002,
@@ -323,7 +323,7 @@
       }
     ],
     "key_quest_id": 101003050,
-    "name": "\u6DF1\u6DF5\u306E\u82B1\u5712",
+    "name": "深淵の花園",
     "score_battle_quest_ids": [
       204102004,
       204102005,
@@ -396,7 +396,7 @@
       }
     ],
     "key_quest_id": 101004013,
-    "name": "\u82B1\u54B2\u30F6\u6D5C",
+    "name": "花咲ヶ浜",
     "score_battle_quest_ids": [
       204103001,
       204103002,
@@ -466,7 +466,7 @@
       }
     ],
     "key_quest_id": 101004035,
-    "name": "\u5C0F\u6EDD\u5CA9\u5834",
+    "name": "小滝岩場",
     "score_battle_quest_ids": [
       204103003,
       204103004,
@@ -536,7 +536,7 @@
       }
     ],
     "key_quest_id": 101005033,
-    "name": "\u56DE\u5ECA",
+    "name": "回廊",
     "score_battle_quest_ids": [
       204104001,
       204104002,
@@ -606,7 +606,7 @@
       }
     ],
     "key_quest_id": 101005043,
-    "name": "\u8FFD\u61B6\u306E\u9593",
+    "name": "追憶の間",
     "score_battle_quest_ids": [
       204104003,
       204104004,
@@ -676,7 +676,7 @@
       }
     ],
     "key_quest_id": 101006031,
-    "name": "\u7070\u8272\u306E\u88FE",
+    "name": "灰色の裾",
     "score_battle_quest_ids": [
       204105001,
       204105002,
@@ -746,7 +746,7 @@
       }
     ],
     "key_quest_id": 101006045,
-    "name": "\u7ADC\u9CF4\u306E\u5CF0",
+    "name": "竜鳴の峰",
     "score_battle_quest_ids": [
       204105003,
       204105004,
@@ -816,7 +816,7 @@
       }
     ],
     "key_quest_id": 101007008,
-    "name": "\u8349\u6DF1\u304D\u5E83\u91CE",
+    "name": "草深き広野",
     "score_battle_quest_ids": [
       204106001,
       204106002,
@@ -886,7 +886,7 @@
       }
     ],
     "key_quest_id": 101007025,
-    "name": "\u714C\u3005\u305F\u308B\u6E67\u6CC9",
+    "name": "煌々たる湧泉",
     "score_battle_quest_ids": [
       204106003,
       204106004,
@@ -956,7 +956,7 @@
       }
     ],
     "key_quest_id": 101008010,
-    "name": "\u505C\u6EDE\u306E\u5751\u9053",
+    "name": "停滞の坑道",
     "score_battle_quest_ids": [
       204107001,
       204107002,
@@ -1026,7 +1026,7 @@
       }
     ],
     "key_quest_id": 101008031,
-    "name": "\u5927\u671B\u306E\u8ECC\u9053",
+    "name": "大望の軌道",
     "score_battle_quest_ids": [
       204107003,
       204107004,
@@ -1096,7 +1096,7 @@
       }
     ],
     "key_quest_id": 101009012,
-    "name": "\u767D\u9280\u306E\u5C71\u7A1C",
+    "name": "白銀の山稜",
     "score_battle_quest_ids": [
       204108001,
       204108002,
@@ -1166,7 +1166,7 @@
       }
     ],
     "key_quest_id": 101009033,
-    "name": "\u6DF1\u96EA\u306E\u65AD\u5D16",
+    "name": "深雪の断崖",
     "score_battle_quest_ids": [
       204108003,
       204108004,
@@ -1236,7 +1236,7 @@
       }
     ],
     "key_quest_id": 101010015,
-    "name": "\u5929\u76EE\u6307\u3059\u660F\u304D\u697C\u95A3",
+    "name": "天目指す昏き楼閣",
     "score_battle_quest_ids": [
       204109001,
       204109002,
@@ -1306,7 +1306,7 @@
       }
     ],
     "key_quest_id": 101010031,
-    "name": "\u5922\u306E\u6B8B\u6ED3\u3078\u7D9A\u304F\u629C\u3051\u9053",
+    "name": "夢の残滓へ続く抜け道",
     "score_battle_quest_ids": [
       204109003,
       204109004,
@@ -1370,7 +1370,7 @@
       }
     ],
     "key_quest_id": 101011027,
-    "name": "\u5B89\u3089\u304E\u306E\u5EAD\u5712",
+    "name": "安らぎの庭園",
     "score_battle_quest_ids": [
       204110001,
       204110002,
@@ -1437,7 +1437,7 @@
       }
     ],
     "key_quest_id": 101012002,
-    "name": "\u82B1\u9999\u306E\u901A\u3044\u8DEF",
+    "name": "花香の通い路",
     "score_battle_quest_ids": [
       204111001,
       204111002,
@@ -1492,7 +1492,7 @@
       }
     ],
     "key_quest_id": 101014017,
-    "name": "\u9EC4\u91D1\u306E\u7802\u6D77",
+    "name": "黄金の砂海",
     "score_battle_quest_ids": [
       204112001,
       204112002,
@@ -1545,7 +1545,7 @@
       }
     ],
     "key_quest_id": 101014040,
-    "name": "\u93E1\u306E\u7802\u57CE",
+    "name": "鏡の砂城",
     "score_battle_quest_ids": [
       204112003,
       204112004,
@@ -1598,7 +1598,7 @@
       }
     ],
     "key_quest_id": 101015020,
-    "name": "\u751F\u7269\u306E\u697D\u5712",
+    "name": "生物の楽園",
     "score_battle_quest_ids": [
       204113001,
       204113002,
@@ -1651,7 +1651,7 @@
       }
     ],
     "key_quest_id": 101015032,
-    "name": "\u707D\u5384\u3092\u5451\u3080\u6A39\u6D77",
+    "name": "災厄を呑む樹海",
     "score_battle_quest_ids": [
       204113003,
       204113004,
@@ -1704,7 +1704,7 @@
       }
     ],
     "key_quest_id": 101016012,
-    "name": "\u5E95\u306A\u3057\u306E\u5948\u843D",
+    "name": "底なしの奈落",
     "score_battle_quest_ids": [
       204114001,
       204114002,
@@ -1757,7 +1757,7 @@
       }
     ],
     "key_quest_id": 101016042,
-    "name": "\u7570\u754C\u3078\u306E\u87BA\u65CB",
+    "name": "異界への螺旋",
     "score_battle_quest_ids": [
       204114003,
       204114004,
@@ -1810,7 +1810,7 @@
       }
     ],
     "key_quest_id": 101017003,
-    "name": "\u898B\u4E0B\u308D\u3057\u306E\u53F0\u5730",
+    "name": "見下ろしの台地",
     "score_battle_quest_ids": [
       204115001,
       204115002,
@@ -1869,7 +1869,7 @@
       }
     ],
     "key_quest_id": 101017027,
-    "name": "\u4E16\u754C\u306E\u5C4B\u6839",
+    "name": "世界の屋根",
     "score_battle_quest_ids": [
       204115003,
       204115004,
@@ -1901,7 +1901,7 @@
       }
     ],
     "key_quest_id": 101018013,
-    "name": "\u6804\u83EF\u67AF\u3089\u305B\u3057\u7DD1",
+    "name": "栄華枯らせし緑",
     "score_battle_quest_ids": [
       204116001,
       204116002,
@@ -1933,7 +1933,7 @@
       }
     ],
     "key_quest_id": 101018015,
-    "name": "\u554F\u3044\u304B\u3051\u306E\u9593",
+    "name": "問いかけの間",
     "score_battle_quest_ids": [
       204116003,
       204116004,
@@ -1959,7 +1959,7 @@
       }
     ],
     "key_quest_id": 101019019,
-    "name": "\u78EF\u7D21\u3050\u9053",
+    "name": "磯紡ぐ道",
     "score_battle_quest_ids": [
       204117001,
       204117002,
@@ -1991,7 +1991,7 @@
       }
     ],
     "key_quest_id": 101019029,
-    "name": "\u95C7\u6E80\u305F\u3059\u6EDD",
+    "name": "闇満たす滝",
     "score_battle_quest_ids": [
       204117003,
       204117004,
@@ -2017,7 +2017,7 @@
       }
     ],
     "key_quest_id": 101020018,
-    "name": "\u3068\u3053\u3057\u3048\u306E\u8C37",
+    "name": "とこしえの谷",
     "score_battle_quest_ids": [
       204118001,
       204118002,
@@ -2049,7 +2049,7 @@
       }
     ],
     "key_quest_id": 101020036,
-    "name": "\u5929\u4EF0\u3050\u5CA9\u5834",
+    "name": "天仰ぐ岩場",
     "score_battle_quest_ids": [
       204118003,
       204118004,
@@ -2081,7 +2081,7 @@
       }
     ],
     "key_quest_id": 101021018,
-    "name": "\u6765\u8A2A\u8005\u62D2\u3080\u9580\u6238",
+    "name": "来訪者拒む門戸",
     "score_battle_quest_ids": [
       204119001,
       204119002,
@@ -2113,7 +2113,7 @@
       }
     ],
     "key_quest_id": 101021029,
-    "name": "\u6C34\u8755\u306E\u4E2D\u5EAD",
+    "name": "水蝕の中庭",
     "score_battle_quest_ids": [
       204119003,
       204119006
@@ -2137,7 +2137,7 @@
       }
     ],
     "key_quest_id": 101022015,
-    "name": "\u967D\u98A8\u306E\u6D77\u5CB8\u7DDA",
+    "name": "陽風の海岸線",
     "score_battle_quest_ids": [
       204120001,
       204120002,
@@ -2169,7 +2169,7 @@
       }
     ],
     "key_quest_id": 101022033,
-    "name": "\u5E7D\u5BC2\u306E\u5165\u308A\u6C5F",
+    "name": "幽寂の入り江",
     "score_battle_quest_ids": [
       204120003,
       204120004,
@@ -2195,7 +2195,7 @@
       }
     ],
     "key_quest_id": 101023023,
-    "name": "\u51CD\u3066\u3064\u304F\u79D8\u5883",
+    "name": "凍てつく秘境",
     "score_battle_quest_ids": [
       204121001,
       204121002,
@@ -2227,7 +2227,7 @@
       }
     ],
     "key_quest_id": 101023035,
-    "name": "\u9580\u3078\u3068\u7D9A\u304F\u9053",
+    "name": "門へと続く道",
     "score_battle_quest_ids": [
       204121005,
       204121006
@@ -2257,7 +2257,7 @@
       }
     ],
     "key_quest_id": 101024018,
-    "name": "\u5E7D\u6697\u306E\u68EE",
+    "name": "幽暗の森",
     "score_battle_quest_ids": [
       204122001,
       204122003
@@ -2287,7 +2287,7 @@
       }
     ],
     "key_quest_id": 101024026,
-    "name": "\u3046\u306D\u308A\u306E\u51A5\u5883",
+    "name": "うねりの冥境",
     "score_battle_quest_ids": [
       204122002,
       204122004
@@ -2308,7 +2308,7 @@
       }
     ],
     "key_quest_id": 101025021,
-    "name": "\u714C\u3081\u304D\u306E\u74B0\u7901",
+    "name": "煌めきの環礁",
     "score_battle_quest_ids": [
       204123001,
       204123003,
@@ -2342,35 +2342,12 @@
       }
     ],
     "key_quest_id": 101026030,
-    "name": "\u6E07\u304D\u306E\u9053",
+    "name": "渇きの道",
     "score_battle_quest_ids": [
       204124001,
       204124003,
       204124002,
       204124004
-    ]
-  },
-  {
-    "background_image_path_hash": 5249822933300566010,
-    "id": 45,
-    "items": [
-      {
-        "id": 931
-      },
-      {
-        "id": 932
-      },
-      {
-        "id": 933
-      }
-    ],
-    "key_quest_id": 101027004,
-    "name": "\u51CD\u82AF\u306E\u6C37\u6E56",
-    "score_battle_quest_ids": [
-      204125001,
-      204125003,
-      204125002,
-      204125004
     ]
   }
 ]
