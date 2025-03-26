@@ -16751,6 +16751,116 @@
   },
   {
     "ability_ids": [
+      4990818,
+      4990819,
+      4990820,
+      4990821,
+      4990822
+    ],
+    "attack_attributes": [
+      1
+    ],
+    "description": "何が正解かなんて、私には分からない。だって、自分のことすら何も知らないんだから。\nけれど、それでいいって諦めたくはない。ほんの少しずつでも、自分の手で答えを探したい。\nま、考えるのは性に合わないから……とりあえずこの剣で、道を切り開いて突き進んでやる！",
+    "first_cut": 1,
+    "gacha_perform_bg_position": 7563,
+    "gacha_perform_cut_in_position": [
+      {
+        "position_x": 364,
+        "position_y": 889,
+        "width": 635
+      },
+      {
+        "position_x": 399,
+        "position_y": 1195,
+        "width": 609
+      }
+    ],
+    "id": 30126,
+    "illustrator_id": 60,
+    "item_limit_break_enabled": true,
+    "large_still_path_hash": 4094506063712164626,
+    "memoria_small_still_cut_position": 1,
+    "name": "己が手で",
+    "narrow_still_path_hash": 4180096203019682639,
+    "rarity": 3,
+    "roles": [
+      1
+    ],
+    "second_cut": 3,
+    "small_still_path_hash": 5318698587354957953,
+    "start_at": "2025-03-12T03:00:00.0000000Z",
+    "status_buffs": [
+      {
+        "growth_id": 31088,
+        "initial_values": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "type": 1
+      },
+      {
+        "growth_id": 31020,
+        "initial_values": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "type": 2
+      },
+      {
+        "growth_id": 31138,
+        "initial_values": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "type": 3
+      },
+      {
+        "growth_id": 31078,
+        "initial_values": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "type": 4
+      },
+      {
+        "growth_id": 31068,
+        "initial_values": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "type": 5
+      },
+      {
+        "growth_id": 31068,
+        "initial_values": [
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "type": 6
+      }
+    ],
+    "still_path_hash": 1419171235374509984
+  },
+  {
+    "ability_ids": [
       4990823,
       4990824,
       4990825,

@@ -11170,6 +11170,56 @@
     "summons_effect_id": null
   },
   {
+    "description": "得意属性が斬属性かつアタッカーの時、スキルダメージアップ",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 6001013,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "得意属性が斬属性かつアタッカーの時、パネル獲得時、自身に「物攻アップ」を1回行動終了するまで付与",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 6001014,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "得意属性が斬属性かつアタッカーの時、攻撃後、対象に「斬属性耐性ダウン」を1回攻撃を受けるまで付与",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 6001015,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "自身がヴァレリア【Get Over Limit】の時、WEAK攻撃時、スキル威力アップ",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 6001016,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "自身がヴァレリア【Get Over Limit】の時、WEAK攻撃時、スキルダメージアップ",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 6001017,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
     "description": "与回復量上昇",
     "effect_motion_id": null,
     "enemy_hp_gauge": null,
@@ -12530,11 +12580,31 @@
     "summons_effect_id": null
   },
   {
+    "description": "WEAK攻撃時、スキル威力+{0}%",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 13000329,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
     "description": "自身が斬属性の時、受けるHP回復量上昇+{}%",
     "effect_motion_id": null,
     "enemy_hp_gauge": null,
     "field_effect_id": null,
     "id": 13000330,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "自身が斬属性の時、単体攻撃スキルダメージアップ＋{}%",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 13000332,
     "is_positive_popup": null,
     "popup_text": "",
     "summons_effect_id": null
@@ -15750,6 +15820,26 @@
     "summons_effect_id": null
   },
   {
+    "description": "自身の次パネルをクリティカルパネルへ変更",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 71227001,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "攻撃対象にプラス効果無効を付与",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 71227002,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
     "description": "[自身/常時/ダメージバフ]",
     "effect_motion_id": null,
     "enemy_hp_gauge": null,
@@ -17925,6 +18015,86 @@
     "enemy_hp_gauge": null,
     "field_effect_id": null,
     "id": 72001219,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 72001220,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 72001221,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 72001222,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 72001223,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 72001224,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 72001225,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 72001226,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 72001227,
     "is_positive_popup": null,
     "popup_text": "",
     "summons_effect_id": null
@@ -20185,6 +20355,26 @@
     "enemy_hp_gauge": null,
     "field_effect_id": null,
     "id": 81014001,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "自身に確率カウンターを付与",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 81014002,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "確率50％でカウンター発動",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 81014003,
     "is_positive_popup": null,
     "popup_text": "",
     "summons_effect_id": null
@@ -22735,6 +22925,176 @@
     "enemy_hp_gauge": null,
     "field_effect_id": null,
     "id": 81226004,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "敵を撃破したとき自身の次パネルをクリティカルパネルへ変更",
+    "effect_motion_id": 1162,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 81227001,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "ブレイク中のアイテムによるWEAK攻撃被弾時、自身にスタンを付与",
+    "effect_motion_id": 1163,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 81227002,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "ブレイク中のアイテムによるWEAK攻撃被弾時、自身に被ダメージUPを付与",
+    "effect_motion_id": 1163,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 81227003,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "ウェーブ開始時、自身に被ダメージDOWN付与",
+    "effect_motion_id": 1164,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 81228001,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "ウェーブ開始時、自身に全属性耐性UP付与",
+    "effect_motion_id": 1164,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 81228002,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "ウェーブ開始時、自身に受けるマイナス効果量DOWN1付与",
+    "effect_motion_id": 1164,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 81228003,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "ウェーブ開始時、自身に受けるマイナス効果量DOWN2付与",
+    "effect_motion_id": 1164,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 81228004,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "自身がブレイク中の行動前、自身に与ダメージUPを付与",
+    "effect_motion_id": 1165,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 81228005,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "自身がブレイク中の行動前、自身に素早さUPを付与",
+    "effect_motion_id": 1165,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 81228006,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "自身戦闘不能時、本体のBGを50％消費",
+    "effect_motion_id": 1166,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 81229001,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "本体の特殊被ダメージDOWNを解除",
+    "effect_motion_id": 1166,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 81229002,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "本体の受けるマイナス効果量DOWN1を解除",
+    "effect_motion_id": 1166,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 81229003,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "味方全体のターンを遅らせる",
+    "effect_motion_id": 1166,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 81229004,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "本体のBGを50％消費",
+    "effect_motion_id": 1167,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 81230001,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "本体の全属性耐性UPを解除",
+    "effect_motion_id": 1167,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 81230002,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "本体の受けるマイナス効果量DOWN2を解除",
+    "effect_motion_id": 1167,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 81230003,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "味方全体のターンを遅らせる",
+    "effect_motion_id": 1167,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 81230004,
     "is_positive_popup": null,
     "popup_text": "",
     "summons_effect_id": null
@@ -29704,6 +30064,66 @@
     "effect_motion_id": null,
     "enemy_hp_gauge": null,
     "field_effect_id": null,
+    "id": 91001593,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 91001594,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 91001595,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 91001596,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 91001597,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 91001598,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
     "id": 91001599,
     "is_positive_popup": null,
     "popup_text": "",
@@ -31795,6 +32215,16 @@
     "enemy_hp_gauge": null,
     "field_effect_id": null,
     "id": 95000196,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "得意属性が斬属性かつWEAK攻撃時、スキルダメージアップ",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 95000197,
     "is_positive_popup": null,
     "popup_text": "",
     "summons_effect_id": null

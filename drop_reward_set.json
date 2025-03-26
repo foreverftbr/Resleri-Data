@@ -76782,6 +76782,386 @@
     ]
   },
   {
+    "id": 101784,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 1,
+            "min_quantity": 1,
+            "resource_key": {
+              "id": 946,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 101785,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 2,
+            "min_quantity": 2,
+            "resource_key": {
+              "id": 946,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 101786,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 3,
+            "min_quantity": 3,
+            "resource_key": {
+              "id": 946,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 101787,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 4,
+            "min_quantity": 4,
+            "resource_key": {
+              "id": 946,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 101788,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 5,
+            "min_quantity": 5,
+            "resource_key": {
+              "id": 946,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 101789,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 1,
+            "min_quantity": 1,
+            "resource_key": {
+              "id": 947,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 101790,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 2,
+            "min_quantity": 2,
+            "resource_key": {
+              "id": 947,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 101791,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 3,
+            "min_quantity": 3,
+            "resource_key": {
+              "id": 947,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 101792,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 4,
+            "min_quantity": 4,
+            "resource_key": {
+              "id": 947,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 101793,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 5,
+            "min_quantity": 5,
+            "resource_key": {
+              "id": 947,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 101794,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 2,
+            "min_quantity": 2,
+            "resource_key": {
+              "id": 948,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 101795,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 3,
+            "min_quantity": 3,
+            "resource_key": {
+              "id": 948,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 101796,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 4,
+            "min_quantity": 4,
+            "resource_key": {
+              "id": 948,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 101797,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 5,
+            "min_quantity": 5,
+            "resource_key": {
+              "id": 948,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 101798,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 6,
+            "min_quantity": 6,
+            "resource_key": {
+              "id": 948,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 101799,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 2,
+            "min_quantity": 2,
+            "resource_key": {
+              "id": 948,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 101800,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 3,
+            "min_quantity": 3,
+            "resource_key": {
+              "id": 948,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 101801,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 4,
+            "min_quantity": 4,
+            "resource_key": {
+              "id": 948,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 101802,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 5,
+            "min_quantity": 5,
+            "resource_key": {
+              "id": 948,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 101803,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 6,
+            "min_quantity": 6,
+            "resource_key": {
+              "id": 948,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 102323,
     "rewards": [
       {

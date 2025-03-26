@@ -158,5 +158,13 @@
     "movie_path_hash": 7359187148623608475,
     "priority": 24,
     "start_at": "2025-03-21T03:00:00.0000000Z"
+  },
+  {
+    "end_at": "2025-03-31T03:00:00.0000000Z",
+    "id": 25,
+    "is_download_movie": false,
+    "movie_path_hash": 8782081732694158567,
+    "priority": 25,
+    "start_at": "2025-03-26T03:00:00.0000000Z"
   }
 ]

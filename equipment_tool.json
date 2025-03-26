@@ -47220,5 +47220,326 @@
       }
     ],
     "still_path_hash": 7558183003286339450
+  },
+  {
+    "ability_ids": [
+      301129
+    ],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 100,
+      "wind": 0
+    },
+    "attack_attributes": [
+      1
+    ],
+    "description": "得意属性が斬属性かつアタッカーの時、スキルダメージ+{0}%",
+    "easy_synthesis_trait_lottery_id": 6,
+    "id": 1042,
+    "large_still_path_hash": 8017056866413824564,
+    "name": "ポルクス＝カストール",
+    "quality_group_id": 4,
+    "rarity": 3,
+    "role_combat_power_bonus": {
+      "attacker": 100,
+      "breaker": 0,
+      "defender": 0,
+      "supporter": 0
+    },
+    "roles": [
+      1
+    ],
+    "slot_type": 1,
+    "small_still_path_hash": 5111057670971801288,
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 3,
+        "value": 110
+      }
+    ],
+    "still_path_hash": 8019336901947767594
+  },
+  {
+    "ability_ids": [
+      301130
+    ],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 100,
+      "wind": 0
+    },
+    "attack_attributes": [
+      1
+    ],
+    "description": "得意属性が斬属性かつアタッカーの時、スキルダメージ+{0}%",
+    "easy_synthesis_trait_lottery_id": 6,
+    "id": 1043,
+    "large_still_path_hash": 8017056866413824564,
+    "name": "ポルクス＝カストール",
+    "quality_group_id": 4,
+    "rarity": 2,
+    "role_combat_power_bonus": {
+      "attacker": 100,
+      "breaker": 0,
+      "defender": 0,
+      "supporter": 0
+    },
+    "roles": [
+      1
+    ],
+    "slot_type": 1,
+    "small_still_path_hash": 5111057670971801288,
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 3,
+        "value": 80
+      }
+    ],
+    "still_path_hash": 8019336901947767594
+  },
+  {
+    "ability_ids": [
+      301131
+    ],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 100,
+      "wind": 0
+    },
+    "attack_attributes": [
+      1
+    ],
+    "description": "得意属性が斬属性かつアタッカーの時、パネル獲得時、自身に「物攻+{0}%」を1回行動終了するまで付与",
+    "easy_synthesis_trait_lottery_id": 6,
+    "id": 1044,
+    "large_still_path_hash": 7590999370332452141,
+    "name": "リゾルブジャケット",
+    "quality_group_id": 4,
+    "rarity": 3,
+    "role_combat_power_bonus": {
+      "attacker": 100,
+      "breaker": 0,
+      "defender": 0,
+      "supporter": 0
+    },
+    "roles": [
+      1
+    ],
+    "slot_type": 2,
+    "small_still_path_hash": 6169019647436718012,
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 5,
+        "value": 65
+      },
+      {
+        "change_method": 1,
+        "status_type": 6,
+        "value": 45
+      }
+    ],
+    "still_path_hash": 8951103395554851410
+  },
+  {
+    "ability_ids": [
+      301132
+    ],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 100,
+      "wind": 0
+    },
+    "attack_attributes": [
+      1
+    ],
+    "description": "得意属性が斬属性かつアタッカーの時、パネル獲得時、自身に「物攻+{0}%」を1回行動終了するまで付与",
+    "easy_synthesis_trait_lottery_id": 6,
+    "id": 1045,
+    "large_still_path_hash": 7590999370332452141,
+    "name": "リゾルブジャケット",
+    "quality_group_id": 4,
+    "rarity": 2,
+    "role_combat_power_bonus": {
+      "attacker": 100,
+      "breaker": 0,
+      "defender": 0,
+      "supporter": 0
+    },
+    "roles": [
+      1
+    ],
+    "slot_type": 2,
+    "small_still_path_hash": 6169019647436718012,
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 5,
+        "value": 50
+      },
+      {
+        "change_method": 1,
+        "status_type": 6,
+        "value": 25
+      }
+    ],
+    "still_path_hash": 8951103395554851410
+  },
+  {
+    "ability_ids": [
+      301133
+    ],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 100,
+      "wind": 0
+    },
+    "attack_attributes": [
+      1
+    ],
+    "description": "得意属性が斬属性かつアタッカーの時、攻撃前、対象に「斬属性耐性-{0}%」を1回攻撃を受けるまで付与",
+    "easy_synthesis_trait_lottery_id": 6,
+    "id": 1046,
+    "large_still_path_hash": 3852216870386341235,
+    "name": "メトルブーツ",
+    "quality_group_id": 4,
+    "rarity": 3,
+    "role_combat_power_bonus": {
+      "attacker": 100,
+      "breaker": 0,
+      "defender": 0,
+      "supporter": 0
+    },
+    "roles": [
+      1
+    ],
+    "slot_type": 3,
+    "small_still_path_hash": 8607451968524753744,
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 1,
+        "value": 225
+      },
+      {
+        "change_method": 1,
+        "status_type": 2,
+        "value": 6
+      }
+    ],
+    "still_path_hash": 6834133569459166910
+  },
+  {
+    "ability_ids": [
+      301134
+    ],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 100,
+      "wind": 0
+    },
+    "attack_attributes": [
+      1
+    ],
+    "description": "得意属性が斬属性かつアタッカーの時、攻撃前、対象に「斬属性耐性-{0}%」を1回攻撃を受けるまで付与",
+    "easy_synthesis_trait_lottery_id": 6,
+    "id": 1047,
+    "large_still_path_hash": 3852216870386341235,
+    "name": "メトルブーツ",
+    "quality_group_id": 4,
+    "rarity": 2,
+    "role_combat_power_bonus": {
+      "attacker": 100,
+      "breaker": 0,
+      "defender": 0,
+      "supporter": 0
+    },
+    "roles": [
+      1
+    ],
+    "slot_type": 3,
+    "small_still_path_hash": 8607451968524753744,
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 1,
+        "value": 175
+      },
+      {
+        "change_method": 1,
+        "status_type": 2,
+        "value": 4
+      }
+    ],
+    "still_path_hash": 6834133569459166910
+  },
+  {
+    "ability_ids": [
+      301135
+    ],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 100,
+      "wind": 0
+    },
+    "attack_attributes": [
+      1
+    ],
+    "description": "自身がヴァレリア【Get Over Limit】の時、WEAK攻撃時、スキル威力+{0}%とスキルダメージ+{1}%",
+    "easy_synthesis_trait_lottery_id": 6,
+    "id": 1048,
+    "large_still_path_hash": 1064709753002896886,
+    "name": "シックザールヴェーク",
+    "quality_group_id": 4,
+    "rarity": 3,
+    "role_combat_power_bonus": {
+      "attacker": 100,
+      "breaker": 0,
+      "defender": 0,
+      "supporter": 0
+    },
+    "roles": [
+      1
+    ],
+    "slot_type": 1,
+    "small_still_path_hash": 7183089189611085432,
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 3,
+        "value": 145
+      }
+    ],
+    "still_path_hash": 5335360643337788310
   }
 ]

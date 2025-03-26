@@ -10187,6 +10187,11 @@
         "count": 370,
         "reward_set_id": 30017,
         "start_at": null
+      },
+      {
+        "count": 375,
+        "reward_set_id": 30017,
+        "start_at": null
       }
     ],
     "total_task_condition_id": 134,
@@ -13610,6 +13615,33 @@
       }
     ],
     "total_task_condition_id": 1535,
+    "transition": null
+  },
+  {
+    "category": 4,
+    "end_at": null,
+    "event_tab_id": null,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 300172,
+    "label": null,
+    "name": "メインストーリー26-27をクリアしよう",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 7157,
+    "reset_cycle": null,
+    "start_at": "2025-03-21T03:00:00.0000000Z",
+    "steps": [
+      {
+        "count": 1,
+        "reward_set_id": 30016,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": 1548,
     "transition": null
   },
   {
@@ -25240,6 +25272,87 @@
   {
     "category": 3,
     "end_at": null,
+    "event_tab_id": 108,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 1080020,
+    "label": null,
+    "name": "スコアバトル26-1Normalをクリアしよう",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 81,
+    "reset_cycle": null,
+    "start_at": "2025-03-26T03:00:00.0000000Z",
+    "steps": [
+      {
+        "count": 1,
+        "reward_set_id": 1081001,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": 1549,
+    "transition": null
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 108,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 1080021,
+    "label": null,
+    "name": "スコアバトル26-2Normalをクリアしよう",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 80,
+    "reset_cycle": null,
+    "start_at": "2025-03-26T03:00:00.0000000Z",
+    "steps": [
+      {
+        "count": 1,
+        "reward_set_id": 1081003,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": 1550,
+    "transition": null
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 108,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 1080022,
+    "label": null,
+    "name": "メインストーリー26章をクリアしよう",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 79,
+    "reset_cycle": null,
+    "start_at": "2025-03-26T03:00:00.0000000Z",
+    "steps": [
+      {
+        "count": 1,
+        "reward_set_id": 1081004,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": 1548,
+    "transition": null
+  },
+  {
+    "category": 3,
+    "end_at": null,
     "event_tab_id": 109,
     "guide_mission_home_label": null,
     "guide_mission_pickup_reward": null,
@@ -26586,6 +26699,312 @@
       {
         "count": 300,
         "reward_set_id": 1150009,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 4
+    }
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 116,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 1160001,
+    "label": null,
+    "name": "記憶を辿りし者 ヴァレリア LEGEND FESを{}回引こう※有償限定も含む",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 100,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 10,
+        "reward_set_id": 1160001,
+        "start_at": null
+      },
+      {
+        "count": 20,
+        "reward_set_id": 1160001,
+        "start_at": null
+      },
+      {
+        "count": 30,
+        "reward_set_id": 1160001,
+        "start_at": null
+      },
+      {
+        "count": 40,
+        "reward_set_id": 1160001,
+        "start_at": null
+      },
+      {
+        "count": 50,
+        "reward_set_id": 1160002,
+        "start_at": null
+      },
+      {
+        "count": 60,
+        "reward_set_id": 1160002,
+        "start_at": null
+      },
+      {
+        "count": 70,
+        "reward_set_id": 1160002,
+        "start_at": null
+      },
+      {
+        "count": 80,
+        "reward_set_id": 1160002,
+        "start_at": null
+      },
+      {
+        "count": 90,
+        "reward_set_id": 1160002,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 4
+    }
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 116,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 1160002,
+    "label": null,
+    "name": "記憶を辿りし者 ヴァレリア LEGEND FESを{}回引こう※有償限定も含む",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 99,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 100,
+        "reward_set_id": 1160010,
+        "start_at": null
+      },
+      {
+        "count": 110,
+        "reward_set_id": 1160003,
+        "start_at": null
+      },
+      {
+        "count": 120,
+        "reward_set_id": 1160003,
+        "start_at": null
+      },
+      {
+        "count": 130,
+        "reward_set_id": 1160003,
+        "start_at": null
+      },
+      {
+        "count": 140,
+        "reward_set_id": 1160003,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 4
+    }
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 116,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 1160003,
+    "label": null,
+    "name": "記憶を辿りし者 ヴァレリア LEGEND FESを{}回引こう※有償限定も含む",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 98,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 150,
+        "reward_set_id": 1160007,
+        "start_at": null
+      },
+      {
+        "count": 160,
+        "reward_set_id": 1160004,
+        "start_at": null
+      },
+      {
+        "count": 170,
+        "reward_set_id": 1160004,
+        "start_at": null
+      },
+      {
+        "count": 180,
+        "reward_set_id": 1160004,
+        "start_at": null
+      },
+      {
+        "count": 190,
+        "reward_set_id": 1160004,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 4
+    }
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 116,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 1160004,
+    "label": null,
+    "name": "記憶を辿りし者 ヴァレリア LEGEND FESを{}回引こう※有償限定も含む",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 97,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 200,
+        "reward_set_id": 1160011,
+        "start_at": null
+      },
+      {
+        "count": 210,
+        "reward_set_id": 1160005,
+        "start_at": null
+      },
+      {
+        "count": 220,
+        "reward_set_id": 1160005,
+        "start_at": null
+      },
+      {
+        "count": 230,
+        "reward_set_id": 1160005,
+        "start_at": null
+      },
+      {
+        "count": 240,
+        "reward_set_id": 1160005,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 4
+    }
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 116,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 1160005,
+    "label": null,
+    "name": "記憶を辿りし者 ヴァレリア LEGEND FESを{}回引こう※有償限定も含む",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 96,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 250,
+        "reward_set_id": 1160008,
+        "start_at": null
+      },
+      {
+        "count": 260,
+        "reward_set_id": 1160006,
+        "start_at": null
+      },
+      {
+        "count": 270,
+        "reward_set_id": 1160006,
+        "start_at": null
+      },
+      {
+        "count": 280,
+        "reward_set_id": 1160006,
+        "start_at": null
+      },
+      {
+        "count": 290,
+        "reward_set_id": 1160006,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 4
+    }
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 116,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 1160006,
+    "label": null,
+    "name": "記憶を辿りし者 ヴァレリア LEGEND FESを{}回引こう※有償限定も含む",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 95,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 300,
+        "reward_set_id": 1160009,
         "start_at": null
       }
     ],

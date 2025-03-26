@@ -2980,6 +2980,36 @@
     "text": "特別なものがもらえるの？\nふふ、やったわ！"
   },
   {
+    "character_id": 43208,
+    "id": 43208001,
+    "is_regular": true,
+    "is_regular_milestone": false,
+    "motion_path_hash": 2091657615827992471,
+    "navigation_character_id": null,
+    "system_voice_type": 8,
+    "text": "今日はこれをもらえるのね"
+  },
+  {
+    "character_id": 43208,
+    "id": 43208002,
+    "is_regular": true,
+    "is_regular_milestone": false,
+    "motion_path_hash": 2091657615827992471,
+    "navigation_character_id": null,
+    "system_voice_type": 9,
+    "text": "さーて、今日も張り切って行きましょ"
+  },
+  {
+    "character_id": 43208,
+    "id": 43208003,
+    "is_regular": true,
+    "is_regular_milestone": true,
+    "motion_path_hash": 2091657615827992471,
+    "navigation_character_id": null,
+    "system_voice_type": 10,
+    "text": "いいものがもらえたわ\n大事に使わないとね"
+  },
+  {
     "character_id": 43301,
     "id": 43301001,
     "is_regular": true,

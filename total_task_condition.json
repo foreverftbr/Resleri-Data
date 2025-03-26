@@ -10596,6 +10596,14 @@
     }
   },
   {
+    "id": 1504,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 4
+    }
+  },
+  {
     "id": 1510,
     "transition": {
       "equipment_slot_type": null,
@@ -10837,6 +10845,90 @@
       "equipment_slot_type": null,
       "focused_on": 43108,
       "transition": 33
+    }
+  },
+  {
+    "id": 1548,
+    "transition": null
+  },
+  {
+    "id": 1549,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 204126001,
+      "transition": 31
+    }
+  },
+  {
+    "id": 1550,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 204126002,
+      "transition": 31
+    }
+  },
+  {
+    "id": 1554,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 3
+    }
+  },
+  {
+    "id": 1555,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 22
+    }
+  },
+  {
+    "id": 1556,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 2
+    }
+  },
+  {
+    "id": 1564,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 43208,
+      "transition": 33
+    }
+  },
+  {
+    "id": 1565,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 946,
+      "transition": 45
+    }
+  },
+  {
+    "id": 1566,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 8804004,
+      "transition": 31
+    }
+  },
+  {
+    "id": 1567,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 8804004,
+      "transition": 31
+    }
+  },
+  {
+    "id": 1568,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 8804004,
+      "transition": 31
     }
   }
 ]

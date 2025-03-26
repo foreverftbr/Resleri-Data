@@ -280,6 +280,26 @@
     }
   },
   {
+    "base_enemy_id": 80001,
+    "burst_skill_id": 22001639,
+    "enemy_ai_id": 10001018,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10001018,
+    "is_boss": false,
+    "name": "青ぷに",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
     "base_enemy_id": 80002,
     "burst_skill_id": 22000012,
     "enemy_ai_id": 10002001,
@@ -1035,6 +1055,26 @@
       "impact": 0,
       "lightning": -25,
       "piercing": -25,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
+    "base_enemy_id": 80004,
+    "burst_skill_id": 22001645,
+    "enemy_ai_id": 10004012,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10004012,
+    "is_boss": false,
+    "name": "オオイタチ",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
       "slashing": -25,
       "wind": 0
     }
@@ -2188,6 +2228,46 @@
     }
   },
   {
+    "base_enemy_id": 80009,
+    "burst_skill_id": 22001650,
+    "enemy_ai_id": 10009025,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10009025,
+    "is_boss": false,
+    "name": "ミニワイバーン",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
+    "base_enemy_id": 80009,
+    "burst_skill_id": 22001650,
+    "enemy_ai_id": 10009026,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10009026,
+    "is_boss": false,
+    "name": "ミニワイバーン",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
     "base_enemy_id": 80010,
     "burst_skill_id": 22000003,
     "enemy_ai_id": 10010001,
@@ -2968,6 +3048,26 @@
     }
   },
   {
+    "base_enemy_id": 80013,
+    "burst_skill_id": 22001630,
+    "enemy_ai_id": 10013012,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10013012,
+    "is_boss": false,
+    "name": "六角ガメ",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
     "base_enemy_id": 80014,
     "burst_skill_id": 22000030,
     "enemy_ai_id": 10014001,
@@ -3249,6 +3349,28 @@
       "impact": 0,
       "lightning": -35,
       "piercing": -25,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
+    "base_enemy_id": 80014,
+    "burst_skill_id": 22001652,
+    "enemy_ai_id": 10014014,
+    "extra_skill_ids": [
+      22001653
+    ],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10014014,
+    "is_boss": false,
+    "name": "マンオーウォー",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
       "slashing": -25,
       "wind": 0
     }
@@ -3733,6 +3855,26 @@
       "piercing": 0,
       "slashing": -25,
       "wind": -25
+    }
+  },
+  {
+    "base_enemy_id": 80018,
+    "burst_skill_id": 22001663,
+    "enemy_ai_id": 10018002,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10018002,
+    "is_boss": false,
+    "name": "魔石の傀儡",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": 0
     }
   },
   {
@@ -4238,6 +4380,26 @@
     }
   },
   {
+    "base_enemy_id": 80021,
+    "burst_skill_id": 22001717,
+    "enemy_ai_id": 10021010,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10021010,
+    "is_boss": false,
+    "name": "動く甲冑",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
     "base_enemy_id": 80023,
     "burst_skill_id": 22000602,
     "enemy_ai_id": 10023001,
@@ -4435,6 +4597,26 @@
       "piercing": -25,
       "slashing": 0,
       "wind": -25
+    }
+  },
+  {
+    "base_enemy_id": 80023,
+    "burst_skill_id": 22001705,
+    "enemy_ai_id": 10023011,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10023011,
+    "is_boss": false,
+    "name": "ゴースト",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": 0
     }
   },
   {
@@ -4900,6 +5082,26 @@
     }
   },
   {
+    "base_enemy_id": 80030,
+    "burst_skill_id": 22001681,
+    "enemy_ai_id": 10030003,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10030003,
+    "is_boss": true,
+    "name": "ロックゴーレム",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
     "base_enemy_id": 80034,
     "burst_skill_id": 22000254,
     "enemy_ai_id": 10034001,
@@ -5312,6 +5514,26 @@
     "resistance": {
       "fire": 0,
       "ice": -25,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
+    "base_enemy_id": 80039,
+    "burst_skill_id": 22001677,
+    "enemy_ai_id": 10039010,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10039010,
+    "is_boss": false,
+    "name": "スプリントバード",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
       "impact": 0,
       "lightning": 0,
       "piercing": 0,
@@ -6486,6 +6708,26 @@
     }
   },
   {
+    "base_enemy_id": 80081,
+    "burst_skill_id": 22001659,
+    "enemy_ai_id": 10081010,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10081010,
+    "is_boss": false,
+    "name": "プリズムシェルS",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
     "base_enemy_id": 80082,
     "burst_skill_id": 32000739,
     "enemy_ai_id": 60082001,
@@ -6669,6 +6911,26 @@
       "piercing": 0,
       "slashing": 0,
       "wind": -25
+    }
+  },
+  {
+    "base_enemy_id": 80091,
+    "burst_skill_id": 22001699,
+    "enemy_ai_id": 10091003,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10091003,
+    "is_boss": false,
+    "name": "トート",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": 0
     }
   },
   {
@@ -7626,6 +7888,26 @@
     }
   },
   {
+    "base_enemy_id": 80100,
+    "burst_skill_id": 22001669,
+    "enemy_ai_id": 10100020,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10100020,
+    "is_boss": false,
+    "name": "スポアドッグ",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
     "base_enemy_id": 80101,
     "burst_skill_id": 22000457,
     "enemy_ai_id": 10101001,
@@ -8166,6 +8448,26 @@
     }
   },
   {
+    "base_enemy_id": 80109,
+    "burst_skill_id": 22001714,
+    "enemy_ai_id": 10109005,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10109005,
+    "is_boss": false,
+    "name": "黒兜",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
     "base_enemy_id": 80110,
     "burst_skill_id": 22000064,
     "enemy_ai_id": 10110001,
@@ -8343,6 +8645,26 @@
       "piercing": -25,
       "slashing": -25,
       "wind": -25
+    }
+  },
+  {
+    "base_enemy_id": 80110,
+    "burst_skill_id": 22001694,
+    "enemy_ai_id": 10110010,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10110010,
+    "is_boss": false,
+    "name": "ガーゴイル",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": 0
     }
   },
   {
@@ -12048,6 +12370,26 @@
     }
   },
   {
+    "base_enemy_id": 80169,
+    "burst_skill_id": 22001688,
+    "enemy_ai_id": 10169014,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10169014,
+    "is_boss": false,
+    "name": "ドライアド",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
     "base_enemy_id": 80170,
     "burst_skill_id": 22000630,
     "enemy_ai_id": 10170001,
@@ -13334,6 +13676,26 @@
     }
   },
   {
+    "base_enemy_id": 80204,
+    "burst_skill_id": 22001633,
+    "enemy_ai_id": 10204007,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10204007,
+    "is_boss": false,
+    "name": "島魚",
+    "resistance": {
+      "fire": -25,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
     "base_enemy_id": 80205,
     "burst_skill_id": 22001225,
     "enemy_ai_id": 10205001,
@@ -13892,6 +14254,86 @@
       "lightning": 0,
       "piercing": 0,
       "slashing": -25,
+      "wind": 0
+    }
+  },
+  {
+    "base_enemy_id": 80227,
+    "burst_skill_id": 22001721,
+    "enemy_ai_id": 10227002,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10227001,
+    "is_boss": true,
+    "name": "イェルカ",
+    "resistance": {
+      "fire": -35,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -35,
+      "wind": 0
+    }
+  },
+  {
+    "base_enemy_id": 80228,
+    "burst_skill_id": 22001727,
+    "enemy_ai_id": 10228001,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10228001,
+    "is_boss": true,
+    "name": "クヴァレルガ_亡霊(本体)",
+    "resistance": {
+      "fire": -35,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -35,
+      "wind": 0
+    }
+  },
+  {
+    "base_enemy_id": 80229,
+    "burst_skill_id": 22001735,
+    "enemy_ai_id": 10229001,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10229001,
+    "is_boss": true,
+    "name": "クヴァレルガ_亡霊(右腕)",
+    "resistance": {
+      "fire": -35,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -35,
+      "wind": 0
+    }
+  },
+  {
+    "base_enemy_id": 80230,
+    "burst_skill_id": 22001739,
+    "enemy_ai_id": 10230001,
+    "extra_skill_ids": [],
+    "hp_loop_count": null,
+    "hp_loop_type": 1,
+    "id": 10230001,
+    "is_boss": true,
+    "name": "クヴァレルガ_亡霊(左腕)",
+    "resistance": {
+      "fire": -35,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": -35,
       "wind": 0
     }
   },

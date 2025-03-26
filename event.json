@@ -2289,5 +2289,37 @@
     "reward_end_at": "2025-04-01T03:00:00.0000000Z",
     "sort_name": "やんねすとーりーいべんと",
     "start_at": "2025-03-17T03:00:00.0000000Z"
+  },
+  {
+    "album_background_image_path_hash": 0,
+    "background_image_path_hash": 8269096705875835567,
+    "banner_path_hash": 3229926975832927629,
+    "bgm_path_hash": 1915067688521612763,
+    "end_at": "2025-03-31T03:00:00.0000000Z",
+    "event_type": 1,
+    "home_logo_path_hash": 0,
+    "id": 88,
+    "is_remind": true,
+    "logo_path_hash": 2350232081783548066,
+    "name": "チャレンジバトル26章",
+    "patterns": [
+      {
+        "ids": [
+          100073
+        ],
+        "type": 1
+      },
+      {
+        "ids": [
+          79
+        ],
+        "type": 4
+      }
+    ],
+    "priority": 187,
+    "revival_start_at": null,
+    "reward_end_at": "2025-04-01T03:00:00.0000000Z",
+    "sort_name": "ちゃれんじばとるにじゅうろくしょう",
+    "start_at": "2025-03-26T03:00:00.0000000Z"
   }
 ]

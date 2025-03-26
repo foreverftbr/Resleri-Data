@@ -1642,5 +1642,41 @@
     "character_id": 29501,
     "expedition_id": 45,
     "id": 274
+  },
+  {
+    "bonus_rate": 1000,
+    "character_id": 43208,
+    "expedition_id": 46,
+    "id": 275
+  },
+  {
+    "bonus_rate": 1000,
+    "character_id": 44501,
+    "expedition_id": 46,
+    "id": 276
+  },
+  {
+    "bonus_rate": 1000,
+    "character_id": 15102,
+    "expedition_id": 46,
+    "id": 277
+  },
+  {
+    "bonus_rate": 1000,
+    "character_id": 25504,
+    "expedition_id": 46,
+    "id": 278
+  },
+  {
+    "bonus_rate": 1000,
+    "character_id": 26501,
+    "expedition_id": 46,
+    "id": 279
+  },
+  {
+    "bonus_rate": 1000,
+    "character_id": 43101,
+    "expedition_id": 46,
+    "id": 280
   }
 ]

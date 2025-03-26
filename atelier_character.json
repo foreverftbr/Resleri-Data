@@ -5029,5 +5029,44 @@
         "text": "新天地にはいったいどんなものがあるのか、\n楽しみだな～！"
       }
     ]
+  },
+  {
+    "character_id": 43208,
+    "exclude_end_quest_id": null,
+    "exclude_start_quest_id": null,
+    "id": 130,
+    "key_quest_id": null,
+    "voice_list": [
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 1,
+        "text": "ここにいると気が抜けるのよねぇ……\n寝てていいかしら"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 2,
+        "text": "大人しくしてるのが一番難しいのよね"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 3,
+        "text": "分からないことばかりだけど、\nまた一つ一つ積み上げていくしかないわね"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 4,
+        "text": "もっと聞いてみたいわ。\n私が知らない、私のこと"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 5,
+        "text": "さて……なにしよっかなー\nお腹空いてきちゃったなぁ"
+      }
+    ]
   }
 ]

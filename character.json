@@ -11743,6 +11743,130 @@
   },
   {
     "ability_ids": [
+      1990330,
+      1990331
+    ],
+    "acquisition_movie_path_hash": 5085406763823933026,
+    "acquisition_text": "この旅の果てに何が待っていようとも――\n私は迷わず進むだけよ",
+    "all_skill_evolved_ability_ids": [],
+    "another_name": "【Get Over Limit】",
+    "attack_attributes": [
+      1
+    ],
+    "base_character_id": 432,
+    "battle_tool_trait_ids": [
+      48,
+      13
+    ],
+    "burst_skill_ids": [
+      14002336,
+      14002336,
+      14002336,
+      14002337,
+      14002338,
+      14002339,
+      14002340
+    ],
+    "change": null,
+    "character_growth_id": 943208,
+    "character_size_id": 2,
+    "description": "記憶喪失の戦士にして、錬金術士。\n自分が何者なのか、何を為すべきなのかを悩みながらも、支えてくれる友人や家族たちのために戦っている。海の向こうに自分が求める答えがあると信じて、レスナと共にランターナ大陸を旅立つ。\n記憶を失っても、ずぼらで食いしん坊なところは変わらない。",
+    "equipment_tool_trait_ids": [
+      61
+    ],
+    "evolved_burst_skill_ids": [],
+    "evolved_normal1_skill_ids": [],
+    "evolved_normal2_skill_ids": [],
+    "ex_growboard_id": 432082,
+    "extra_skill_ids": [
+      14002485,
+      14002486,
+      14002487,
+      14002488,
+      14002489
+    ],
+    "fullname": "ヴァレリア",
+    "growboard_id": 432081,
+    "id": 43208,
+    "initial_rarity": 3,
+    "initial_status": {
+      "attack": 78,
+      "defense": 60,
+      "hp": 183,
+      "magic": 63,
+      "mental": 54,
+      "speed": 252
+    },
+    "is_alchemist": true,
+    "leader_skill": {
+      "abilities": [
+        {
+          "ability_id": 1980182,
+          "combat_power_coefficient": 3500,
+          "condition_ids": [
+            43
+          ]
+        }
+      ],
+      "description": "「マイペース」は「先駆け」と「物攻+35%」",
+      "name": "ちゃちゃっと倒してご飯にしましょ！"
+    },
+    "max_rarity": 7,
+    "model_path_hash": 8455227271865371244,
+    "motion_type": 2,
+    "name": "ヴァレリア",
+    "normal1_skill_ids": [
+      11002326,
+      11002327,
+      11002328,
+      11002329,
+      11002330
+    ],
+    "normal2_skill_ids": [
+      12002331,
+      12002332,
+      12002333,
+      12002334,
+      12002335
+    ],
+    "original_title_id": 27,
+    "overlay_name": "Valeria",
+    "personality": 2,
+    "profile_voice_text": "私はヴァレリア。忘れていることも多いけど\n少しずつ取り戻していくつもりよ",
+    "resistance": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 5,
+      "wind": 0
+    },
+    "result_timeline_hash": 4504962016376006281,
+    "role": 1,
+    "series_id": 10,
+    "start_at": "2025-03-26T03:00:00.0000000Z",
+    "still_sets": [
+      {
+        "large_narrow_still_path_hash": 6135457927198496625,
+        "large_still_path_hash": 5685620857590240399,
+        "narrow_still_path_hash": 4379819098351844122,
+        "rarity": null,
+        "still_path_hash": 6891392099494261238
+      }
+    ],
+    "support_color_id": 2,
+    "tag_ids": [
+      7,
+      10,
+      25,
+      27
+    ],
+    "trait_color_id": 3,
+    "voice_actor_id": 2
+  },
+  {
+    "ability_ids": [
       1990138,
       1990139
     ],

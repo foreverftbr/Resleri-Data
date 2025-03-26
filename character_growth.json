@@ -1089,6 +1089,17 @@
     }
   },
   {
+    "id": 943208,
+    "level_coefficients": {
+      "attack": 780,
+      "defense": 600,
+      "hp": 1830,
+      "magic": 630,
+      "mental": 540,
+      "speed": 0
+    }
+  },
+  {
     "id": 943301,
     "level_coefficients": {
       "attack": 510,

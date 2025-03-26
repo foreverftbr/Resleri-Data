@@ -880,5 +880,41 @@
     "stage_id": 93320110,
     "stage_pattern": 0,
     "start_at": "2025-03-21T03:00:00.0000000Z"
+  },
+  {
+    "id": 99,
+    "key_quest_id": 101028024,
+    "name": "星望の崖地（昼）",
+    "priority": 99,
+    "stage_id": 93510110,
+    "stage_pattern": 0,
+    "start_at": "2025-03-26T03:00:00.0000000Z"
+  },
+  {
+    "id": 100,
+    "key_quest_id": 101028024,
+    "name": "星望の崖地（夜）",
+    "priority": 100,
+    "stage_id": 93520110,
+    "stage_pattern": 0,
+    "start_at": "2025-03-26T03:00:00.0000000Z"
+  },
+  {
+    "id": 101,
+    "key_quest_id": 101028024,
+    "name": "アルビーナの家（昼）",
+    "priority": 101,
+    "stage_id": 93210110,
+    "stage_pattern": 0,
+    "start_at": "2025-03-26T03:00:00.0000000Z"
+  },
+  {
+    "id": 102,
+    "key_quest_id": 101028024,
+    "name": "アルビーナの家（夜）",
+    "priority": 102,
+    "stage_id": 93220110,
+    "stage_pattern": 0,
+    "start_at": "2025-03-26T03:00:00.0000000Z"
   }
 ]

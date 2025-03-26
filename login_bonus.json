@@ -1257,5 +1257,18 @@
     "priority": 192,
     "start_at": "2025-03-21T03:00:00.0000000Z",
     "type": 2
+  },
+  {
+    "background_image_path_hash": 674414085222109780,
+    "base_image_path_hash": 7933125506272239970,
+    "end_at": "2025-03-31T03:00:00.0000000Z",
+    "fixed_texts": [],
+    "id": 99,
+    "login_bonus_text_ids": [],
+    "logo_image_path_hash": 8110929043588970091,
+    "name": "メイン26章追加記念 LOGIN BONUS",
+    "priority": 193,
+    "start_at": "2025-03-26T03:00:00.0000000Z",
+    "type": 2
   }
 ]
